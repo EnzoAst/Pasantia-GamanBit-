@@ -1,0 +1,4980 @@
+fileFormatVersion: 2
+guid: 08938854c65593a46bc4e6767b5ef250
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acc88b3af8a7334e8ab6f2449e2bbd7
+      internalID: 1307185973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7601e69a9372146429ff5c082caef291
+      internalID: -1611880278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ed89dc5aa5e2245866a4590151882f
+      internalID: 208571474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c6f02ba3754754f83f773825437db3
+      internalID: -1569548109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34efdf17c704f89499ca40a776d514c0
+      internalID: -1268008599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de853abc1dea15545bd524990d2b34c7
+      internalID: -1146409159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fa47d03965e094393fccc3c3773ff7
+      internalID: -2033357019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67964e53a5473bb4588a26a0151db68b
+      internalID: 710940748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359f0eac8b328f045b85c61f3c811562
+      internalID: 1490980541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718427717356f204b9ebc4f26cc1052e
+      internalID: 1473003853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a874af40e4a7fb248b8f65e152df10c4
+      internalID: 1730255409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eca548035ab69f4383005bc4e86984c
+      internalID: -1361008902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d286aa834c71ec49a048868e2fcfe9d
+      internalID: -1520468605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6caa36541abf7e74fa053ec8fc0b5a53
+      internalID: 1242553747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a9ca8f4f50b7d4a862f1ce3bfc25d0
+      internalID: -160886732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf080e758dab2f48ab55311e6d065cb
+      internalID: -1034711934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1e812e7750d51489ec6e704aa99d0c
+      internalID: -1107871647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d433be5f3e48404479fe2dc5fc31ac5f
+      internalID: -1746492962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ffc94e36b7e2346aba9deebfecf7e0
+      internalID: 244391710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd305438c0ba9d748abd6c72016ebb6b
+      internalID: -1181007496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5000019, y: 0.47650337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb93f0b365b5bb45befc6bac1128cf2
+      internalID: -970858940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1d378fc2d6a8e47a43d22c831ef050
+      internalID: -1323850299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2620f1849974c943a215fec39431451
+      internalID: 1303829439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a7cab420547af43911e6d20c7237c2
+      internalID: -1183959242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662f3920d3db86845bbb157fb24c1903
+      internalID: 1049967089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c710c721383adbe469bc1833e49eb0c1
+      internalID: -871286177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_26
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb7692d6bd092b4893a0ed10ae086af
+      internalID: -539438781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e6ef8a8b2cdaf459f53ac30811aa67
+      internalID: 1114431689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_28
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c856ac1f740855f4288d82a4509aeb91
+      internalID: -1803319428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a635e83ee6cb447a6e5a93543b88e7
+      internalID: 1895597965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7845d14c48cf1144fa53fce06dffde51
+      internalID: 814801050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe88107edd8a0634d9919f5414d49aba
+      internalID: 1766179966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc97d98ba83ccc4091ccd595945fa1c
+      internalID: 918699437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8dd2ca54b2c21040be19bdb997d9aff
+      internalID: 792792897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174ff19b21dce4245bae571352643494
+      internalID: 652730235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ce0c8b17b8d47458f387ed1e84f031
+      internalID: -2067701784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4902ce1208a3c824590a7a33f89b2a1f
+      internalID: -842168542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_37
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c196a5e10b49c429da9e8a61952229
+      internalID: -1816533412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d287034354c34834b8bb33983613d37c
+      internalID: -1116573112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_39
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab55f57d504f5346b97382f7eed4f34
+      internalID: -1698833055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_40
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e731a4d314182884bbe4f51e5da9a119
+      internalID: 1149698069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_41
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88eaf46e5da681418a91230cef1afac
+      internalID: -119614860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80990a9e72a9af3448fdbb3e6f55ca03
+      internalID: 2079194413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_43
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0185d378c1616245a9553e307e3a306
+      internalID: 638838685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_44
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54aa196553c677b4e873833d6a8ec8b3
+      internalID: 1612884868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09886ff866ee1a04e9d7259d3562fdee
+      internalID: -1184930573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_46
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a02491f8546374182174bf9d2adebf
+      internalID: 1590540049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_47
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5258c9163c374e4285b00247159a0e2
+      internalID: -126890807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_48
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b21b38b06454d42ad968f4339b343a
+      internalID: 1796925287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecd4ba81bfc1d542b5c326d616a26aa
+      internalID: 1532486103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_50
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab9b48ea64f1a247a91b623a0758362
+      internalID: 911208883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7b2582655fd5949b2a2c8c9132ef88
+      internalID: 113559815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_52
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5273bbf24e4479649bf27d399ab6de9a
+      internalID: 124012081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe91a940fba89214bb408982a38c5aed
+      internalID: -1241692847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_54
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6100b41cd1283da4484eb0c9b3eaa874
+      internalID: 726030460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_55
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ee355b2eb79a348a2f15fd8b3a2695
+      internalID: 1859012677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_56
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2668a91c6d94328409ae6464fd2a7363
+      internalID: 812109411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_57
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea19832fdfbf2dd43b4994fa38d6b01d
+      internalID: 1566201839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_58
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1c892d6452d1c41bf88adc52efff01
+      internalID: 735649130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_59
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88307acc64285c8438bae81a9bc4d232
+      internalID: -336137624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79ec2d98a5ec9449945d8fd7e867d79
+      internalID: -1083398588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22da71a53ecfa8d42a16453f5d53e198
+      internalID: -709774034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba67870b77d5d7468f2e3e69a144732
+      internalID: -1604729870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_63
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5fe6d2b16131a4c8d037b7de1e80a6
+      internalID: 1364587806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf115bec054f6d419eeb8ce6783cf9c
+      internalID: 1676460276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_65
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bd0295f81053b49aa536a127121f9f
+      internalID: 1247516314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a8d9004f5acd043a5c887dde4224cc
+      internalID: -403869885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_67
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56cf3c8f1ce3eb48a9d94d7beedb5dd
+      internalID: 1916932952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33598d703e325974397852e67203e6e1
+      internalID: 527572268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_69
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9509c2c1278ebff45bc0e56e87d14137
+      internalID: 482167646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_70
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91b820aebc409a449ced09fb2aaf07e
+      internalID: -250618483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_71
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca7521f2ffaec24bb332e6e345e2054
+      internalID: -1019739970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1160647599bf9b40b1d9f4f65bf9a0c
+      internalID: -1155424356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_73
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9f608bd1ca3984abb48298355645bb
+      internalID: 1519978228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_74
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0706adcbf8135b542995e056e8e8c8e6
+      internalID: -1540171357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b4cda81792ed74b998bab659196916
+      internalID: 105314085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_76
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7380a8b8053ccf4ba7c8497a912c078
+      internalID: -307020727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_77
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43855ddc0cca78f47b0a36865a125e05
+      internalID: 299310690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_78
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d2396e0112fe6418031c56641efed2
+      internalID: -777725679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e7a799166c33b44804b97c61518c77
+      internalID: -1609949757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_80
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5510854b5b1e5043afda4930223950a
+      internalID: 1757751535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_81
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc2397c947b8584a8f7b89a2fea03f3
+      internalID: 1897125204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_82
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80722eb0bc4dd7f4ea28fee472ecd00c
+      internalID: -411938318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_83
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a61a976648d1764e841efdd849d117e
+      internalID: -1957863034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_84
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1731c63e9dd1e741a9157f3e13ba2db
+      internalID: -451730361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab20f2629e816947bfce9bfcc9e94ac
+      internalID: 147882038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_86
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6854bdf9bf7664ab40ee120d678359
+      internalID: 1914828144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_87
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82951cf5e7ac3294a97cb5afd4d3b758
+      internalID: 538159705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_88
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d23ce89b0c67194fa5f6379819e00b8
+      internalID: 1199185316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_89
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d3b2e16c017ff45a51f4411b438745
+      internalID: 267219993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208e444de0dc3cc43aa984a9cd54b4c4
+      internalID: 473843751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_91
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447bdbe5de1b467408630f82eddd530b
+      internalID: -2094549921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_92
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af99c54a61c30b4ebdc1c87c2118b19
+      internalID: 2003903441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_93
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fe0929c84b5054ebe5c77b1a42ef26
+      internalID: -190325971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_94
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdd31be0d95f6f44af4a79335062b00
+      internalID: -1653402238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_95
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8de52fc2888714a95348e1b2149895
+      internalID: -1400151571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_96
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7dda20eff12e7c41b3149ab55a203be
+      internalID: 219119366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_97
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67e876c0f56dca479f2fa85dabc6a7f
+      internalID: -525545400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d25476c260e87449b2271a7f7121f0
+      internalID: 120442955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_99
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cad38d8e4b8ee48b2e80e9cdc86a41
+      internalID: 1579742016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_100
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2a5618a5db2b342b257d25ef793955
+      internalID: -1762309663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_101
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e6eae9e0ae6b1429da75e3f1e6a76a
+      internalID: -1865299002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9cf9c5aace5ca48855f2fd8aac7758
+      internalID: -823603658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_103
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b71f3c7911f3d4395376774b3230d7
+      internalID: 1039349296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_104
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dab230fbe3abb343bad5e093211a773
+      internalID: 1851055792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d0fbb46db579b44862c0cb78fc911c
+      internalID: -1983360415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_106
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2ed7a220e744045aaabf1516981d80
+      internalID: 793039086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_107
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649c9223e37c18c448afe0821fdb51f1
+      internalID: -1661429227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_108
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f58ddefeff2ffc46bf9f908c8c8a959
+      internalID: 104003479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28191a1afcb912443b746875c461a5ef
+      internalID: -916741962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_110
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d04ffff8f5022a43a5c5258d89b4baf
+      internalID: 861245924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_111
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a206d33d67ffc4cabda20781b5b6e1
+      internalID: 896977758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_112
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fc4948c2b29eb48a14940ad3a6c0f3
+      internalID: -1026621170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_113
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef3378db562d3748ba22e4ce16054c0
+      internalID: -915116155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_114
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e6f6375943a7e4c990e0da6efecd27
+      internalID: -1103420005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_115
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f3dd008cdaf97408cba364d497dbdc
+      internalID: 401705386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_116
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426bd204232140841b1e84dddf5e807a
+      internalID: -754519058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_117
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2c8356410aee94087fe7010bf71352
+      internalID: -1918873502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_118
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e40fb661de7ef43a116d3410f027d7
+      internalID: -1522625359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017b1aa0c36395f479dc8452a2e01f07
+      internalID: -1318849851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71ee3d2b64fe08478cfa84349374d6e
+      internalID: 1069056578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_121
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1fe33c1375acb44bc12305caf992b3
+      internalID: -1041887219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_122
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ca6545a24107c43be043e6446d897f
+      internalID: 347005676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_123
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fdb48ddcef6fe4cb9daf1788bba282
+      internalID: -1404494528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_124
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8116c76968222674285eaece1e9ab99a
+      internalID: 839558965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_125
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1803d52a05d5da448422398cb47ba79
+      internalID: -1378280674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_126
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a11d45a85869a343bd86be7bd428dc1
+      internalID: 560893084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_127
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb98d30e1a49a242ba7d05bcd86b939
+      internalID: -666801565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_128
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfe23a55bdd27047b63b0b94c27ebd3
+      internalID: 1606473231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_129
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49145a1eb5b33874c9035df379d7bf5d
+      internalID: -297132780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_130
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1912b7a4a4f89ee46a3713943c052be4
+      internalID: 1811592554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_131
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effae7b9eaa11da40991b81a0d7afe50
+      internalID: -1749148408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_132
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4202453ee6bdffc42af726e0d532577d
+      internalID: 1775209165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_133
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c94a0c379a69a459fa6bb6fce6702c
+      internalID: -1482121901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_134
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972cf9f5e9466374aa3d105ccdf25d8b
+      internalID: -805816691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e551a49d6eae9a642a9e7a59c9a18b2f
+      internalID: -941889146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_136
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c56924602172fb47818a5fef0efcdd1
+      internalID: -2080004334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_137
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d8b76e98ba2284198ff621f470e09b
+      internalID: 629037298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_138
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31c688c6f19f084a8785cb582f297fe
+      internalID: 236071822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_139
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d60225c205b474eb81d429359b65d1
+      internalID: 1854295085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_140
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1079d04eabbeaaa469625beaa0ea0e01
+      internalID: -1846961485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_141
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c299fda6955b074bacae8f64e53bb3c
+      internalID: 2038376141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_142
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221476c7957e49c4d8988b31aa7b37db
+      internalID: 1076856488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_143
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63efc6ba1156474ba53777b9f08ece9
+      internalID: 1111202414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_144
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06e4e0c70e7a294bbad2162a568f6c1
+      internalID: -1187023276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_145
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c715c10e4d2c8c409e07be5092f5b9a
+      internalID: -268095501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_146
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c16e90e08028a4e9e9679bd84d698b
+      internalID: 1238253510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_147
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb7349da8521234bb02d910442e737b
+      internalID: -1973639272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_148
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6483d23e9de14be41b9a00f50998feea
+      internalID: 1829536002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_149
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0ee800da4072c48adb93b1181ddf5b
+      internalID: -863286838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481056c1c490a5c429001891bf2927b4
+      internalID: -1856713351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_151
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7ffe421d756b043ab953f66fe3394d
+      internalID: -1935347675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_152
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79878c5f4f68202468346d6078060eef
+      internalID: -1084090026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_153
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda1a4466491110498edd99895b01d30
+      internalID: 1758790188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_154
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62fe8b32a275184e97aea28a62d0f61
+      internalID: -400138985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_155
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92413dbb1192f1a4f96dbc611822df17
+      internalID: -1960773586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_156
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba7ea8281657304787e2a5e4d6b9842
+      internalID: -82861835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_157
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0de09148495f148ab62b4ec24e4dde
+      internalID: -84691060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_158
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d71bf8aa85f8f4997e484aea47cda5
+      internalID: 100726064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_159
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f4eeb8584ee8a409b1cfab9d7a318e
+      internalID: -579075968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_160
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fef3173133f9864abe5689346234f2f
+      internalID: 397968906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_161
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc08459f7d4a6a1429e23f20021f757c
+      internalID: -1102534439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a748e06358e91b748b58ce97f54ce626
+      internalID: 1155003656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_163
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38800217612db8440914e62f889a44f4
+      internalID: -1185290367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_164
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245ca4c6002d1d5459209dcb63870f22
+      internalID: 411551981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafe032d668320c4487d326b22707622
+      internalID: -74069153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_166
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26253f34f70ce1e469eda56f4e6d4983
+      internalID: -1284810609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_167
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a353282d04aa4f478bc96c37251cf89
+      internalID: -1517059717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_168
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76906d8452161b948bc1933b7461b05c
+      internalID: 262917857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_169
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb94c7b7775aa644b9aba0caf2f42131
+      internalID: 263470732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_170
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1665f478a0f0f4344ac0ff87402672cf
+      internalID: -792741865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_171
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe9ca7f0f342464292b12bfda4ca954
+      internalID: 457854384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_172
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2948e68a2b5282448d3238b8bdb4a6b
+      internalID: -389838780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_173
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e838beb034a62ba498ae32394f5a2bc4
+      internalID: 279430508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_174
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b501597b3af590449a8c618d9f6745a
+      internalID: 1718437452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_175
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d27e86a07e17a147a3f15ba9f9ee1f8
+      internalID: 2049479797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_176
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60362f96890d5e40915f171f552c81b
+      internalID: -1741977115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_177
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411c5b721d6241546ad930a820818429
+      internalID: -297974775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_178
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9735767776dda4d4a83ee5a561ab154a
+      internalID: -1394195962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_179
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef9220992cb5ea468d71878721deaf7
+      internalID: 452198856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9d4e9dfabf87946a52c7c87651cb2a
+      internalID: 1135724486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_181
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e26f17769b6c894e8640801a56ceb10
+      internalID: 934428431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_182
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5da61936cce9a4d84ac43ad1ac8f11
+      internalID: 1499027908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_183
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb9b1c499a6e854b83efcc595ac1157
+      internalID: 248212503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_184
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080f1e47ab34ad44898ff4f1937dda22
+      internalID: 1020213595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_185
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcc7b90caf42424cabadd86cf774554
+      internalID: 783082539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_186
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf001b4aa1dec3243b51ad4cb4ae8dd9
+      internalID: -2016730143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_187
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9a217fbe27dc14ba6dce96ee0a685f
+      internalID: 556831459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_188
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28feaa1919ced65489f2fb8030698b6e
+      internalID: -366213592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_189
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4256a6ca3206aa469c0dfe20dfe532e
+      internalID: 2125218027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_190
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019da812a31c0544289520c42338a78d
+      internalID: -1871080238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_191
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4376862263f30f845bda5d177fe8e8d0
+      internalID: 444499492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_192
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7191dad78a59d7044a79c02832a40035
+      internalID: -1519547260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_193
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a39ac110a8b0c4aa0458848b8baef4
+      internalID: -1872582960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_194
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055d655359b272843a1a95d981b72da4
+      internalID: -112759710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7728a7b480533c74ab5c8ef1d946b8fe
+      internalID: 401391332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_196
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79223be2c7a69d143a1bee6bea232c9f
+      internalID: -1470109178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_197
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8898364644a1fe14c9cfde6e847c1ff9
+      internalID: 442016744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_198
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea3f0dcf81a67144a918af8f65313fa
+      internalID: -531148621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_199
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cff3ef147f67934b8a4646263ab6401
+      internalID: 1192927503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_200
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba74d4de820bf747ab8e990da0ea8a0
+      internalID: 1657516887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_201
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a64f70227d88dc48bf9142041bdb33a
+      internalID: -2040900895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_202
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151866ff2ce5b1d449f1d26dc59c01f7
+      internalID: -1292692025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_203
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dae3c37e3815a2459cbea3b5af2e242
+      internalID: -450618159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_204
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52995bfd9676aa44ea10dc5a2d566a4c
+      internalID: 565749468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_205
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3a7e45a608ef0419e842a761e05125
+      internalID: -1695663535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_206
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e8d95cc10a93e41acba414bf5f07c3
+      internalID: 605371789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_207
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b101fa84955d8d14584ba6e283c9cf21
+      internalID: 1655323511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_208
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01458869cd1ad1d45a6f39a337d45e06
+      internalID: -208233450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_209
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de36426605094743905a1437d623f6f
+      internalID: 284063142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery
+        1st Floor_210
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 16
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5000019, y: 0.47650337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef64ffe22a78f74d811ed6bbcf2bafb
+      internalID: 2024993696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_0: 1307185973
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_1: -1611880278
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_10: 1730255409
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_100: -1762309663
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_101: -1865299002
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_102: -823603658
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_103: 1039349296
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_104: 1851055792
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_105: -1983360415
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_106: 793039086
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_107: -1661429227
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_108: 104003479
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_109: -916741962
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_11: -1361008902
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_110: 861245924
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_111: 896977758
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_112: -1026621170
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_113: -915116155
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_114: -1103420005
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_115: 401705386
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_116: -754519058
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_117: -1918873502
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_118: -1522625359
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_119: -1318849851
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_12: -1520468605
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_120: 1069056578
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_121: -1041887219
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_122: 347005676
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_123: -1404494528
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_124: 839558965
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_125: -1378280674
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_126: 560893084
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_127: -666801565
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_128: 1606473231
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_129: -297132780
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_13: 1242553747
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_130: 1811592554
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_131: -1749148408
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_132: 1775209165
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_133: -1482121901
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_134: -805816691
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_135: -941889146
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_136: -2080004334
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_137: 629037298
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_138: 236071822
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_139: 1854295085
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_14: -160886732
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_140: -1846961485
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_141: 2038376141
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_142: 1076856488
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_143: 1111202414
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_144: -1187023276
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_145: -268095501
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_146: 1238253510
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_147: -1973639272
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_148: 1829536002
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_149: -863286838
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_15: -1034711934
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_150: -1856713351
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_151: -1935347675
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_152: -1084090026
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_153: 1758790188
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_154: -400138985
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_155: -1960773586
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_156: -82861835
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_157: -84691060
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_158: 100726064
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_159: -579075968
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_16: -1107871647
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_160: 397968906
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_161: -1102534439
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_162: 1155003656
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_163: -1185290367
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_164: 411551981
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_165: -74069153
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_166: -1284810609
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_167: -1517059717
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_168: 262917857
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_169: 263470732
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_17: -1746492962
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_170: -792741865
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_171: 457854384
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_172: -389838780
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_173: 279430508
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_174: 1718437452
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_175: 2049479797
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_176: -1741977115
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_177: -297974775
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_178: -1394195962
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_179: 452198856
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_18: 244391710
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_180: 1135724486
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_181: 934428431
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_182: 1499027908
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_183: 248212503
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_184: 1020213595
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_185: 783082539
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_186: -2016730143
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_187: 556831459
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_188: -366213592
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_189: 2125218027
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_19: -1181007496
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_190: -1871080238
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_191: 444499492
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_192: -1519547260
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_193: -1872582960
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_194: -112759710
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_195: 401391332
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_196: -1470109178
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_197: 442016744
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_198: -531148621
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_199: 1192927503
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_2: 208571474
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_20: -970858940
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_200: 1657516887
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_201: -2040900895
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_202: -1292692025
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_203: -450618159
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_204: 565749468
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_205: -1695663535
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_206: 605371789
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_207: 1655323511
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_208: -208233450
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_209: 284063142
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_21: -1323850299
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_210: 2024993696
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_22: 1303829439
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_23: -1183959242
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_24: 1049967089
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_25: -871286177
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_26: -539438781
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_27: 1114431689
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_28: -1803319428
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_29: 1895597965
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_3: -1569548109
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_30: 814801050
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_31: 1766179966
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_32: 918699437
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_33: 792792897
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_34: 652730235
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_35: -2067701784
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_36: -842168542
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_37: -1816533412
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_38: -1116573112
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_39: -1698833055
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_4: -1268008599
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_40: 1149698069
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_41: -119614860
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_42: 2079194413
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_43: 638838685
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_44: 1612884868
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_45: -1184930573
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_46: 1590540049
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_47: -126890807
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_48: 1796925287
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_49: 1532486103
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_5: -1146409159
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_50: 911208883
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_51: 113559815
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_52: 124012081
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_53: -1241692847
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_54: 726030460
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_55: 1859012677
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_56: 812109411
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_57: 1566201839
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_58: 735649130
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_59: -336137624
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_6: -2033357019
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_60: -1083398588
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_61: -709774034
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_62: -1604729870
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_63: 1364587806
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_64: 1676460276
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_65: 1247516314
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_66: -403869885
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_67: 1916932952
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_68: 527572268
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_69: 482167646
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_7: 710940748
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_70: -250618483
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_71: -1019739970
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_72: -1155424356
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_73: 1519978228
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_74: -1540171357
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_75: 105314085
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_76: -307020727
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_77: 299310690
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_78: -777725679
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_79: -1609949757
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_8: 1490980541
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_80: 1757751535
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_81: 1897125204
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_82: -411938318
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_83: -1957863034
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_84: -451730361
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_85: 147882038
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_86: 1914828144
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_87: 538159705
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_88: 1199185316
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_89: 267219993
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_9: 1473003853
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_90: 473843751
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_91: -2094549921
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_92: 2003903441
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_93: -190325971
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_94: -1653402238
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_95: -1400151571
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_96: 219119366
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_97: -525545400
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_98: 120442955
+      Game Boy Advance - Harvest Moon Friends of Mineral Town - Aja Winery 1st Floor_99: 1579742016
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
