@@ -1,0 +1,915 @@
+fileFormatVersion: 2
+guid: 400f776bdc71ef248beb4a83783092be
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Earth Elemental_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 510
+        width: 39
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ee1a3724ac99448a1ef5c640c6bc39
+      internalID: -1063271439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Earth Elemental_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 510
+        width: 39
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9ce35e2c6e55348891c46bcd473a6b
+      internalID: -2009615474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Earth Elemental_2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 510
+        width: 41
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19af4b0ab4cd7b94388b018f17aa1db0
+      internalID: 140243080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Earth Elemental_3
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 510
+        width: 41
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241085d9d8a155d42ad2d60b5b983273
+      internalID: 797864704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Earth Elemental_4
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 511
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c9e53233a72bf4897c5c29dec0cf8f
+      internalID: 897821483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Earth Elemental_5
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 511
+        width: 55
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb58429ea090f6140a75782a41acc10e
+      internalID: -1453021310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Earth Elemental_6
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 511
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f5ac51c36fe394f82967ce7f980115
+      internalID: -1889215505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Earth Elemental_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 413
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c716b2d37a21b47aa237ee6d589cfa
+      internalID: -1335307295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Earth Elemental_8
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 413
+        width: 45
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9823c967b09bff9488df0723e6cffefd
+      internalID: -1797331848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Earth Elemental_9
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 413
+        width: 45
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b682fe3f1e40c0745a647d1cb2e2a189
+      internalID: 1543878492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Earth Elemental_10
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 414
+        width: 39
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e14c2f8f37425e429c19e70c54061df
+      internalID: -893770069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Earth Elemental_11
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 414
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b595a19ed3c7147b108ac3e6d5ea27
+      internalID: 928696669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Earth Elemental_12
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 414
+        width: 43
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc00771ee96991144aa5f081d9ad8546
+      internalID: 1398578683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Earth Elemental_13
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 413
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef08588e3bc09c44bba8c5381f2399e
+      internalID: -193084018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Earth Elemental_14
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 413
+        width: 45
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a51fd7dfc9dca43a27458ac6fa388b
+      internalID: 1659574971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Earth Elemental_83
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 104
+        width: 38
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15565d976971bf749852b3f2649b132f
+      internalID: -1413828728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Earth Elemental_84
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 104
+        width: 52
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118a09272f4b68244b8c8994d689a801
+      internalID: -373295610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Earth Elemental_85
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 104
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce936d6e2fade5f4380ff43a0e9d15c6
+      internalID: 1390486225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Earth Elemental_86
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 104
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92a9ce0299a35441976522d3d965948
+      internalID: 1627295042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Earth Elemental_87
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 104
+        width: 57
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bae56ebcbdb6164ca51ff2c914e1b28
+      internalID: 1585719796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Earth Elemental_88
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 103
+        width: 53
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e877033c4a15844daeb637c4ef9474e
+      internalID: 1245405924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Earth Elemental_130
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 7
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a79e48ce58e6c4aa2b43591a285941
+      internalID: 274373095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Earth Elemental_131
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 7
+        width: 44
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b4ff7d28c003b47a6bd9b7f626f718
+      internalID: -1773786957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Earth Elemental_132
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 7
+        width: 48
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f31c82b13060441b85d85afb2eed6f
+      internalID: 308149476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Earth Elemental_133
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 7
+        width: 45
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82612666e7899a4439f570162b92448c
+      internalID: -663833669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Earth Elemental_134
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 7
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b53c5539191d84c9111e5d7e9886ad
+      internalID: -994623811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Earth Elemental_135
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 7
+        width: 44
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fdfffc4e20dc44f8ce601c3e84b26e
+      internalID: 1790838458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Earth Elemental_136
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 7
+        width: 42
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d2ca08d68a62546b445a0ae75d5819
+      internalID: 485463015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Earth Elemental_138
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 7
+        width: 42
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42f740d838ce1549bda0d3d9c9e2d95
+      internalID: 1692328733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Earth Elemental_141
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 7
+        width: 42
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09aa7654a00d2c94aafef670dc2157c1
+      internalID: -1723997419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Earth Elemental_148
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 7
+        width: 37
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b139123ee4b924c478e9894280d13eea
+      internalID: -1009695334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_0: -1063271439
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_1: -2009615474
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_10: -893770069
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_100: -583922258
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_101: 931077119
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_102: -1858943185
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_103: -1413239686
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_104: 1072885175
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_105: -769273293
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_106: 392312475
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_107: 889624512
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_108: -1513259374
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_109: 735935314
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_11: 928696669
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_110: 2034686518
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_111: 597623699
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_112: -1518321606
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_113: -2077963226
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_114: 1023729027
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_115: -1607074791
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_116: 456426568
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_117: -741555265
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_118: 979596687
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_119: 419753075
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_12: 1398578683
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_120: -716903547
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_121: -675175831
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_122: -1919453790
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_123: 1059633718
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_124: 297937243
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_125: 1984465704
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_126: -352134434
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_127: -1798194439
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_128: 333442148
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_129: 1627490990
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_13: -193084018
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_130: 274373095
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_131: -1773786957
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_132: 308149476
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_133: -663833669
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_134: -994623811
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_135: 1790838458
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_136: 485463015
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_137: -661342585
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_138: 1692328733
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_139: -1229474649
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_14: 1659574971
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_140: -880926789
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_141: -1723997419
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_142: 1609097396
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_143: -718096949
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_144: 1855244833
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_145: 734993411
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_146: 1302213311
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_147: -1658110876
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_148: -1009695334
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_149: -1497785335
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_15: -1923528542
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_16: -779014104
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_17: 1326644430
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_18: -2086653780
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_19: -1843809515
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_2: 140243080
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_20: 1327842058
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_21: 983220144
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_22: 1006953851
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_23: 514734604
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_24: -1915198292
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_25: -1226163285
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_26: 394074510
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_27: -1848484856
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_28: -232150177
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_29: 1674677615
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_3: 797864704
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_30: 1516742197
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_31: 510449450
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_32: 460156370
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_33: -784075787
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_34: 1370658812
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_35: 1525938546
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_36: -279790821
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_37: -310114111
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_38: -1449470307
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_39: 1357276408
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_4: 897821483
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_40: 1681439094
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_41: 226896893
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_42: 1366348124
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_43: -1352026799
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_44: -1436325280
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_45: 1217425175
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_46: 1567575481
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_47: -957152926
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_48: 1660335144
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_49: 1496903995
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_5: -1453021310
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_50: -1773450674
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_51: -432152931
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_52: 1809211591
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_53: 1722646957
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_54: 785239895
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_55: -147642399
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_56: 1999750530
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_57: 2105631259
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_58: -2110997241
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_59: -1835231901
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_6: -1889215505
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_60: 257651314
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_61: -568085681
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_62: 376779058
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_63: -855896632
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_64: -1159838021
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_65: -559019505
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_66: 1229089774
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_67: -204250880
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_68: 956112393
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_69: -27376848
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_7: -1335307295
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_70: 1454479494
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_71: -1668046758
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_72: -1507289185
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_73: -200532583
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_74: -1612485333
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_75: 167765009
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_76: -90736574
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_77: 2134288558
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_78: 17263312
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_79: -1898251873
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_8: -1797331848
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_80: -1700311313
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_81: 1694931479
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_82: 1207533735
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_83: -1413828728
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_84: -373295610
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_85: 1390486225
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_86: 1627295042
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_87: 1585719796
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_88: 1245405924
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_89: 1130711708
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_9: 1543878492
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_90: 1903259233
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_91: -2025517513
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_92: -768891570
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_93: 1386653481
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_94: -1877002546
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_95: 2088154759
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_96: -752855423
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_97: -2124728379
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_98: 809247193
+      MS-DOS - Heroes of Might and Magic II - Earth Elemental_99: -803106233
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

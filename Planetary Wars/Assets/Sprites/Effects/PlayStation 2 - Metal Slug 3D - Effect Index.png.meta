@@ -1,0 +1,818 @@
+fileFormatVersion: 2
+guid: 232224c75da66f942ab26ee340dce36a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayStation 2 - Metal Slug 3D - Effect Index_0
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 191
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7faf244cf95390d478985565a5f40f90
+      internalID: -851502083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Metal Slug 3D - Effect Index_1
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 191
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10ba813b1134604da1bcf250207e1d3
+      internalID: -678418395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Metal Slug 3D - Effect Index_2
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 191
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a241c189c47f5714ea0c15155c18ab52
+      internalID: 1062845213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Metal Slug 3D - Effect Index_3
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 191
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b244fedd317c27645bca49340d0716dc
+      internalID: -1497905995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Metal Slug 3D - Effect Index_4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 130
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046b521f1484e624bb8a82ae1962bc97
+      internalID: 1727995695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Metal Slug 3D - Effect Index_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 130
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd0945fc71aebd49b9fbf5c7f85fa56
+      internalID: -272649597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Metal Slug 3D - Effect Index_6
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 130
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6dac638155116e42b845355c34fc22a
+      internalID: 988157353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Metal Slug 3D - Effect Index_7
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 130
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a797885d76277499da467125f6a8d5
+      internalID: -523958131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Metal Slug 3D - Effect Index_8
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 68
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8e8b057b713f74dabebfc79b5cdf42
+      internalID: 862244648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Metal Slug 3D - Effect Index_9
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 68
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49e50e6ad701a748a3af427e5b15a94
+      internalID: 1275271920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Metal Slug 3D - Effect Index_10
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 68
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d551d0314af9384ca2a8dcff29a2d43
+      internalID: -970732007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Metal Slug 3D - Effect Index_11
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 68
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa07619040ca8424f825161b5f344784
+      internalID: 443844433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Metal Slug 3D - Effect Index_12
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 7
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b4433679ba2da47ba92d038b24492c
+      internalID: 1140621213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Metal Slug 3D - Effect Index_13
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 7
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8fb53f171bb7a43b9c18458d5a05cd
+      internalID: -1252386382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Metal Slug 3D - Effect Index_14
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 7
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6648342ebff36b4fafd6f13bb8fa1a7
+      internalID: 1809098816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Metal Slug 3D - Effect Index_15
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 7
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8051a7ebb9908f341b76a9254f1fa368
+      internalID: 1222642906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Metal Slug 3D - Effect Index_16
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 353
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6338ae88084df124b8e1ff93727276b0
+      internalID: -1105382546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Metal Slug 3D - Effect Index_17
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 353
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53467d3fb5222b9478d09465d28bd6ac
+      internalID: 2144422924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Metal Slug 3D - Effect Index_18
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 353
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddca08f622070c4480a8e4f6576921e
+      internalID: -905720043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Metal Slug 3D - Effect Index_19
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 353
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a79661d35697244a391b264502d5aa
+      internalID: 34140171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Metal Slug 3D - Effect Index_20
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 353
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74471edd9b6d9ae4da69442117ea4bac
+      internalID: 270721370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Metal Slug 3D - Effect Index_21
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 353
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7848105ca75ba8e46a2154f6f33cca97
+      internalID: 302684080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Metal Slug 3D - Effect Index_22
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 353
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41e463b6c3fc0042816949dd54764cd
+      internalID: -475105926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Metal Slug 3D - Effect Index_23
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 353
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5d82b13fe269b469253d965a69304b
+      internalID: -152343744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Metal Slug 3D - Effect Index_24
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 321
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588e9ce91d9f04043be207dffbcf3b5a
+      internalID: -347053896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Metal Slug 3D - Effect Index_25
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 321
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fd9e8df65d5fc49bf9b6fba05cdeed
+      internalID: -1962036490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Metal Slug 3D - Effect Index_26
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 321
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d156869905f5474c84d5853cf16a456
+      internalID: 270090333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Metal Slug 3D - Effect Index_27
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 321
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492e32f7545ac5a4ea477f04f8065bd9
+      internalID: 283186568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Metal Slug 3D - Effect Index_28
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 321
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8189036bbc8f9c141b17b5d3d60d2680
+      internalID: -551881149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Metal Slug 3D - Effect Index_29
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 321
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43cee59d8d68c64ba9634141f38e41e
+      internalID: -530461959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Metal Slug 3D - Effect Index_30
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 321
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90189be83ab367840958bd5e0490cccd
+      internalID: -7896266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation 2 - Metal Slug 3D - Effect Index_31
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 321
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e531fea1ac28630409c3af91340a2072
+      internalID: 1797241567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PlayStation 2 - Metal Slug 3D - Effect Index_0: -851502083
+      PlayStation 2 - Metal Slug 3D - Effect Index_1: -678418395
+      PlayStation 2 - Metal Slug 3D - Effect Index_10: -970732007
+      PlayStation 2 - Metal Slug 3D - Effect Index_11: 443844433
+      PlayStation 2 - Metal Slug 3D - Effect Index_12: 1140621213
+      PlayStation 2 - Metal Slug 3D - Effect Index_13: -1252386382
+      PlayStation 2 - Metal Slug 3D - Effect Index_14: 1809098816
+      PlayStation 2 - Metal Slug 3D - Effect Index_15: 1222642906
+      PlayStation 2 - Metal Slug 3D - Effect Index_16: -1105382546
+      PlayStation 2 - Metal Slug 3D - Effect Index_17: 2144422924
+      PlayStation 2 - Metal Slug 3D - Effect Index_18: -905720043
+      PlayStation 2 - Metal Slug 3D - Effect Index_19: 34140171
+      PlayStation 2 - Metal Slug 3D - Effect Index_2: 1062845213
+      PlayStation 2 - Metal Slug 3D - Effect Index_20: 270721370
+      PlayStation 2 - Metal Slug 3D - Effect Index_21: 302684080
+      PlayStation 2 - Metal Slug 3D - Effect Index_22: -475105926
+      PlayStation 2 - Metal Slug 3D - Effect Index_23: -152343744
+      PlayStation 2 - Metal Slug 3D - Effect Index_24: -347053896
+      PlayStation 2 - Metal Slug 3D - Effect Index_25: -1962036490
+      PlayStation 2 - Metal Slug 3D - Effect Index_26: 270090333
+      PlayStation 2 - Metal Slug 3D - Effect Index_27: 283186568
+      PlayStation 2 - Metal Slug 3D - Effect Index_28: -551881149
+      PlayStation 2 - Metal Slug 3D - Effect Index_29: -530461959
+      PlayStation 2 - Metal Slug 3D - Effect Index_3: -1497905995
+      PlayStation 2 - Metal Slug 3D - Effect Index_30: -7896266
+      PlayStation 2 - Metal Slug 3D - Effect Index_31: 1797241567
+      PlayStation 2 - Metal Slug 3D - Effect Index_4: 1727995695
+      PlayStation 2 - Metal Slug 3D - Effect Index_5: -272649597
+      PlayStation 2 - Metal Slug 3D - Effect Index_6: 988157353
+      PlayStation 2 - Metal Slug 3D - Effect Index_7: -523958131
+      PlayStation 2 - Metal Slug 3D - Effect Index_8: 862244648
+      PlayStation 2 - Metal Slug 3D - Effect Index_9: 1275271920
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

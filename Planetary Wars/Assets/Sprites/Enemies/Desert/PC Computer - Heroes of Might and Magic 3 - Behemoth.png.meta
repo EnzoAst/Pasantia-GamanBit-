@@ -1,0 +1,818 @@
+fileFormatVersion: 2
+guid: 21c50ecf58b4a164ba026396b19a735e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Behemoth_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1244
+        width: 84
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128ad8d124b9cb64da658fa2f46bc8f1
+      internalID: -1858561927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Behemoth_1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1244
+        width: 84
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de85cea5fbcd6754c9997c0fbb02261d
+      internalID: -1358454015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Behemoth_2
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1244
+        width: 84
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f9969361e8a0947914e742b5de92fc
+      internalID: -1934756669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Behemoth_3
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1244
+        width: 85
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852bed8f6cf6df6468caf9089fa3037f
+      internalID: 1494635097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Behemoth_4
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1244
+        width: 89
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e332c4014ebb1f40aeb8488e606b13b
+      internalID: -1026246088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Behemoth_5
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1244
+        width: 104
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6ee30e5e1ad544d992675ecd4c7984
+      internalID: -1553451197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Behemoth_6
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 1244
+        width: 110
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e75c4b77809c14b8e3eb64425761d0
+      internalID: 448854085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Behemoth_7
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 1244
+        width: 105
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe0bd60169ef284e8e104429ae9255b
+      internalID: -1599168167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Behemoth_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1062
+        width: 123
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddc55a434c0e0e4f9feb111ee6dea72
+      internalID: -282042329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Behemoth_9
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1062
+        width: 123
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4014ebdadf2a64786b9ed862e666f7
+      internalID: -1374115174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Behemoth_10
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1062
+        width: 126
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b9f43a7669fb544af01e60211b5c79
+      internalID: 1674209183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Behemoth_11
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1062
+        width: 126
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f69c9823fc6c44090df027c784d768
+      internalID: 1262612758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Behemoth_12
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1062
+        width: 126
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa35372e7930b64c8238a5f32339897
+      internalID: 1267931105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Behemoth_13
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1062
+        width: 126
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971bc2684e8214a418b3ed41ead2844b
+      internalID: 1681692018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Behemoth_14
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1062
+        width: 126
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3d8d2b56d29894eb22ebca807d36bc
+      internalID: 1207637391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Behemoth_15
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 1062
+        width: 126
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e886c74bd98c30042a7278d2d8d81eba
+      internalID: -1312220892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Behemoth_16
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 1062
+        width: 126
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67aa643542b7fb34588da747932437d6
+      internalID: 1037104402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Behemoth_17
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 1062
+        width: 126
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752354ef98cd758489aec45ba46736c9
+      internalID: -2137249104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Behemoth_18
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1062
+        width: 126
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faff0b4e94784e24797634a17cd181ba
+      internalID: -941841290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Behemoth_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 628
+        width: 105
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1feae05acd6701641849e4fc3e59f28d
+      internalID: 723974431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Behemoth_20
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 628
+        width: 109
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c6d9a59ef72c740afc3f8e4af482c2
+      internalID: 1136691763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Behemoth_21
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 628
+        width: 126
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e1ce3274573a24ca487b4d123105bf
+      internalID: -486385692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Behemoth_22
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 628
+        width: 129
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99479803e55c67f429c6f850580dd460
+      internalID: 1593021676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Behemoth_23
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 628
+        width: 96
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779db3aea2116344f9c6862d6d5bb0b6
+      internalID: 266528604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Behemoth_24
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 628
+        width: 88
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5f887c3595d294bbd9b28e0cc46e12
+      internalID: 1740556516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Behemoth_25
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 12
+        width: 129
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c699d3e2a475145b4848ff564cd56d
+      internalID: 1832151538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Behemoth_26
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 12
+        width: 148
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e5b6eaa6debe04b8f665f8d95c6bd2
+      internalID: -395071803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Behemoth_27
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 12
+        width: 148
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff11245a7e790c4c970ae2094bbabab
+      internalID: 696277647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Behemoth_28
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 12
+        width: 148
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f74601f9fd078e4eba92f3f136c5bb0
+      internalID: -1428973709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Behemoth_29
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 12
+        width: 148
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e09034938bdae743b2590d064971cc8
+      internalID: -1140904625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Behemoth_30
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 12
+        width: 148
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f32167bb035ca4aa5d4d81d310cc74
+      internalID: 1751065553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Behemoth_31
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 12
+        width: 148
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0d0f3532430f345b46ee550abcd259
+      internalID: -1585769086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Heroes of Might and Magic 3 - Behemoth_0: -1858561927
+      PC Computer - Heroes of Might and Magic 3 - Behemoth_1: -1358454015
+      PC Computer - Heroes of Might and Magic 3 - Behemoth_10: 1674209183
+      PC Computer - Heroes of Might and Magic 3 - Behemoth_11: 1262612758
+      PC Computer - Heroes of Might and Magic 3 - Behemoth_12: 1267931105
+      PC Computer - Heroes of Might and Magic 3 - Behemoth_13: 1681692018
+      PC Computer - Heroes of Might and Magic 3 - Behemoth_14: 1207637391
+      PC Computer - Heroes of Might and Magic 3 - Behemoth_15: -1312220892
+      PC Computer - Heroes of Might and Magic 3 - Behemoth_16: 1037104402
+      PC Computer - Heroes of Might and Magic 3 - Behemoth_17: -2137249104
+      PC Computer - Heroes of Might and Magic 3 - Behemoth_18: -941841290
+      PC Computer - Heroes of Might and Magic 3 - Behemoth_19: 723974431
+      PC Computer - Heroes of Might and Magic 3 - Behemoth_2: -1934756669
+      PC Computer - Heroes of Might and Magic 3 - Behemoth_20: 1136691763
+      PC Computer - Heroes of Might and Magic 3 - Behemoth_21: -486385692
+      PC Computer - Heroes of Might and Magic 3 - Behemoth_22: 1593021676
+      PC Computer - Heroes of Might and Magic 3 - Behemoth_23: 266528604
+      PC Computer - Heroes of Might and Magic 3 - Behemoth_24: 1740556516
+      PC Computer - Heroes of Might and Magic 3 - Behemoth_25: 1832151538
+      PC Computer - Heroes of Might and Magic 3 - Behemoth_26: -395071803
+      PC Computer - Heroes of Might and Magic 3 - Behemoth_27: 696277647
+      PC Computer - Heroes of Might and Magic 3 - Behemoth_28: -1428973709
+      PC Computer - Heroes of Might and Magic 3 - Behemoth_29: -1140904625
+      PC Computer - Heroes of Might and Magic 3 - Behemoth_3: 1494635097
+      PC Computer - Heroes of Might and Magic 3 - Behemoth_30: 1751065553
+      PC Computer - Heroes of Might and Magic 3 - Behemoth_31: -1585769086
+      PC Computer - Heroes of Might and Magic 3 - Behemoth_4: -1026246088
+      PC Computer - Heroes of Might and Magic 3 - Behemoth_5: -1553451197
+      PC Computer - Heroes of Might and Magic 3 - Behemoth_6: 448854085
+      PC Computer - Heroes of Might and Magic 3 - Behemoth_7: -1599168167
+      PC Computer - Heroes of Might and Magic 3 - Behemoth_8: -282042329
+      PC Computer - Heroes of Might and Magic 3 - Behemoth_9: -1374115174
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

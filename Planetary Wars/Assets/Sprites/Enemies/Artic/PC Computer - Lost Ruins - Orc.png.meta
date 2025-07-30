@@ -1,0 +1,1046 @@
+fileFormatVersion: 2
+guid: 62a8a7e77da041a4eb3badab4cf33be0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Orc_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 724
+        width: 93
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306ac95ae189ed442930b7003a48f5f0
+      internalID: 818076456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Orc_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 724
+        width: 93
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9a84cc39810e746a7ae1d64f5bbd01
+      internalID: -513934089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Orc_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 724
+        width: 93
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca7c978c29864c4d993f90d2ec34666
+      internalID: -681190212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Orc_5
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 724
+        width: 92
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa3c9a49bcde8643a6dcb3c93226ca8
+      internalID: 259943905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Orc_6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 724
+        width: 92
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c908859af9d79242a1f88cedb5018df
+      internalID: 943515972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Orc_7
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 724
+        width: 92
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f52a28a20aff9a4aa627b64a8b97d79
+      internalID: 1497605081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Orc_8
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 724
+        width: 93
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588cddf01deb0294db0834e4d3099025
+      internalID: 1517673140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Orc_9
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 724
+        width: 93
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3c326e91972db40ab78920db2de97e
+      internalID: -2098049410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Orc_10
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 724
+        width: 93
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccf6f22af13a2f47aca0d02d738ab79
+      internalID: -144718611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Orc_11
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 724
+        width: 93
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7a68055c7538d4d9c6c3eb92b8b180
+      internalID: -744184102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Orc_12
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 724
+        width: 93
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b5e5231e125b44db4a484bd1fad5b9
+      internalID: -896482115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Orc_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 656
+        width: 93
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f193fe1f209fab45a3c72b167fe4155
+      internalID: 875899284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Orc_14
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 656
+        width: 93
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b9cba60d1150f4cb3e2249dff97cfb
+      internalID: 1736555452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Orc_15
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 656
+        width: 93
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a388ab586fd27e419c4b9c2cb7667ca
+      internalID: 1051847956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Orc_16
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 656
+        width: 93
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0e7ce260f79154f996fb525c5a1244
+      internalID: 319772631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Orc_17
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 656
+        width: 93
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7667dac8cbf3544b7fd375500ba2d9
+      internalID: 2133990245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Orc_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 571
+        width: 93
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8aeaec0f0ffb2943898e96213dcd5c2
+      internalID: 1094826131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Orc_22
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 571
+        width: 91
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501dbae25549d1a4bb0813f062a2d06c
+      internalID: 86972565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Orc_23
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 571
+        width: 93
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8ffbf973a4c6849be738149bc7362b
+      internalID: -404539483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Orc_24
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 571
+        width: 94
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14a39e2c8040354d834bab5b09ec783
+      internalID: -1621271356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Orc_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 571
+        width: 93
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9775e2f07d17864089bcd67a1e0f3df
+      internalID: 2054132381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Orc_26
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 571
+        width: 91
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d324512a3dc497c4eb6d7330316f5b24
+      internalID: 737031775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Orc_27
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 571
+        width: 93
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af772c968883305488f86f3edfc6bef1
+      internalID: -1668671025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Orc_28
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 571
+        width: 93
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803c5856d47b15642ab52fbcc6d2cc2e
+      internalID: 566231307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Orc_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 317
+        width: 102
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115a630e565452a46bca4ad8828b23b0
+      internalID: 463209150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Orc_49
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 317
+        width: 102
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920d92204e13e27498d43cb891237121
+      internalID: -1579467459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Orc_50
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 317
+        width: 102
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddb11bbdd837c444b5f76f105643f83
+      internalID: 1621592588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Orc_53
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 317
+        width: 102
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf9d08b6821df24e9c0fd092bdf7520
+      internalID: 601810481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Orc_54
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 317
+        width: 102
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab74b32a95b854d4aab7352993b4a866
+      internalID: 191002616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Orc_55
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 317
+        width: 95
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc68c948c43b5bd4ab06df7e0c5cf536
+      internalID: 1837384613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Orc_56
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 317
+        width: 102
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b0419be21a4e440824bee5b973bea0
+      internalID: 375076397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Orc_83
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e14f11e6b6ace04cbd62332f9b11b39
+      internalID: -1817487105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Orc_84
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 3
+        width: 86
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea6f0b6e2235884f8fef74bcabf744a
+      internalID: -1549315074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Orc_85
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 3
+        width: 86
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b3953add0ca234f8067e5675d8ebab
+      internalID: -584296388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Orc_86
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 3
+        width: 86
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38cc7a5cc2d57c4a8479b6e1805a254
+      internalID: 1620902467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Orc_87
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 3
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca133dee9a47ec42ac084ca051105c9
+      internalID: -290476573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Orc_88
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 3
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c508062b3534b45b288da05b682fa3
+      internalID: 851887259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Orc_89
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 3
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8ffb709e56c6247922972298c232d6
+      internalID: 281356647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Orc_90
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 3
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aac0940129f0e840baae3fa98a73e53
+      internalID: -646216433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Lost Ruins - Orc_91
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 3
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fd787588cd7594488ccd4249ddecdb
+      internalID: 619880041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Lost Ruins - Orc_0: -284627525
+      PC Computer - Lost Ruins - Orc_1: -1413084785
+      PC Computer - Lost Ruins - Orc_10: -144718611
+      PC Computer - Lost Ruins - Orc_11: -744184102
+      PC Computer - Lost Ruins - Orc_12: -896482115
+      PC Computer - Lost Ruins - Orc_13: 875899284
+      PC Computer - Lost Ruins - Orc_14: 1736555452
+      PC Computer - Lost Ruins - Orc_15: 1051847956
+      PC Computer - Lost Ruins - Orc_16: 319772631
+      PC Computer - Lost Ruins - Orc_17: 2133990245
+      PC Computer - Lost Ruins - Orc_18: 1809682071
+      PC Computer - Lost Ruins - Orc_19: -2133395538
+      PC Computer - Lost Ruins - Orc_2: 818076456
+      PC Computer - Lost Ruins - Orc_20: -1272150731
+      PC Computer - Lost Ruins - Orc_21: 1094826131
+      PC Computer - Lost Ruins - Orc_22: 86972565
+      PC Computer - Lost Ruins - Orc_23: -404539483
+      PC Computer - Lost Ruins - Orc_24: -1621271356
+      PC Computer - Lost Ruins - Orc_25: 2054132381
+      PC Computer - Lost Ruins - Orc_26: 737031775
+      PC Computer - Lost Ruins - Orc_27: -1668671025
+      PC Computer - Lost Ruins - Orc_28: 566231307
+      PC Computer - Lost Ruins - Orc_29: 1879128560
+      PC Computer - Lost Ruins - Orc_3: -513934089
+      PC Computer - Lost Ruins - Orc_30: 1011830181
+      PC Computer - Lost Ruins - Orc_31: -1427916687
+      PC Computer - Lost Ruins - Orc_32: 1032010322
+      PC Computer - Lost Ruins - Orc_33: -1991994743
+      PC Computer - Lost Ruins - Orc_34: -1408796699
+      PC Computer - Lost Ruins - Orc_35: 1253155979
+      PC Computer - Lost Ruins - Orc_36: -942636621
+      PC Computer - Lost Ruins - Orc_37: -944155902
+      PC Computer - Lost Ruins - Orc_38: 787789613
+      PC Computer - Lost Ruins - Orc_39: 1629951054
+      PC Computer - Lost Ruins - Orc_4: -681190212
+      PC Computer - Lost Ruins - Orc_40: 63573954
+      PC Computer - Lost Ruins - Orc_41: 1733643781
+      PC Computer - Lost Ruins - Orc_42: 1817942990
+      PC Computer - Lost Ruins - Orc_43: -77005888
+      PC Computer - Lost Ruins - Orc_44: -197533739
+      PC Computer - Lost Ruins - Orc_45: -640577782
+      PC Computer - Lost Ruins - Orc_46: 267175128
+      PC Computer - Lost Ruins - Orc_47: 463209150
+      PC Computer - Lost Ruins - Orc_48: -1258301425
+      PC Computer - Lost Ruins - Orc_49: -1579467459
+      PC Computer - Lost Ruins - Orc_5: 259943905
+      PC Computer - Lost Ruins - Orc_50: 1621592588
+      PC Computer - Lost Ruins - Orc_51: 1653804717
+      PC Computer - Lost Ruins - Orc_52: -641533076
+      PC Computer - Lost Ruins - Orc_53: 601810481
+      PC Computer - Lost Ruins - Orc_54: 191002616
+      PC Computer - Lost Ruins - Orc_55: 1837384613
+      PC Computer - Lost Ruins - Orc_56: 375076397
+      PC Computer - Lost Ruins - Orc_57: -887796562
+      PC Computer - Lost Ruins - Orc_58: 722039316
+      PC Computer - Lost Ruins - Orc_59: -966757489
+      PC Computer - Lost Ruins - Orc_6: 943515972
+      PC Computer - Lost Ruins - Orc_60: -1071934687
+      PC Computer - Lost Ruins - Orc_61: -1542440158
+      PC Computer - Lost Ruins - Orc_62: -179954386
+      PC Computer - Lost Ruins - Orc_63: -719477553
+      PC Computer - Lost Ruins - Orc_64: -391732689
+      PC Computer - Lost Ruins - Orc_65: 410534152
+      PC Computer - Lost Ruins - Orc_66: 216930101
+      PC Computer - Lost Ruins - Orc_67: 269544647
+      PC Computer - Lost Ruins - Orc_68: 1774080532
+      PC Computer - Lost Ruins - Orc_69: -475753308
+      PC Computer - Lost Ruins - Orc_7: 1497605081
+      PC Computer - Lost Ruins - Orc_70: -1890651494
+      PC Computer - Lost Ruins - Orc_71: 1700823963
+      PC Computer - Lost Ruins - Orc_72: -1702439160
+      PC Computer - Lost Ruins - Orc_73: -881067463
+      PC Computer - Lost Ruins - Orc_74: 1705595816
+      PC Computer - Lost Ruins - Orc_75: 1233180380
+      PC Computer - Lost Ruins - Orc_76: -2015257342
+      PC Computer - Lost Ruins - Orc_77: -1561957943
+      PC Computer - Lost Ruins - Orc_78: 1588405793
+      PC Computer - Lost Ruins - Orc_79: -368458007
+      PC Computer - Lost Ruins - Orc_8: 1517673140
+      PC Computer - Lost Ruins - Orc_80: 997982693
+      PC Computer - Lost Ruins - Orc_81: -241890710
+      PC Computer - Lost Ruins - Orc_82: -1780022408
+      PC Computer - Lost Ruins - Orc_83: -1817487105
+      PC Computer - Lost Ruins - Orc_84: -1549315074
+      PC Computer - Lost Ruins - Orc_85: -584296388
+      PC Computer - Lost Ruins - Orc_86: 1620902467
+      PC Computer - Lost Ruins - Orc_87: -290476573
+      PC Computer - Lost Ruins - Orc_88: 851887259
+      PC Computer - Lost Ruins - Orc_89: 281356647
+      PC Computer - Lost Ruins - Orc_9: -2098049410
+      PC Computer - Lost Ruins - Orc_90: -646216433
+      PC Computer - Lost Ruins - Orc_91: 619880041
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

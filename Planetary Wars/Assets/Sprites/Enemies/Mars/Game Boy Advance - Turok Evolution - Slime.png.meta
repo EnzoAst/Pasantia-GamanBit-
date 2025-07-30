@@ -1,0 +1,994 @@
+fileFormatVersion: 2
+guid: e5bc519873250ed459f895ba95ae494c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Turok Evolution - Slime_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 195
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f636ed59ce3045c4e9ddc26ca6a88863
+      internalID: 940041491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Turok Evolution - Slime_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 195
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c04f3cd97252be499d5f603173929d6
+      internalID: -574221507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Turok Evolution - Slime_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 195
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb298eec7cc3afe4bbc575cf52c38b6f
+      internalID: -483246597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Turok Evolution - Slime_3
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 195
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bab001a5b62f60448900b5ec7cd1fd1
+      internalID: -347409318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Turok Evolution - Slime_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 195
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c15c93b9b64d048bd057a78dd8ecb6
+      internalID: -1924559615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Turok Evolution - Slime_5
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 195
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6745ed192f06c254a9eca6cf5cf1cb8d
+      internalID: -1498073973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Turok Evolution - Slime_6
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 195
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18e931166185c143bcb2e8c6a157e87
+      internalID: -90628360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Turok Evolution - Slime_7
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 195
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275e84328b2bab244b4d90cb3ea037a0
+      internalID: -560611195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Turok Evolution - Slime_8
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 195
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d350c55a6a41a844f9e14a4cf6a2e45d
+      internalID: 1727000659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Turok Evolution - Slime_9
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 195
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0160ebd997f85c2468567dbad378860d
+      internalID: -886534454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Turok Evolution - Slime_10
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 195
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33de8f55eae40a488d062fb703c2ac9
+      internalID: -1968949340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Turok Evolution - Slime_11
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 195
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6c60e8b5a432e48b013eed69c7bbc3
+      internalID: 1162755707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Turok Evolution - Slime_12
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 195
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188b5e17671e4c64d999135e13894f5a
+      internalID: -981465461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Turok Evolution - Slime_13
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 195
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b57a5342cebd8a4a8f957e6256b453a
+      internalID: -587771209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Turok Evolution - Slime_14
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 195
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e62f349d574854dab3f4c1d884df09
+      internalID: 1379180681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Turok Evolution - Slime_15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 195
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d855218121bec8c4787397103c61e5f3
+      internalID: 299831003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Turok Evolution - Slime_16
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 195
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7466ad07144d5cd4b8dee4624dff07a7
+      internalID: -322202863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Turok Evolution - Slime_17
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 195
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3781cd3a5f835134c8160f6e0375b5aa
+      internalID: 950556942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Turok Evolution - Slime_18
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 195
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d3e5b68a978be4a9f86a124ff8a454
+      internalID: -598461802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Turok Evolution - Slime_19
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 195
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb3ae7441321bc418d94676d43f893c
+      internalID: 973854785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Turok Evolution - Slime_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 69
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8bb908ee9fcc145be7dca1f5f74952
+      internalID: 543612410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Turok Evolution - Slime_21
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 69
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3dcf5b77ea7cf49b57248b77db13ef
+      internalID: -1325628535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Turok Evolution - Slime_22
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 69
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d9f1e4d81cb824ea908f444abf5f5e
+      internalID: -921152327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Turok Evolution - Slime_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 130
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d667038d508e84f986e4105f7d453b
+      internalID: -309151101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Turok Evolution - Slime_24
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 130
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db399057e4102af47a5b65f3e2d23a34
+      internalID: -334259470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Turok Evolution - Slime_25
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 130
+        width: 70
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4f1be086e78c84094ed91c2bbfd630
+      internalID: 1859684297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Turok Evolution - Slime_26
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 130
+        width: 79
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ebe1f8700013742b133fe878177ec3
+      internalID: 1965076417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Turok Evolution - Slime_27
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 130
+        width: 83
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d04a5657006b84fa28532af62e3c61
+      internalID: 1379896758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Turok Evolution - Slime_28
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 6
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed504ba38a120c64db8411f8d3047e14
+      internalID: 215340562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Turok Evolution - Slime_29
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 6
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0402780f9e6791e498d302b4d97fdff5
+      internalID: -1120385935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Turok Evolution - Slime_30
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 6
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7c8e66aeab4e542984e2c76db2a09f
+      internalID: 968255148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Turok Evolution - Slime_31
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 6
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432547f2fa8907a40842fca514b8e6d3
+      internalID: -284374142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Turok Evolution - Slime_32
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 6
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61eae2bc5f1f5a74f8d43c581d0ae330
+      internalID: 1706375089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Turok Evolution - Slime_33
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 6
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065814919554a4e44b1ac5478cc16ad7
+      internalID: 1263049813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Turok Evolution - Slime_34
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 6
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbbee3e0aecc934f8ed82a5a74509df
+      internalID: -1593699415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Turok Evolution - Slime_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 6
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179786ff0fe84d7489779c428b840bdc
+      internalID: -1144402043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Turok Evolution - Slime_36
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 6
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420c3ee1fa367b141a4cffe0c6eeb11e
+      internalID: -59895062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Turok Evolution - Slime_37
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 6
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe363bec0f401aa4780d876405d99571
+      internalID: -1753767392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Turok Evolution - Slime_38
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 6
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54cf7b503349bd40a259df970865095
+      internalID: 1520009184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Turok Evolution - Slime_39
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 6
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a2cbbafbe06684ab58ab6893c1f093
+      internalID: -437583535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Boy Advance - Turok Evolution - Slime_0: 940041491
+      Game Boy Advance - Turok Evolution - Slime_1: -574221507
+      Game Boy Advance - Turok Evolution - Slime_10: -1968949340
+      Game Boy Advance - Turok Evolution - Slime_11: 1162755707
+      Game Boy Advance - Turok Evolution - Slime_12: -981465461
+      Game Boy Advance - Turok Evolution - Slime_13: -587771209
+      Game Boy Advance - Turok Evolution - Slime_14: 1379180681
+      Game Boy Advance - Turok Evolution - Slime_15: 299831003
+      Game Boy Advance - Turok Evolution - Slime_16: -322202863
+      Game Boy Advance - Turok Evolution - Slime_17: 950556942
+      Game Boy Advance - Turok Evolution - Slime_18: -598461802
+      Game Boy Advance - Turok Evolution - Slime_19: 973854785
+      Game Boy Advance - Turok Evolution - Slime_2: -483246597
+      Game Boy Advance - Turok Evolution - Slime_20: 543612410
+      Game Boy Advance - Turok Evolution - Slime_21: -1325628535
+      Game Boy Advance - Turok Evolution - Slime_22: -921152327
+      Game Boy Advance - Turok Evolution - Slime_23: -309151101
+      Game Boy Advance - Turok Evolution - Slime_24: -334259470
+      Game Boy Advance - Turok Evolution - Slime_25: 1859684297
+      Game Boy Advance - Turok Evolution - Slime_26: 1965076417
+      Game Boy Advance - Turok Evolution - Slime_27: 1379896758
+      Game Boy Advance - Turok Evolution - Slime_28: 215340562
+      Game Boy Advance - Turok Evolution - Slime_29: -1120385935
+      Game Boy Advance - Turok Evolution - Slime_3: -347409318
+      Game Boy Advance - Turok Evolution - Slime_30: 968255148
+      Game Boy Advance - Turok Evolution - Slime_31: -284374142
+      Game Boy Advance - Turok Evolution - Slime_32: 1706375089
+      Game Boy Advance - Turok Evolution - Slime_33: 1263049813
+      Game Boy Advance - Turok Evolution - Slime_34: -1593699415
+      Game Boy Advance - Turok Evolution - Slime_35: -1144402043
+      Game Boy Advance - Turok Evolution - Slime_36: -59895062
+      Game Boy Advance - Turok Evolution - Slime_37: -1753767392
+      Game Boy Advance - Turok Evolution - Slime_38: 1520009184
+      Game Boy Advance - Turok Evolution - Slime_39: -437583535
+      Game Boy Advance - Turok Evolution - Slime_4: -1924559615
+      Game Boy Advance - Turok Evolution - Slime_5: -1498073973
+      Game Boy Advance - Turok Evolution - Slime_6: -90628360
+      Game Boy Advance - Turok Evolution - Slime_7: -560611195
+      Game Boy Advance - Turok Evolution - Slime_8: 1727000659
+      Game Boy Advance - Turok Evolution - Slime_9: -886534454
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

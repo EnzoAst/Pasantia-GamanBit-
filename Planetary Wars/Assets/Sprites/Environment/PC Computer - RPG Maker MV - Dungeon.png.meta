@@ -1,0 +1,1302 @@
+fileFormatVersion: 2
+guid: 9d96a22378e26954b8c352e241866ac2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_0
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 437
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9331ee43d61b1843ad98520d8688f93
+      internalID: -1889545794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_1
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 291
+        width: 47
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534846f9e160c014c90780f1ff2881dd
+      internalID: -1401151988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_2
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 291
+        width: 45
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c478aced7a6b24f8e9fe1e57a3ad77
+      internalID: -1123340931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_3
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 386
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7795843bc63777944bec6d98ca827162
+      internalID: 2136010607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_4
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 435
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cbd1ca7f5cfcc41a0e090dbbe336e9
+      internalID: -1558561142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_5
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 146
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6683ea95a1b62b40a31b1137b7876f5
+      internalID: -1054891050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_6
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 193
+        width: 44
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13540735a6d9eb47bb24d92be50bf39
+      internalID: -579017314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_7
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 99
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df746487e3e74fd448d44feb22d5b8f6
+      internalID: 552841105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_8
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 99
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c4f97c527387a4c926a5c5b88d7703
+      internalID: -2136031291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_9
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 3
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e494c5572d9698d4fafd873b5eb2a96b
+      internalID: -1085470374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_10
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 49
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5447a18a2b5c2c41a8e5f646f9a983a
+      internalID: -586175960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_11
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 4
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597f23165b1ad624a9853d7e38ed7c66
+      internalID: -46590219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_12
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 99
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac174aeaccfd7b44b11eaaf861de3f7
+      internalID: 1429031944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_13
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1302
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b4f7d4b36c4d04d96010686f3e73e7
+      internalID: 206441178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_14
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1254
+        width: 65
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1199ae7846f83e949864b6925f6d06ad
+      internalID: -1799318263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_15
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1207
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67f77bd262d5434c8cfb0e4c2493a87
+      internalID: 163547364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_16
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 145
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34a8964f0874c84d8cfb4b04cbbe7f2
+      internalID: -374325069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_17
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 195
+        width: 43
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e11a96856153441a3b444f0f3b3adf
+      internalID: -1695230523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_18
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 100
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7ac47bdc06a834c9c9f214753dfb47
+      internalID: -946915357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_19
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 387
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7895ea1fc0d854290f1b8e3bca9159
+      internalID: 1594701653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_20
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 438
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5787e2140a2a824428701b19e580cae6
+      internalID: -1667899699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_21
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 438
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8363549c4720a604c9a2024e346f49c1
+      internalID: 1108721123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_22
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 723
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d78dfde23a58141a5123de463eacc0
+      internalID: 77428419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_23
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 675
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddce24077742d247821a07d86c8c953
+      internalID: 142018512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_24
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 679
+        width: 89
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7383f8de05a571d4cbf9fba78a77fb00
+      internalID: 1857437487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_25
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 724
+        width: 135
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6140910744e94454d8e033c010090628
+      internalID: 1023924498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_26
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 676
+        width: 135
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067d95b05cb6ae34f98a40dac473dc96
+      internalID: 1732914602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_27
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 650
+        width: 44
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435bb51378a75b241a26f0a38a29322c
+      internalID: -2045764346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_28
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 496
+        width: 46
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf4c722b9a1af041bb3a718849c3ead
+      internalID: 629259430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_29
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 626
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0f529bf3bb293448cb68a94e135446
+      internalID: -1409070972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_30
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 579
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79873bff638f1c04a91ab54bdaf48581
+      internalID: -1851079894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_31
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 386
+        width: 144
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29bd71228a99bf44893afb86f7f1968
+      internalID: 1526734668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_32
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 290
+        width: 44
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff08f1a74177df343ba94f9fc416fcb7
+      internalID: 311306276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_33
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 290
+        width: 40
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea0df0fcd94b3f419e2854fabadaec5
+      internalID: -123870095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_34
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 290
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb83e025e6a3c44f86499f0117de5f5
+      internalID: -396171628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_35
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 338
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714da398ad1e4ed4dbd11b75cbdd1872
+      internalID: 2126773052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_36
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 144
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0397fdc152437094a99ccf3fc7f2bf81
+      internalID: 1516686387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_37
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 146
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf083014d308e214aa6cfdaf3b11c461
+      internalID: -831341757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_38
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 194
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee965333aa372845a5ff290c7c4ff6e
+      internalID: -319833504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_39
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 386
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe31d769cad4ab24f99d2eab6bca81b3
+      internalID: -1521552486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_40
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1306
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cda18bd92cf4d4b800c0bed195aef6
+      internalID: 1421401965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_41
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1166
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a1b7c59a0ed204691692fdc5279a3c
+      internalID: 683637371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_42
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1162
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c673a2b33e8e447bb3d76a4033519d
+      internalID: -1422708817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_43
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1071
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25520777fd30a95489aa0b226aba8f3f
+      internalID: 291373427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_44
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 928
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8dae82ea39e7b248a108d117b6dad8e
+      internalID: 1441355806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_45
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 870
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27a7482d96c77e4a9e4712cb1eb8406
+      internalID: 699915088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_47
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 822
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9be14f3f3073c0439880b95f5350a81
+      internalID: 1008386571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_49
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 774
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098eaa6998807a248a790fd3ffef7535
+      internalID: 773515062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_46
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 870
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfeaf83d8f1004848be4520a3ba11b8e
+      internalID: -1173151710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_48
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 822
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47355f59416ec2140a5c5ab765e10fcf
+      internalID: -441078266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_50
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 774
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91de62010c28cf044b0814a80f1a887b
+      internalID: -560241535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_51
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 775
+        width: 94
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebbf14890f2c9143bfa963d4d5aa348
+      internalID: -192467925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_52
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 529
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51098028704b6094c9a87b9e6fb6acd0
+      internalID: -796062996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Dungeon_53
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 580
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c77c5327bde4046be8bc5eb46e1cb2
+      internalID: -1608959554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - RPG Maker MV - Dungeon_0: -1889545794
+      PC Computer - RPG Maker MV - Dungeon_1: -1401151988
+      PC Computer - RPG Maker MV - Dungeon_10: -586175960
+      PC Computer - RPG Maker MV - Dungeon_11: -46590219
+      PC Computer - RPG Maker MV - Dungeon_12: 1429031944
+      PC Computer - RPG Maker MV - Dungeon_13: 206441178
+      PC Computer - RPG Maker MV - Dungeon_14: -1799318263
+      PC Computer - RPG Maker MV - Dungeon_15: 163547364
+      PC Computer - RPG Maker MV - Dungeon_16: -374325069
+      PC Computer - RPG Maker MV - Dungeon_17: -1695230523
+      PC Computer - RPG Maker MV - Dungeon_18: -946915357
+      PC Computer - RPG Maker MV - Dungeon_19: 1594701653
+      PC Computer - RPG Maker MV - Dungeon_2: -1123340931
+      PC Computer - RPG Maker MV - Dungeon_20: -1667899699
+      PC Computer - RPG Maker MV - Dungeon_21: 1108721123
+      PC Computer - RPG Maker MV - Dungeon_22: 77428419
+      PC Computer - RPG Maker MV - Dungeon_23: 142018512
+      PC Computer - RPG Maker MV - Dungeon_24: 1857437487
+      PC Computer - RPG Maker MV - Dungeon_25: 1023924498
+      PC Computer - RPG Maker MV - Dungeon_26: 1732914602
+      PC Computer - RPG Maker MV - Dungeon_27: -2045764346
+      PC Computer - RPG Maker MV - Dungeon_28: 629259430
+      PC Computer - RPG Maker MV - Dungeon_29: -1409070972
+      PC Computer - RPG Maker MV - Dungeon_3: 2136010607
+      PC Computer - RPG Maker MV - Dungeon_30: -1851079894
+      PC Computer - RPG Maker MV - Dungeon_31: 1526734668
+      PC Computer - RPG Maker MV - Dungeon_32: 311306276
+      PC Computer - RPG Maker MV - Dungeon_33: -123870095
+      PC Computer - RPG Maker MV - Dungeon_34: -396171628
+      PC Computer - RPG Maker MV - Dungeon_35: 2126773052
+      PC Computer - RPG Maker MV - Dungeon_36: 1516686387
+      PC Computer - RPG Maker MV - Dungeon_37: -831341757
+      PC Computer - RPG Maker MV - Dungeon_38: -319833504
+      PC Computer - RPG Maker MV - Dungeon_39: -1521552486
+      PC Computer - RPG Maker MV - Dungeon_4: -1558561142
+      PC Computer - RPG Maker MV - Dungeon_40: 1421401965
+      PC Computer - RPG Maker MV - Dungeon_41: 683637371
+      PC Computer - RPG Maker MV - Dungeon_42: -1422708817
+      PC Computer - RPG Maker MV - Dungeon_43: 291373427
+      PC Computer - RPG Maker MV - Dungeon_44: 1441355806
+      PC Computer - RPG Maker MV - Dungeon_45: 699915088
+      PC Computer - RPG Maker MV - Dungeon_46: -1173151710
+      PC Computer - RPG Maker MV - Dungeon_47: 1008386571
+      PC Computer - RPG Maker MV - Dungeon_48: -441078266
+      PC Computer - RPG Maker MV - Dungeon_49: 773515062
+      PC Computer - RPG Maker MV - Dungeon_5: -1054891050
+      PC Computer - RPG Maker MV - Dungeon_50: -560241535
+      PC Computer - RPG Maker MV - Dungeon_51: -192467925
+      PC Computer - RPG Maker MV - Dungeon_52: -796062996
+      PC Computer - RPG Maker MV - Dungeon_53: -1608959554
+      PC Computer - RPG Maker MV - Dungeon_6: -579017314
+      PC Computer - RPG Maker MV - Dungeon_7: 552841105
+      PC Computer - RPG Maker MV - Dungeon_8: -2136031291
+      PC Computer - RPG Maker MV - Dungeon_9: -1085470374
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

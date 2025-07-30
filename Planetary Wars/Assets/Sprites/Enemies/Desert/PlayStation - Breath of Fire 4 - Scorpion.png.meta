@@ -1,0 +1,1214 @@
+fileFormatVersion: 2
+guid: efa621490fc9cce4888a49a209f698cd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 518
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4270b7e0afc62418bd41a30f5fc46c
+      internalID: -564695567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 518
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef53624221977fc4dbdda57800c08d58
+      internalID: 326193285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 517
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28cd98051868814aab585582620ff31
+      internalID: 1396468689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_3
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 517
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5c59703dd65ad4aa104eef64dbbcc6
+      internalID: 472703848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_4
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 517
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e9abd0250a45f468d2ce2a3d626979
+      internalID: 362514246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_5
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 517
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d18583b16b3d004fb93b97f8afe19cd
+      internalID: 949330542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_6
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 518
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898befa99cf5e9648940d9e008874edb
+      internalID: -1118016927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_7
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 518
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdadcdedffa0ca45a47ad149b21c27f
+      internalID: -1584813292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 441
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2228cc3fe6661db44bd6379d6d85b3c8
+      internalID: 1481416294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 441
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6658850aa45a4d24dbddc6476794a6c1
+      internalID: 2114101091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_10
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 441
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7558254d6109b3c40b275b07d89b353d
+      internalID: -876130344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_11
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 441
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164291df15fde6148a0909d41009fc3f
+      internalID: -1497787307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_12
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 441
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b961dad3cfae84fae1a6a61abc4fc6
+      internalID: -1573438676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_13
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 441
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5ba13aa01620d4db11811bd096b3a2
+      internalID: -286266036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_14
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 441
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46019a6d0cc2bbb4d9cc2e963f42b681
+      internalID: -127743498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_15
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 441
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b1a1ac17435d74c8a3075dfdda3ab0
+      internalID: -622793325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_16
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 441
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18e9000641f84b49aeb543cda3aa8bd
+      internalID: -1362786479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 361
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1bd884b3fddce44ba19e253a9781a7
+      internalID: 469894083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_18
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 361
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5902de873142a2f43a00109196feb055
+      internalID: 1966706572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_19
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 361
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad0f69e6c123b64187fb4e72e9d0edf
+      internalID: 1892042204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_20
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 361
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb19f5c2fd634c448c3b72dc59c8566
+      internalID: -1683866594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_21
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 361
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad03f0714f977424380bbc68951a05ad
+      internalID: -1628512880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_22
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 361
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf607b75014cda54ab53ca031a77935b
+      internalID: 2103963556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_23
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 361
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3da314180a16f74688e03af8130b772
+      internalID: 1459184828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_24
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 361
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bec78088a048e4b860c964257fc8f9
+      internalID: 236005638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_25
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 251
+        width: 122
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6450c39b4b1e8c4b858fae7bc34cc28
+      internalID: 223998678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_26
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 251
+        width: 122
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d8a45cea947664eb81db2cb74e9cb7
+      internalID: -875807540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 251
+        width: 122
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31eeca2f3813576438a9bab382396562
+      internalID: -220950765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_28
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 251
+        width: 122
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90ff2e0d7cc08e428004ed769bc8c64
+      internalID: -1795519877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_29
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 251
+        width: 122
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9279e0e23bf419b4f99574649a9c0493
+      internalID: -2077605740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_30
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 251
+        width: 122
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5813a3b992e6e4d46b27ed293946c212
+      internalID: 220716405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_31
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 251
+        width: 122
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7278d304881ab13439c4d5f50e77e3a3
+      internalID: -805376876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_32
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 251
+        width: 122
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6a7a3c367d19a42804fb46d3a4de11
+      internalID: -2125682757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_33
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 251
+        width: 122
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a31403cb1c6f3b4c84c565c8c09ee72
+      internalID: -1716509464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_34
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 251
+        width: 122
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23828ae3014a1245a2902bee31dc80c
+      internalID: 1291498966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_35
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 251
+        width: 122
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf9a9f5c58ae794aba7f5413391891d
+      internalID: -336996088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_36
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 251
+        width: 122
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f3ce47723244543b06d8bb15972b5d
+      internalID: -1203861934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_37
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 251
+        width: 122
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60018c4a8089b8945af5283bef37faf4
+      internalID: 947061585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_38
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 251
+        width: 122
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbea122bc95e6eb4887dde92cd92c4f2
+      internalID: 1108767391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_39
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 251
+        width: 122
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00e6f6d0697b0f4eb52e9195edf9f50
+      internalID: -30345366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_40
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 251
+        width: 122
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df492ef8e5511bb4abeda6f25f676554
+      internalID: 1745913240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_41
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 251
+        width: 122
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb8bd96283e2814fa9d752e467b3b82
+      internalID: 152055259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_42
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 162
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e313939d2c94ed1489b0b57f2315d16d
+      internalID: -1627391570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_43
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 162
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47e42592d567454f8463040b4920bc8
+      internalID: -651304108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_44
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 162
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3ced14723f2734abaade63a82f1b0e
+      internalID: 632014989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_45
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 162
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a32c062af34c23459da74056bc4a838
+      internalID: 2049746157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_46
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 162
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bab45241e4c0d9489b9d38095b37273
+      internalID: 2111144786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_47
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 162
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebfcbf7fa3d05843b91186cc4ddc630
+      internalID: 1541387792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_48
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 162
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1cc30c5b658e240bba00709fa5fa63
+      internalID: -26884903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Scorpion_49
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 162
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fc124b24ad18a429c8ac0129dbdef1
+      internalID: -1950168852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PlayStation - Breath of Fire 4 - Scorpion_0: -564695567
+      PlayStation - Breath of Fire 4 - Scorpion_1: 326193285
+      PlayStation - Breath of Fire 4 - Scorpion_10: -876130344
+      PlayStation - Breath of Fire 4 - Scorpion_11: -1497787307
+      PlayStation - Breath of Fire 4 - Scorpion_12: -1573438676
+      PlayStation - Breath of Fire 4 - Scorpion_13: -286266036
+      PlayStation - Breath of Fire 4 - Scorpion_14: -127743498
+      PlayStation - Breath of Fire 4 - Scorpion_15: -622793325
+      PlayStation - Breath of Fire 4 - Scorpion_16: -1362786479
+      PlayStation - Breath of Fire 4 - Scorpion_17: 469894083
+      PlayStation - Breath of Fire 4 - Scorpion_18: 1966706572
+      PlayStation - Breath of Fire 4 - Scorpion_19: 1892042204
+      PlayStation - Breath of Fire 4 - Scorpion_2: 1396468689
+      PlayStation - Breath of Fire 4 - Scorpion_20: -1683866594
+      PlayStation - Breath of Fire 4 - Scorpion_21: -1628512880
+      PlayStation - Breath of Fire 4 - Scorpion_22: 2103963556
+      PlayStation - Breath of Fire 4 - Scorpion_23: 1459184828
+      PlayStation - Breath of Fire 4 - Scorpion_24: 236005638
+      PlayStation - Breath of Fire 4 - Scorpion_25: 223998678
+      PlayStation - Breath of Fire 4 - Scorpion_26: -875807540
+      PlayStation - Breath of Fire 4 - Scorpion_27: -220950765
+      PlayStation - Breath of Fire 4 - Scorpion_28: -1795519877
+      PlayStation - Breath of Fire 4 - Scorpion_29: -2077605740
+      PlayStation - Breath of Fire 4 - Scorpion_3: 472703848
+      PlayStation - Breath of Fire 4 - Scorpion_30: 220716405
+      PlayStation - Breath of Fire 4 - Scorpion_31: -805376876
+      PlayStation - Breath of Fire 4 - Scorpion_32: -2125682757
+      PlayStation - Breath of Fire 4 - Scorpion_33: -1716509464
+      PlayStation - Breath of Fire 4 - Scorpion_34: 1291498966
+      PlayStation - Breath of Fire 4 - Scorpion_35: -336996088
+      PlayStation - Breath of Fire 4 - Scorpion_36: -1203861934
+      PlayStation - Breath of Fire 4 - Scorpion_37: 947061585
+      PlayStation - Breath of Fire 4 - Scorpion_38: 1108767391
+      PlayStation - Breath of Fire 4 - Scorpion_39: -30345366
+      PlayStation - Breath of Fire 4 - Scorpion_4: 362514246
+      PlayStation - Breath of Fire 4 - Scorpion_40: 1745913240
+      PlayStation - Breath of Fire 4 - Scorpion_41: 152055259
+      PlayStation - Breath of Fire 4 - Scorpion_42: -1627391570
+      PlayStation - Breath of Fire 4 - Scorpion_43: -651304108
+      PlayStation - Breath of Fire 4 - Scorpion_44: 632014989
+      PlayStation - Breath of Fire 4 - Scorpion_45: 2049746157
+      PlayStation - Breath of Fire 4 - Scorpion_46: 2111144786
+      PlayStation - Breath of Fire 4 - Scorpion_47: 1541387792
+      PlayStation - Breath of Fire 4 - Scorpion_48: -26884903
+      PlayStation - Breath of Fire 4 - Scorpion_49: -1950168852
+      PlayStation - Breath of Fire 4 - Scorpion_5: 949330542
+      PlayStation - Breath of Fire 4 - Scorpion_6: -1118016927
+      PlayStation - Breath of Fire 4 - Scorpion_7: -1584813292
+      PlayStation - Breath of Fire 4 - Scorpion_8: 1481416294
+      PlayStation - Breath of Fire 4 - Scorpion_9: 2114101091
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

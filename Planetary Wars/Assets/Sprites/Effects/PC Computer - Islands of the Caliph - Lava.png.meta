@@ -1,0 +1,393 @@
+fileFormatVersion: 2
+guid: 925d2b211a7dec34e8a2e09f592ad846
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Islands of the Caliph - Lava_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 64
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662964c5a0890094c8bf2af88271c816
+      internalID: -873807024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Islands of the Caliph - Lava_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 64
+        width: 65
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ce03a60e55f154fbe5e72fd7a36c43
+      internalID: 1482269104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Islands of the Caliph - Lava_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 65
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea65b6772d021694294a2560dace988b
+      internalID: -2028907837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Islands of the Caliph - Lava_3
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 64
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c30045ce1620a42b7c12cd20d29202
+      internalID: -80068160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Islands of the Caliph - Lava_4
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 64
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557d98bb41d48b144b6deee779dd6ea4
+      internalID: -495815258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Islands of the Caliph - Lava_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8bcf758c1241f4cb510fb508d29047
+      internalID: 1871681842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Islands of the Caliph - Lava_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0480096d33f93141b3fa179c6ebd333
+      internalID: -2110414883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Islands of the Caliph - Lava_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f19afd5ba3d842468f6a9bf0b03caa2
+      internalID: -1790164683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Islands of the Caliph - Lava_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b793fc5fa042d8e4498b6fe57b17d5b5
+      internalID: -1779959338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Islands of the Caliph - Lava_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585a7bfe7eaaf6449937dcffcabdc9cf
+      internalID: 1198270375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Islands of the Caliph - Lava_10
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5a128abf808e646b8481bbe2871a6a
+      internalID: 1931861351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Islands of the Caliph - Lava_0: -873807024
+      PC Computer - Islands of the Caliph - Lava_1: 1482269104
+      PC Computer - Islands of the Caliph - Lava_10: 1931861351
+      PC Computer - Islands of the Caliph - Lava_11: 206943375
+      PC Computer - Islands of the Caliph - Lava_12: -1051746891
+      PC Computer - Islands of the Caliph - Lava_13: -1787970441
+      PC Computer - Islands of the Caliph - Lava_14: -1228138732
+      PC Computer - Islands of the Caliph - Lava_15: 1132109668
+      PC Computer - Islands of the Caliph - Lava_16: -2044130265
+      PC Computer - Islands of the Caliph - Lava_17: -802934449
+      PC Computer - Islands of the Caliph - Lava_18: -1291898844
+      PC Computer - Islands of the Caliph - Lava_19: -637497800
+      PC Computer - Islands of the Caliph - Lava_2: -2028907837
+      PC Computer - Islands of the Caliph - Lava_20: -205073040
+      PC Computer - Islands of the Caliph - Lava_21: -1357616159
+      PC Computer - Islands of the Caliph - Lava_22: -808850375
+      PC Computer - Islands of the Caliph - Lava_23: -792414028
+      PC Computer - Islands of the Caliph - Lava_24: 1897885483
+      PC Computer - Islands of the Caliph - Lava_25: -624699123
+      PC Computer - Islands of the Caliph - Lava_26: -84264592
+      PC Computer - Islands of the Caliph - Lava_27: 797371372
+      PC Computer - Islands of the Caliph - Lava_28: 1017413671
+      PC Computer - Islands of the Caliph - Lava_29: -76464479
+      PC Computer - Islands of the Caliph - Lava_3: -80068160
+      PC Computer - Islands of the Caliph - Lava_30: 1798773001
+      PC Computer - Islands of the Caliph - Lava_31: 529852121
+      PC Computer - Islands of the Caliph - Lava_32: -2100983344
+      PC Computer - Islands of the Caliph - Lava_33: 1741755327
+      PC Computer - Islands of the Caliph - Lava_34: -1657091689
+      PC Computer - Islands of the Caliph - Lava_35: -1731837657
+      PC Computer - Islands of the Caliph - Lava_36: 1289638485
+      PC Computer - Islands of the Caliph - Lava_37: 866183645
+      PC Computer - Islands of the Caliph - Lava_38: -1990526238
+      PC Computer - Islands of the Caliph - Lava_39: -1065260318
+      PC Computer - Islands of the Caliph - Lava_4: -495815258
+      PC Computer - Islands of the Caliph - Lava_40: -761115886
+      PC Computer - Islands of the Caliph - Lava_41: -1452826515
+      PC Computer - Islands of the Caliph - Lava_42: 1188976650
+      PC Computer - Islands of the Caliph - Lava_43: -1927686811
+      PC Computer - Islands of the Caliph - Lava_44: 1671937568
+      PC Computer - Islands of the Caliph - Lava_45: 1726974727
+      PC Computer - Islands of the Caliph - Lava_46: -2071166288
+      PC Computer - Islands of the Caliph - Lava_47: 1161534313
+      PC Computer - Islands of the Caliph - Lava_5: 1871681842
+      PC Computer - Islands of the Caliph - Lava_6: -2110414883
+      PC Computer - Islands of the Caliph - Lava_7: -1790164683
+      PC Computer - Islands of the Caliph - Lava_8: -1779959338
+      PC Computer - Islands of the Caliph - Lava_9: 1198270375
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

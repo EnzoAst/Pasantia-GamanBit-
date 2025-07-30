@@ -1,0 +1,706 @@
+fileFormatVersion: 2
+guid: 75ae902267f7a4e479e4529cd566a25b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Titan Souls - Yeti_40
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 545
+        width: 67
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b203cc70748044ab49bfb92e2aa0bc
+      internalID: -719746618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Titan Souls - Yeti_41
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 545
+        width: 65
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6782cfd53d47fbb4e956d91dddb2aa5c
+      internalID: -1690293450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Titan Souls - Yeti_42
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 545
+        width: 63
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aca4ac50d27a7c4a8a90f4387b04a95
+      internalID: 902137295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Titan Souls - Yeti_43
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 545
+        width: 52
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0891a24b4efd4449e2aff632e1e61e
+      internalID: -731262380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Titan Souls - Yeti_44
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 545
+        width: 71
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89c59f5b84d15d4ca6eed8f78f6e5e2
+      internalID: -434123556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Titan Souls - Yeti_45
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 545
+        width: 67
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3303971694cf7e840923c340ebedce0b
+      internalID: -2038195744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Titan Souls - Yeti_46
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 546
+        width: 62
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2d16b7c0a631a48b0bddd5848fab2b
+      internalID: -54709351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Titan Souls - Yeti_47
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 546
+        width: 62
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9f1716fc7a1604f9ba11705c01aa1d
+      internalID: -195850722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Titan Souls - Yeti_48
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 546
+        width: 62
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d5a49a205470844bf393f3a26f6c06
+      internalID: -932896483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Titan Souls - Yeti_49
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 545
+        width: 59
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a609f2aa3d634544b26e82d878e69f2
+      internalID: -942615992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Titan Souls - Yeti_69
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 162
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8643d272b5fda64090ac7b4c4b6b153
+      internalID: 1018870978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Titan Souls - Yeti_70
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 162
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95dd47ce1644b884289b50f276e7582b
+      internalID: 1872926201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Titan Souls - Yeti_71
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 162
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5720610f2fdd86f438a9584777a565e9
+      internalID: 1364966179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Titan Souls - Yeti_72
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 162
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6f849476748a347bd34d74aae0d0e9
+      internalID: 1238739073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Titan Souls - Yeti_73
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 173
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5850ac8648fa7a449bced6ad0d6d02f3
+      internalID: 1360804104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Titan Souls - Yeti_74
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 173
+        width: 63
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01392554d9e54ea4994863e7a4074af5
+      internalID: -1516587910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Titan Souls - Yeti_75
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 65
+        width: 56
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab07157ad3a6dea448c9939fbc4b84f4
+      internalID: 858787344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Titan Souls - Yeti_76
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 65
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95b3ab036fc7ee41bdd3b28679707bd
+      internalID: 1417020015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Titan Souls - Yeti_77
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 65
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e8c7a13fe59e047b9d18bbe290a7f5
+      internalID: -1620446069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Titan Souls - Yeti_78
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 69
+        width: 69
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b768178b245674fa529b6c2bdf4191
+      internalID: 1151111741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Titan Souls - Yeti_79
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 73
+        width: 69
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c523f15c189dc6e4dbff6b8322de5795
+      internalID: 374755782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Titan Souls - Yeti_80
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 73
+        width: 69
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a93b48525bd7a419012630f988bcbc
+      internalID: 1798178313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Titan Souls - Yeti_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e576a56787b17d84899b3cacb8fc16bc
+      internalID: 2064066477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Titan Souls - Yeti_0: 1425840638
+      PC Computer - Titan Souls - Yeti_1: 1581057663
+      PC Computer - Titan Souls - Yeti_10: -2031240843
+      PC Computer - Titan Souls - Yeti_100: 334882430
+      PC Computer - Titan Souls - Yeti_101: -1076693826
+      PC Computer - Titan Souls - Yeti_102: 878903148
+      PC Computer - Titan Souls - Yeti_103: 630681120
+      PC Computer - Titan Souls - Yeti_104: -1172144465
+      PC Computer - Titan Souls - Yeti_105: 1221019233
+      PC Computer - Titan Souls - Yeti_106: -1969495041
+      PC Computer - Titan Souls - Yeti_107: -1028259999
+      PC Computer - Titan Souls - Yeti_108: -1215359333
+      PC Computer - Titan Souls - Yeti_11: -908180928
+      PC Computer - Titan Souls - Yeti_12: 205830462
+      PC Computer - Titan Souls - Yeti_13: 335935586
+      PC Computer - Titan Souls - Yeti_14: 815416569
+      PC Computer - Titan Souls - Yeti_15: -801300160
+      PC Computer - Titan Souls - Yeti_16: -1246998747
+      PC Computer - Titan Souls - Yeti_17: 419247031
+      PC Computer - Titan Souls - Yeti_18: 252237000
+      PC Computer - Titan Souls - Yeti_19: -1646775059
+      PC Computer - Titan Souls - Yeti_2: -291553072
+      PC Computer - Titan Souls - Yeti_20: 1435959686
+      PC Computer - Titan Souls - Yeti_21: 2111122052
+      PC Computer - Titan Souls - Yeti_22: 2128594475
+      PC Computer - Titan Souls - Yeti_23: -421586219
+      PC Computer - Titan Souls - Yeti_24: -2007982558
+      PC Computer - Titan Souls - Yeti_25: -600119764
+      PC Computer - Titan Souls - Yeti_26: 724499482
+      PC Computer - Titan Souls - Yeti_27: -935502144
+      PC Computer - Titan Souls - Yeti_28: -797842089
+      PC Computer - Titan Souls - Yeti_29: -1159656627
+      PC Computer - Titan Souls - Yeti_3: 1936887401
+      PC Computer - Titan Souls - Yeti_30: -224276603
+      PC Computer - Titan Souls - Yeti_31: -667512210
+      PC Computer - Titan Souls - Yeti_32: -277843210
+      PC Computer - Titan Souls - Yeti_33: -1486184883
+      PC Computer - Titan Souls - Yeti_34: 1703759546
+      PC Computer - Titan Souls - Yeti_35: 1104656123
+      PC Computer - Titan Souls - Yeti_36: 1334603134
+      PC Computer - Titan Souls - Yeti_37: -240158654
+      PC Computer - Titan Souls - Yeti_38: -87098160
+      PC Computer - Titan Souls - Yeti_39: -1151478959
+      PC Computer - Titan Souls - Yeti_4: -1540781726
+      PC Computer - Titan Souls - Yeti_40: -719746618
+      PC Computer - Titan Souls - Yeti_41: -1690293450
+      PC Computer - Titan Souls - Yeti_42: 902137295
+      PC Computer - Titan Souls - Yeti_43: -731262380
+      PC Computer - Titan Souls - Yeti_44: -434123556
+      PC Computer - Titan Souls - Yeti_45: -2038195744
+      PC Computer - Titan Souls - Yeti_46: -54709351
+      PC Computer - Titan Souls - Yeti_47: -195850722
+      PC Computer - Titan Souls - Yeti_48: -932896483
+      PC Computer - Titan Souls - Yeti_49: -942615992
+      PC Computer - Titan Souls - Yeti_5: -797674053
+      PC Computer - Titan Souls - Yeti_50: 2120201996
+      PC Computer - Titan Souls - Yeti_51: 1720329113
+      PC Computer - Titan Souls - Yeti_52: -1191460096
+      PC Computer - Titan Souls - Yeti_53: 1373998894
+      PC Computer - Titan Souls - Yeti_54: 312767762
+      PC Computer - Titan Souls - Yeti_55: 1659750446
+      PC Computer - Titan Souls - Yeti_56: 2052120800
+      PC Computer - Titan Souls - Yeti_57: 1493521925
+      PC Computer - Titan Souls - Yeti_58: -1652781917
+      PC Computer - Titan Souls - Yeti_59: -2095761355
+      PC Computer - Titan Souls - Yeti_6: -2065575087
+      PC Computer - Titan Souls - Yeti_60: -998091785
+      PC Computer - Titan Souls - Yeti_61: 1613638336
+      PC Computer - Titan Souls - Yeti_62: 673941245
+      PC Computer - Titan Souls - Yeti_63: 2111401317
+      PC Computer - Titan Souls - Yeti_64: 1575198716
+      PC Computer - Titan Souls - Yeti_65: -2139706387
+      PC Computer - Titan Souls - Yeti_66: 727468834
+      PC Computer - Titan Souls - Yeti_67: -965900045
+      PC Computer - Titan Souls - Yeti_68: 186758390
+      PC Computer - Titan Souls - Yeti_69: 1018870978
+      PC Computer - Titan Souls - Yeti_7: -1698093793
+      PC Computer - Titan Souls - Yeti_70: 1872926201
+      PC Computer - Titan Souls - Yeti_71: 1364966179
+      PC Computer - Titan Souls - Yeti_72: 1238739073
+      PC Computer - Titan Souls - Yeti_73: 1360804104
+      PC Computer - Titan Souls - Yeti_74: -1516587910
+      PC Computer - Titan Souls - Yeti_75: 858787344
+      PC Computer - Titan Souls - Yeti_76: 1417020015
+      PC Computer - Titan Souls - Yeti_77: -1620446069
+      PC Computer - Titan Souls - Yeti_78: 1151111741
+      PC Computer - Titan Souls - Yeti_79: 374755782
+      PC Computer - Titan Souls - Yeti_8: 187987666
+      PC Computer - Titan Souls - Yeti_80: 1798178313
+      PC Computer - Titan Souls - Yeti_81: 2064066477
+      PC Computer - Titan Souls - Yeti_82: -1957433434
+      PC Computer - Titan Souls - Yeti_83: -491650375
+      PC Computer - Titan Souls - Yeti_84: -238673646
+      PC Computer - Titan Souls - Yeti_85: 68337278
+      PC Computer - Titan Souls - Yeti_86: -1404524459
+      PC Computer - Titan Souls - Yeti_87: 1619929544
+      PC Computer - Titan Souls - Yeti_88: -385536309
+      PC Computer - Titan Souls - Yeti_89: 7838928
+      PC Computer - Titan Souls - Yeti_9: -2101164205
+      PC Computer - Titan Souls - Yeti_90: -1092554539
+      PC Computer - Titan Souls - Yeti_91: -1258830563
+      PC Computer - Titan Souls - Yeti_92: 772453915
+      PC Computer - Titan Souls - Yeti_93: 1037547668
+      PC Computer - Titan Souls - Yeti_94: 1193095413
+      PC Computer - Titan Souls - Yeti_95: 1284306876
+      PC Computer - Titan Souls - Yeti_96: 836667868
+      PC Computer - Titan Souls - Yeti_97: -338736081
+      PC Computer - Titan Souls - Yeti_98: 1700986158
+      PC Computer - Titan Souls - Yeti_99: -879275518
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
