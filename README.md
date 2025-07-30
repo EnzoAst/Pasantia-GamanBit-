@@ -18,8 +18,5 @@ Estamos realizando una pasantía en GamanBit, una empresa de desarrollo de video
         <tr>
             <td>Maximiliano Robilotta</td>
         </tr>
-        <tr>
-            <td>Débora Celeste Pulitta</td>
-        </tr>
     </table>
     
