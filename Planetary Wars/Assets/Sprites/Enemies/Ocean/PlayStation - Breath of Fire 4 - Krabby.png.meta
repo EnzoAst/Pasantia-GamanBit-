@@ -1,0 +1,840 @@
+fileFormatVersion: 2
+guid: 136e4fd81294596478bb1afff51d13a9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Krabby_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1180
+        width: 144
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb992b57d695d94459b918c6355b863c
+      internalID: 792816577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Krabby_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1180
+        width: 144
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3450c6df6d9db47b0443b6701ab815
+      internalID: -1462819699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Krabby_2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1180
+        width: 144
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04144242b06a4c54d8ab88690b620632
+      internalID: 1629983338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Krabby_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1180
+        width: 144
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b287531d6984dae41959e42966bb275c
+      internalID: -1265607166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Krabby_4
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1180
+        width: 144
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80dc33a1e15456e49a0e81b946764788
+      internalID: 1157591951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Krabby_5
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1180
+        width: 144
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d467c05e2e3561468c333432d3f67db
+      internalID: -2004967773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Krabby_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 793
+        width: 144
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af86822f50f8674c807cd26e29507f1
+      internalID: -1438623732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Krabby_7
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 793
+        width: 144
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8c5f08627a1d942b46787c0fe2d287
+      internalID: -925607006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Krabby_8
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 793
+        width: 144
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226b2b2e133dea04782442016e74662b
+      internalID: -1219666546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Krabby_9
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 793
+        width: 144
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07de51728efe9745b8b53729cf759f1
+      internalID: -1466978412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Krabby_10
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 793
+        width: 144
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73729b28c7e31d744b83cf6b5b32d846
+      internalID: 2100715974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Krabby_11
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 793
+        width: 144
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7565106ef9215f74e8c502daf8e43445
+      internalID: -1800543251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Krabby_12
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 793
+        width: 144
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1db9b627c5a42444a927863866ae938
+      internalID: -491341582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Krabby_13
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 793
+        width: 144
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a819e191452c34fae4537d8c57ea31
+      internalID: -1931451860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Krabby_14
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 793
+        width: 144
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd320dc78b1fb684080b4f03a8eac276
+      internalID: 289563326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Krabby_15
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 793
+        width: 144
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697d6d28841c7334d97c96d40b0eec3d
+      internalID: -215035561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Krabby_16
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 793
+        width: 144
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870a46ea03f4af34788c4c6cffdf3e6c
+      internalID: -711146180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Krabby_17
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 793
+        width: 144
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a90848fcb9c144fa296f39ca4e4bb1
+      internalID: -1531094017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Krabby_18
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 632
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076ed05028a9c164eb2c6ffd752370c3
+      internalID: -1442252045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Krabby_19
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 632
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b051e692691a966488f854e9c2b79e97
+      internalID: -1437767739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Krabby_20
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 632
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe207ce8732fa914a85c2383a50f7625
+      internalID: -1916748820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Krabby_21
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 632
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbf36aa1f973984587e78779fbe2fbc
+      internalID: -118072864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Krabby_22
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 632
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8692d681218ffa54bb7e58526ce7b2ed
+      internalID: 1299747667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Krabby_23
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 632
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174e898db14d934409cef93740de99f1
+      internalID: 640865634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Krabby_24
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 632
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499c67300e0176a4ab7012f736f1ba66
+      internalID: 1454555317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Krabby_25
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 632
+        width: 175
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb22b4c2cdde374abac4b6182bfe2e5
+      internalID: 798788432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Krabby_26
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 7
+        width: 155
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5f1feb24240204096137c1e47ea148
+      internalID: 2063380104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Krabby_27
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 7
+        width: 155
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a6cef5604c4ac4a9b047f59aca1eb9
+      internalID: -897689524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Krabby_28
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 7
+        width: 155
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c051eac4742a84a8ae14e48fae05e4
+      internalID: -1784973438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Krabby_29
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 7
+        width: 155
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070b743fe011e054db3a317cec60ef24
+      internalID: -213512175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Krabby_30
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 7
+        width: 155
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9152c5289463fdd45931fdc04a4fa11e
+      internalID: 1667703249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Krabby_31
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 7
+        width: 155
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c6417ce7192e645acd4d9e8158d990
+      internalID: -542757480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Krabby_32
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 7
+        width: 155
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10e3548f5ba016448c308fec1274713
+      internalID: -647796501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PlayStation - Breath of Fire 4 - Krabby_0: 792816577
+      PlayStation - Breath of Fire 4 - Krabby_1: -1462819699
+      PlayStation - Breath of Fire 4 - Krabby_10: 2100715974
+      PlayStation - Breath of Fire 4 - Krabby_11: -1800543251
+      PlayStation - Breath of Fire 4 - Krabby_12: -491341582
+      PlayStation - Breath of Fire 4 - Krabby_13: -1931451860
+      PlayStation - Breath of Fire 4 - Krabby_14: 289563326
+      PlayStation - Breath of Fire 4 - Krabby_15: -215035561
+      PlayStation - Breath of Fire 4 - Krabby_16: -711146180
+      PlayStation - Breath of Fire 4 - Krabby_17: -1531094017
+      PlayStation - Breath of Fire 4 - Krabby_18: -1442252045
+      PlayStation - Breath of Fire 4 - Krabby_19: -1437767739
+      PlayStation - Breath of Fire 4 - Krabby_2: 1629983338
+      PlayStation - Breath of Fire 4 - Krabby_20: -1916748820
+      PlayStation - Breath of Fire 4 - Krabby_21: -118072864
+      PlayStation - Breath of Fire 4 - Krabby_22: 1299747667
+      PlayStation - Breath of Fire 4 - Krabby_23: 640865634
+      PlayStation - Breath of Fire 4 - Krabby_24: 1454555317
+      PlayStation - Breath of Fire 4 - Krabby_25: 798788432
+      PlayStation - Breath of Fire 4 - Krabby_26: 2063380104
+      PlayStation - Breath of Fire 4 - Krabby_27: -897689524
+      PlayStation - Breath of Fire 4 - Krabby_28: -1784973438
+      PlayStation - Breath of Fire 4 - Krabby_29: -213512175
+      PlayStation - Breath of Fire 4 - Krabby_3: -1265607166
+      PlayStation - Breath of Fire 4 - Krabby_30: 1667703249
+      PlayStation - Breath of Fire 4 - Krabby_31: -542757480
+      PlayStation - Breath of Fire 4 - Krabby_32: -647796501
+      PlayStation - Breath of Fire 4 - Krabby_4: 1157591951
+      PlayStation - Breath of Fire 4 - Krabby_5: -2004967773
+      PlayStation - Breath of Fire 4 - Krabby_6: -1438623732
+      PlayStation - Breath of Fire 4 - Krabby_7: -925607006
+      PlayStation - Breath of Fire 4 - Krabby_8: -1219666546
+      PlayStation - Breath of Fire 4 - Krabby_9: -1466978412
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

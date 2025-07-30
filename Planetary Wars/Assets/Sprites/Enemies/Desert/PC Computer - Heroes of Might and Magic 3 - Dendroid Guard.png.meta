@@ -1,0 +1,797 @@
+fileFormatVersion: 2
+guid: e642f2434f571cd47a218f0b27928f72
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1184
+        width: 43
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada497dd314368a4fad101ecde477bef
+      internalID: -95374249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1184
+        width: 43
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9397bb48aa955c2409c49983c6a1c37c
+      internalID: 595358363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_2
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1184
+        width: 43
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810ca49a824adbe43bfca9504d78c8fd
+      internalID: -113951661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_3
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1184
+        width: 43
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a636ae1a062fc4f8f7332cc6743775
+      internalID: 1818949590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_4
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1184
+        width: 43
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98d1bc08c7acaf44a2124152192b7d6
+      internalID: 532781293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_5
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1184
+        width: 43
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e61c31b2ed3f3d45b4ecb4342be62d9
+      internalID: -1283905521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_6
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1184
+        width: 43
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fd9c648a8bf614dbea6257584a184f
+      internalID: -116038283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_7
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1184
+        width: 43
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedbac3c543859a4b842c2a2c65fc02d
+      internalID: -4190368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_8
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1049
+        width: 63
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efb22b9d0e65f6449d1bec16a4a42b4
+      internalID: -922465611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_9
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1049
+        width: 77
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4656ea7ce42c3e546903b9c5ba136c6f
+      internalID: 335012511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_10
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1049
+        width: 82
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb15bdb873a60a34787e6c096f37436a
+      internalID: -2003499420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_11
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1049
+        width: 69
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa7662f8a3c3334ab0f4f975170c0c1
+      internalID: -705402508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_12
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1049
+        width: 53
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2937ccc6f2d22774db62567388fecb03
+      internalID: 1935128324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_13
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1049
+        width: 50
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a090e084cb7f4646a16e9c0b9473fa2
+      internalID: 397432489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_14
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1049
+        width: 63
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce4953bc2e7fb0498e1f368684e8760
+      internalID: 671042266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_15
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 461
+        width: 78
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22de53c857b5bb349a3d1044b4bb78ab
+      internalID: 148416745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_16
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 461
+        width: 91
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9a855aee3873549b95339ac17c1546
+      internalID: 1103296883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_17
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 464
+        width: 77
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c361c8588a090a4db65f35e7eefc2c3
+      internalID: -167998772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_18
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 461
+        width: 68
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e24e5034d0e9884b9716be969cae99a
+      internalID: -984658433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_19
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 461
+        width: 59
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046e1bbae995ca547b7a6e4771e28f81
+      internalID: 1911119530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_20
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 461
+        width: 56
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd49c3e39fc77c449b1416b98269652b
+      internalID: 1286574083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_21
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 128
+        width: 89
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef9aa7cece472745955f03b32987588
+      internalID: -1067583804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_22
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 128
+        width: 86
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8935a5aaa18c94a8bec2b1da89d95d
+      internalID: -1833133455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_23
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 128
+        width: 78
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd0a62f972ad79459e8a0cb88f6c883
+      internalID: -422504888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_24
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 128
+        width: 62
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834657df6abcdf941ae41f6e66e4548e
+      internalID: 246027517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_25
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 128
+        width: 48
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc71581b6d9830542a3ed5dc24e5faac
+      internalID: -419119467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_26
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 128
+        width: 46
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2292ddb738e2fa94aaca84bfe9d8d373
+      internalID: 488274333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_27
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 128
+        width: 45
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19cd2d79cff7bd46b41043e6b21c9fe
+      internalID: 1418343864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 909
+        width: 63
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d1d64deee96d04a97b55f085a6fe40
+      internalID: 819864360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_29
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 909
+        width: 63
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd40c86ad3538e4992c4977eafdf862
+      internalID: 1739228187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_30
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1049
+        width: 50
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ce3ace65697de4e9636e89d1ecd352
+      internalID: 828866075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_0: -95374249
+      PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_1: 595358363
+      PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_10: -2003499420
+      PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_11: -705402508
+      PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_12: 1935128324
+      PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_13: 397432489
+      PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_14: 671042266
+      PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_15: 148416745
+      PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_16: 1103296883
+      PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_17: -167998772
+      PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_18: -984658433
+      PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_19: 1911119530
+      PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_2: -113951661
+      PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_20: 1286574083
+      PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_21: -1067583804
+      PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_22: -1833133455
+      PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_23: -422504888
+      PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_24: 246027517
+      PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_25: -419119467
+      PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_26: 488274333
+      PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_27: 1418343864
+      PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_28: 819864360
+      PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_29: 1739228187
+      PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_3: 1818949590
+      PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_30: 828866075
+      PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_31: 1641005006
+      PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_4: 532781293
+      PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_5: -1283905521
+      PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_6: -116038283
+      PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_7: -4190368
+      PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_8: -922465611
+      PC Computer - Heroes of Might and Magic 3 - Dendroid Guard_9: 335012511
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

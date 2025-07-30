@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: ee3bb3ebfda5a85439262685c06afd13
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Skeleton_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 370
+        width: 40
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05dd7d9cb4ca93d4c8f30bcbff73b8f9
+      internalID: 752311048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Skeleton_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 371
+        width: 37
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560f03542b572244094e2009941998f8
+      internalID: 1774224754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Skeleton_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 371
+        width: 38
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73efa9863086b61488291f5512718bfb
+      internalID: 2097693313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Skeleton_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 371
+        width: 40
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be81f82001463240b938de9aec01c67
+      internalID: -2008903564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Skeleton_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 371
+        width: 40
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7171d0cfe1e6b4e87d1fb959aa9f02
+      internalID: 1671067127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Skeleton_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 292
+        width: 40
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e0ccc2754c2284d81d4b28063f9bc4
+      internalID: -273766736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Skeleton_6
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 292
+        width: 42
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d6f0d9c7bd4a2468702ceef75a0ad3
+      internalID: -202549520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Skeleton_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 292
+        width: 42
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67dfbf9548235894d8b84b503320c6c9
+      internalID: -1714429184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Skeleton_8
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 292
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d7ed395f1afcc4cb54db8bff65a52d
+      internalID: 1429509551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Skeleton_9
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 292
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23da71917092c0047aca042ebdb5d1cf
+      internalID: 1214028141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Skeleton_10
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 292
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c7c78a86885e343b2c5762ea9073e4
+      internalID: 2005997956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Skeleton_11
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 292
+        width: 47
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe11cefdeb2ec744bfb72c7470da73d
+      internalID: -527395868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Skeleton_12
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 292
+        width: 42
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7382047f616bce14ca22e226801b60fd
+      internalID: 183046425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Skeleton_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 292
+        width: 37
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e45825b1698dc4caf6959429c66b97
+      internalID: -1557834984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Skeleton_17
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 196
+        width: 51
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a245812cc104a7469585980a15ace54
+      internalID: 1112417061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Skeleton_18
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 196
+        width: 58
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1356bfd3a023fa14a8cc6fc713f7dd02
+      internalID: 1040237116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Skeleton_19
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 195
+        width: 50
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07a806ce3574534289b18909b22d14a
+      internalID: 171317548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Skeleton_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 195
+        width: 46
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e66ca083bacca448241369d3959a2a
+      internalID: -1923294964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Skeleton_21
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 196
+        width: 42
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad780c6bb18246f4299c85adbe677d80
+      internalID: 1845660752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Skeleton_22
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 11
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7688f049e1d9134d8a91945ec9af396
+      internalID: -287657223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Skeleton_23
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 11
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bda9cad663ba8458558446f17e491b
+      internalID: -63587189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Skeleton_24
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 11
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d62ddd072e6f94480453abe2d78962
+      internalID: -1336900707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Skeleton_25
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 11
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b419d2ec57f5cb4aa90bee285b6a11d
+      internalID: 86644062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Skeleton_26
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 11
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d3ec47233d899489abfe318bffae65
+      internalID: -1444168028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Skeleton_27
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 11
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb170d3bb1174e4f8ef3642af55d354
+      internalID: 382174455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Skeleton_28
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 11
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9d402f3d9c04040a27565583767a7b
+      internalID: -1307257882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MS-DOS - Heroes of Might and Magic II - Skeleton_0: 752311048
+      MS-DOS - Heroes of Might and Magic II - Skeleton_1: 1774224754
+      MS-DOS - Heroes of Might and Magic II - Skeleton_10: 2005997956
+      MS-DOS - Heroes of Might and Magic II - Skeleton_11: -527395868
+      MS-DOS - Heroes of Might and Magic II - Skeleton_12: 183046425
+      MS-DOS - Heroes of Might and Magic II - Skeleton_13: -1557834984
+      MS-DOS - Heroes of Might and Magic II - Skeleton_14: -297537543
+      MS-DOS - Heroes of Might and Magic II - Skeleton_15: -782090286
+      MS-DOS - Heroes of Might and Magic II - Skeleton_16: -21571538
+      MS-DOS - Heroes of Might and Magic II - Skeleton_17: 1112417061
+      MS-DOS - Heroes of Might and Magic II - Skeleton_18: 1040237116
+      MS-DOS - Heroes of Might and Magic II - Skeleton_19: 171317548
+      MS-DOS - Heroes of Might and Magic II - Skeleton_2: 2097693313
+      MS-DOS - Heroes of Might and Magic II - Skeleton_20: -1923294964
+      MS-DOS - Heroes of Might and Magic II - Skeleton_21: 1845660752
+      MS-DOS - Heroes of Might and Magic II - Skeleton_22: -287657223
+      MS-DOS - Heroes of Might and Magic II - Skeleton_23: -63587189
+      MS-DOS - Heroes of Might and Magic II - Skeleton_24: -1336900707
+      MS-DOS - Heroes of Might and Magic II - Skeleton_25: 86644062
+      MS-DOS - Heroes of Might and Magic II - Skeleton_26: -1444168028
+      MS-DOS - Heroes of Might and Magic II - Skeleton_27: 382174455
+      MS-DOS - Heroes of Might and Magic II - Skeleton_28: -1307257882
+      MS-DOS - Heroes of Might and Magic II - Skeleton_3: -2008903564
+      MS-DOS - Heroes of Might and Magic II - Skeleton_4: 1671067127
+      MS-DOS - Heroes of Might and Magic II - Skeleton_5: -273766736
+      MS-DOS - Heroes of Might and Magic II - Skeleton_6: -202549520
+      MS-DOS - Heroes of Might and Magic II - Skeleton_7: -1714429184
+      MS-DOS - Heroes of Might and Magic II - Skeleton_8: 1429509551
+      MS-DOS - Heroes of Might and Magic II - Skeleton_9: 1214028141
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

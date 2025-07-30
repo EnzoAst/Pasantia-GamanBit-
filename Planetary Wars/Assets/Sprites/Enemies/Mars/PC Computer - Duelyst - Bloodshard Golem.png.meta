@@ -1,0 +1,1412 @@
+fileFormatVersion: 2
+guid: 36002ebba310e544b83330a0adb406e6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 422
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458b6b4777bc3934bafb36c172cdb747
+      internalID: 221267627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 422
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdb7ac86c01bd344a64e51d4704a677
+      internalID: -744872358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 422
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc6e62e26928e44fb145b05cbeed091
+      internalID: 1158542231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_3
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 422
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40179ddd283338648a08f959f451a175
+      internalID: 960217041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_4
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 422
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6deaa324ef3542347a31d09cc63804b1
+      internalID: 1922257335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_5
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 422
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8f8677b5b52d74dbd0effc6050785b
+      internalID: -1138441614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_6
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 422
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73b7879f9a3c674a923746cdb26c4b0
+      internalID: 1856763274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 422
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b185b958d9ca44d84015ce03212220
+      internalID: 1013672348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_8
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 422
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8feae4c135dcc941b83c1fd62c2cfc6
+      internalID: 1563324627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_9
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 422
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99f8e5463f96264e946a2acd96c6247
+      internalID: 418108043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_10
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 422
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ec77dd69ab21c40bc8616ddbed81b7
+      internalID: 2135028425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_11
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 422
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e7cc5690393dd4b80c985c3f986cc9
+      internalID: -2138219009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_12
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 422
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9877409945ede9047a7aa71cba1b6b4c
+      internalID: -2118213463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_13
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 422
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643a21a2eeeb3bd4aa7fdcdcba755b7f
+      internalID: 106357609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_14
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 338
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ef3d809bcfb044ca5edb940057f85f
+      internalID: 1113815033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_15
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 338
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0b573379a09b0478512c50e1775d01
+      internalID: 1916265811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_16
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 338
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4c4e025c4307a44858f2fd0604b244
+      internalID: 135271083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_17
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 338
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a0dedcccbcefa4b842544df2cbd136
+      internalID: -2093784567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_18
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 338
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b90252b23c18a4aa9b4702ece8e189
+      internalID: 797370186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_19
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 338
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b898bed0c2e224891b0bb6acdd5ade
+      internalID: -1087031742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_20
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 338
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd5e623a5249c041a63d9fc0edd3b28
+      internalID: 401369192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_21
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 338
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c15244829b2614596cd3b16927d07c
+      internalID: -307468922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_22
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 338
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c59b46a7a30014e805104d9687cbe3
+      internalID: -1781627902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_23
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 338
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee5f7f907033754891d24160b4ac4e0
+      internalID: -1494299388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_24
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 338
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e41b356763410844a88493c1841e45d
+      internalID: -1137859364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_25
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 338
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6567cb007c3391349b9f8dcbeee891b6
+      internalID: -1763584990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_26
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 338
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b47d3f56cd5c1478b7aed51b05adb0
+      internalID: -1362783246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 338
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4e0040822f9bb48bb01ced4cc3db89
+      internalID: 1093486754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 254
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b18ed52d1cc094884431c4e4c32d2a
+      internalID: 1017738104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_29
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 254
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f25fb53b7344c448b2f7c94c8c4b1b
+      internalID: -32025948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_30
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 254
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3d0ac9199dbc949a3197be8708b257
+      internalID: 75641350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_31
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 254
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbd0080b402c9b47bc222301f47cadc
+      internalID: -2029606195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_32
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 254
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5478a50b77b42408d872cfb952aec6
+      internalID: 1416382455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_33
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 254
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a70aa1fb47aaf4cbacc24f1eb44969
+      internalID: 220556748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_34
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 254
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d969410397f700c43b6ef9cc90dfcde8
+      internalID: -204818274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_35
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 254
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15164fc32eab4004eb1c92ef828b38f8
+      internalID: 770945089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_36
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 170
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a9bb9d7abc6ab47a8c6509625b365e
+      internalID: 1043951618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_37
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 170
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860210a13085c174990583d01f4bdaaa
+      internalID: -550530001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_38
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 170
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1415c2e3cfa12a34bace3391e9ec5c34
+      internalID: 102063552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_39
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 170
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cccf3260d554f4cbbb4416b000c231
+      internalID: 1974361769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_40
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 170
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f987b39c0f471d241b2b6821dfab3244
+      internalID: -2105654717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_41
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 170
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a7cad894874924580d55ce473f6173
+      internalID: 834391061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_42
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 170
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37e8080689b9c444915c227969eeef7
+      internalID: -276564147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_43
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 170
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ddc64a13d021f4b9f7484b887170bf
+      internalID: -1980165839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_44
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 170
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c68ad903546bdf4d801712569304157
+      internalID: 126541721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_45
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 170
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372eeea87dd162c48b660a0c2fd0c1e9
+      internalID: -589612502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_46
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 170
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8682e8c9cd9ff4396b4dcd3e23784d
+      internalID: 2079007884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 170
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9e2fa46e9ed2647b0a0c35ca4199c0
+      internalID: -722824302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 86
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ead8b6ba73ff6b4f89c4e3b3d380243
+      internalID: 1870930823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_49
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 86
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fc1ae0aec9cf44aa1380e4b3a8c643
+      internalID: -1090338040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_50
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 86
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011ca8d18358d1340a0fab94585e2d5d
+      internalID: 327223757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_51
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54863cdca340454d88d29b5d3bb70f9
+      internalID: 1356265681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_52
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779cb1d30dace88499787e56b89a1a41
+      internalID: 651868997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_53
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7fc709d1d7e6649b9c543a9321dfc0
+      internalID: -355702320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_54
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718f5519fa3545b49861a96a282d9a89
+      internalID: 1978912667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_55
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec3c68f4988d6a4a82519468580035e
+      internalID: 429880763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_56
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 2
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed2f5704ef8b3246938cae9a28089c5
+      internalID: -236659283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_57
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 2
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a15fd5fedcd23f42aa1fbbc3c2b39b7
+      internalID: 1124878026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bloodshard Golem_58
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40995b6ce23b7a41a9222f3772fbc62
+      internalID: -1722570919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Duelyst - Bloodshard Golem_0: 221267627
+      PC Computer - Duelyst - Bloodshard Golem_1: -744872358
+      PC Computer - Duelyst - Bloodshard Golem_10: 2135028425
+      PC Computer - Duelyst - Bloodshard Golem_11: -2138219009
+      PC Computer - Duelyst - Bloodshard Golem_12: -2118213463
+      PC Computer - Duelyst - Bloodshard Golem_13: 106357609
+      PC Computer - Duelyst - Bloodshard Golem_14: 1113815033
+      PC Computer - Duelyst - Bloodshard Golem_15: 1916265811
+      PC Computer - Duelyst - Bloodshard Golem_16: 135271083
+      PC Computer - Duelyst - Bloodshard Golem_17: -2093784567
+      PC Computer - Duelyst - Bloodshard Golem_18: 797370186
+      PC Computer - Duelyst - Bloodshard Golem_19: -1087031742
+      PC Computer - Duelyst - Bloodshard Golem_2: 1158542231
+      PC Computer - Duelyst - Bloodshard Golem_20: 401369192
+      PC Computer - Duelyst - Bloodshard Golem_21: -307468922
+      PC Computer - Duelyst - Bloodshard Golem_22: -1781627902
+      PC Computer - Duelyst - Bloodshard Golem_23: -1494299388
+      PC Computer - Duelyst - Bloodshard Golem_24: -1137859364
+      PC Computer - Duelyst - Bloodshard Golem_25: -1763584990
+      PC Computer - Duelyst - Bloodshard Golem_26: -1362783246
+      PC Computer - Duelyst - Bloodshard Golem_27: 1093486754
+      PC Computer - Duelyst - Bloodshard Golem_28: 1017738104
+      PC Computer - Duelyst - Bloodshard Golem_29: -32025948
+      PC Computer - Duelyst - Bloodshard Golem_3: 960217041
+      PC Computer - Duelyst - Bloodshard Golem_30: 75641350
+      PC Computer - Duelyst - Bloodshard Golem_31: -2029606195
+      PC Computer - Duelyst - Bloodshard Golem_32: 1416382455
+      PC Computer - Duelyst - Bloodshard Golem_33: 220556748
+      PC Computer - Duelyst - Bloodshard Golem_34: -204818274
+      PC Computer - Duelyst - Bloodshard Golem_35: 770945089
+      PC Computer - Duelyst - Bloodshard Golem_36: 1043951618
+      PC Computer - Duelyst - Bloodshard Golem_37: -550530001
+      PC Computer - Duelyst - Bloodshard Golem_38: 102063552
+      PC Computer - Duelyst - Bloodshard Golem_39: 1974361769
+      PC Computer - Duelyst - Bloodshard Golem_4: 1922257335
+      PC Computer - Duelyst - Bloodshard Golem_40: -2105654717
+      PC Computer - Duelyst - Bloodshard Golem_41: 834391061
+      PC Computer - Duelyst - Bloodshard Golem_42: -276564147
+      PC Computer - Duelyst - Bloodshard Golem_43: -1980165839
+      PC Computer - Duelyst - Bloodshard Golem_44: 126541721
+      PC Computer - Duelyst - Bloodshard Golem_45: -589612502
+      PC Computer - Duelyst - Bloodshard Golem_46: 2079007884
+      PC Computer - Duelyst - Bloodshard Golem_47: -722824302
+      PC Computer - Duelyst - Bloodshard Golem_48: 1870930823
+      PC Computer - Duelyst - Bloodshard Golem_49: -1090338040
+      PC Computer - Duelyst - Bloodshard Golem_5: -1138441614
+      PC Computer - Duelyst - Bloodshard Golem_50: 327223757
+      PC Computer - Duelyst - Bloodshard Golem_51: 1356265681
+      PC Computer - Duelyst - Bloodshard Golem_52: 651868997
+      PC Computer - Duelyst - Bloodshard Golem_53: -355702320
+      PC Computer - Duelyst - Bloodshard Golem_54: 1978912667
+      PC Computer - Duelyst - Bloodshard Golem_55: 429880763
+      PC Computer - Duelyst - Bloodshard Golem_56: -236659283
+      PC Computer - Duelyst - Bloodshard Golem_57: 1124878026
+      PC Computer - Duelyst - Bloodshard Golem_58: -1722570919
+      PC Computer - Duelyst - Bloodshard Golem_6: 1856763274
+      PC Computer - Duelyst - Bloodshard Golem_7: 1013672348
+      PC Computer - Duelyst - Bloodshard Golem_8: 1563324627
+      PC Computer - Duelyst - Bloodshard Golem_9: 418108043
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

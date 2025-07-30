@@ -1,0 +1,2277 @@
+fileFormatVersion: 2
+guid: c3b7ec6e9ab30e648aa74c56e8b99041
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_0
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961f20e3b80c52a428d953b74e70d4d0
+      internalID: -2083174000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_1
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d6cc0235a752d46bb6d0217b44a463
+      internalID: -1555706933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_2
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0a56ff33979894a9c57939ec313c75
+      internalID: -1686062190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_3
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3c92d1fabbc6e4d8518ddaeda58388
+      internalID: -2123624432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_4
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8086d62e3b424419415185ab303261
+      internalID: -935402449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_5
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83787afa652e04a4e8e1ac68799c98d7
+      internalID: 55513039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_6
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2668ff988b07c284888e56953a6b8325
+      internalID: -1054347767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_7
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec62ac5fc3b8f1448e8afbe1dee3176
+      internalID: -1321474010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_8
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1138715def16db4b87375cc218c7501
+      internalID: 965160522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_9
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fd67bb8c4b1a448b01b6aa48d86fc3
+      internalID: -2139790345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_10
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fc075b8df756047a4b95339211135b
+      internalID: -1849202966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_11
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb35dac850522745965dca05320dad6
+      internalID: -1067574889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_12
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 483
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac94410ff016bd4b8d9247978810e5f
+      internalID: 1325253081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_13
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 483
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb814334416743b408ba06642f2c2d78
+      internalID: 1252115537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_14
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 458
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564f9e55685befe4ca1ea640d75d59f9
+      internalID: -2133705706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_15
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 458
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089ccb02183684b49acc46875835f478
+      internalID: 1234336593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_16
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 433
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a874363b5ab2660408976b67ca0de8b4
+      internalID: -973400301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_17
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c54b3576fcaa74a8ba8d9a603f8501
+      internalID: 670691761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_18
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b20cf3701fff14db970a75d537a389
+      internalID: -1232316143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_19
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b81cda68a79d11438d323b6eac408c3
+      internalID: 123550807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_20
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 383
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30b6e8a76d289342a6daec0e567a78d
+      internalID: 1114155209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_21
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 358
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c3c68e80e916c4eb29de165755badb
+      internalID: 62701753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_22
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 333
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a44366a6620a6e42b3ce2b736651e6d
+      internalID: -1567546139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_23
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 333
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf90e860da996240b8e502c11553d28
+      internalID: 15802840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_24
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 308
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54822cd86aaa5c045abb97bfd3eca03b
+      internalID: 1757303803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_25
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 283
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9529c4e6f2cab8545a934f6aeabfaae6
+      internalID: -879056139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_26
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 258
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61139d729748a864299e5ecf919bc62f
+      internalID: -932621428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_27
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 258
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a13fbb3e7a1204fbb21c9235bff587
+      internalID: 1351161063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_28
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 233
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d330239222e04954eb80205da706ab3e
+      internalID: -711697225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_29
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 208
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4a0a5dc5dc64b488d39e4c422e2e75
+      internalID: -1380343999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_30
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 208
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029d893cddf6f974b9ebe0ec69d64851
+      internalID: 2077135820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_31
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 183
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6513b72f01fda4eb513680c88abd21
+      internalID: -737912283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_32
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 183
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad0b0e233b2151419adccb5d80deb11
+      internalID: 937317031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_33
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 158
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ee04515d9f8b04d8af94ebd9a857db
+      internalID: -1490553520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_34
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 158
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a627e6f5593050438007b441259d3db
+      internalID: 822655860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_35
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 133
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3354da18246a84b87ace8331c9fd5c
+      internalID: 1687418533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_36
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 133
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339cc34434fae9b458236e755a61c04d
+      internalID: 1479099624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_37
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 108
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2359e4c02ef503943a891c3563848888
+      internalID: -1823088039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_38
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 108
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c6cfe132dd1a1489db1f18d3ce9b19
+      internalID: 1371037696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_39
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 83
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458e6051c999eb041b3eaa9de34c0c57
+      internalID: -332375285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_40
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 83
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b186e81c2342b4fb96e808e855fe9c
+      internalID: -2061188217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_41
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 58
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f9aad69fac3b441ba69e7a65f528d9
+      internalID: -1280619599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_42
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 58
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d66ed217c839dc41beee4a2eca28abe
+      internalID: 1976110288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_43
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 33
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a25858a9174cd34392363ccbe8337f8
+      internalID: -315149479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_44
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 33
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9710c17d9aa65d4989751ffad468ff8
+      internalID: -234021853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_45
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77e7a48b43d30d408fb80545f2b6d0d
+      internalID: 1650871821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_46
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0814d8f8fa6e2484891619e81f6caca2
+      internalID: 965046350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_47
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6983c2d4229445a49abc4cc250f73967
+      internalID: -1254650012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_48
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1fb0af57a57084cb180b0a052b3a63
+      internalID: -127741024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_49
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828c048d66e9913459fa2a52d98c0b26
+      internalID: 1225606458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ec080b77f6c9346ba4b6cd291100cf
+      internalID: -1309554665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_51
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e14bb294a514584abcbe72d78b8d9b4
+      internalID: -682366133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_52
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0b3d0be9756bc4e853e308ad68d0d5
+      internalID: 946501177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_53
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18b97d77e93ba844bf92dde9d2794bf
+      internalID: 1137668888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_54
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31d2c2549d919b4883c58b5c32e8a61
+      internalID: 848585873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_55
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2f8392f408fd540bb90bb048b850c1
+      internalID: -1720401927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_56
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f20fc9cce4ee0744b49bbd1ad8c58e1
+      internalID: -1120615399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_57
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47db43bb1abfc5640b452a07da9e2bda
+      internalID: 266429904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9375daff92aa2479dc5dd4c2663785
+      internalID: -1696589622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_59
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 483
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5583213998a54469359d73aa552424
+      internalID: -1578452118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_60
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 483
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2196b956d13b74e409d4bb164024e78a
+      internalID: 862051675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_61
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 458
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d86712b84670549a2fcb7eb722cfeb
+      internalID: 320403065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_62
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 458
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e48754a1915cf47852db9e1bf5c4f8
+      internalID: -408986304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_63
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 433
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017099fa6b67f0d4289b060d7da28419
+      internalID: -981659029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_64
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a6e051728d2ce4d9f6cc28a3da06c5
+      internalID: -1603137271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_65
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c897bed2825546046b61f471090a4d4f
+      internalID: 247451770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_66
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003f0839418377348a04bb0e19e563cb
+      internalID: 1765210669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_67
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 383
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88da7457468904498cce55af6dd6c65
+      internalID: 399757809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_68
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 358
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505976e64f894f34c8c010ce84006e25
+      internalID: 1264347985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_69
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 333
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91486fd99f35bbf4a9d46d7da885456c
+      internalID: -230284524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_70
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 333
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b25478863f20142999ff23e995727a
+      internalID: 351762356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_71
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 308
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5488c7637488c64aa91063066066494
+      internalID: -1546344323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_72
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 283
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8c3e25902c76c42a405d4c73e444f1
+      internalID: 1674864013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_73
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 258
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2aeb46ac80a3cc44af6be49e4393df6
+      internalID: 292696649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_74
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 258
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffe61e691736da439b8279a688054f1
+      internalID: -565673074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_75
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 233
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4091d2e0fe10f3d499b9163dfdf3e903
+      internalID: 64651409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 208
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743f07ff60aa1904d81cfc9003a9e633
+      internalID: 1471804372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_77
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 208
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cc912aabf8bb945bf73368a3289748
+      internalID: 789550911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_78
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 183
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfcd88a01d4c7b4ea7088b24313ad26
+      internalID: -1599705659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_79
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 183
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75fc57b04495b44f8bce01feeed24f8
+      internalID: -2015804202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_80
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 158
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b34b141391d90c4ba57ce24805a8fac
+      internalID: -147758119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_81
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 158
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a181901914deb74784f75a3cf690d3d
+      internalID: -1283663121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_82
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 133
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248e9614e26b87f40bf6f5423e666740
+      internalID: -1050226521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_83
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 133
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d5a9a96e8cdb14e8532c9b96342ab9
+      internalID: -856951458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 108
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca409f7f62de2c748a29069a7511b4f6
+      internalID: 889821541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_85
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 108
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9a1eed7a3679f43b9edcd4af60765d
+      internalID: -1466787553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_86
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 83
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebea080ee6548945ab930cfb8344272
+      internalID: 1367472544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_87
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 83
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b453e3a029cb26d47ab35c6047437414
+      internalID: -1876690190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_88
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 58
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06240b89a8ad70c4cb2f97597037b007
+      internalID: -364398271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_89
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 58
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea1981c69d64d14aa0997c6c94e31f1
+      internalID: -1786472865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_90
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 33
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d19e7de1edeb48489a493e18e90993b
+      internalID: -1880756349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_91
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 33
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccff75ecc5a7014dad4b7bf76cc32b3
+      internalID: 1053560241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab540339bdb35a54d8029d9047b7d3fc
+      internalID: 492533964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea
+        B01F - B16F_93
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5086cce18eecb4dbe8dcc403463889
+      internalID: 1573829084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_0: -2083174000
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_1: -1555706933
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_10: -1849202966
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_11: -1067574889
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_12: 1325253081
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_13: 1252115537
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_14: -2133705706
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_15: 1234336593
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_16: -973400301
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_17: 670691761
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_18: -1232316143
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_19: 123550807
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_2: -1686062190
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_20: 1114155209
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_21: 62701753
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_22: -1567546139
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_23: 15802840
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_24: 1757303803
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_25: -879056139
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_26: -932621428
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_27: 1351161063
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_28: -711697225
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_29: -1380343999
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_3: -2123624432
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_30: 2077135820
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_31: -737912283
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_32: 937317031
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_33: -1490553520
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_34: 822655860
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_35: 1687418533
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_36: 1479099624
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_37: -1823088039
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_38: 1371037696
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_39: -332375285
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_4: -935402449
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_40: -2061188217
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_41: -1280619599
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_42: 1976110288
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_43: -315149479
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_44: -234021853
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_45: 1650871821
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_46: 965046350
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_47: -1254650012
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_48: -127741024
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_49: 1225606458
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_5: 55513039
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_50: -1309554665
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_51: -682366133
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_52: 946501177
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_53: 1137668888
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_54: 848585873
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_55: -1720401927
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_56: -1120615399
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_57: 266429904
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_58: -1696589622
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_59: -1578452118
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_6: -1054347767
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_60: 862051675
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_61: 320403065
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_62: -408986304
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_63: -981659029
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_64: -1603137271
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_65: 247451770
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_66: 1765210669
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_67: 399757809
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_68: 1264347985
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_69: -230284524
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_7: -1321474010
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_70: 351762356
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_71: -1546344323
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_72: 1674864013
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_73: 292696649
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_74: -565673074
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_75: 64651409
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_76: 1471804372
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_77: 789550911
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_78: -1599705659
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_79: -2015804202
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_8: 965160522
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_80: -147758119
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_81: -1283663121
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_82: -1050226521
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_83: -856951458
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_84: 889821541
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_85: -1466787553
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_86: 1367472544
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_87: -1876690190
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_88: -364398271
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_89: -1786472865
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_9: -2139790345
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_90: -1880756349
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_91: 1053560241
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_92: 492533964
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_93: 1573829084
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Stormy Sea B01F - B16F_94: 1252263311
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

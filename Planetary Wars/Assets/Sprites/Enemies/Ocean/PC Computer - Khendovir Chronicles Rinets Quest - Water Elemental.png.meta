@@ -1,0 +1,735 @@
+fileFormatVersion: 2
+guid: fe1ee0d12c6ae2e4bb3c84213e95dc82
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1107
+        width: 229
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5d23348f2a1cc4d8f5477f6a50f8b3
+      internalID: 1451889621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1107
+        width: 226
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b933db1e0d0ed498e43b7b8693e6dd
+      internalID: 1974155673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_2
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1107
+        width: 223
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ad15e39d81f7f44907d0d9882a9f48
+      internalID: -2074849816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_3
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1106
+        width: 237
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd50bc4d1a10db4ea2fc03ecb9ff134
+      internalID: 2009762370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_4
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 1106
+        width: 242
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02439addd08c48549a1a82422ef63701
+      internalID: -278544254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_5
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 1106
+        width: 248
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9047d04c8806643b9f7d7cf813f846
+      internalID: 1893943484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_36
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 222
+        width: 190
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e961688d67cfca147a8f8c1c2489d539
+      internalID: 826618857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_37
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 222
+        width: 200
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2412ea00b9382c48aff4e2d51336812
+      internalID: 1702221062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_38
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 223
+        width: 218
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4974edfef44fe418d1b42c360e250a
+      internalID: 73583825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_45
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 3
+        width: 210
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8144d91b3b6146448deedfb4e2b052f
+      internalID: -1925768462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_46
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 0
+        width: 212
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4904bb09725db47428797e751ed9b2c8
+      internalID: -421529632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_47
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 3
+        width: 214
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13d9a3cb0b401741b16b00ab091a4be
+      internalID: -51797201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_48
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1
+        width: 189
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13fb3b2799592349b9cd2b3c43c0236
+      internalID: 1506174936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_49
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 3
+        width: 188
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f33ed98a6b69a4bb25a8e1074650b9
+      internalID: 603603686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_50
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 3
+        width: 189
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d529efbe95c418449f2ab89c0a154f8
+      internalID: 1368158721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_51
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 6
+        width: 192
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cef038d51e5f34884c3064ad68539e
+      internalID: -913449764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_52
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 6
+        width: 192
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcf939124947244ca05a6d1b51bb676
+      internalID: 2111304944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_53
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 6
+        width: 192
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3637e55e3e5d894885dfbaa0fe8ae4b
+      internalID: 163152881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_6
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 444
+        width: 190
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd8c08f78c63fc44ae4d99fdb4b4a79
+      internalID: -1799037817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_7
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 443
+        width: 190
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac873bf0ed4db9a4f92165afb9d2801b
+      internalID: -1479245876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_8
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 444
+        width: 190
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8503a8a9fee3a8849acc6d15e0ab7c40
+      internalID: 1874581396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_9
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 886
+        width: 257
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd1c2af490f74e459cc359a23b402be
+      internalID: -223866387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_10
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 885
+        width: 257
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7623bbc12a5c15c4684128960679acb1
+      internalID: -181241893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_11
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 885
+        width: 258
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23896a8a4a8a656459096b4817c41ac1
+      internalID: 1910800307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_12
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 886
+        width: 258
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e314d9557b37a49a3feec223cf9ae9
+      internalID: 624568267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_13
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 886
+        width: 258
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5bb2cebb260d94eab230b241bd605e
+      internalID: -1911019354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_14
+      rect:
+        serializedVersion: 2
+        x: 2391
+        y: 886
+        width: 258
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f337c38139adab74785bca0f560419d4
+      internalID: 120354417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_0: 1451889621
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_1: 1974155673
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_10: -181241893
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_11: 1910800307
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_12: 624568267
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_13: -1911019354
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_14: 120354417
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_15: 57602808
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_16: 206104261
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_17: -1282323560
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_18: 665847940
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_19: -1972734289
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_2: -2074849816
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_20: 453864819
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_21: -1409358355
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_22: -1570541857
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_23: -741066934
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_24: -756855552
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_25: -1383270553
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_26: 991435081
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_27: 610135210
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_28: 418113197
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_29: 827733081
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_3: 2009762370
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_30: -1990937685
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_31: 28071545
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_32: -827291059
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_33: -1424974256
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_34: -1201284242
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_35: -573737552
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_36: 826618857
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_37: 1702221062
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_38: 73583825
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_39: -1184220652
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_4: -278544254
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_40: 284859619
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_41: 529403451
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_42: 1228751506
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_43: 2079868338
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_44: 19840611
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_45: -1925768462
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_46: -421529632
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_47: -51797201
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_48: 1506174936
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_49: 603603686
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_5: 1893943484
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_50: 1368158721
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_51: -913449764
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_52: 2111304944
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_53: 163152881
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_6: -1799037817
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_7: -1479245876
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_8: 1874581396
+      PC Computer - Khendovir Chronicles Rinets Quest - Water Elemental_9: -223866387
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

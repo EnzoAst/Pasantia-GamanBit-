@@ -1,0 +1,3309 @@
+fileFormatVersion: 2
+guid: d8246bb184ea3b44ebdb5dc688dde56e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 795
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0322d010ffd4b844b8b9fd6a4dbff827
+      internalID: 1741627260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_2
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 839
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e36ef4747fd1a468c51e0cfa56cab4
+      internalID: 1255643841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_3
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 838
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842a329cc0f22934bb04e0ce0181f1ac
+      internalID: -1485859149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 839
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbab58ce87037864eb00df1f593cb881
+      internalID: 1055568519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_5
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 838
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7230d76fdac2f9f4c9c9c691cc29a77a
+      internalID: -1945337194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_6
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 688
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6969ae0f71cb0324d8ff23ee9055248e
+      internalID: 1976217745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_7
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 791
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11dbd791e8db7ec45bf026a5033d305f
+      internalID: 326254762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_8
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 790
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149c14b5e2c7f0043be880c5796438ff
+      internalID: -664429389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_9
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 791
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbc08d4a02447d41842fa0637f4633e
+      internalID: -1311657870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_10
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 790
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ae0620c26bf63409c2470af516fad9
+      internalID: 797041188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_14
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 743
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef92183b2b0740c439334fae58916789
+      internalID: 1979639278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_15
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 743
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d09b009f560584b90fa26eaa33eb03
+      internalID: -1133290059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_16
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 743
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ceeaa825532a7443aa7f3373d6636a8
+      internalID: -1923228748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_17
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 743
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51c54a26cb406d4d99330c4d4750936
+      internalID: -1744362690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_20
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84afadc94263241408b8aa23db4ef94b
+      internalID: -420622255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 708
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd16edb7bf6f2d64186ac0e41604699b
+      internalID: -1014203372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 736
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa7c3768ac649343a091bd028f607ec
+      internalID: -131374785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 737
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503be791a73aead4c92463705578ef30
+      internalID: 900839122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_24
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 724
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610cc77f413e62f46a7457d2c44abffa
+      internalID: -288918888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_25
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 721
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd74202ad21d8c498ad41131504bc31
+      internalID: -1387509349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_26
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 708
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2956119b4c6f274bbb1355f84ba5e28
+      internalID: 59300447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_27
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 706
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87202be1ef2c8d94c931594b8059c2ec
+      internalID: 1088601986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_29
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 651
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a145ba2f9c4bf34ba06e8756272d568
+      internalID: -1605155563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_30
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 656
+        width: 32
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74612dd06cc55404289367b20bf96a76
+      internalID: 662090191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3416be9ab13f048865600c56ef2896
+      internalID: -1326839629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_32
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 674
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b436ba5c45c30834c9b1642cb37bd691
+      internalID: 843156956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_33
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 672
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92d90c9b4bb14241bdd9ad45243a09b
+      internalID: 1834171738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_34
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 647
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8318e9c924950a48b03c991da72220a
+      internalID: -761041022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_35
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 646
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98de993aadf35ab47b7dd4e6aa5b87d2
+      internalID: 995441518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_36
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 647
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b8f996f53d6134397ebb5a2acf46f7
+      internalID: 1439110351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_37
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 646
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e62b381d85effd4085252634bce1eae
+      internalID: 655830849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 642
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc64999c11c9ca4cbd2ce617fbb1cd0
+      internalID: 1628509900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_39
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 656
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e9e438229d3fb458df16f8bbb8c69a
+      internalID: 1698142216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 657
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e8b99ff61b3924daffb6de81d31151
+      internalID: 601302085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_41
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 644
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701cc23e97fdf07438646269b8fbe9e0
+      internalID: -737722258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_43
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 642
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebfcb95ba60e5f42a8d62d027322915
+      internalID: -1959384331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_44
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 640
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3515eba23f69d4a4984a21706bce3f8b
+      internalID: 684054767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3effa6b7c40ae8e4a89152283d9a58d8
+      internalID: -1013681582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_46
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 624
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b2c5f06d823fe42903ac7fdd896620
+      internalID: -920172521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_48
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 596
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c89b35f2ae89174b853da20642ee18e
+      internalID: -969158118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 624
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a7aafecd37ba042a6d241b89db86c2
+      internalID: 1306399055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_50
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 580
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4dde1b2559e30409cc22403df4c9a5
+      internalID: -904118516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_52
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 596
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdcc085c1c42b449be37d861580eefa
+      internalID: 1800251306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_56
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 592
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85f74af19fce9e40ab7ae77d8eac9ef
+      internalID: -1097153672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_57
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 608
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71276fbe5767db04eb78c75e60863b7a
+      internalID: -1434675042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_58
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 578
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18b3ba51ecbf1444a17cfc2da9e59bb
+      internalID: -353704895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_59
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 562
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c597d8331633ed14ca1dd9d36b66407e
+      internalID: 1340277175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_60
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 560
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45b156d408a91d4ebfd10b2d4897252
+      internalID: -244317911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc12ea1b418b524099488592e64302b
+      internalID: -612959316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_63
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 544
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696cb33f0265158488abd734320666ab
+      internalID: -268012683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_64
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 560
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1982c88e10cc8b546abddfd51f1bd301
+      internalID: -850161165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_65
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 537
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181bc18f86a6aa945aed9348b770f603
+      internalID: -1196444593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_66
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 514
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b869d2a16615f2c4bba57253e14a4506
+      internalID: -504985592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_67
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 513
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb882f18befa6c4caea4f3d4c06eea1
+      internalID: 461189720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_68
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 514
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a8a4b80c7b6d24a8e882997b87fb96
+      internalID: -751785390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_69
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 519
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfda999c7d82cc4ab2a8156abccb948
+      internalID: -535103219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_70
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 518
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2154a79973f485748aea6be2d6be6218
+      internalID: -1819604432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_71
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 480
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d00cf74914b5549add7a86eb532703
+      internalID: 579139183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_72
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 480
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd4c7ccb78f32d4b88672869992babf
+      internalID: 1149626000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_73
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 480
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236ac1013e61942429bfdbb8366a2356
+      internalID: 73439352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_74
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 400
+        width: 32
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a966716c3bfc5d4cb6b9b18acf26dc3
+      internalID: -1120040590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_75
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ea2947541678c4894fdefcabe18a1e
+      internalID: -1177834875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_76
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 496
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1364a0858d6ce5440ad36d9ae0390a06
+      internalID: -74515645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_77
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 395
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa1dc8d6385770458c4b6bc7ee2f671
+      internalID: -591695428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_78
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 450
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258c04646e2edd844a114cc5ed37a1ee
+      internalID: -528298170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_79
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 439
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e9208cc7e74bc47a3c5953ce6f9332
+      internalID: -40761180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_80
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 438
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1402091705b7a43a2e4aed02270653
+      internalID: -680934836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_81
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 299
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5d2a835fc9cc7408310699d79110e0
+      internalID: 117875329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_82
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 304
+        width: 32
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4a53a1ff8788f4bb5ab55cff8753c5
+      internalID: -2058515156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_83
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 343
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6928c75cc14d7746808fb0a43e1a259
+      internalID: -2068474422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_84
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 342
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4181e6ca2a2474fb112d77580bf5c5
+      internalID: 1475515259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_85
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 252
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a00b1c13be80241b1a0d10b2a2be9e
+      internalID: -890565282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_86
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 272
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3b2b569cc777d47a82d63d2d45b5d8
+      internalID: 1592819272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_88
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 244
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022c1bacc8b28a349b845f7aa21235a3
+      internalID: -807228565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_89
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 272
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0640b5ed71ae15049ba133addaaa01e9
+      internalID: -488836697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_91
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 243
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4921ffa97087b04cb2947209d17feb2
+      internalID: -881416081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_92
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 261
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d715dc2f497e24fbb499f46e0950e2
+      internalID: 101792574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_93
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 259
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ccb7bcd8a859a42ad9c08ffb2889fe
+      internalID: -1747127004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_96
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 240
+        width: 64
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb564b2d1506d44c99f474d35b03ccc
+      internalID: 1845655888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_97
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 245
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6920c6907fabca6498cd87e6b90a4cd4
+      internalID: -710091721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_98
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 242
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e35fc5b6cdfd14ebea59a1742a86a5
+      internalID: -2048591263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_99
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 210
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f73eb9b6054b441a38056d835c2c8c
+      internalID: -309794297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_100
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 208
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced0305cfb117214c95c021d5c46fe24
+      internalID: -30081670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_101
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92902846020f8794e999862c6ad1235b
+      internalID: 1926120517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_102
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 225
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9127a8f88a7a5ae4ebf877c0a6eaa03c
+      internalID: 1361138849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_103
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 225
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5313c48e6575748a2012cbd2583a0d
+      internalID: 1487860023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_104
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 155
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1ef3b38335527488add96d153e1b3f
+      internalID: -2036056595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_105
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 210
+        width: 83
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac66964be1e7b1443bdf2e95d8cf3bab
+      internalID: -1121584482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_107
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 177
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7077f4db49a3fa42bff75c788eea234
+      internalID: 1474675542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_108
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 197
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dac6260456dd1e43a87cecbd1b93e76
+      internalID: 652061212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_110
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 193
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb96e54ef9ed2b4983bb109b3bdc531
+      internalID: 696553254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_111
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 193
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f39a279e9692941b4cc9925f278791
+      internalID: -231251972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_112
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 193
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d933138fe9da3714f83cf84bddbb8745
+      internalID: 715516665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_113
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 193
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7852de358c5d84448a8b709fe1ed3134
+      internalID: 1722605389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_114
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 167
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125efdcf72486384d8314107e684af54
+      internalID: -1882358995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_115
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 165
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5449481c9c7da4c86e02396ddfda09
+      internalID: -968801051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_116
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 165
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771a55417d098b64aa668939e81f6469
+      internalID: 1882406848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_117
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 166
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fb55a2a4c416d469887ccb896695f7
+      internalID: -485903503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_118
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 167
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef13e26cd5163b4ea8ed69e1979fc93
+      internalID: -829939413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_119
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 176
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebf1609e5c762a4ebc2e4fb2332d489
+      internalID: -1705450362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_121
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 176
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc2f8fff7918094e8827f67739bf705
+      internalID: -2120887344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_122
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 176
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bbb68cc7c4c0c4e8a705fcd6894ba7
+      internalID: -1994729635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_123
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 101
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc4936c439e9554f856f151f112ce50
+      internalID: -1003252335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_124
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290adbfebe3d2ef42b0a2c0f585ae6f1
+      internalID: -1362850634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_125
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 162
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0453ea6becd491e43acb87179fae6f3a
+      internalID: -790410520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_126
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 165
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc44443b5e3f2f498bfdcad7a177e2d
+      internalID: 233100307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_128
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 144
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da26a549f9e430448f2298cdf3f4a98
+      internalID: -1707852540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_129
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 147
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea11ea32eaba0da4b84c7bedce4420fe
+      internalID: 1766264347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_130
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 148
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3e18137ae30c543afc3ed133ee80d0
+      internalID: 492916159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_134
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 123
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6667e20f19d3ee3458ea8fb03160d401
+      internalID: -508960979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_135
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 146
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77c6b7e174c79e448f41c869de24f1e
+      internalID: 1564585107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_136
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 146
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51527a3215dfa3c42ae2c672ea15ecfc
+      internalID: -559749292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_137
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 106
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a44daa40d7d2c04f9af96821295784f
+      internalID: 1543215642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_138
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 106
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a9b1b73c26cd447a818c4a119a6d7c
+      internalID: 1635233418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_139
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 106
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b26b08b4d460644975fb9a937c05c0
+      internalID: 413544925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_140
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 106
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625637a26254c7f44baebbffaf5b7f26
+      internalID: -1131316714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_141
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 112
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f565b3ca88ac1bf479d0c6b5aae863d7
+      internalID: -1745858110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_147
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 11
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a6b534e047cb243952b32469dcd780
+      internalID: 466692678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_148
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980728432ba025446a0965ae9ac8fe38
+      internalID: -372859856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_149
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 55
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea9b65558866314ebb9dc9fc950c9cc
+      internalID: -1550837155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_150
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 54
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527be95f68e9c7b43b283656a3a457af
+      internalID: 462546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_151
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 55
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2bef820673d724b93aaf4efcf671f2
+      internalID: 1010984052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_152
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 54
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ecc3731b66e9947b5f91a3c5ffb466
+      internalID: -1784895794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_153
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417263f2a12ec3d4c90228e44e4d149d
+      internalID: 639730358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_154
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 80
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a14ccee6fcbe2a4da33d95c6ed80f25
+      internalID: 1304673772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_155
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 10
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff3e184844d65140bb8a0335f188c01
+      internalID: -1935153701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_156
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da74d00249e64bf4f8af3301d9bf4679
+      internalID: 2085382947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_157
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 55
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a8e272ff1826a46acbdd02b83f25bc
+      internalID: -1681040518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_158
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 54
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29dc817393350a4da424bc9da1c24e5
+      internalID: 1179977105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_159
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 55
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ffcf12f8e7b9247a5166fff0bc5fcb
+      internalID: -1989755447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_160
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 54
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4964aff04e214245882d0ca278a31b0
+      internalID: -818594163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_161
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fd0416f0787bd4e9b26eafbbc5bd4c
+      internalID: 1786537319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_162
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 34
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0630eac43df1c2a459e31e21edf15d24
+      internalID: 2108874052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_163
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 16
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbc74b8a83ff7c48b0fd06c119c7857
+      internalID: -101028108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_61
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 560
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d1e8294639a30479986551a6712f6e
+      internalID: -373750291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_164
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 562
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a63573d7a0d0954f9a623e0dbad7dee
+      internalID: 1341221791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_165
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 560
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f6d74e9ebdfab4993aa72dcca6a802
+      internalID: 1514731444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_94
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 249
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdceb8b79305ab4468405e214bc51e6f
+      internalID: 14688928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_167
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 279
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72814e6959b78d4799e0c19eac5e045
+      internalID: 696432822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_168
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 278
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be838b12d5ead449a1dea4e39ea925a
+      internalID: 809345733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_169
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 279
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273fe103246336a42b35a29f3dae15fc
+      internalID: 1932336449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_170
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 278
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9a5d9cd77dcd348a8bfb3369d28680
+      internalID: -746312164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_95
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34e2fccc6b84d34498e437dbd223c51
+      internalID: -1996437540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - World Map Present_42
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 592
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44533b4601b57914e94943e2a8d87eb4
+      internalID: 412287194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Evoland II - World Map Present_0: 1741627260
+      PC Computer - Evoland II - World Map Present_1: -788474547
+      PC Computer - Evoland II - World Map Present_10: 797041188
+      PC Computer - Evoland II - World Map Present_100: -30081670
+      PC Computer - Evoland II - World Map Present_101: 1926120517
+      PC Computer - Evoland II - World Map Present_102: 1361138849
+      PC Computer - Evoland II - World Map Present_103: 1487860023
+      PC Computer - Evoland II - World Map Present_104: -2036056595
+      PC Computer - Evoland II - World Map Present_105: -1121584482
+      PC Computer - Evoland II - World Map Present_106: 525333335
+      PC Computer - Evoland II - World Map Present_107: 1474675542
+      PC Computer - Evoland II - World Map Present_108: 652061212
+      PC Computer - Evoland II - World Map Present_109: -694958978
+      PC Computer - Evoland II - World Map Present_11: -1811372631
+      PC Computer - Evoland II - World Map Present_110: 696553254
+      PC Computer - Evoland II - World Map Present_111: -231251972
+      PC Computer - Evoland II - World Map Present_112: 715516665
+      PC Computer - Evoland II - World Map Present_113: 1722605389
+      PC Computer - Evoland II - World Map Present_114: -1882358995
+      PC Computer - Evoland II - World Map Present_115: -968801051
+      PC Computer - Evoland II - World Map Present_116: 1882406848
+      PC Computer - Evoland II - World Map Present_117: -485903503
+      PC Computer - Evoland II - World Map Present_118: -829939413
+      PC Computer - Evoland II - World Map Present_119: -1705450362
+      PC Computer - Evoland II - World Map Present_12: -260460297
+      PC Computer - Evoland II - World Map Present_120: 1976556837
+      PC Computer - Evoland II - World Map Present_121: -2120887344
+      PC Computer - Evoland II - World Map Present_122: -1994729635
+      PC Computer - Evoland II - World Map Present_123: -1003252335
+      PC Computer - Evoland II - World Map Present_124: -1362850634
+      PC Computer - Evoland II - World Map Present_125: -790410520
+      PC Computer - Evoland II - World Map Present_126: 233100307
+      PC Computer - Evoland II - World Map Present_127: 582405284
+      PC Computer - Evoland II - World Map Present_128: -1707852540
+      PC Computer - Evoland II - World Map Present_129: 1766264347
+      PC Computer - Evoland II - World Map Present_13: -1086017680
+      PC Computer - Evoland II - World Map Present_130: 492916159
+      PC Computer - Evoland II - World Map Present_131: 433170588
+      PC Computer - Evoland II - World Map Present_132: 1011704808
+      PC Computer - Evoland II - World Map Present_133: 758838839
+      PC Computer - Evoland II - World Map Present_134: -508960979
+      PC Computer - Evoland II - World Map Present_135: 1564585107
+      PC Computer - Evoland II - World Map Present_136: -559749292
+      PC Computer - Evoland II - World Map Present_137: 1543215642
+      PC Computer - Evoland II - World Map Present_138: 1635233418
+      PC Computer - Evoland II - World Map Present_139: 413544925
+      PC Computer - Evoland II - World Map Present_14: 1979639278
+      PC Computer - Evoland II - World Map Present_140: -1131316714
+      PC Computer - Evoland II - World Map Present_141: -1745858110
+      PC Computer - Evoland II - World Map Present_142: -668783853
+      PC Computer - Evoland II - World Map Present_143: 1479693364
+      PC Computer - Evoland II - World Map Present_144: 489754660
+      PC Computer - Evoland II - World Map Present_145: -961950795
+      PC Computer - Evoland II - World Map Present_146: 666390735
+      PC Computer - Evoland II - World Map Present_147: 466692678
+      PC Computer - Evoland II - World Map Present_148: -372859856
+      PC Computer - Evoland II - World Map Present_149: -1550837155
+      PC Computer - Evoland II - World Map Present_15: -1133290059
+      PC Computer - Evoland II - World Map Present_150: 462546
+      PC Computer - Evoland II - World Map Present_151: 1010984052
+      PC Computer - Evoland II - World Map Present_152: -1784895794
+      PC Computer - Evoland II - World Map Present_153: 639730358
+      PC Computer - Evoland II - World Map Present_154: 1304673772
+      PC Computer - Evoland II - World Map Present_155: -1935153701
+      PC Computer - Evoland II - World Map Present_156: 2085382947
+      PC Computer - Evoland II - World Map Present_157: -1681040518
+      PC Computer - Evoland II - World Map Present_158: 1179977105
+      PC Computer - Evoland II - World Map Present_159: -1989755447
+      PC Computer - Evoland II - World Map Present_16: -1923228748
+      PC Computer - Evoland II - World Map Present_160: -818594163
+      PC Computer - Evoland II - World Map Present_161: 1786537319
+      PC Computer - Evoland II - World Map Present_162: 2108874052
+      PC Computer - Evoland II - World Map Present_163: -101028108
+      PC Computer - Evoland II - World Map Present_164: 1341221791
+      PC Computer - Evoland II - World Map Present_165: 1514731444
+      PC Computer - Evoland II - World Map Present_166: 1205166464
+      PC Computer - Evoland II - World Map Present_167: 696432822
+      PC Computer - Evoland II - World Map Present_168: 809345733
+      PC Computer - Evoland II - World Map Present_169: 1932336449
+      PC Computer - Evoland II - World Map Present_17: -1744362690
+      PC Computer - Evoland II - World Map Present_170: -746312164
+      PC Computer - Evoland II - World Map Present_18: 342200450
+      PC Computer - Evoland II - World Map Present_19: 2014277291
+      PC Computer - Evoland II - World Map Present_2: 1255643841
+      PC Computer - Evoland II - World Map Present_20: -420622255
+      PC Computer - Evoland II - World Map Present_21: -1014203372
+      PC Computer - Evoland II - World Map Present_22: -131374785
+      PC Computer - Evoland II - World Map Present_23: 900839122
+      PC Computer - Evoland II - World Map Present_24: -288918888
+      PC Computer - Evoland II - World Map Present_25: -1387509349
+      PC Computer - Evoland II - World Map Present_26: 59300447
+      PC Computer - Evoland II - World Map Present_27: 1088601986
+      PC Computer - Evoland II - World Map Present_28: 1636114566
+      PC Computer - Evoland II - World Map Present_29: -1605155563
+      PC Computer - Evoland II - World Map Present_3: -1485859149
+      PC Computer - Evoland II - World Map Present_30: 662090191
+      PC Computer - Evoland II - World Map Present_31: -1326839629
+      PC Computer - Evoland II - World Map Present_32: 843156956
+      PC Computer - Evoland II - World Map Present_33: 1834171738
+      PC Computer - Evoland II - World Map Present_34: -761041022
+      PC Computer - Evoland II - World Map Present_35: 995441518
+      PC Computer - Evoland II - World Map Present_36: 1439110351
+      PC Computer - Evoland II - World Map Present_37: 655830849
+      PC Computer - Evoland II - World Map Present_38: 1628509900
+      PC Computer - Evoland II - World Map Present_39: 1698142216
+      PC Computer - Evoland II - World Map Present_4: 1055568519
+      PC Computer - Evoland II - World Map Present_40: 601302085
+      PC Computer - Evoland II - World Map Present_41: -737722258
+      PC Computer - Evoland II - World Map Present_42: 412287194
+      PC Computer - Evoland II - World Map Present_43: -1959384331
+      PC Computer - Evoland II - World Map Present_44: 684054767
+      PC Computer - Evoland II - World Map Present_45: -1013681582
+      PC Computer - Evoland II - World Map Present_46: -920172521
+      PC Computer - Evoland II - World Map Present_47: -1775107412
+      PC Computer - Evoland II - World Map Present_48: -969158118
+      PC Computer - Evoland II - World Map Present_49: 1306399055
+      PC Computer - Evoland II - World Map Present_5: -1945337194
+      PC Computer - Evoland II - World Map Present_50: -904118516
+      PC Computer - Evoland II - World Map Present_51: -930416125
+      PC Computer - Evoland II - World Map Present_52: 1800251306
+      PC Computer - Evoland II - World Map Present_53: -58203361
+      PC Computer - Evoland II - World Map Present_54: -1851705635
+      PC Computer - Evoland II - World Map Present_55: -1152919483
+      PC Computer - Evoland II - World Map Present_56: -1097153672
+      PC Computer - Evoland II - World Map Present_57: -1434675042
+      PC Computer - Evoland II - World Map Present_58: -353704895
+      PC Computer - Evoland II - World Map Present_59: 1340277175
+      PC Computer - Evoland II - World Map Present_6: 1976217745
+      PC Computer - Evoland II - World Map Present_60: -244317911
+      PC Computer - Evoland II - World Map Present_61: -373750291
+      PC Computer - Evoland II - World Map Present_62: -612959316
+      PC Computer - Evoland II - World Map Present_63: -268012683
+      PC Computer - Evoland II - World Map Present_64: -850161165
+      PC Computer - Evoland II - World Map Present_65: -1196444593
+      PC Computer - Evoland II - World Map Present_66: -504985592
+      PC Computer - Evoland II - World Map Present_67: 461189720
+      PC Computer - Evoland II - World Map Present_68: -751785390
+      PC Computer - Evoland II - World Map Present_69: -535103219
+      PC Computer - Evoland II - World Map Present_7: 326254762
+      PC Computer - Evoland II - World Map Present_70: -1819604432
+      PC Computer - Evoland II - World Map Present_71: 579139183
+      PC Computer - Evoland II - World Map Present_72: 1149626000
+      PC Computer - Evoland II - World Map Present_73: 73439352
+      PC Computer - Evoland II - World Map Present_74: -1120040590
+      PC Computer - Evoland II - World Map Present_75: -1177834875
+      PC Computer - Evoland II - World Map Present_76: -74515645
+      PC Computer - Evoland II - World Map Present_77: -591695428
+      PC Computer - Evoland II - World Map Present_78: -528298170
+      PC Computer - Evoland II - World Map Present_79: -40761180
+      PC Computer - Evoland II - World Map Present_8: -664429389
+      PC Computer - Evoland II - World Map Present_80: -680934836
+      PC Computer - Evoland II - World Map Present_81: 117875329
+      PC Computer - Evoland II - World Map Present_82: -2058515156
+      PC Computer - Evoland II - World Map Present_83: -2068474422
+      PC Computer - Evoland II - World Map Present_84: 1475515259
+      PC Computer - Evoland II - World Map Present_85: -890565282
+      PC Computer - Evoland II - World Map Present_86: 1592819272
+      PC Computer - Evoland II - World Map Present_87: -126459073
+      PC Computer - Evoland II - World Map Present_88: -807228565
+      PC Computer - Evoland II - World Map Present_89: -488836697
+      PC Computer - Evoland II - World Map Present_9: -1311657870
+      PC Computer - Evoland II - World Map Present_90: 24283646
+      PC Computer - Evoland II - World Map Present_91: -881416081
+      PC Computer - Evoland II - World Map Present_92: 101792574
+      PC Computer - Evoland II - World Map Present_93: -1747127004
+      PC Computer - Evoland II - World Map Present_94: 14688928
+      PC Computer - Evoland II - World Map Present_95: -1996437540
+      PC Computer - Evoland II - World Map Present_96: 1845655888
+      PC Computer - Evoland II - World Map Present_97: -710091721
+      PC Computer - Evoland II - World Map Present_98: -2048591263
+      PC Computer - Evoland II - World Map Present_99: -309794297
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

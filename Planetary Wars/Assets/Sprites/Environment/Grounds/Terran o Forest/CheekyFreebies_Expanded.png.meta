@@ -1,0 +1,951 @@
+fileFormatVersion: 2
+guid: 2bcfef013c633f44d816d04783c5ba80
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CheekyFreebies_Expanded_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 608
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a4586c5c5791646ba17a728b099071
+      internalID: -1902264193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheekyFreebies_Expanded_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 192
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a008534f9a5d4439e3705f96965331
+      internalID: -1987993443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheekyFreebies_Expanded_4
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 512
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914dbe75d227c3b4e9c447909479dabb
+      internalID: 558148375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheekyFreebies_Expanded_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 481
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a925ac9de1cb43444b835fc23488e334
+      internalID: 2094229387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheekyFreebies_Expanded_7
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 481
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df69614cd17899d449a1f1f5e131604a
+      internalID: -700586882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheekyFreebies_Expanded_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 481
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5eb5f9d2ed4ffa4fb90229dc73f97d5
+      internalID: -511658945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheekyFreebies_Expanded_9
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 481
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f33186c8406e645b888c95bab9f0aa
+      internalID: -1387287263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheekyFreebies_Expanded_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2828ac5b55fdd594589c91ca114068bc
+      internalID: -1720121377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheekyFreebies_Expanded_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 385
+        width: 15
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635b2b97249d085479d0bd285db684e7
+      internalID: 2030730442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheekyFreebies_Expanded_25
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 337
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4684563343bd15a42807841086c99fb6
+      internalID: -2104629806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheekyFreebies_Expanded_28
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a7306ad4aaeda479a124924a500773
+      internalID: 762179383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheekyFreebies_Expanded_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 225
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1242cd68378624db6cfc906152ab81
+      internalID: -1725462252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheekyFreebies_Expanded_37
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 224
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f162b439a016db94e835acb4881f4095
+      internalID: 679593927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheekyFreebies_Expanded_39
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 226
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5e0f21578553442bebb335c83cbb6c
+      internalID: 726481319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheekyFreebies_Expanded_40
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 225
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1774fbf50f24afb46bc269bd8437bac5
+      internalID: -704316645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheekyFreebies_Expanded_41
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 227
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809b19e7989f2ee4db2f15cd789e9362
+      internalID: 1078121367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheekyFreebies_Expanded_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 192
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c00a49b474fd04479c7098e0bdf3f7c
+      internalID: 1766075985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheekyFreebies_Expanded_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 112
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac845757e0b71c3408630514259cd00a
+      internalID: 1687094014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheekyFreebies_Expanded_46
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 96
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6c5ffe742522f4da058007af71a8d9
+      internalID: -1337744091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheekyFreebies_Expanded_47
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 96
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6194ab9b47281e347be469f4ef7d796f
+      internalID: -939876689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheekyFreebies_Expanded_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765962f0db0bf9346b4fd655094a19e3
+      internalID: -394429176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheekyFreebies_Expanded_49
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 48
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44afd3c1638ff4b45984182dbb368355
+      internalID: 1399964088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheekyFreebies_Expanded_50
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e62febd31dba964091b2f540fa3e6b0
+      internalID: -1744884466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheekyFreebies_Expanded_51
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 62
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c540c6ddd846ec4580a17a094841e86
+      internalID: -1077318759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheekyFreebies_Expanded_52
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 62
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908a1a774e88f01468c7c1527bf88e22
+      internalID: -698812120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheekyFreebies_Expanded_53
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 0
+        width: 61
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0815b77fc11666c4181d0561611e4295
+      internalID: 1166891551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheekyFreebies_Expanded_54
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 32
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f893069d46496484eb765ef05ff794d8
+      internalID: 1219148276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheekyFreebies_Expanded_55
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc1e5c04e888c44b86fffddb981e896
+      internalID: -190783839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheekyFreebies_Expanded_56
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cd3ed607b44cb478e0c8a0a85a7597
+      internalID: 373332629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheekyFreebies_Expanded_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 608
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbef9aaf0115be44a6ca783dcc2242f
+      internalID: -1948454066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheekyFreebies_Expanded_57
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 608
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd4d66902d0fb64d99536fefe1ccbf3
+      internalID: 941397690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheekyFreebies_Expanded_58
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 736
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b680cce669cfc9545ab89c266b4bcd33
+      internalID: 1653760950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheekyFreebies_Expanded_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b410e10f533e8c44a9c76a4da2d4e10f
+      internalID: -1564205406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheekyFreebies_Expanded_11
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 367
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbee43e5bd9c49a44a7133a500793fca
+      internalID: 1851830403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheekyFreebies_Expanded_12
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b86e4799528bd49add51db7c7f0b31
+      internalID: -1977189206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheekyFreebies_Expanded_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bccee253baae0428eec7144e61cc78
+      internalID: 1291170633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheekyFreebies_Expanded_14
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52454925b3635cb4e84c23feaf837629
+      internalID: 837061014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CheekyFreebies_Expanded_0: -1948454066
+      CheekyFreebies_Expanded_1: -1902264193
+      CheekyFreebies_Expanded_10: 555572657
+      CheekyFreebies_Expanded_11: 1851830403
+      CheekyFreebies_Expanded_12: -1977189206
+      CheekyFreebies_Expanded_13: 1291170633
+      CheekyFreebies_Expanded_14: 837061014
+      CheekyFreebies_Expanded_15: 1948758854
+      CheekyFreebies_Expanded_16: -1720121377
+      CheekyFreebies_Expanded_17: 847688989
+      CheekyFreebies_Expanded_18: -150058436
+      CheekyFreebies_Expanded_19: 1804253990
+      CheekyFreebies_Expanded_2: -1987993443
+      CheekyFreebies_Expanded_20: -1435963496
+      CheekyFreebies_Expanded_21: 1313934330
+      CheekyFreebies_Expanded_22: -1422228851
+      CheekyFreebies_Expanded_23: 2030730442
+      CheekyFreebies_Expanded_24: -452689973
+      CheekyFreebies_Expanded_25: -2104629806
+      CheekyFreebies_Expanded_26: 917094433
+      CheekyFreebies_Expanded_27: -901929828
+      CheekyFreebies_Expanded_28: 762179383
+      CheekyFreebies_Expanded_29: 1459476392
+      CheekyFreebies_Expanded_3: -120365521
+      CheekyFreebies_Expanded_30: 1438199162
+      CheekyFreebies_Expanded_31: -1129796457
+      CheekyFreebies_Expanded_32: 599963191
+      CheekyFreebies_Expanded_33: -597463197
+      CheekyFreebies_Expanded_34: -504382996
+      CheekyFreebies_Expanded_35: -672877133
+      CheekyFreebies_Expanded_36: -1725462252
+      CheekyFreebies_Expanded_37: 679593927
+      CheekyFreebies_Expanded_38: -1796736714
+      CheekyFreebies_Expanded_39: 726481319
+      CheekyFreebies_Expanded_4: 558148375
+      CheekyFreebies_Expanded_40: -704316645
+      CheekyFreebies_Expanded_41: 1078121367
+      CheekyFreebies_Expanded_42: -861749763
+      CheekyFreebies_Expanded_43: -1634884671
+      CheekyFreebies_Expanded_44: 1766075985
+      CheekyFreebies_Expanded_45: 1687094014
+      CheekyFreebies_Expanded_46: -1337744091
+      CheekyFreebies_Expanded_47: -939876689
+      CheekyFreebies_Expanded_48: -394429176
+      CheekyFreebies_Expanded_49: 1399964088
+      CheekyFreebies_Expanded_5: -925319480
+      CheekyFreebies_Expanded_50: -1744884466
+      CheekyFreebies_Expanded_51: -1077318759
+      CheekyFreebies_Expanded_52: -698812120
+      CheekyFreebies_Expanded_53: 1166891551
+      CheekyFreebies_Expanded_54: 1219148276
+      CheekyFreebies_Expanded_55: -190783839
+      CheekyFreebies_Expanded_56: 373332629
+      CheekyFreebies_Expanded_57: 941397690
+      CheekyFreebies_Expanded_58: 1653760950
+      CheekyFreebies_Expanded_59: -1564205406
+      CheekyFreebies_Expanded_6: 2094229387
+      CheekyFreebies_Expanded_7: -700586882
+      CheekyFreebies_Expanded_8: -511658945
+      CheekyFreebies_Expanded_9: -1387287263
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

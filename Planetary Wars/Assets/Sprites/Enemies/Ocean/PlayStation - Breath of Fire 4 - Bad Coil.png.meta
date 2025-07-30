@@ -1,0 +1,1104 @@
+fileFormatVersion: 2
+guid: 1a0a9dfd006b853408960f64af0b1bc3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 737
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e024d58831caa544383b95d59278d3d9
+      internalID: 1822584787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 737
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0689894c7fb7d489644594ecbedd3e
+      internalID: -484720433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 737
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16a959608fd56f4d8b1b29f005f3668
+      internalID: 350997512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 737
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb90ec22712b9845bb727ba7a86db5a
+      internalID: 1883355465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 737
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aaca474424b4974498ca02b7156d4b1
+      internalID: 2068796233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_5
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 737
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14add847f33b4a749bea97fa2b4333fb
+      internalID: 291627621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_6
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 737
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d158463a4e49f048b81b4625734ee8d
+      internalID: 331800191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 408
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bf8065f911b0b4ba0017d302fd4ce2
+      internalID: -1673152891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 408
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02faec524e2fcd54db563190f45105ec
+      internalID: 1933087994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 408
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0b3e46ca9b52748b715fe3f3fd6fcb
+      internalID: -1073067801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_10
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 408
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e367d277d80d944eb6b10f784b5e0db
+      internalID: 1717462290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_11
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 408
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abee9b15c3831e41a151910e971e79a
+      internalID: 283910603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_12
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 408
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ecf6de35fc5374e849a5e8c8f10bae
+      internalID: -1481882956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_13
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 408
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147641bdb2274874ca9c120085ca19e5
+      internalID: -813892798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_14
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 408
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e879a9c8dca344a4caddb3b40fdc2b04
+      internalID: 459769607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_15
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 297
+        width: 120
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5818ebd40cf1c2a4daf1c784870f42a4
+      internalID: 828329816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_16
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 297
+        width: 120
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bd73764d47fb44daa1c1fbb8ab8d10
+      internalID: -2055246724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_17
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 297
+        width: 120
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f9c3b13a84ed14fbbb373607463269
+      internalID: 1964129971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_18
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 297
+        width: 120
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77850395fb58726488a5685c188d3587
+      internalID: -1740522563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_19
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 297
+        width: 120
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f9f893bfc0c824b8d0fd222ad7d91f
+      internalID: -1082645784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_20
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 297
+        width: 120
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2016e431779680e488c195a5706a9126
+      internalID: -1336790006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_21
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 297
+        width: 120
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb6f2abb71c05e42976640b1966f767
+      internalID: -1441442857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_22
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 297
+        width: 120
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596bd967348188a4b8461ba8f5230cd9
+      internalID: 791902194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_23
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 297
+        width: 120
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58aff2f2a1a15b641b9c866cb6a5e498
+      internalID: -991366723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_24
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 297
+        width: 120
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a0f2e7c64146f479112a5040640e47
+      internalID: 611779716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_25
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 297
+        width: 120
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad05ae142b87d64dbd2d2ab3f8a4653
+      internalID: 1927501697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_26
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 297
+        width: 120
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd58b9c3bef0804281ed0b965548448
+      internalID: -1981375303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_27
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 297
+        width: 120
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b616d1eda96324ea406bad5d802ba8
+      internalID: -1671649844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_28
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 297
+        width: 120
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426b5ee2262f9104b81fca93214745de
+      internalID: -1791379293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_29
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 297
+        width: 120
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76f18eac32651c47b1e9f4713287d2c
+      internalID: -561134916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_30
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 185
+        width: 120
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bf40f8aafd3fd48bb039238362534f
+      internalID: 2121796052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_31
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 185
+        width: 120
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd33237b0f7a7641973ac3f9a1ebae7
+      internalID: 1256725876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_32
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 185
+        width: 120
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1e7312db269c3489224ad27f08b223
+      internalID: 954307082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_33
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 185
+        width: 120
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e98ed416a860c44be10da9c648dbda
+      internalID: 105935684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_34
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 185
+        width: 120
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482f8b92b4b21e241b1809b8a7abdd80
+      internalID: -801654880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_35
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 185
+        width: 120
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac9932bb674fb94687f55d4d0dfa68c
+      internalID: -1073941116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_36
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 9
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dfb23f04fa13c4aaf6497998a26e84
+      internalID: -1713214359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_37
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 9
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca775ef039ab0440988d6befa21669f
+      internalID: 1764832500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_38
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 9
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4cd0eb97653ad4e81d0e935a55ee99
+      internalID: -930914557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 9
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54606edd710bb84492fdf288e2d969a
+      internalID: -2025467385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_40
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 9
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0b888c04bbead4c856037187265f03
+      internalID: -2145707452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_41
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 9
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f874e538b1d61664780fd0c186f1b4f3
+      internalID: -1199621989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_42
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 9
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e709ec78ef46dc43b33c3202fff6499
+      internalID: -724197247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_43
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 9
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13eded42d416a44988a4b20ba9e2d0a
+      internalID: 1876966728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Bad Coil_44
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 9
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3b6ac3fe115424bbef652426e3bd60
+      internalID: -841751923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PlayStation - Breath of Fire 4 - Bad Coil_0: 1822584787
+      PlayStation - Breath of Fire 4 - Bad Coil_1: -484720433
+      PlayStation - Breath of Fire 4 - Bad Coil_10: 1717462290
+      PlayStation - Breath of Fire 4 - Bad Coil_11: 283910603
+      PlayStation - Breath of Fire 4 - Bad Coil_12: -1481882956
+      PlayStation - Breath of Fire 4 - Bad Coil_13: -813892798
+      PlayStation - Breath of Fire 4 - Bad Coil_14: 459769607
+      PlayStation - Breath of Fire 4 - Bad Coil_15: 828329816
+      PlayStation - Breath of Fire 4 - Bad Coil_16: -2055246724
+      PlayStation - Breath of Fire 4 - Bad Coil_17: 1964129971
+      PlayStation - Breath of Fire 4 - Bad Coil_18: -1740522563
+      PlayStation - Breath of Fire 4 - Bad Coil_19: -1082645784
+      PlayStation - Breath of Fire 4 - Bad Coil_2: 350997512
+      PlayStation - Breath of Fire 4 - Bad Coil_20: -1336790006
+      PlayStation - Breath of Fire 4 - Bad Coil_21: -1441442857
+      PlayStation - Breath of Fire 4 - Bad Coil_22: 791902194
+      PlayStation - Breath of Fire 4 - Bad Coil_23: -991366723
+      PlayStation - Breath of Fire 4 - Bad Coil_24: 611779716
+      PlayStation - Breath of Fire 4 - Bad Coil_25: 1927501697
+      PlayStation - Breath of Fire 4 - Bad Coil_26: -1981375303
+      PlayStation - Breath of Fire 4 - Bad Coil_27: -1671649844
+      PlayStation - Breath of Fire 4 - Bad Coil_28: -1791379293
+      PlayStation - Breath of Fire 4 - Bad Coil_29: -561134916
+      PlayStation - Breath of Fire 4 - Bad Coil_3: 1883355465
+      PlayStation - Breath of Fire 4 - Bad Coil_30: 2121796052
+      PlayStation - Breath of Fire 4 - Bad Coil_31: 1256725876
+      PlayStation - Breath of Fire 4 - Bad Coil_32: 954307082
+      PlayStation - Breath of Fire 4 - Bad Coil_33: 105935684
+      PlayStation - Breath of Fire 4 - Bad Coil_34: -801654880
+      PlayStation - Breath of Fire 4 - Bad Coil_35: -1073941116
+      PlayStation - Breath of Fire 4 - Bad Coil_36: -1713214359
+      PlayStation - Breath of Fire 4 - Bad Coil_37: 1764832500
+      PlayStation - Breath of Fire 4 - Bad Coil_38: -930914557
+      PlayStation - Breath of Fire 4 - Bad Coil_39: -2025467385
+      PlayStation - Breath of Fire 4 - Bad Coil_4: 2068796233
+      PlayStation - Breath of Fire 4 - Bad Coil_40: -2145707452
+      PlayStation - Breath of Fire 4 - Bad Coil_41: -1199621989
+      PlayStation - Breath of Fire 4 - Bad Coil_42: -724197247
+      PlayStation - Breath of Fire 4 - Bad Coil_43: 1876966728
+      PlayStation - Breath of Fire 4 - Bad Coil_44: -841751923
+      PlayStation - Breath of Fire 4 - Bad Coil_5: 291627621
+      PlayStation - Breath of Fire 4 - Bad Coil_6: 331800191
+      PlayStation - Breath of Fire 4 - Bad Coil_7: -1673152891
+      PlayStation - Breath of Fire 4 - Bad Coil_8: 1933087994
+      PlayStation - Breath of Fire 4 - Bad Coil_9: -1073067801
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

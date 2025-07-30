@@ -1,0 +1,968 @@
+fileFormatVersion: 2
+guid: 7fcfbffcdd0e5a347bc2b98af313abe8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Green_4
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 3092
+        width: 95
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97dee37e3b8b29742b11ea6f5d9604f9
+      internalID: -1345317783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Green_5
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 3094
+        width: 92
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465920544ae49684d88d00bb9a0d1365
+      internalID: -1521796240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Green_6
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 3089
+        width: 87
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e758bb68670e34796c1591cec0665e
+      internalID: 1389166959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Green_7
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 3095
+        width: 86
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84cd90e2aeeca848a4bb57580611848
+      internalID: 1266023648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Green_20
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2217
+        width: 86
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d176fc1fef923f84fb4f7437345cc34b
+      internalID: 1076869719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Green_21
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2217
+        width: 86
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3df8564ce3ee646914dc6958bc1488
+      internalID: 1853001447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Green_24
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1958
+        width: 83
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ec9173a43b5d0488bfe5aec519183a
+      internalID: -1411513117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Green_25
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1961
+        width: 91
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3066a0d54f173f34c866a137d01d031a
+      internalID: -512607886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Green_26
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1920
+        width: 110
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ced02e85e68e7418eecc685f9861b7
+      internalID: -48200925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Green_27
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1979
+        width: 133
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cb3ec306bf6cc489637a441ad61b48
+      internalID: -1361137779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Green_33
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1423
+        width: 73
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41136b87d147584f995a8213a19f350
+      internalID: 543401944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Green_36
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1210
+        width: 105
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421ef35f61a1f284dbe06ca537635d55
+      internalID: -1611891256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Green_39
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1279
+        width: 125
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6181132d462e086488374dae4cb57ccc
+      internalID: -344189514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Green_40
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1219
+        width: 119
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308438b287d3e2046996b779ac38b05d
+      internalID: 359349707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Green_44
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1189
+        width: 131
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e0c10313df7e74b9bbfda8729e3d98
+      internalID: -34732821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Green_143
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 459
+        width: 119
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aba3951036619a4e9e3b6f07111a3af
+      internalID: 1494904187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Green_144
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 469
+        width: 134
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6e37890677df641a1987f8262c981f
+      internalID: 1250938374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Green_145
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 641
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a36c689fabc2e45ba38dc1d8a676b2
+      internalID: -455804774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Green_148
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 464
+        width: 174
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1886ed218613b345ad5f2027cc0eb29
+      internalID: 1756468958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Green_185
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 206
+        width: 201
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2919c185894a27d4e9ec1975dac493b4
+      internalID: 592006249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Green_187
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 368
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a58202a30d251048a82daa9a71255b2
+      internalID: -689525545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Green_188
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 340
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c4b6bd97a72af40ab6b572f6d941e8
+      internalID: -616522444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Green_192
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 305
+        width: 71
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0705ff3f0366c324e982c348a3ea92c7
+      internalID: -462734916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Green_204
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 311
+        width: 83
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2e9f16acf6d0343b93bba63a1ffb81
+      internalID: -1232407668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Green_0
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 146
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0c653c21387404f9d8fe4f9da5efa5
+      internalID: -1158368375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Green_1
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 60
+        width: 146
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3166c6e469270a24e8f38debb900bff1
+      internalID: 1996128028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Green_2
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 49
+        width: 146
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7bf51bf0367db42a6beca79d2b6d1c
+      internalID: 2126356924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Green_3
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 40
+        width: 146
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301140a3686d79748bb936c4ef8ebd9c
+      internalID: -1629527825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Green_8
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 42
+        width: 146
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347c7187f196b334fa07576f9330bb7b
+      internalID: 2080140146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Green_9
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 602
+        width: 161
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c6228a182a1cd458c00cc5aa8407f3
+      internalID: -2090135760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Marathon 2 Durandal - Fighter Green_0: -1158368375
+      PC Computer - Marathon 2 Durandal - Fighter Green_1: 1996128028
+      PC Computer - Marathon 2 Durandal - Fighter Green_10: 1032782054
+      PC Computer - Marathon 2 Durandal - Fighter Green_100: 1780499626
+      PC Computer - Marathon 2 Durandal - Fighter Green_101: 964440086
+      PC Computer - Marathon 2 Durandal - Fighter Green_102: -1189529801
+      PC Computer - Marathon 2 Durandal - Fighter Green_103: -1783905485
+      PC Computer - Marathon 2 Durandal - Fighter Green_104: -311776148
+      PC Computer - Marathon 2 Durandal - Fighter Green_105: -466800503
+      PC Computer - Marathon 2 Durandal - Fighter Green_106: 1412871269
+      PC Computer - Marathon 2 Durandal - Fighter Green_107: -1998255339
+      PC Computer - Marathon 2 Durandal - Fighter Green_108: 495481678
+      PC Computer - Marathon 2 Durandal - Fighter Green_109: -551490211
+      PC Computer - Marathon 2 Durandal - Fighter Green_11: 542393306
+      PC Computer - Marathon 2 Durandal - Fighter Green_110: -666926865
+      PC Computer - Marathon 2 Durandal - Fighter Green_111: 178465649
+      PC Computer - Marathon 2 Durandal - Fighter Green_112: 792046719
+      PC Computer - Marathon 2 Durandal - Fighter Green_113: 761234376
+      PC Computer - Marathon 2 Durandal - Fighter Green_114: 191438941
+      PC Computer - Marathon 2 Durandal - Fighter Green_115: -607137336
+      PC Computer - Marathon 2 Durandal - Fighter Green_116: 1787258404
+      PC Computer - Marathon 2 Durandal - Fighter Green_117: 824469576
+      PC Computer - Marathon 2 Durandal - Fighter Green_118: 1868077510
+      PC Computer - Marathon 2 Durandal - Fighter Green_119: -2114323511
+      PC Computer - Marathon 2 Durandal - Fighter Green_12: -1876038513
+      PC Computer - Marathon 2 Durandal - Fighter Green_120: 1427123520
+      PC Computer - Marathon 2 Durandal - Fighter Green_121: -136445068
+      PC Computer - Marathon 2 Durandal - Fighter Green_122: 1300472680
+      PC Computer - Marathon 2 Durandal - Fighter Green_123: 2140559612
+      PC Computer - Marathon 2 Durandal - Fighter Green_124: -803569969
+      PC Computer - Marathon 2 Durandal - Fighter Green_125: 1247982399
+      PC Computer - Marathon 2 Durandal - Fighter Green_126: 956995133
+      PC Computer - Marathon 2 Durandal - Fighter Green_127: 1481521419
+      PC Computer - Marathon 2 Durandal - Fighter Green_128: 392516373
+      PC Computer - Marathon 2 Durandal - Fighter Green_129: -1276222501
+      PC Computer - Marathon 2 Durandal - Fighter Green_13: 2034404269
+      PC Computer - Marathon 2 Durandal - Fighter Green_130: 1678998650
+      PC Computer - Marathon 2 Durandal - Fighter Green_131: 1030423135
+      PC Computer - Marathon 2 Durandal - Fighter Green_132: 441400032
+      PC Computer - Marathon 2 Durandal - Fighter Green_133: 241008682
+      PC Computer - Marathon 2 Durandal - Fighter Green_134: 1292043724
+      PC Computer - Marathon 2 Durandal - Fighter Green_135: -1204151243
+      PC Computer - Marathon 2 Durandal - Fighter Green_136: 62586342
+      PC Computer - Marathon 2 Durandal - Fighter Green_137: 1130710796
+      PC Computer - Marathon 2 Durandal - Fighter Green_138: -523452443
+      PC Computer - Marathon 2 Durandal - Fighter Green_139: -884032646
+      PC Computer - Marathon 2 Durandal - Fighter Green_14: -1386639407
+      PC Computer - Marathon 2 Durandal - Fighter Green_140: -1994316797
+      PC Computer - Marathon 2 Durandal - Fighter Green_141: 1274048479
+      PC Computer - Marathon 2 Durandal - Fighter Green_142: -1299142258
+      PC Computer - Marathon 2 Durandal - Fighter Green_143: 1494904187
+      PC Computer - Marathon 2 Durandal - Fighter Green_144: 1250938374
+      PC Computer - Marathon 2 Durandal - Fighter Green_145: -455804774
+      PC Computer - Marathon 2 Durandal - Fighter Green_146: -203829799
+      PC Computer - Marathon 2 Durandal - Fighter Green_147: 1208471050
+      PC Computer - Marathon 2 Durandal - Fighter Green_148: 1756468958
+      PC Computer - Marathon 2 Durandal - Fighter Green_149: 1383380884
+      PC Computer - Marathon 2 Durandal - Fighter Green_15: -820629055
+      PC Computer - Marathon 2 Durandal - Fighter Green_150: -1909300970
+      PC Computer - Marathon 2 Durandal - Fighter Green_151: -496154204
+      PC Computer - Marathon 2 Durandal - Fighter Green_152: 1229352206
+      PC Computer - Marathon 2 Durandal - Fighter Green_153: 973023501
+      PC Computer - Marathon 2 Durandal - Fighter Green_154: -2140293204
+      PC Computer - Marathon 2 Durandal - Fighter Green_155: 159311581
+      PC Computer - Marathon 2 Durandal - Fighter Green_156: 434441734
+      PC Computer - Marathon 2 Durandal - Fighter Green_157: -184652260
+      PC Computer - Marathon 2 Durandal - Fighter Green_158: 1272872598
+      PC Computer - Marathon 2 Durandal - Fighter Green_159: -523579027
+      PC Computer - Marathon 2 Durandal - Fighter Green_16: -1456167707
+      PC Computer - Marathon 2 Durandal - Fighter Green_160: -35788471
+      PC Computer - Marathon 2 Durandal - Fighter Green_161: -1142894910
+      PC Computer - Marathon 2 Durandal - Fighter Green_162: 640556569
+      PC Computer - Marathon 2 Durandal - Fighter Green_163: 1621544060
+      PC Computer - Marathon 2 Durandal - Fighter Green_164: 856325334
+      PC Computer - Marathon 2 Durandal - Fighter Green_165: 1023645268
+      PC Computer - Marathon 2 Durandal - Fighter Green_166: -38837046
+      PC Computer - Marathon 2 Durandal - Fighter Green_167: 1259611429
+      PC Computer - Marathon 2 Durandal - Fighter Green_168: 2020448428
+      PC Computer - Marathon 2 Durandal - Fighter Green_169: -287188796
+      PC Computer - Marathon 2 Durandal - Fighter Green_17: 1168395617
+      PC Computer - Marathon 2 Durandal - Fighter Green_170: 2122030797
+      PC Computer - Marathon 2 Durandal - Fighter Green_171: 560732702
+      PC Computer - Marathon 2 Durandal - Fighter Green_172: 2004858321
+      PC Computer - Marathon 2 Durandal - Fighter Green_173: 1165511128
+      PC Computer - Marathon 2 Durandal - Fighter Green_174: 1137522222
+      PC Computer - Marathon 2 Durandal - Fighter Green_175: 643709731
+      PC Computer - Marathon 2 Durandal - Fighter Green_176: 1681032362
+      PC Computer - Marathon 2 Durandal - Fighter Green_177: -236766811
+      PC Computer - Marathon 2 Durandal - Fighter Green_178: 667905033
+      PC Computer - Marathon 2 Durandal - Fighter Green_179: -68220676
+      PC Computer - Marathon 2 Durandal - Fighter Green_18: 2073701831
+      PC Computer - Marathon 2 Durandal - Fighter Green_180: -1569158309
+      PC Computer - Marathon 2 Durandal - Fighter Green_181: 1410859501
+      PC Computer - Marathon 2 Durandal - Fighter Green_182: -1075310851
+      PC Computer - Marathon 2 Durandal - Fighter Green_183: -383709348
+      PC Computer - Marathon 2 Durandal - Fighter Green_184: -658840592
+      PC Computer - Marathon 2 Durandal - Fighter Green_185: 592006249
+      PC Computer - Marathon 2 Durandal - Fighter Green_186: -1661853087
+      PC Computer - Marathon 2 Durandal - Fighter Green_187: -689525545
+      PC Computer - Marathon 2 Durandal - Fighter Green_188: -616522444
+      PC Computer - Marathon 2 Durandal - Fighter Green_189: 1313622420
+      PC Computer - Marathon 2 Durandal - Fighter Green_19: 324131643
+      PC Computer - Marathon 2 Durandal - Fighter Green_190: -1743187826
+      PC Computer - Marathon 2 Durandal - Fighter Green_191: -1043193051
+      PC Computer - Marathon 2 Durandal - Fighter Green_192: -462734916
+      PC Computer - Marathon 2 Durandal - Fighter Green_193: -1494480596
+      PC Computer - Marathon 2 Durandal - Fighter Green_194: 881392979
+      PC Computer - Marathon 2 Durandal - Fighter Green_195: -1706320714
+      PC Computer - Marathon 2 Durandal - Fighter Green_196: 1228732201
+      PC Computer - Marathon 2 Durandal - Fighter Green_197: -431651744
+      PC Computer - Marathon 2 Durandal - Fighter Green_198: 974114615
+      PC Computer - Marathon 2 Durandal - Fighter Green_199: -227298132
+      PC Computer - Marathon 2 Durandal - Fighter Green_2: 2126356924
+      PC Computer - Marathon 2 Durandal - Fighter Green_20: 1076869719
+      PC Computer - Marathon 2 Durandal - Fighter Green_200: 433956883
+      PC Computer - Marathon 2 Durandal - Fighter Green_201: 724550468
+      PC Computer - Marathon 2 Durandal - Fighter Green_202: -1102340666
+      PC Computer - Marathon 2 Durandal - Fighter Green_203: 6731245
+      PC Computer - Marathon 2 Durandal - Fighter Green_204: -1232407668
+      PC Computer - Marathon 2 Durandal - Fighter Green_205: 1960071754
+      PC Computer - Marathon 2 Durandal - Fighter Green_206: 2121827494
+      PC Computer - Marathon 2 Durandal - Fighter Green_207: 554508373
+      PC Computer - Marathon 2 Durandal - Fighter Green_208: -1037957894
+      PC Computer - Marathon 2 Durandal - Fighter Green_209: 1422179407
+      PC Computer - Marathon 2 Durandal - Fighter Green_21: 1853001447
+      PC Computer - Marathon 2 Durandal - Fighter Green_210: 1640203849
+      PC Computer - Marathon 2 Durandal - Fighter Green_211: -864243531
+      PC Computer - Marathon 2 Durandal - Fighter Green_212: -731031409
+      PC Computer - Marathon 2 Durandal - Fighter Green_213: 1656258496
+      PC Computer - Marathon 2 Durandal - Fighter Green_214: -460102297
+      PC Computer - Marathon 2 Durandal - Fighter Green_215: -2103643564
+      PC Computer - Marathon 2 Durandal - Fighter Green_216: 2061034320
+      PC Computer - Marathon 2 Durandal - Fighter Green_217: 1995390302
+      PC Computer - Marathon 2 Durandal - Fighter Green_218: -165113242
+      PC Computer - Marathon 2 Durandal - Fighter Green_219: 955320409
+      PC Computer - Marathon 2 Durandal - Fighter Green_22: 197810564
+      PC Computer - Marathon 2 Durandal - Fighter Green_220: 941027615
+      PC Computer - Marathon 2 Durandal - Fighter Green_221: -926329407
+      PC Computer - Marathon 2 Durandal - Fighter Green_222: -1135459395
+      PC Computer - Marathon 2 Durandal - Fighter Green_223: 27048341
+      PC Computer - Marathon 2 Durandal - Fighter Green_23: -1400097300
+      PC Computer - Marathon 2 Durandal - Fighter Green_24: -1411513117
+      PC Computer - Marathon 2 Durandal - Fighter Green_25: -512607886
+      PC Computer - Marathon 2 Durandal - Fighter Green_26: -48200925
+      PC Computer - Marathon 2 Durandal - Fighter Green_27: -1361137779
+      PC Computer - Marathon 2 Durandal - Fighter Green_28: 2086438615
+      PC Computer - Marathon 2 Durandal - Fighter Green_29: -1414115011
+      PC Computer - Marathon 2 Durandal - Fighter Green_3: -1629527825
+      PC Computer - Marathon 2 Durandal - Fighter Green_30: 948390416
+      PC Computer - Marathon 2 Durandal - Fighter Green_31: -2143441810
+      PC Computer - Marathon 2 Durandal - Fighter Green_32: -1140534760
+      PC Computer - Marathon 2 Durandal - Fighter Green_33: 543401944
+      PC Computer - Marathon 2 Durandal - Fighter Green_34: -2127037770
+      PC Computer - Marathon 2 Durandal - Fighter Green_35: -49487425
+      PC Computer - Marathon 2 Durandal - Fighter Green_36: -1611891256
+      PC Computer - Marathon 2 Durandal - Fighter Green_37: -1931848761
+      PC Computer - Marathon 2 Durandal - Fighter Green_38: -1838949978
+      PC Computer - Marathon 2 Durandal - Fighter Green_39: -344189514
+      PC Computer - Marathon 2 Durandal - Fighter Green_4: -1345317783
+      PC Computer - Marathon 2 Durandal - Fighter Green_40: 359349707
+      PC Computer - Marathon 2 Durandal - Fighter Green_41: 980875162
+      PC Computer - Marathon 2 Durandal - Fighter Green_42: 280344067
+      PC Computer - Marathon 2 Durandal - Fighter Green_43: 1561980098
+      PC Computer - Marathon 2 Durandal - Fighter Green_44: -34732821
+      PC Computer - Marathon 2 Durandal - Fighter Green_45: -1364492013
+      PC Computer - Marathon 2 Durandal - Fighter Green_46: -872158325
+      PC Computer - Marathon 2 Durandal - Fighter Green_47: 25855321
+      PC Computer - Marathon 2 Durandal - Fighter Green_48: 1256455945
+      PC Computer - Marathon 2 Durandal - Fighter Green_49: -1107986191
+      PC Computer - Marathon 2 Durandal - Fighter Green_5: -1521796240
+      PC Computer - Marathon 2 Durandal - Fighter Green_50: 1241423755
+      PC Computer - Marathon 2 Durandal - Fighter Green_51: -822370290
+      PC Computer - Marathon 2 Durandal - Fighter Green_52: -226609038
+      PC Computer - Marathon 2 Durandal - Fighter Green_53: -360981259
+      PC Computer - Marathon 2 Durandal - Fighter Green_54: -1355651142
+      PC Computer - Marathon 2 Durandal - Fighter Green_55: 1032617949
+      PC Computer - Marathon 2 Durandal - Fighter Green_56: -458714632
+      PC Computer - Marathon 2 Durandal - Fighter Green_57: 993109759
+      PC Computer - Marathon 2 Durandal - Fighter Green_58: 2061238859
+      PC Computer - Marathon 2 Durandal - Fighter Green_59: -139584074
+      PC Computer - Marathon 2 Durandal - Fighter Green_6: 1389166959
+      PC Computer - Marathon 2 Durandal - Fighter Green_60: 941357075
+      PC Computer - Marathon 2 Durandal - Fighter Green_61: 1775203899
+      PC Computer - Marathon 2 Durandal - Fighter Green_62: 401191751
+      PC Computer - Marathon 2 Durandal - Fighter Green_63: -1921779229
+      PC Computer - Marathon 2 Durandal - Fighter Green_64: -1632102550
+      PC Computer - Marathon 2 Durandal - Fighter Green_65: -666765679
+      PC Computer - Marathon 2 Durandal - Fighter Green_66: -1713821310
+      PC Computer - Marathon 2 Durandal - Fighter Green_67: -1734922972
+      PC Computer - Marathon 2 Durandal - Fighter Green_68: -444023032
+      PC Computer - Marathon 2 Durandal - Fighter Green_69: -189961254
+      PC Computer - Marathon 2 Durandal - Fighter Green_7: 1266023648
+      PC Computer - Marathon 2 Durandal - Fighter Green_70: -1789899607
+      PC Computer - Marathon 2 Durandal - Fighter Green_71: -411758561
+      PC Computer - Marathon 2 Durandal - Fighter Green_72: -1075174537
+      PC Computer - Marathon 2 Durandal - Fighter Green_73: -978268663
+      PC Computer - Marathon 2 Durandal - Fighter Green_74: 315489060
+      PC Computer - Marathon 2 Durandal - Fighter Green_75: -1119333101
+      PC Computer - Marathon 2 Durandal - Fighter Green_76: 1909467215
+      PC Computer - Marathon 2 Durandal - Fighter Green_77: -1083301251
+      PC Computer - Marathon 2 Durandal - Fighter Green_78: -1027668674
+      PC Computer - Marathon 2 Durandal - Fighter Green_79: -1932309357
+      PC Computer - Marathon 2 Durandal - Fighter Green_8: 2080140146
+      PC Computer - Marathon 2 Durandal - Fighter Green_80: -1394386172
+      PC Computer - Marathon 2 Durandal - Fighter Green_81: -2052527108
+      PC Computer - Marathon 2 Durandal - Fighter Green_82: -1059450532
+      PC Computer - Marathon 2 Durandal - Fighter Green_83: 248967368
+      PC Computer - Marathon 2 Durandal - Fighter Green_84: 1258167051
+      PC Computer - Marathon 2 Durandal - Fighter Green_85: 500386743
+      PC Computer - Marathon 2 Durandal - Fighter Green_86: -785141438
+      PC Computer - Marathon 2 Durandal - Fighter Green_87: -231255415
+      PC Computer - Marathon 2 Durandal - Fighter Green_88: 739610359
+      PC Computer - Marathon 2 Durandal - Fighter Green_89: -1936305253
+      PC Computer - Marathon 2 Durandal - Fighter Green_9: -2090135760
+      PC Computer - Marathon 2 Durandal - Fighter Green_90: 135480815
+      PC Computer - Marathon 2 Durandal - Fighter Green_91: 1035793511
+      PC Computer - Marathon 2 Durandal - Fighter Green_92: -1158161781
+      PC Computer - Marathon 2 Durandal - Fighter Green_93: -1634775885
+      PC Computer - Marathon 2 Durandal - Fighter Green_94: -634923521
+      PC Computer - Marathon 2 Durandal - Fighter Green_95: -192099783
+      PC Computer - Marathon 2 Durandal - Fighter Green_96: -1667704219
+      PC Computer - Marathon 2 Durandal - Fighter Green_97: 1164734915
+      PC Computer - Marathon 2 Durandal - Fighter Green_98: -620355816
+      PC Computer - Marathon 2 Durandal - Fighter Green_99: -1845194849
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,840 @@
+fileFormatVersion: 2
+guid: 8eeb1f672fcc40b4fb1839007a667a0b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1560
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547fa80531ae22c4eba468780716ebb0
+      internalID: -1701541324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_1
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1560
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26f86d02f63bf342b3b4852ae6d703e
+      internalID: 1534944771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_2
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1560
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bcda886c619c744930389b7efb8cd4
+      internalID: -2096147312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_3
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1560
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d301ecb141fcbfa458006e5691a7711e
+      internalID: 288924965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_4
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1560
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e216ca2c3827a448b734060f3d7354
+      internalID: 1651549005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_5
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1560
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cdc450b4ab3b94299b6fcf3804c8de
+      internalID: 735440826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_6
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1448
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fff76a06860b949a4d02747d51f28b
+      internalID: 1469046711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_7
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1448
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349677af4e282e24f88f1f32eef984f5
+      internalID: 815724518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_8
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1448
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114b20208cd33b5498d3632bb3bead6a
+      internalID: 1072785795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1351
+        width: 107
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf83c03fd373b6b449d2b9285d7b105c
+      internalID: 1731015651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_10
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1351
+        width: 126
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a043387db29c9c4aa9ac0e0aac1b7ac
+      internalID: 1667420056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_11
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1351
+        width: 126
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e29a241f054244995685c7496e336e
+      internalID: -1811280923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_12
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1351
+        width: 126
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da928955bbc7cc34ab1626ae6b25cfc9
+      internalID: -679918714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_13
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1351
+        width: 126
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb81501c0b0aea94cb53b34599356f07
+      internalID: 1070450118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_14
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1351
+        width: 126
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ac6d9ecf538eb439ce68d6b50b7186
+      internalID: -1193345929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_15
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1242
+        width: 126
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67395b95ab73e440b8695b23352a361
+      internalID: 1579793922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_16
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1242
+        width: 126
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e04c84c07494f4f9c7a2115bc60f1f
+      internalID: 385112008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_17
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1242
+        width: 126
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745204637aaa82d4fbe0acf5fb47a832
+      internalID: 1977869736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_18
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1242
+        width: 126
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6948410788d4dc945aac917221d1656f
+      internalID: 918818797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_19
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1242
+        width: 126
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a12a619966b8e438552e88c523cb01
+      internalID: 478992553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_20
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1242
+        width: 126
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c03d029414de4440b24ee6d673bf6a8
+      internalID: -872110705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_21
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 971
+        width: 126
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687a6180418ae8d44a5b76a114749788
+      internalID: 1151039615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_22
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 971
+        width: 126
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2facca615297fa54f9d5dc65ed768631
+      internalID: -391166126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_23
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 971
+        width: 126
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6256015535592e40a0a92f9ea95e437
+      internalID: -849833564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_24
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 971
+        width: 126
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d304e511d8fb242b897a14181a33a0
+      internalID: 1056261085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_25
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 971
+        width: 126
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae7fe42616385b4f9c7b1cde0a257e2
+      internalID: 949852567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_26
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 971
+        width: 126
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc4e564e3fe53d4ea2f18e049e6374a
+      internalID: 1615299094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_27
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 548
+        width: 126
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333554b989854f947ae9682f77081bde
+      internalID: -1278430109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 548
+        width: 129
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03992cf36df3914386bc80f39625dcf
+      internalID: 1512556512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_29
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 548
+        width: 129
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f529e55bede38aa4f95b8e9c5f1cbc41
+      internalID: -35752373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_30
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 548
+        width: 143
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993b53a8b61265f42ab580e45ef02474
+      internalID: -1933123967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_31
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 548
+        width: 143
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728d46e65b0091043978d5acf50599e2
+      internalID: -277141634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_32
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 548
+        width: 143
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51818fdf5955214497871392b7ca598
+      internalID: 1035485359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_0: -1701541324
+      PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_1: 1534944771
+      PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_10: 1667420056
+      PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_11: -1811280923
+      PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_12: -679918714
+      PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_13: 1070450118
+      PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_14: -1193345929
+      PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_15: 1579793922
+      PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_16: 385112008
+      PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_17: 1977869736
+      PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_18: 918818797
+      PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_19: 478992553
+      PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_2: -2096147312
+      PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_20: -872110705
+      PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_21: 1151039615
+      PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_22: -391166126
+      PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_23: -849833564
+      PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_24: 1056261085
+      PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_25: 949852567
+      PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_26: 1615299094
+      PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_27: -1278430109
+      PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_28: 1512556512
+      PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_29: -35752373
+      PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_3: 288924965
+      PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_30: -1933123967
+      PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_31: -277141634
+      PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_32: 1035485359
+      PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_4: 1651549005
+      PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_5: 735440826
+      PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_6: 1469046711
+      PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_7: 815724518
+      PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_8: 1072785795
+      PC Computer - Heroes of Might and Magic 3 - Greater Basilisk_9: 1731015651
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

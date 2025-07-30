@@ -1,0 +1,597 @@
+fileFormatVersion: 2
+guid: 2ccaa00741531564ea5ba603a78b8abf
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Browser Games - The Simpsons Movie Bart Simpsons Naked Skate - Water
+        Splash_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d003368af1dc60c46b4cc4bd34e84f9f
+      internalID: 1899062827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - The Simpsons Movie Bart Simpsons Naked Skate - Water
+        Splash_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 184
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6915265b85af8b2488bb6a45fb626bd5
+      internalID: 1713532529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - The Simpsons Movie Bart Simpsons Naked Skate - Water
+        Splash_2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 184
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db97edb60b57424d9603d81ecf0694e
+      internalID: -1923674476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - The Simpsons Movie Bart Simpsons Naked Skate - Water
+        Splash_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 151
+        width: 70
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180875a9227c9b947a3d20bc5d9a5bd5
+      internalID: -934819679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - The Simpsons Movie Bart Simpsons Naked Skate - Water
+        Splash_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 151
+        width: 72
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5b8dcfe27d88d469cb04192dc06dae
+      internalID: -178700955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - The Simpsons Movie Bart Simpsons Naked Skate - Water
+        Splash_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 151
+        width: 83
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138e7d90bd1078741b8b51b2216615ec
+      internalID: -516810431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - The Simpsons Movie Bart Simpsons Naked Skate - Water
+        Splash_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 120
+        width: 83
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c964a22244e9d4c87b2b639e7d742c
+      internalID: 249209563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - The Simpsons Movie Bart Simpsons Naked Skate - Water
+        Splash_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 120
+        width: 83
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7d7db5e30bc9442bb1c5f4c78af2cf
+      internalID: -1220145779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - The Simpsons Movie Bart Simpsons Naked Skate - Water
+        Splash_8
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 120
+        width: 83
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76673c0ee538064989392a71d71675a
+      internalID: -1404690756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - The Simpsons Movie Bart Simpsons Naked Skate - Water
+        Splash_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 93
+        width: 83
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f070cdd52307f43b6740551ed69ca4
+      internalID: -1199818859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - The Simpsons Movie Bart Simpsons Naked Skate - Water
+        Splash_10
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 94
+        width: 83
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc250968ad322149b189380f009b2bf
+      internalID: 457124403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - The Simpsons Movie Bart Simpsons Naked Skate - Water
+        Splash_11
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 94
+        width: 83
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a1e1a7eda2c5240962567323f737d9
+      internalID: 1129496809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - The Simpsons Movie Bart Simpsons Naked Skate - Water
+        Splash_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 62
+        width: 83
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4010571a2f16f0949805e7c783c314c0
+      internalID: -211245469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - The Simpsons Movie Bart Simpsons Naked Skate - Water
+        Splash_13
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 61
+        width: 83
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ad17befd5c6d645901d3e621f1487f
+      internalID: -1999609835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - The Simpsons Movie Bart Simpsons Naked Skate - Water
+        Splash_14
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 61
+        width: 83
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090bae4ce249e8f43956d24b1078591b
+      internalID: -759934480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - The Simpsons Movie Bart Simpsons Naked Skate - Water
+        Splash_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 29
+        width: 83
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94061a3b6a36ba74daa3caf8a22ef89b
+      internalID: -2042260296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - The Simpsons Movie Bart Simpsons Naked Skate - Water
+        Splash_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 29
+        width: 83
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5751ba2b9e9d2234b92d3fecb7020afa
+      internalID: 1043649084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - The Simpsons Movie Bart Simpsons Naked Skate - Water
+        Splash_17
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 29
+        width: 83
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7374ada0c1f6a4fa3baf0661685501
+      internalID: 519394046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - The Simpsons Movie Bart Simpsons Naked Skate - Water
+        Splash_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 83
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d67e87cf0af19c40a5b708448793a9e
+      internalID: -1036388448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - The Simpsons Movie Bart Simpsons Naked Skate - Water
+        Splash_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 83
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd5238f6ff45e1438fa96bed042295c
+      internalID: -1648314064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - The Simpsons Movie Bart Simpsons Naked Skate - Water
+        Splash_20
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 83
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665f415d1426b8f419c41ea0f9b75c53
+      internalID: 1242022549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Browser Games - The Simpsons Movie Bart Simpsons Naked Skate - Water Splash_0: 1899062827
+      Browser Games - The Simpsons Movie Bart Simpsons Naked Skate - Water Splash_1: 1713532529
+      Browser Games - The Simpsons Movie Bart Simpsons Naked Skate - Water Splash_10: 457124403
+      Browser Games - The Simpsons Movie Bart Simpsons Naked Skate - Water Splash_11: 1129496809
+      Browser Games - The Simpsons Movie Bart Simpsons Naked Skate - Water Splash_12: -211245469
+      Browser Games - The Simpsons Movie Bart Simpsons Naked Skate - Water Splash_13: -1999609835
+      Browser Games - The Simpsons Movie Bart Simpsons Naked Skate - Water Splash_14: -759934480
+      Browser Games - The Simpsons Movie Bart Simpsons Naked Skate - Water Splash_15: -2042260296
+      Browser Games - The Simpsons Movie Bart Simpsons Naked Skate - Water Splash_16: 1043649084
+      Browser Games - The Simpsons Movie Bart Simpsons Naked Skate - Water Splash_17: 519394046
+      Browser Games - The Simpsons Movie Bart Simpsons Naked Skate - Water Splash_18: -1036388448
+      Browser Games - The Simpsons Movie Bart Simpsons Naked Skate - Water Splash_19: -1648314064
+      Browser Games - The Simpsons Movie Bart Simpsons Naked Skate - Water Splash_2: -1923674476
+      Browser Games - The Simpsons Movie Bart Simpsons Naked Skate - Water Splash_20: 1242022549
+      Browser Games - The Simpsons Movie Bart Simpsons Naked Skate - Water Splash_3: -934819679
+      Browser Games - The Simpsons Movie Bart Simpsons Naked Skate - Water Splash_4: -178700955
+      Browser Games - The Simpsons Movie Bart Simpsons Naked Skate - Water Splash_5: -516810431
+      Browser Games - The Simpsons Movie Bart Simpsons Naked Skate - Water Splash_6: 249209563
+      Browser Games - The Simpsons Movie Bart Simpsons Naked Skate - Water Splash_7: -1220145779
+      Browser Games - The Simpsons Movie Bart Simpsons Naked Skate - Water Splash_8: -1404690756
+      Browser Games - The Simpsons Movie Bart Simpsons Naked Skate - Water Splash_9: -1199818859
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

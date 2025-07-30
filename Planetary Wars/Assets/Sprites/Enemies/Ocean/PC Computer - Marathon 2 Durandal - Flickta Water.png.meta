@@ -1,0 +1,534 @@
+fileFormatVersion: 2
+guid: 1ebfc1de1d6ca9748b2c1afef3b501ea
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Flickta Water_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1241
+        width: 61
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e118ca7d8b3b046bfe86e461e0e008
+      internalID: 1430197562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Flickta Water_9
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1093
+        width: 68
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551c77662d92ee44f862b30853042981
+      internalID: -1544109763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Flickta Water_10
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1093
+        width: 83
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa6db6f6559a934e867281185fc09fd
+      internalID: 1481188091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Flickta Water_11
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1093
+        width: 68
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc676cf0e0409e44a53f4df19f272b4
+      internalID: -931659750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Flickta Water_12
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1092
+        width: 70
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6d61a36d48ef049944c8fe8218ca8c
+      internalID: 2032681772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Flickta Water_32
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 663
+        width: 95
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70229c9d71cf41243869c75ac1f4d346
+      internalID: 1770962127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Flickta Water_33
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 663
+        width: 58
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95e584762af23d43a9565b4bc2d774b
+      internalID: -1524735711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Flickta Water_37
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 513
+        width: 57
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea075e9d0b53734b96b2daf4698848d
+      internalID: -1438529145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Flickta Water_66
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 372
+        width: 68
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7150b117c51c34b9f6b3aa250a3fbe
+      internalID: 534728749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Flickta Water_69
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 372
+        width: 81
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91f5dcd0d169354fb28254272ff8d01
+      internalID: -1454945403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Flickta Water_73
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 372
+        width: 101
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b606829d6c4584aaa84133b316d5b3
+      internalID: 1623635936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Flickta Water_76
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 371
+        width: 105
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c945e173dc67446b5a38d4f70ec795
+      internalID: 566515470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Flickta Water_87
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 371
+        width: 85
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f496be6c66d3fdc4aa19f4ee2364bbaf
+      internalID: -28105283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Flickta Water_103
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 139
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5f3564203016849b59274b7ca69170
+      internalID: 1203626466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Marathon 2 Durandal - Flickta Water_0: -1985370593
+      PC Computer - Marathon 2 Durandal - Flickta Water_1: 1430197562
+      PC Computer - Marathon 2 Durandal - Flickta Water_10: 1481188091
+      PC Computer - Marathon 2 Durandal - Flickta Water_100: -1038320336
+      PC Computer - Marathon 2 Durandal - Flickta Water_101: -101443687
+      PC Computer - Marathon 2 Durandal - Flickta Water_102: -667302452
+      PC Computer - Marathon 2 Durandal - Flickta Water_103: 1203626466
+      PC Computer - Marathon 2 Durandal - Flickta Water_104: 1667063390
+      PC Computer - Marathon 2 Durandal - Flickta Water_105: 654957111
+      PC Computer - Marathon 2 Durandal - Flickta Water_106: 144598283
+      PC Computer - Marathon 2 Durandal - Flickta Water_107: 569557466
+      PC Computer - Marathon 2 Durandal - Flickta Water_108: 476563024
+      PC Computer - Marathon 2 Durandal - Flickta Water_109: -1940121204
+      PC Computer - Marathon 2 Durandal - Flickta Water_11: -931659750
+      PC Computer - Marathon 2 Durandal - Flickta Water_110: 2031511278
+      PC Computer - Marathon 2 Durandal - Flickta Water_111: -508542719
+      PC Computer - Marathon 2 Durandal - Flickta Water_112: 190217658
+      PC Computer - Marathon 2 Durandal - Flickta Water_113: -181026613
+      PC Computer - Marathon 2 Durandal - Flickta Water_114: 1287096221
+      PC Computer - Marathon 2 Durandal - Flickta Water_115: -2136349259
+      PC Computer - Marathon 2 Durandal - Flickta Water_116: -1236412468
+      PC Computer - Marathon 2 Durandal - Flickta Water_117: -9928153
+      PC Computer - Marathon 2 Durandal - Flickta Water_118: 2042920345
+      PC Computer - Marathon 2 Durandal - Flickta Water_119: -1734232605
+      PC Computer - Marathon 2 Durandal - Flickta Water_12: 2032681772
+      PC Computer - Marathon 2 Durandal - Flickta Water_120: 454623398
+      PC Computer - Marathon 2 Durandal - Flickta Water_121: -1675091541
+      PC Computer - Marathon 2 Durandal - Flickta Water_122: 1089105891
+      PC Computer - Marathon 2 Durandal - Flickta Water_123: -1681911690
+      PC Computer - Marathon 2 Durandal - Flickta Water_124: 1031959942
+      PC Computer - Marathon 2 Durandal - Flickta Water_125: -1684806022
+      PC Computer - Marathon 2 Durandal - Flickta Water_13: 872742794
+      PC Computer - Marathon 2 Durandal - Flickta Water_14: -580893781
+      PC Computer - Marathon 2 Durandal - Flickta Water_15: -882943589
+      PC Computer - Marathon 2 Durandal - Flickta Water_16: 266900213
+      PC Computer - Marathon 2 Durandal - Flickta Water_17: -1454980644
+      PC Computer - Marathon 2 Durandal - Flickta Water_18: -1106729235
+      PC Computer - Marathon 2 Durandal - Flickta Water_19: -891186524
+      PC Computer - Marathon 2 Durandal - Flickta Water_2: 791845024
+      PC Computer - Marathon 2 Durandal - Flickta Water_20: -1772691522
+      PC Computer - Marathon 2 Durandal - Flickta Water_21: -2129391043
+      PC Computer - Marathon 2 Durandal - Flickta Water_22: 317623587
+      PC Computer - Marathon 2 Durandal - Flickta Water_23: 1177768140
+      PC Computer - Marathon 2 Durandal - Flickta Water_24: -1812175457
+      PC Computer - Marathon 2 Durandal - Flickta Water_25: -203108396
+      PC Computer - Marathon 2 Durandal - Flickta Water_26: 1312139595
+      PC Computer - Marathon 2 Durandal - Flickta Water_27: 224796184
+      PC Computer - Marathon 2 Durandal - Flickta Water_28: 312440594
+      PC Computer - Marathon 2 Durandal - Flickta Water_29: 1502951532
+      PC Computer - Marathon 2 Durandal - Flickta Water_3: -1671945899
+      PC Computer - Marathon 2 Durandal - Flickta Water_30: -990462170
+      PC Computer - Marathon 2 Durandal - Flickta Water_31: 1314089103
+      PC Computer - Marathon 2 Durandal - Flickta Water_32: 1770962127
+      PC Computer - Marathon 2 Durandal - Flickta Water_33: -1524735711
+      PC Computer - Marathon 2 Durandal - Flickta Water_34: 1592753023
+      PC Computer - Marathon 2 Durandal - Flickta Water_35: -451778702
+      PC Computer - Marathon 2 Durandal - Flickta Water_36: 738625377
+      PC Computer - Marathon 2 Durandal - Flickta Water_37: -1438529145
+      PC Computer - Marathon 2 Durandal - Flickta Water_38: -1847483702
+      PC Computer - Marathon 2 Durandal - Flickta Water_39: -61005450
+      PC Computer - Marathon 2 Durandal - Flickta Water_4: -679456134
+      PC Computer - Marathon 2 Durandal - Flickta Water_40: -255012787
+      PC Computer - Marathon 2 Durandal - Flickta Water_41: -1774912117
+      PC Computer - Marathon 2 Durandal - Flickta Water_42: -665989810
+      PC Computer - Marathon 2 Durandal - Flickta Water_43: -827225250
+      PC Computer - Marathon 2 Durandal - Flickta Water_44: -340929540
+      PC Computer - Marathon 2 Durandal - Flickta Water_45: -934363224
+      PC Computer - Marathon 2 Durandal - Flickta Water_46: -2100984851
+      PC Computer - Marathon 2 Durandal - Flickta Water_47: 1675730827
+      PC Computer - Marathon 2 Durandal - Flickta Water_48: -788201186
+      PC Computer - Marathon 2 Durandal - Flickta Water_49: -2027844892
+      PC Computer - Marathon 2 Durandal - Flickta Water_5: -1122273101
+      PC Computer - Marathon 2 Durandal - Flickta Water_50: 884329042
+      PC Computer - Marathon 2 Durandal - Flickta Water_51: 1459702967
+      PC Computer - Marathon 2 Durandal - Flickta Water_52: 71915959
+      PC Computer - Marathon 2 Durandal - Flickta Water_53: -1730852775
+      PC Computer - Marathon 2 Durandal - Flickta Water_54: 1879908480
+      PC Computer - Marathon 2 Durandal - Flickta Water_55: 1210000687
+      PC Computer - Marathon 2 Durandal - Flickta Water_56: 1035652719
+      PC Computer - Marathon 2 Durandal - Flickta Water_57: -977697029
+      PC Computer - Marathon 2 Durandal - Flickta Water_58: -1829325800
+      PC Computer - Marathon 2 Durandal - Flickta Water_59: -242850970
+      PC Computer - Marathon 2 Durandal - Flickta Water_6: 1935215898
+      PC Computer - Marathon 2 Durandal - Flickta Water_60: 1554535103
+      PC Computer - Marathon 2 Durandal - Flickta Water_61: -2007691414
+      PC Computer - Marathon 2 Durandal - Flickta Water_62: -1671701999
+      PC Computer - Marathon 2 Durandal - Flickta Water_63: -1430871222
+      PC Computer - Marathon 2 Durandal - Flickta Water_64: 347662651
+      PC Computer - Marathon 2 Durandal - Flickta Water_65: -335665625
+      PC Computer - Marathon 2 Durandal - Flickta Water_66: 534728749
+      PC Computer - Marathon 2 Durandal - Flickta Water_67: 993310021
+      PC Computer - Marathon 2 Durandal - Flickta Water_68: -1079504808
+      PC Computer - Marathon 2 Durandal - Flickta Water_69: -1454945403
+      PC Computer - Marathon 2 Durandal - Flickta Water_7: 174653343
+      PC Computer - Marathon 2 Durandal - Flickta Water_70: 935636423
+      PC Computer - Marathon 2 Durandal - Flickta Water_71: -147785487
+      PC Computer - Marathon 2 Durandal - Flickta Water_72: -1978926159
+      PC Computer - Marathon 2 Durandal - Flickta Water_73: 1623635936
+      PC Computer - Marathon 2 Durandal - Flickta Water_74: 768059546
+      PC Computer - Marathon 2 Durandal - Flickta Water_75: -693724645
+      PC Computer - Marathon 2 Durandal - Flickta Water_76: 566515470
+      PC Computer - Marathon 2 Durandal - Flickta Water_77: 1090677073
+      PC Computer - Marathon 2 Durandal - Flickta Water_78: -1869523899
+      PC Computer - Marathon 2 Durandal - Flickta Water_79: 944098972
+      PC Computer - Marathon 2 Durandal - Flickta Water_8: 2135352894
+      PC Computer - Marathon 2 Durandal - Flickta Water_80: 1681453124
+      PC Computer - Marathon 2 Durandal - Flickta Water_81: -847453787
+      PC Computer - Marathon 2 Durandal - Flickta Water_82: -961493039
+      PC Computer - Marathon 2 Durandal - Flickta Water_83: -45470295
+      PC Computer - Marathon 2 Durandal - Flickta Water_84: 1560191965
+      PC Computer - Marathon 2 Durandal - Flickta Water_85: -487466274
+      PC Computer - Marathon 2 Durandal - Flickta Water_86: 116670950
+      PC Computer - Marathon 2 Durandal - Flickta Water_87: -28105283
+      PC Computer - Marathon 2 Durandal - Flickta Water_88: -525434241
+      PC Computer - Marathon 2 Durandal - Flickta Water_89: -701879084
+      PC Computer - Marathon 2 Durandal - Flickta Water_9: -1544109763
+      PC Computer - Marathon 2 Durandal - Flickta Water_90: -552054190
+      PC Computer - Marathon 2 Durandal - Flickta Water_91: -1059112601
+      PC Computer - Marathon 2 Durandal - Flickta Water_92: -276518256
+      PC Computer - Marathon 2 Durandal - Flickta Water_93: -1082461840
+      PC Computer - Marathon 2 Durandal - Flickta Water_94: -593545234
+      PC Computer - Marathon 2 Durandal - Flickta Water_95: 709138126
+      PC Computer - Marathon 2 Durandal - Flickta Water_96: 40934242
+      PC Computer - Marathon 2 Durandal - Flickta Water_97: -1400591563
+      PC Computer - Marathon 2 Durandal - Flickta Water_98: -276079544
+      PC Computer - Marathon 2 Durandal - Flickta Water_99: -1443779341
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

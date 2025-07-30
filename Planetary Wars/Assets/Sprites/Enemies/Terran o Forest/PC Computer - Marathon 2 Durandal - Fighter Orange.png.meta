@@ -1,0 +1,914 @@
+fileFormatVersion: 2
+guid: a48aaa10a1fc1f847aa532b99ae4f34a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Orange_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 3164
+        width: 97
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1adf03747701945ae531b3aec77d41
+      internalID: 1979029238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Orange_5
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 3166
+        width: 92
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cac2af7d26f73449ddb1ca393e1a2c
+      internalID: 2017942970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Orange_6
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 3161
+        width: 90
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e807ced56c87f4eb266caf6a1a209e
+      internalID: -360681217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Orange_7
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 3168
+        width: 86
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43ca576d3a912341ba92947e645de99
+      internalID: -987487224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Orange_24
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2030
+        width: 84
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e999f782187f142bdadd073911bfaa
+      internalID: -1422681742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Orange_25
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 2035
+        width: 91
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bc242fe5cb100468496f5dfc628df0
+      internalID: 904928797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Orange_26
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1992
+        width: 111
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5836c8c17e36b499d621bf66867b4a
+      internalID: -341705602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Orange_27
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 2052
+        width: 134
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecbe92e436f0804488ccd5c97bbea9b
+      internalID: -1699763667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Orange_33
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1496
+        width: 74
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb267e2fc497e242926070dfbb91a29
+      internalID: -165849920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Orange_92
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 1138
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fde288b2684c64cbc9f8ce40b04db5
+      internalID: 277266442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Orange_153
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 524
+        width: 128
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dc724d4d36b9448a6d532da765bd63
+      internalID: -433910451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Orange_155
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 540
+        width: 138
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048cea72e60546e48b03156a7d92016f
+      internalID: 1553950401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Orange_160
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 535
+        width: 165
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2405b92affcb8f4ea015cf4c9b1a77c
+      internalID: 1329027702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Orange_187
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 275
+        width: 200
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20091a13227655e4ea80a678656322a0
+      internalID: 965293736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Orange_193
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 412
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c24763b18b217048aa9782b8369a2d7
+      internalID: -1744576336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Orange_197
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 379
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9def4b472826ecf4db83ebdd1d7d9626
+      internalID: -868398081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Orange_199
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 431
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbc136014e09ba4e850692e448e076b
+      internalID: 1811215604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Orange_209
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 386
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d5b66932fcc3748abe4c5bcbc997b2
+      internalID: -1576959492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Orange_225
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 68
+        width: 70
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d7a01895c139d41ba5529f2ec2c67d
+      internalID: 1523408367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Orange_226
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 74
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8879ed6f83332ef44b8f8517cd2df0eb
+      internalID: 1768072456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Orange_227
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 65
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2ff5bba67028d4fbc7221ecbee77d4
+      internalID: 187609882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Orange_228
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 74
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1059613d249ab4ca5e5ceece769fc0
+      internalID: 1085431790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Orange_229
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 11
+        width: 63
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebc15a82f7a44849b0970792266fc05
+      internalID: 1596801045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Orange_230
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 11
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b3dae1077225c428a40cb58bc69950
+      internalID: 175757737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Orange_231
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 5
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f74dcb07ddb51e4ea4a984df6713cf3
+      internalID: 1223875375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Orange_232
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 11
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370934aaa046c2341b2096aeaf566fd4
+      internalID: 164510482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Marathon 2 Durandal - Fighter Orange_0
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 417
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7a14f805edc274583e133dbc84403d
+      internalID: -1910165827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Marathon 2 Durandal - Fighter Orange_0: -1910165827
+      PC Computer - Marathon 2 Durandal - Fighter Orange_1: 1674389708
+      PC Computer - Marathon 2 Durandal - Fighter Orange_10: -310252059
+      PC Computer - Marathon 2 Durandal - Fighter Orange_100: 514444391
+      PC Computer - Marathon 2 Durandal - Fighter Orange_101: 271368360
+      PC Computer - Marathon 2 Durandal - Fighter Orange_102: 700563460
+      PC Computer - Marathon 2 Durandal - Fighter Orange_103: 903886854
+      PC Computer - Marathon 2 Durandal - Fighter Orange_104: 1498335075
+      PC Computer - Marathon 2 Durandal - Fighter Orange_105: 780916413
+      PC Computer - Marathon 2 Durandal - Fighter Orange_106: -1752588162
+      PC Computer - Marathon 2 Durandal - Fighter Orange_107: -1920262941
+      PC Computer - Marathon 2 Durandal - Fighter Orange_108: -1492679660
+      PC Computer - Marathon 2 Durandal - Fighter Orange_109: 1071757245
+      PC Computer - Marathon 2 Durandal - Fighter Orange_11: 566994349
+      PC Computer - Marathon 2 Durandal - Fighter Orange_110: 1938530857
+      PC Computer - Marathon 2 Durandal - Fighter Orange_111: -383431644
+      PC Computer - Marathon 2 Durandal - Fighter Orange_112: -1436488455
+      PC Computer - Marathon 2 Durandal - Fighter Orange_113: -956436996
+      PC Computer - Marathon 2 Durandal - Fighter Orange_114: -456164256
+      PC Computer - Marathon 2 Durandal - Fighter Orange_115: -1268078104
+      PC Computer - Marathon 2 Durandal - Fighter Orange_116: -295177525
+      PC Computer - Marathon 2 Durandal - Fighter Orange_117: 854988373
+      PC Computer - Marathon 2 Durandal - Fighter Orange_118: -769143716
+      PC Computer - Marathon 2 Durandal - Fighter Orange_119: -1692259819
+      PC Computer - Marathon 2 Durandal - Fighter Orange_12: -687405110
+      PC Computer - Marathon 2 Durandal - Fighter Orange_120: -834501342
+      PC Computer - Marathon 2 Durandal - Fighter Orange_121: 450789584
+      PC Computer - Marathon 2 Durandal - Fighter Orange_122: -568670052
+      PC Computer - Marathon 2 Durandal - Fighter Orange_123: 582168863
+      PC Computer - Marathon 2 Durandal - Fighter Orange_124: 2052191151
+      PC Computer - Marathon 2 Durandal - Fighter Orange_125: 2047795139
+      PC Computer - Marathon 2 Durandal - Fighter Orange_126: 796036846
+      PC Computer - Marathon 2 Durandal - Fighter Orange_127: 217964501
+      PC Computer - Marathon 2 Durandal - Fighter Orange_128: -321710741
+      PC Computer - Marathon 2 Durandal - Fighter Orange_129: -2023507737
+      PC Computer - Marathon 2 Durandal - Fighter Orange_13: -280178821
+      PC Computer - Marathon 2 Durandal - Fighter Orange_130: -1543473430
+      PC Computer - Marathon 2 Durandal - Fighter Orange_131: -463891184
+      PC Computer - Marathon 2 Durandal - Fighter Orange_132: 1946900143
+      PC Computer - Marathon 2 Durandal - Fighter Orange_133: -865405321
+      PC Computer - Marathon 2 Durandal - Fighter Orange_134: -896457811
+      PC Computer - Marathon 2 Durandal - Fighter Orange_135: -1510929538
+      PC Computer - Marathon 2 Durandal - Fighter Orange_136: 1019595520
+      PC Computer - Marathon 2 Durandal - Fighter Orange_137: -606071104
+      PC Computer - Marathon 2 Durandal - Fighter Orange_138: 1873010542
+      PC Computer - Marathon 2 Durandal - Fighter Orange_139: 175728526
+      PC Computer - Marathon 2 Durandal - Fighter Orange_14: 1387907003
+      PC Computer - Marathon 2 Durandal - Fighter Orange_140: 222373598
+      PC Computer - Marathon 2 Durandal - Fighter Orange_141: 617240517
+      PC Computer - Marathon 2 Durandal - Fighter Orange_142: 667528604
+      PC Computer - Marathon 2 Durandal - Fighter Orange_143: 391354475
+      PC Computer - Marathon 2 Durandal - Fighter Orange_144: 1486334438
+      PC Computer - Marathon 2 Durandal - Fighter Orange_145: -536450187
+      PC Computer - Marathon 2 Durandal - Fighter Orange_146: -827207531
+      PC Computer - Marathon 2 Durandal - Fighter Orange_147: 447058206
+      PC Computer - Marathon 2 Durandal - Fighter Orange_148: 166019598
+      PC Computer - Marathon 2 Durandal - Fighter Orange_149: 182103350
+      PC Computer - Marathon 2 Durandal - Fighter Orange_15: 9947318
+      PC Computer - Marathon 2 Durandal - Fighter Orange_150: 1845010821
+      PC Computer - Marathon 2 Durandal - Fighter Orange_151: -22386488
+      PC Computer - Marathon 2 Durandal - Fighter Orange_152: 815570669
+      PC Computer - Marathon 2 Durandal - Fighter Orange_153: -433910451
+      PC Computer - Marathon 2 Durandal - Fighter Orange_154: 967283496
+      PC Computer - Marathon 2 Durandal - Fighter Orange_155: 1553950401
+      PC Computer - Marathon 2 Durandal - Fighter Orange_156: -2045432872
+      PC Computer - Marathon 2 Durandal - Fighter Orange_157: -841929825
+      PC Computer - Marathon 2 Durandal - Fighter Orange_158: -1084133871
+      PC Computer - Marathon 2 Durandal - Fighter Orange_159: 1913945202
+      PC Computer - Marathon 2 Durandal - Fighter Orange_16: -1284776917
+      PC Computer - Marathon 2 Durandal - Fighter Orange_160: 1329027702
+      PC Computer - Marathon 2 Durandal - Fighter Orange_161: -437277258
+      PC Computer - Marathon 2 Durandal - Fighter Orange_162: -1249030442
+      PC Computer - Marathon 2 Durandal - Fighter Orange_163: 2117028539
+      PC Computer - Marathon 2 Durandal - Fighter Orange_164: -1915730369
+      PC Computer - Marathon 2 Durandal - Fighter Orange_165: 929473250
+      PC Computer - Marathon 2 Durandal - Fighter Orange_166: 717031625
+      PC Computer - Marathon 2 Durandal - Fighter Orange_167: 543462720
+      PC Computer - Marathon 2 Durandal - Fighter Orange_168: 784593075
+      PC Computer - Marathon 2 Durandal - Fighter Orange_169: 497040371
+      PC Computer - Marathon 2 Durandal - Fighter Orange_17: 2046439182
+      PC Computer - Marathon 2 Durandal - Fighter Orange_170: -1874250792
+      PC Computer - Marathon 2 Durandal - Fighter Orange_171: 1637292172
+      PC Computer - Marathon 2 Durandal - Fighter Orange_172: -258584598
+      PC Computer - Marathon 2 Durandal - Fighter Orange_173: -829316232
+      PC Computer - Marathon 2 Durandal - Fighter Orange_174: -972268898
+      PC Computer - Marathon 2 Durandal - Fighter Orange_175: -1788413880
+      PC Computer - Marathon 2 Durandal - Fighter Orange_176: -953654373
+      PC Computer - Marathon 2 Durandal - Fighter Orange_177: 1466786938
+      PC Computer - Marathon 2 Durandal - Fighter Orange_178: 647016085
+      PC Computer - Marathon 2 Durandal - Fighter Orange_179: -1715383171
+      PC Computer - Marathon 2 Durandal - Fighter Orange_18: -1180256595
+      PC Computer - Marathon 2 Durandal - Fighter Orange_180: 1781732885
+      PC Computer - Marathon 2 Durandal - Fighter Orange_181: -1024742186
+      PC Computer - Marathon 2 Durandal - Fighter Orange_182: -1187148849
+      PC Computer - Marathon 2 Durandal - Fighter Orange_183: -1312527712
+      PC Computer - Marathon 2 Durandal - Fighter Orange_184: -609101352
+      PC Computer - Marathon 2 Durandal - Fighter Orange_185: 749589116
+      PC Computer - Marathon 2 Durandal - Fighter Orange_186: 1401544383
+      PC Computer - Marathon 2 Durandal - Fighter Orange_187: 965293736
+      PC Computer - Marathon 2 Durandal - Fighter Orange_188: 951062611
+      PC Computer - Marathon 2 Durandal - Fighter Orange_189: 1648589319
+      PC Computer - Marathon 2 Durandal - Fighter Orange_19: -1393793425
+      PC Computer - Marathon 2 Durandal - Fighter Orange_190: 105393195
+      PC Computer - Marathon 2 Durandal - Fighter Orange_191: -1401862617
+      PC Computer - Marathon 2 Durandal - Fighter Orange_192: -1363856664
+      PC Computer - Marathon 2 Durandal - Fighter Orange_193: -1744576336
+      PC Computer - Marathon 2 Durandal - Fighter Orange_194: 94353482
+      PC Computer - Marathon 2 Durandal - Fighter Orange_195: -1772211782
+      PC Computer - Marathon 2 Durandal - Fighter Orange_196: -1563431314
+      PC Computer - Marathon 2 Durandal - Fighter Orange_197: -868398081
+      PC Computer - Marathon 2 Durandal - Fighter Orange_198: 1681777880
+      PC Computer - Marathon 2 Durandal - Fighter Orange_199: 1811215604
+      PC Computer - Marathon 2 Durandal - Fighter Orange_2: -1173095457
+      PC Computer - Marathon 2 Durandal - Fighter Orange_20: -1695036846
+      PC Computer - Marathon 2 Durandal - Fighter Orange_200: -1484424295
+      PC Computer - Marathon 2 Durandal - Fighter Orange_201: 1095226413
+      PC Computer - Marathon 2 Durandal - Fighter Orange_202: -432078985
+      PC Computer - Marathon 2 Durandal - Fighter Orange_203: 410114816
+      PC Computer - Marathon 2 Durandal - Fighter Orange_204: 1559626435
+      PC Computer - Marathon 2 Durandal - Fighter Orange_205: -78825615
+      PC Computer - Marathon 2 Durandal - Fighter Orange_206: -613916565
+      PC Computer - Marathon 2 Durandal - Fighter Orange_207: -443637094
+      PC Computer - Marathon 2 Durandal - Fighter Orange_208: -18566331
+      PC Computer - Marathon 2 Durandal - Fighter Orange_209: -1576959492
+      PC Computer - Marathon 2 Durandal - Fighter Orange_21: 242086404
+      PC Computer - Marathon 2 Durandal - Fighter Orange_210: 1292976614
+      PC Computer - Marathon 2 Durandal - Fighter Orange_211: 1098483908
+      PC Computer - Marathon 2 Durandal - Fighter Orange_212: -1804685445
+      PC Computer - Marathon 2 Durandal - Fighter Orange_213: 531538493
+      PC Computer - Marathon 2 Durandal - Fighter Orange_214: 513406922
+      PC Computer - Marathon 2 Durandal - Fighter Orange_215: -576399197
+      PC Computer - Marathon 2 Durandal - Fighter Orange_216: -309171403
+      PC Computer - Marathon 2 Durandal - Fighter Orange_217: -621765197
+      PC Computer - Marathon 2 Durandal - Fighter Orange_218: 377058700
+      PC Computer - Marathon 2 Durandal - Fighter Orange_219: 1454041400
+      PC Computer - Marathon 2 Durandal - Fighter Orange_22: -971360107
+      PC Computer - Marathon 2 Durandal - Fighter Orange_220: 56507867
+      PC Computer - Marathon 2 Durandal - Fighter Orange_221: -1691125772
+      PC Computer - Marathon 2 Durandal - Fighter Orange_222: -1281359521
+      PC Computer - Marathon 2 Durandal - Fighter Orange_223: -1910837671
+      PC Computer - Marathon 2 Durandal - Fighter Orange_224: 1027437669
+      PC Computer - Marathon 2 Durandal - Fighter Orange_225: 1523408367
+      PC Computer - Marathon 2 Durandal - Fighter Orange_226: 1768072456
+      PC Computer - Marathon 2 Durandal - Fighter Orange_227: 187609882
+      PC Computer - Marathon 2 Durandal - Fighter Orange_228: 1085431790
+      PC Computer - Marathon 2 Durandal - Fighter Orange_229: 1596801045
+      PC Computer - Marathon 2 Durandal - Fighter Orange_23: -1722092054
+      PC Computer - Marathon 2 Durandal - Fighter Orange_230: 175757737
+      PC Computer - Marathon 2 Durandal - Fighter Orange_231: 1223875375
+      PC Computer - Marathon 2 Durandal - Fighter Orange_232: 164510482
+      PC Computer - Marathon 2 Durandal - Fighter Orange_24: -1422681742
+      PC Computer - Marathon 2 Durandal - Fighter Orange_25: 904928797
+      PC Computer - Marathon 2 Durandal - Fighter Orange_26: -341705602
+      PC Computer - Marathon 2 Durandal - Fighter Orange_27: -1699763667
+      PC Computer - Marathon 2 Durandal - Fighter Orange_28: 1545642283
+      PC Computer - Marathon 2 Durandal - Fighter Orange_29: 1391146417
+      PC Computer - Marathon 2 Durandal - Fighter Orange_3: -2109607836
+      PC Computer - Marathon 2 Durandal - Fighter Orange_30: -1640689004
+      PC Computer - Marathon 2 Durandal - Fighter Orange_31: -802243305
+      PC Computer - Marathon 2 Durandal - Fighter Orange_32: 1928081451
+      PC Computer - Marathon 2 Durandal - Fighter Orange_33: -165849920
+      PC Computer - Marathon 2 Durandal - Fighter Orange_34: 1386385125
+      PC Computer - Marathon 2 Durandal - Fighter Orange_35: -641239215
+      PC Computer - Marathon 2 Durandal - Fighter Orange_36: -1110206125
+      PC Computer - Marathon 2 Durandal - Fighter Orange_37: -304713735
+      PC Computer - Marathon 2 Durandal - Fighter Orange_38: 154289782
+      PC Computer - Marathon 2 Durandal - Fighter Orange_39: 1465776343
+      PC Computer - Marathon 2 Durandal - Fighter Orange_4: 1979029238
+      PC Computer - Marathon 2 Durandal - Fighter Orange_40: 197407017
+      PC Computer - Marathon 2 Durandal - Fighter Orange_41: -245501226
+      PC Computer - Marathon 2 Durandal - Fighter Orange_42: 1016451218
+      PC Computer - Marathon 2 Durandal - Fighter Orange_43: 1768626238
+      PC Computer - Marathon 2 Durandal - Fighter Orange_44: -308491899
+      PC Computer - Marathon 2 Durandal - Fighter Orange_45: 571843673
+      PC Computer - Marathon 2 Durandal - Fighter Orange_46: 354649875
+      PC Computer - Marathon 2 Durandal - Fighter Orange_47: -4873180
+      PC Computer - Marathon 2 Durandal - Fighter Orange_48: -1931991314
+      PC Computer - Marathon 2 Durandal - Fighter Orange_49: 1852570801
+      PC Computer - Marathon 2 Durandal - Fighter Orange_5: 2017942970
+      PC Computer - Marathon 2 Durandal - Fighter Orange_50: -1798806280
+      PC Computer - Marathon 2 Durandal - Fighter Orange_51: 1994148305
+      PC Computer - Marathon 2 Durandal - Fighter Orange_52: 485613070
+      PC Computer - Marathon 2 Durandal - Fighter Orange_53: 1562025013
+      PC Computer - Marathon 2 Durandal - Fighter Orange_54: 243415901
+      PC Computer - Marathon 2 Durandal - Fighter Orange_55: 982671710
+      PC Computer - Marathon 2 Durandal - Fighter Orange_56: -1815325055
+      PC Computer - Marathon 2 Durandal - Fighter Orange_57: 73768590
+      PC Computer - Marathon 2 Durandal - Fighter Orange_58: -1528012131
+      PC Computer - Marathon 2 Durandal - Fighter Orange_59: -829963242
+      PC Computer - Marathon 2 Durandal - Fighter Orange_6: -360681217
+      PC Computer - Marathon 2 Durandal - Fighter Orange_60: -1841414834
+      PC Computer - Marathon 2 Durandal - Fighter Orange_61: 1084813477
+      PC Computer - Marathon 2 Durandal - Fighter Orange_62: 2022769502
+      PC Computer - Marathon 2 Durandal - Fighter Orange_63: 783465941
+      PC Computer - Marathon 2 Durandal - Fighter Orange_64: -296941160
+      PC Computer - Marathon 2 Durandal - Fighter Orange_65: -94935533
+      PC Computer - Marathon 2 Durandal - Fighter Orange_66: -1506104352
+      PC Computer - Marathon 2 Durandal - Fighter Orange_67: -760677619
+      PC Computer - Marathon 2 Durandal - Fighter Orange_68: -1444768345
+      PC Computer - Marathon 2 Durandal - Fighter Orange_69: 406675224
+      PC Computer - Marathon 2 Durandal - Fighter Orange_7: -987487224
+      PC Computer - Marathon 2 Durandal - Fighter Orange_70: -692253908
+      PC Computer - Marathon 2 Durandal - Fighter Orange_71: 1679792709
+      PC Computer - Marathon 2 Durandal - Fighter Orange_72: 576862614
+      PC Computer - Marathon 2 Durandal - Fighter Orange_73: -569131712
+      PC Computer - Marathon 2 Durandal - Fighter Orange_74: 327688301
+      PC Computer - Marathon 2 Durandal - Fighter Orange_75: -1246237373
+      PC Computer - Marathon 2 Durandal - Fighter Orange_76: -68055712
+      PC Computer - Marathon 2 Durandal - Fighter Orange_77: -1964586436
+      PC Computer - Marathon 2 Durandal - Fighter Orange_78: -2069164725
+      PC Computer - Marathon 2 Durandal - Fighter Orange_79: 551953707
+      PC Computer - Marathon 2 Durandal - Fighter Orange_8: 399542439
+      PC Computer - Marathon 2 Durandal - Fighter Orange_80: 4678827
+      PC Computer - Marathon 2 Durandal - Fighter Orange_81: -1369695714
+      PC Computer - Marathon 2 Durandal - Fighter Orange_82: -718938723
+      PC Computer - Marathon 2 Durandal - Fighter Orange_83: 113233006
+      PC Computer - Marathon 2 Durandal - Fighter Orange_84: 1826249634
+      PC Computer - Marathon 2 Durandal - Fighter Orange_85: -763012995
+      PC Computer - Marathon 2 Durandal - Fighter Orange_86: 1641900573
+      PC Computer - Marathon 2 Durandal - Fighter Orange_87: -810012453
+      PC Computer - Marathon 2 Durandal - Fighter Orange_88: -2043104939
+      PC Computer - Marathon 2 Durandal - Fighter Orange_89: -88489738
+      PC Computer - Marathon 2 Durandal - Fighter Orange_9: -993236816
+      PC Computer - Marathon 2 Durandal - Fighter Orange_90: -103950691
+      PC Computer - Marathon 2 Durandal - Fighter Orange_91: 1905355744
+      PC Computer - Marathon 2 Durandal - Fighter Orange_92: 277266442
+      PC Computer - Marathon 2 Durandal - Fighter Orange_93: -63905026
+      PC Computer - Marathon 2 Durandal - Fighter Orange_94: 1330485031
+      PC Computer - Marathon 2 Durandal - Fighter Orange_95: -642210416
+      PC Computer - Marathon 2 Durandal - Fighter Orange_96: -435251118
+      PC Computer - Marathon 2 Durandal - Fighter Orange_97: 1863315357
+      PC Computer - Marathon 2 Durandal - Fighter Orange_98: -2043444453
+      PC Computer - Marathon 2 Durandal - Fighter Orange_99: 1034549012
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

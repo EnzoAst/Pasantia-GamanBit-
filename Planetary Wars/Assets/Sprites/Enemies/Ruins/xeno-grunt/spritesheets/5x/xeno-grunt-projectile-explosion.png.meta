@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: 7190f0484aefe784c810a0bb53b539d0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: xeno-grunt-projectile-explosion_16
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 108
+        width: 123
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3875d622685e0b048873650854b58c5f
+      internalID: 731172644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeno-grunt-projectile-explosion_0
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 112
+        width: 123
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157c84e560be34c499a0e7b88e0ad424
+      internalID: -1954431770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeno-grunt-projectile-explosion_1
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 115
+        width: 123
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfafc9464b94c343869fe989a8a0c27
+      internalID: -1990783732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xeno-grunt-projectile-explosion_2
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 119
+        width: 123
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac675e55eac68444b82617fbd624c8e
+      internalID: -460237201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      xeno-grunt-projectile-explosion_0: -1954431770
+      xeno-grunt-projectile-explosion_1: -1990783732
+      xeno-grunt-projectile-explosion_10: 2115039732
+      xeno-grunt-projectile-explosion_11: -2068359875
+      xeno-grunt-projectile-explosion_12: -1076445224
+      xeno-grunt-projectile-explosion_13: 1234142691
+      xeno-grunt-projectile-explosion_14: -238258955
+      xeno-grunt-projectile-explosion_15: -942587417
+      xeno-grunt-projectile-explosion_16: 731172644
+      xeno-grunt-projectile-explosion_17: -513083006
+      xeno-grunt-projectile-explosion_18: -1767465872
+      xeno-grunt-projectile-explosion_19: 1261422147
+      xeno-grunt-projectile-explosion_2: -460237201
+      xeno-grunt-projectile-explosion_20: 973440489
+      xeno-grunt-projectile-explosion_21: 1442450323
+      xeno-grunt-projectile-explosion_22: 1670441133
+      xeno-grunt-projectile-explosion_23: -1696903284
+      xeno-grunt-projectile-explosion_24: -1909681654
+      xeno-grunt-projectile-explosion_25: -2115846042
+      xeno-grunt-projectile-explosion_26: 1625957309
+      xeno-grunt-projectile-explosion_27: 945018285
+      xeno-grunt-projectile-explosion_28: 62759222
+      xeno-grunt-projectile-explosion_29: -238117238
+      xeno-grunt-projectile-explosion_3: -190933618
+      xeno-grunt-projectile-explosion_4: 1361599453
+      xeno-grunt-projectile-explosion_5: -950185340
+      xeno-grunt-projectile-explosion_6: -129507784
+      xeno-grunt-projectile-explosion_7: 1878054197
+      xeno-grunt-projectile-explosion_8: -540457170
+      xeno-grunt-projectile-explosion_9: 429986653
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

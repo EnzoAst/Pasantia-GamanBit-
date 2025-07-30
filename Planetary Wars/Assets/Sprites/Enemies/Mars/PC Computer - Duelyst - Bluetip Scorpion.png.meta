@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: 57185cbf2135be84aa05c96009d450ce
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 422
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0bf2daf0e94f346a5c93026658d945
+      internalID: 2031683686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 422
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5d4b234cd355e428244e36775872d5
+      internalID: 1459259102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 422
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a5e71f578df6042b668ec0d343af55
+      internalID: -938558134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_3
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 422
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599ebabf94b7e324cb81050f5a69a556
+      internalID: -1227704239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_4
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 422
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1968ba1aefdf7f24b8706c2ef712915d
+      internalID: 1742421795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_5
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 422
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb2f97237d864243b3f03c776f7dbf8
+      internalID: -1549596182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_13
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 338
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8b7b7cc905d2b44a8ad70c905b27d9
+      internalID: 1459781983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_14
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 338
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c896decdb6550e4c978b39ab00aca3c
+      internalID: -1876624067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_15
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 338
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d307f00030825144db0e52b8f2c4a6de
+      internalID: -1890192372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_16
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 338
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab79d8e9c5f85c84d9d33ec7a2df5c87
+      internalID: -1834650139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_17
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 338
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f8ee48edbe2284099cc92c0c6b72b5
+      internalID: -1136276925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_18
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 338
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429b6797909ba17478133de842fb286d
+      internalID: -1731325694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_19
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 338
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fe0e4ba87b9d6409393fc1ced08b3c
+      internalID: -1849172701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_20
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 338
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb58cb09032c95a4ea513dc4deebbf5b
+      internalID: -309375324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 254
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aea209236532b94fba1ad3acf9abf93
+      internalID: 456572292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_28
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 254
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd49b2ea6db76548a0d63f533cb9460
+      internalID: 347115287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_29
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 254
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc7d61ac5803a346b83052f06a52865
+      internalID: 1266924377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_30
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 254
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b567891b11a862143bfd96a72b2b61ef
+      internalID: -989703565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_31
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 254
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7e31cf58919f24f9bbbf16ee540e92
+      internalID: 368456645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_32
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 254
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d523ca9a374bfbe46bcf791ff0d58912
+      internalID: 612862699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_33
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 254
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b897ebdc4cae349b93140470750c57
+      internalID: 413322461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_34
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 254
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9730e44b11705be47a830c1fc84b0075
+      internalID: 2088697771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_35
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 170
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0789d7f9d90a546a58630f9ad75857
+      internalID: -1675367065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_36
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 170
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd194d3a38914e44f8acca396752111c
+      internalID: -1137040667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_37
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 170
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da52bef9e013fe409e0e2d875114d05
+      internalID: -1908563778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_38
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 170
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff356929d10f644786ca074735306d7
+      internalID: 775295099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_39
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 170
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e80c0c5234f99a468fe89ddf3d49671
+      internalID: -863119884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_40
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 170
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82aa46a678cd3f843bca27ed60749e1b
+      internalID: 784329142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_41
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 170
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bbc7bfa3acba64ebe2f384cce4c189
+      internalID: -2037497235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_42
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 170
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85871c34865ffee46987e680db52f0dc
+      internalID: -2108855245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_43
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 170
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8950958ed7bb2114394ae979a559d691
+      internalID: 1872930480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_44
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 170
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f1e77cf30d08b4eb752f4d37910dd4
+      internalID: 110773753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_45
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 170
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5896e5b6fd5a0634c8c57b6ccaab6d89
+      internalID: 68047790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_46
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 170
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6018344c65128e458ee5ff2bde12875
+      internalID: 224253388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 86
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0c7b44977251e4dadc887e3ed86137
+      internalID: 202472017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_48
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 86
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c92ffaf9e346943bf03f7f4f1097d7
+      internalID: -1798931162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_49
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 86
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542d0d0173260d640828ed626865cb0f
+      internalID: 1480284832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_50
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e78ba998d46b1d448f9765bc861fe05
+      internalID: 1494473632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_51
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4cf4e6079870d4aa545034bbd67bc8
+      internalID: 1232801433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_52
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce5ed09e0936cc42b509d2c57d86ea7
+      internalID: -868049035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_53
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496fed57d9ce0604eaface9940e01bb6
+      internalID: 1687633387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_54
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbe3860304a8a344b0ed2694b51ce3a
+      internalID: -1205130944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_55
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 2
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c424d62a9f22cef4f8ede0e0aaf94bae
+      internalID: 1397768892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_56
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 2
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9dc7fba398df6f4ea36a99ca12de2b3
+      internalID: 1732627280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_57
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ce8977cb923dd4984198aac76dee25
+      internalID: 1506349260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_58
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 2
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b1fc9829abd6e44968b32736176a1e
+      internalID: -661499636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_59
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 2
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064ca7f77ad45f640a63ae6098997f95
+      internalID: 309870454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Duelyst - Bluetip Scorpion_60
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 2
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f560edc4c7383647a729d63e881b9d9
+      internalID: 789364201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Duelyst - Bluetip Scorpion_0: 2031683686
+      PC Computer - Duelyst - Bluetip Scorpion_1: 1459259102
+      PC Computer - Duelyst - Bluetip Scorpion_10: 1180178977
+      PC Computer - Duelyst - Bluetip Scorpion_11: -800739423
+      PC Computer - Duelyst - Bluetip Scorpion_12: 752592815
+      PC Computer - Duelyst - Bluetip Scorpion_13: 1459781983
+      PC Computer - Duelyst - Bluetip Scorpion_14: -1876624067
+      PC Computer - Duelyst - Bluetip Scorpion_15: -1890192372
+      PC Computer - Duelyst - Bluetip Scorpion_16: -1834650139
+      PC Computer - Duelyst - Bluetip Scorpion_17: -1136276925
+      PC Computer - Duelyst - Bluetip Scorpion_18: -1731325694
+      PC Computer - Duelyst - Bluetip Scorpion_19: -1849172701
+      PC Computer - Duelyst - Bluetip Scorpion_2: -938558134
+      PC Computer - Duelyst - Bluetip Scorpion_20: -309375324
+      PC Computer - Duelyst - Bluetip Scorpion_21: 341691227
+      PC Computer - Duelyst - Bluetip Scorpion_22: 525924308
+      PC Computer - Duelyst - Bluetip Scorpion_23: -1472348757
+      PC Computer - Duelyst - Bluetip Scorpion_24: -1369690992
+      PC Computer - Duelyst - Bluetip Scorpion_25: -384114353
+      PC Computer - Duelyst - Bluetip Scorpion_26: 104387958
+      PC Computer - Duelyst - Bluetip Scorpion_27: 456572292
+      PC Computer - Duelyst - Bluetip Scorpion_28: 347115287
+      PC Computer - Duelyst - Bluetip Scorpion_29: 1266924377
+      PC Computer - Duelyst - Bluetip Scorpion_3: -1227704239
+      PC Computer - Duelyst - Bluetip Scorpion_30: -989703565
+      PC Computer - Duelyst - Bluetip Scorpion_31: 368456645
+      PC Computer - Duelyst - Bluetip Scorpion_32: 612862699
+      PC Computer - Duelyst - Bluetip Scorpion_33: 413322461
+      PC Computer - Duelyst - Bluetip Scorpion_34: 2088697771
+      PC Computer - Duelyst - Bluetip Scorpion_35: -1675367065
+      PC Computer - Duelyst - Bluetip Scorpion_36: -1137040667
+      PC Computer - Duelyst - Bluetip Scorpion_37: -1908563778
+      PC Computer - Duelyst - Bluetip Scorpion_38: 775295099
+      PC Computer - Duelyst - Bluetip Scorpion_39: -863119884
+      PC Computer - Duelyst - Bluetip Scorpion_4: 1742421795
+      PC Computer - Duelyst - Bluetip Scorpion_40: 784329142
+      PC Computer - Duelyst - Bluetip Scorpion_41: -2037497235
+      PC Computer - Duelyst - Bluetip Scorpion_42: -2108855245
+      PC Computer - Duelyst - Bluetip Scorpion_43: 1872930480
+      PC Computer - Duelyst - Bluetip Scorpion_44: 110773753
+      PC Computer - Duelyst - Bluetip Scorpion_45: 68047790
+      PC Computer - Duelyst - Bluetip Scorpion_46: 224253388
+      PC Computer - Duelyst - Bluetip Scorpion_47: 202472017
+      PC Computer - Duelyst - Bluetip Scorpion_48: -1798931162
+      PC Computer - Duelyst - Bluetip Scorpion_49: 1480284832
+      PC Computer - Duelyst - Bluetip Scorpion_5: -1549596182
+      PC Computer - Duelyst - Bluetip Scorpion_50: 1494473632
+      PC Computer - Duelyst - Bluetip Scorpion_51: 1232801433
+      PC Computer - Duelyst - Bluetip Scorpion_52: -868049035
+      PC Computer - Duelyst - Bluetip Scorpion_53: 1687633387
+      PC Computer - Duelyst - Bluetip Scorpion_54: -1205130944
+      PC Computer - Duelyst - Bluetip Scorpion_55: 1397768892
+      PC Computer - Duelyst - Bluetip Scorpion_56: 1732627280
+      PC Computer - Duelyst - Bluetip Scorpion_57: 1506349260
+      PC Computer - Duelyst - Bluetip Scorpion_58: -661499636
+      PC Computer - Duelyst - Bluetip Scorpion_59: 309870454
+      PC Computer - Duelyst - Bluetip Scorpion_6: 723040931
+      PC Computer - Duelyst - Bluetip Scorpion_60: 789364201
+      PC Computer - Duelyst - Bluetip Scorpion_7: -2069708563
+      PC Computer - Duelyst - Bluetip Scorpion_8: -208434638
+      PC Computer - Duelyst - Bluetip Scorpion_9: -2110511
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

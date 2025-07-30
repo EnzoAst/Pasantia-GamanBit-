@@ -1,0 +1,730 @@
+fileFormatVersion: 2
+guid: fcb1ba224669f9049acb08dd8b537ef7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Burning Soul_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 67
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42dabfc9110cb344a8dc25aeeec073e5
+      internalID: 1703317985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Burning Soul_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 68
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e815f2a5a47041945951452c7aebdda9
+      internalID: -1973364446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Burning Soul_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 68
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6014b5ec7c101724b951c28241d1ec5a
+      internalID: -2052551166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Burning Soul_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 68
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1383d0aa5f5cf1b4b8948717c3aad81a
+      internalID: -1380934341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Burning Soul_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 69
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21feaf65a3cdbeb4cb1393442f72c7cc
+      internalID: 1686719182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Burning Soul_5
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 68
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36a946cd40125d4d897d7b11f5c8b0b
+      internalID: -2016948905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Burning Soul_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 34
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfe7393cb4b4db49b4690ec452768dd
+      internalID: -1555128398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Burning Soul_7
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 35
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324a9c3dc4881944c871cfb544303bcc
+      internalID: 1905906787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Burning Soul_8
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 35
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221d95d7b2501ab42a4d9a949ecc252b
+      internalID: -876857318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Burning Soul_9
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 35
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6be6c6164a579479b16ad06707c574
+      internalID: -80149434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Burning Soul_10
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 35
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae851fccf4173694292ed6f83a65b216
+      internalID: 52827708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Burning Soul_11
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 35
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7089d333e6e6996448997c329dd23975
+      internalID: 273520360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Burning Soul_12
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 36
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7327bdd957c6a047a6a4234c12a8914
+      internalID: -1951269529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Burning Soul_13
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 36
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8d6e5229117b3489ee38a116b462b7
+      internalID: 273622015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Burning Soul_14
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 36
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad88286fb78abc4e982b5ca566b727f
+      internalID: 352797918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Burning Soul_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 35
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e237326d31b57fe46b335eaeb9663ca2
+      internalID: 1958185040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Burning Soul_16
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 34
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ee9149379486f43a56c5ea82b9206b
+      internalID: 862848684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Burning Soul_17
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3511b245835a4664ba03becc278b9404
+      internalID: -1246520774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Burning Soul_18
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 2
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2f12fb451d4f447b7df1c8c20b448c
+      internalID: -1847181556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Burning Soul_19
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58faf5a7cb6a4349b5a50c1cec5c8ad
+      internalID: 1775102130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Burning Soul_20
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 2
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf2128fd74447745a649338a8e371cd
+      internalID: 280176466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Burning Soul_21
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 6
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9357f5ff83440b54ab4a5a64b9b784b3
+      internalID: 886718396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Burning Soul_22
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 13
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4b27996be83f64d9481bc6fd368502
+      internalID: -409519951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Burning Soul_23
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 13
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f948a12bbd6637c4cbe6ec48a92f64f6
+      internalID: -1514605922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Burning Soul_24
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 17
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed923e3bfed27ee4fa92028077f0b1cc
+      internalID: 1338952709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Burning Soul_25
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 21
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c033f2bddb2e7244b63761eb13fad32
+      internalID: -611719465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Burning Soul_26
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 18
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0664e97febc11459e9c067cd35ca30
+      internalID: 121187626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deep Dungeons of Doom - Burning Soul_27
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 8
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a29a5416d97614998cf5e913e22877
+      internalID: -957408199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Deep Dungeons of Doom - Burning Soul_0: 1703317985
+      PC Computer - Deep Dungeons of Doom - Burning Soul_1: -1973364446
+      PC Computer - Deep Dungeons of Doom - Burning Soul_10: 52827708
+      PC Computer - Deep Dungeons of Doom - Burning Soul_11: 273520360
+      PC Computer - Deep Dungeons of Doom - Burning Soul_12: -1951269529
+      PC Computer - Deep Dungeons of Doom - Burning Soul_13: 273622015
+      PC Computer - Deep Dungeons of Doom - Burning Soul_14: 352797918
+      PC Computer - Deep Dungeons of Doom - Burning Soul_15: 1958185040
+      PC Computer - Deep Dungeons of Doom - Burning Soul_16: 862848684
+      PC Computer - Deep Dungeons of Doom - Burning Soul_17: -1246520774
+      PC Computer - Deep Dungeons of Doom - Burning Soul_18: -1847181556
+      PC Computer - Deep Dungeons of Doom - Burning Soul_19: 1775102130
+      PC Computer - Deep Dungeons of Doom - Burning Soul_2: -2052551166
+      PC Computer - Deep Dungeons of Doom - Burning Soul_20: 280176466
+      PC Computer - Deep Dungeons of Doom - Burning Soul_21: 886718396
+      PC Computer - Deep Dungeons of Doom - Burning Soul_22: -409519951
+      PC Computer - Deep Dungeons of Doom - Burning Soul_23: -1514605922
+      PC Computer - Deep Dungeons of Doom - Burning Soul_24: 1338952709
+      PC Computer - Deep Dungeons of Doom - Burning Soul_25: -611719465
+      PC Computer - Deep Dungeons of Doom - Burning Soul_26: 121187626
+      PC Computer - Deep Dungeons of Doom - Burning Soul_27: -957408199
+      PC Computer - Deep Dungeons of Doom - Burning Soul_3: -1380934341
+      PC Computer - Deep Dungeons of Doom - Burning Soul_4: 1686719182
+      PC Computer - Deep Dungeons of Doom - Burning Soul_5: -2016948905
+      PC Computer - Deep Dungeons of Doom - Burning Soul_6: -1555128398
+      PC Computer - Deep Dungeons of Doom - Burning Soul_7: 1905906787
+      PC Computer - Deep Dungeons of Doom - Burning Soul_8: -876857318
+      PC Computer - Deep Dungeons of Doom - Burning Soul_9: -80149434
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

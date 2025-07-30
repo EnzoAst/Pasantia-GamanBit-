@@ -1,0 +1,653 @@
+fileFormatVersion: 2
+guid: c63247ebd354af54a9ae3fe2d8b4e4ea
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Stone Protectors - Lava Monster_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 290
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190a44cb86253da459d7ae7723881cc2
+      internalID: 477913830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Stone Protectors - Lava Monster_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 226
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc394668766e3442b99d3f2fd12828a
+      internalID: -1418510609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Stone Protectors - Lava Monster_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 227
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28da48b08b80f17428167c71ab89ee64
+      internalID: 1637157218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Stone Protectors - Lava Monster_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 228
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2e3664531fbc642a78b1f2030636a5
+      internalID: -2049305754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Stone Protectors - Lava Monster_4
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 229
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5951d5ccb809666498aa10388fd512f4
+      internalID: -1816288025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Stone Protectors - Lava Monster_5
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 227
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7475a107b26247446a2f7175d559b537
+      internalID: -1923294333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Stone Protectors - Lava Monster_6
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 164
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de38207e9cfd439449cb38d8d9afb66a
+      internalID: 832235097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Stone Protectors - Lava Monster_7
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 163
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d821cd43650116647aec70e00eaae676
+      internalID: 1336934180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Stone Protectors - Lava Monster_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 164
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0534a5b0f16fb4d479576103cde6e3a7
+      internalID: -580522216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Stone Protectors - Lava Monster_9
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 165
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583625c8ecc76094e8fdf8ede1cf0757
+      internalID: -1469236105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Stone Protectors - Lava Monster_10
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 164
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0997f343969b18a4c86051ecce33aedb
+      internalID: 50808761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Stone Protectors - Lava Monster_11
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 163
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828b24436620a3348a8cb7313f301b3b
+      internalID: -625472043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Stone Protectors - Lava Monster_12
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 164
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05729b350fc86f459de78343f55d1d8
+      internalID: 437199078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Stone Protectors - Lava Monster_13
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 165
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816d8f4d517d3b44cbcf609af1d0fbdc
+      internalID: 381266798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Stone Protectors - Lava Monster_14
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 165
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9290b51c46d6f9c4d8921bb99b6992e2
+      internalID: -478373943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Stone Protectors - Lava Monster_15
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 119
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052aa5b9a0ae0964d8905578b570ab52
+      internalID: 565712264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Stone Protectors - Lava Monster_16
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 119
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f685e5291a35447b4158cb7e847082
+      internalID: 367281575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Stone Protectors - Lava Monster_17
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 99
+        width: 75
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da50d4c235c79a1438ac2a9585e27979
+      internalID: -73250491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Stone Protectors - Lava Monster_18
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 101
+        width: 75
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81f7476babb4304cb81760ccf58aca3
+      internalID: -795056259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Stone Protectors - Lava Monster_19
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 24
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e590900ff849df478a7160d0608e1b0
+      internalID: 832278372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Stone Protectors - Lava Monster_20
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 26
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70133f0604f2a494982392d65c404733
+      internalID: -765949669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Stone Protectors - Lava Monster_21
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 27
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bccfc4928f0c194baac7ef736b66af1
+      internalID: -670780517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Stone Protectors - Lava Monster_22
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 27
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ab39ed1407d1c41805624c5e1c12ae
+      internalID: 1455190728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Stone Protectors - Lava Monster_23
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 25
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9521438b2ac6764f8bb28d6f39ee737
+      internalID: -306424880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SNES - Stone Protectors - Lava Monster_0: 477913830
+      SNES - Stone Protectors - Lava Monster_1: -1418510609
+      SNES - Stone Protectors - Lava Monster_10: 50808761
+      SNES - Stone Protectors - Lava Monster_11: -625472043
+      SNES - Stone Protectors - Lava Monster_12: 437199078
+      SNES - Stone Protectors - Lava Monster_13: 381266798
+      SNES - Stone Protectors - Lava Monster_14: -478373943
+      SNES - Stone Protectors - Lava Monster_15: 565712264
+      SNES - Stone Protectors - Lava Monster_16: 367281575
+      SNES - Stone Protectors - Lava Monster_17: -73250491
+      SNES - Stone Protectors - Lava Monster_18: -795056259
+      SNES - Stone Protectors - Lava Monster_19: 832278372
+      SNES - Stone Protectors - Lava Monster_2: 1637157218
+      SNES - Stone Protectors - Lava Monster_20: -765949669
+      SNES - Stone Protectors - Lava Monster_21: -670780517
+      SNES - Stone Protectors - Lava Monster_22: 1455190728
+      SNES - Stone Protectors - Lava Monster_23: -306424880
+      SNES - Stone Protectors - Lava Monster_24: 309307357
+      SNES - Stone Protectors - Lava Monster_25: -1304995816
+      SNES - Stone Protectors - Lava Monster_26: -1994472118
+      SNES - Stone Protectors - Lava Monster_27: 191380502
+      SNES - Stone Protectors - Lava Monster_28: 1580311491
+      SNES - Stone Protectors - Lava Monster_29: -1712699036
+      SNES - Stone Protectors - Lava Monster_3: -2049305754
+      SNES - Stone Protectors - Lava Monster_30: 119822607
+      SNES - Stone Protectors - Lava Monster_31: -260934592
+      SNES - Stone Protectors - Lava Monster_32: -873819502
+      SNES - Stone Protectors - Lava Monster_33: 1958887534
+      SNES - Stone Protectors - Lava Monster_34: 388040499
+      SNES - Stone Protectors - Lava Monster_4: -1816288025
+      SNES - Stone Protectors - Lava Monster_5: -1923294333
+      SNES - Stone Protectors - Lava Monster_6: 832235097
+      SNES - Stone Protectors - Lava Monster_7: 1336934180
+      SNES - Stone Protectors - Lava Monster_8: -580522216
+      SNES - Stone Protectors - Lava Monster_9: -1469236105
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

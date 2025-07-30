@@ -1,0 +1,3502 @@
+fileFormatVersion: 2
+guid: acfac98ebe8804f4eb4a0634bb782b88
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_0
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed0dd28981924f44a6913d047560c25
+      internalID: -189443684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_1
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd385e63ce82cc44a5b4235ff77f8cf
+      internalID: -569686844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e3a2ccdea72b146a631f23aaec4b45
+      internalID: 754345252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_3
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03de590cabb84af498a91304535f3829
+      internalID: 742137082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_4
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624af4be33ed5f945980f7dd63c5bf0f
+      internalID: 1842054666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_5
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c67273d1cb090043a208e92c2ae8283
+      internalID: 1640501370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_6
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc5ec05f193aae44b7e3bae5c90ef93
+      internalID: 1823801819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_7
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d5f3cec5d3e1d4ea7d8ef04d84c1a3
+      internalID: -1961292820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_8
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28978e539052fdc4b88cbd981e117c87
+      internalID: 532702125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_9
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317d631330008084295be218fe8ce109
+      internalID: -258817007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_10
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e677c5d04845b1f4c8266c5658689bad
+      internalID: 1357121195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_11
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c4501999f73674eba913a2ac279cd0
+      internalID: -926559997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_12
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e5bd6125abbb9488c32f7ede92d743
+      internalID: 1851352399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_13
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500a5c12f0000764982d5ccb8c25b803
+      internalID: -1842970181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_14
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0288393dd657147a95b400b6c29ef2
+      internalID: 560210925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_15
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123b192f40d4c18439c2a041fb6fc441
+      internalID: 2028974577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_16
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0082714d4e7584ab5f34507daef39c
+      internalID: 235423726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_17
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ffbc38b58c6534683220e6eb7ab858
+      internalID: 964203773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_18
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6587078a984366247809e5d4e84f3e24
+      internalID: -1187888270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_19
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f322c8cb558c284c8c65564a8bb7577
+      internalID: 293825027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_20
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7891788c716253f4a91ba390a01c0a8c
+      internalID: -732434044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_21
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0bfec55ce59034aa5187ec5995746f
+      internalID: 1294298999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_22
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0dff5f626a6e74999f42d73816f8c7
+      internalID: -1200699827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_23
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24534927b993ed6498c4bcc6d9b25093
+      internalID: -486427799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_24
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af239bef31dcb09459bd71a04b87f6fa
+      internalID: 1924474988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_25
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe55d698b3c55e649a08b79c3fd808aa
+      internalID: -1403581010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_26
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec65173e99e34b648a06f2b46df32148
+      internalID: -1075172903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_27
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 483
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7b05d1efc0b44479fce388b7cca4e4
+      internalID: -1712385083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_28
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 483
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57d1c2499efd524f9b52699e8b75244
+      internalID: -309732931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_29
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 483
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2673fa10b66474c98344d56ddad324
+      internalID: 1979632572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_30
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 458
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac91eba1bbe8784b8337d17f1e09ef6
+      internalID: 2071528039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_31
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 483
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd218eb0bd7004b48b8793518defb3bc
+      internalID: -680393137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_32
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 458
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6128c626c3da5764da7b865447f3bd3b
+      internalID: 242101983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_33
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 458
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f61d7cbea974154dab2ac8ad02a3691
+      internalID: 404647889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_34
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 458
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cd54b36390e0241bfe0f754caf70d8
+      internalID: 1329947087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_35
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 433
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ff22cac4698c845bfe1418ed5171f9
+      internalID: -468123194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_36
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 433
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270ec5a3a4f079e4a8df4a078bb648a8
+      internalID: -747206598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_37
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be541f295e378f4f8fa10defb2e1cdf
+      internalID: 17413991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_38
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f5572730d93224b875051e71c53541
+      internalID: -571943839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_39
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f63f75317451e6419cdbebfdee39119
+      internalID: 1039642544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_40
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e715216f5786d46ae067c6ca834549
+      internalID: -1349103928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_41
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780156d0a9cdb2d42821f8b1bb9532e5
+      internalID: -1390082376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_42
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 383
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e60ef82108fe245a48ba43b5010c6a
+      internalID: 1176237835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_43
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 383
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ced87977a517c6409d06a0ba7b60773
+      internalID: 797928624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_44
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 358
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fd2b8135cc322479d6681fc50c19b1
+      internalID: -659562928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_45
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 358
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d9d19c92511a0459689c9e48c05651
+      internalID: 1803963190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_46
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 333
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68204dc3ee0f2c0498bd95275aa0107a
+      internalID: 1827471920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_47
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 333
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ab9d16e881c0946886ea90b8e6e2b2
+      internalID: 652316736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_48
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 333
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcd6d59dcd60654db8061ef09201b31
+      internalID: 1046181083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_49
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 333
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fc1ed2a651bf34aa6c6d8d081d5722
+      internalID: -1487276877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_50
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 308
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7648c98048fa0a040a6e391bcdc7f93b
+      internalID: -1718447957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_51
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 308
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e70f744f2de4a84f82142c9b018f344
+      internalID: -455893138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_52
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 283
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3441fe9fc9d33c442b1dcb2289d32ed9
+      internalID: 1916977329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_53
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 258
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cbee0614f55b8469986aa2115c7e2a
+      internalID: -1188600174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_54
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 258
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359f39ff0a93263498ca83994bc61c36
+      internalID: -644835570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_55
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 233
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3edc7508d111c44bcab874a02e4096
+      internalID: 2121946569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_56
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 208
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276224f23bc5ade45916feee6c30fba1
+      internalID: -160256586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_57
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 208
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f07fa96b990c44ba65e7421c5eb027
+      internalID: -1797566506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_58
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 183
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ce53513001e894b81f6806e3656f7d
+      internalID: -1330228775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_59
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 183
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e2274ccd2151944a987c9bff7a1937
+      internalID: 494003120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_60
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 158
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea2bf9441b7b944ea4391d214392fca
+      internalID: 1447009433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_61
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 158
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddc0161fca5e7740a9a0fafc73e3d6e
+      internalID: 1921861284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_62
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 133
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef4e6f3509765c43b7b4c25557dd34c
+      internalID: -1518441281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_63
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 133
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45282bb85afd68746adaacf591c2de0a
+      internalID: -1823529386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_64
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 158
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ae457ef270f844997dacff81d833ff
+      internalID: -357406722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_65
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 158
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31f198e6d9f3264d87bd84574548d04
+      internalID: -1009461694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_66
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 133
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32d177b83e55ee4ab7c3440efebb57b
+      internalID: -231552049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_67
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 133
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62f94fabcdf02545a5e4fccc159180e
+      internalID: -1265104145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_68
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 108
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b64dea4434436046a7605220df5d00a
+      internalID: -1127985361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_69
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 108
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1802f71b8436d3749a73d453b9d24dc8
+      internalID: -1317519341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_70
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 83
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6534a7efa2a3ca44f93d47ee73b7506f
+      internalID: 1318642568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_71
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 83
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92595ba065c6c0044a0a9cab2efc4a2f
+      internalID: -1690579067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_72
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 108
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d78983ab13c3c4ab9247a3b9732c12
+      internalID: -1860738196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_73
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 108
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b648ac24f13ee240bbe22d2b55e46b9
+      internalID: -667567929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_74
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 83
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda055f2a044ff24e938ff9b674b9dda
+      internalID: -201372491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_75
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 83
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ba37daf12dea74782875c0b511cd37
+      internalID: -84426375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_76
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 58
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8345339fa3df9f44b70525d5509a014
+      internalID: 1081178088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_77
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 58
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc029775808ebb24086c9bcadab0133a
+      internalID: 2099268210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_78
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 33
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69fbc0c9dbc2ee429bf01ebecbd548a
+      internalID: 1200774254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_79
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 33
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d93fbe14f725a49889e6da3f586955
+      internalID: -1143745753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_80
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c146312939ac58d459adedb1a80b4bc0
+      internalID: 1337221668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_81
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca6b267c4211a94cabae33b4199ed3c
+      internalID: -1520705695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_82
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab27d72a06e4aa94caddd1a4dfc3d5c6
+      internalID: -1922676109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_83
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286dbf47c5f13c24791e179e3e6f79d1
+      internalID: -454575706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_84
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04793e2ece6edcc4f868f2d349606f0b
+      internalID: 1738544515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_85
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948ae78acf58e2740a93feda1c8a6ace
+      internalID: -74171824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_86
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c094241dd8c6f0049886d11183b60b4b
+      internalID: -1525047556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_87
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154cbbbc5a93bea42a511ea8d1574f51
+      internalID: -252487377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_88
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5370b5a59565f24a9a937e599ea702d
+      internalID: 273042410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_89
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe86d2e902298c40b34077b9816ccad
+      internalID: -1955150594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_90
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dddfa5530c9e604cafa086c05ee542c
+      internalID: -1626863970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_91
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9211d3ae6198247a04fa56dcc00791
+      internalID: 1450616284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_92
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79dc0d6144fe9744b6605b3f066f324
+      internalID: -212045933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_93
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de8b5548308b8f47a0bf3f989e042b5
+      internalID: -1119169427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_94
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6c402522899f6439070e7149015330
+      internalID: 1523423548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_95
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d30a3da8eca3684f9c136b3a3529d4e
+      internalID: 1789536520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_96
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf077e1d1c3dff48b2d5fd8ba2b92f5
+      internalID: 748988962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_97
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ed8f7377a4dda458f93c4b8c231016
+      internalID: -1518999403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_98
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 483
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b982709f4bd27af408d935c4a4ac581a
+      internalID: -118957847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_99
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 483
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c43be321f82c046bae156b41a1c985
+      internalID: 765485555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_100
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 458
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e806f09c1614eec4893448e0d3fb317e
+      internalID: 736043370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_101
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 458
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e892dd13b828564a8f168fa5a7873e4
+      internalID: -573096938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_102
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 433
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598b43d30e1e39244a8107ac92b96f0d
+      internalID: -63146260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_103
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6afed397c63ed4d950a0c5752cf050
+      internalID: -1217818919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_104
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc042b32f37285449b005c1888d4115a
+      internalID: 776140206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_105
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13066ee66e0100f49ace2530d4c74628
+      internalID: 1583240883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_106
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 383
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f81c84370836e345ba4561fed5e3344
+      internalID: 1933216526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_107
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 358
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798da0f4dad488040a542daad1894ac2
+      internalID: 1374727563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_108
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 333
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e9af9b80463b54aa286ecbdb91514f
+      internalID: 1248221375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_109
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 333
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc996c66e3a136943a3131a5203d3c43
+      internalID: -18117136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_110
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 333
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9c9e7bc333a1a42b040750c3b3b4c9
+      internalID: 1465973940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_111
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 308
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3ef9f73cc26e84788e46dd9f93b9c8
+      internalID: -1884138572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_112
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 333
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6b2acd5d377bc45b83ba1d4d26f649
+      internalID: -533819294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_113
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 283
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ae1cc0d1eacde4c84fd9fa07a8c850
+      internalID: -2110111098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_114
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 258
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08cf26ddd614a2468cc08fb83010de6
+      internalID: 1176650936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_115
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 258
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4a55b727385054086760d6519c9a34
+      internalID: 1040005073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_116
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 258
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b56a432f7851d4680d642393c5bde3
+      internalID: 2140640837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_117
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 258
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f1d0f8d04867045abb0fd3b7557149
+      internalID: 38736865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_118
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 233
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b51b060799944449268737e247bd1d
+      internalID: -483557727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_119
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 233
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21253fa9f9e810948ad574f1a508c3a4
+      internalID: -92121633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_120
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 208
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f14c4ce557f2d4a95a4c8ec0bc8bb9
+      internalID: -982161857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_121
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 208
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c6795547516944184889c362665ec8
+      internalID: -740255763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_122
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 208
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d201577de62db9c4ba5761fedc302d0d
+      internalID: 919488477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_123
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 208
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601e1f271b5c6804390e06f61f23b9da
+      internalID: 1779795857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_124
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 183
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6593b96b41754344d884bf159637f4a9
+      internalID: -1783196950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_125
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 183
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd2a608990c8ed4aaa9e88a085096ab
+      internalID: -863576505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_126
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 183
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b898d5550ea624e4ba1ad9b13db6043a
+      internalID: 1209940539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_127
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 183
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7a175f7d1961847ba3ac54f3d96312
+      internalID: -385190159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_128
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 158
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f213b9fe586a13845833cf41cfead1a9
+      internalID: 88213971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_129
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 158
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b6ca9ca16cd744b976c78cd329ec21
+      internalID: -2102317269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_130
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 158
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e34b91a153298844b7df09b0d526947
+      internalID: 2095117028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_131
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 158
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e332ca81409c744a09b4007dca5bd4
+      internalID: 948263962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_132
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 133
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02f4bbe9363bf8409c114f61d3d6cf2
+      internalID: 388924774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_133
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 133
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab30782f4d34fd94ab6041e48290b6da
+      internalID: -1267607828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_134
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 133
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1732522502b036488e88e541292a1d1
+      internalID: 694434370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_135
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 133
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8345278cf127e1a40a9aa5567154e60e
+      internalID: -1061000856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_136
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 108
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85718e4478688cf418432a7ee65d3df8
+      internalID: 456788516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_137
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 108
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fa9c870392c3e4fa43614f915eabab
+      internalID: 1347904375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_138
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 108
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f3e6014d30faa448eb9f4c925ba801
+      internalID: 1378802387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_139
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 108
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb962f46bb2d97449bb55ad936f20b2
+      internalID: -1695928684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_140
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 83
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73794f2d509b4294c9ab845912f8a442
+      internalID: 211865667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_141
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 83
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81edd3f3834368c428dd086c55925a47
+      internalID: -1371023665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_142
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 83
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412eb50f7f9746f44a89f9c0d4e58ce7
+      internalID: 46246938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_143
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 83
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91edb2be434306d4e99dd1d600bfd51c
+      internalID: 940056903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_144
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 58
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da82d73a2d87ce440adddbb6063b9196
+      internalID: 1065925395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_145
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 58
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977d776e675bb894c83ad695cdd17f80
+      internalID: 1394181923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_146
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 58
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08563bacedc137843b5c7f1a97d8b33a
+      internalID: 2055949064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_147
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 58
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633800734ea4fee4a8ef92882a4df365
+      internalID: -999476582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_148
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 33
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27971fdc73e840e40ab0d0b27a1c7e72
+      internalID: 1651212162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_149
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 33
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0831bbd83a9cbf147a9fcc09af64bfe0
+      internalID: -187325286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_150
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b6c6db6744e7f4c95c439dfdc696e6
+      internalID: 700989363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_151
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16fadce1660a874cbe2d74d3c82833c
+      internalID: -1544829742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_152
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f791ae0ba317d64780779bb3d051dd6
+      internalID: 106277954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_153
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0b43d4c27f8e44a8e71657cbc201a1
+      internalID: -1148688224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_0: -189443684
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_1: -569686844
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_10: 1357121195
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_100: 736043370
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_101: -573096938
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_102: -63146260
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_103: -1217818919
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_104: 776140206
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_105: 1583240883
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_106: 1933216526
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_107: 1374727563
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_108: 1248221375
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_109: -18117136
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_11: -926559997
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_110: 1465973940
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_111: -1884138572
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_112: -533819294
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_113: -2110111098
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_114: 1176650936
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_115: 1040005073
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_116: 2140640837
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_117: 38736865
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_118: -483557727
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_119: -92121633
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_12: 1851352399
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_120: -982161857
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_121: -740255763
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_122: 919488477
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_123: 1779795857
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_124: -1783196950
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_125: -863576505
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_126: 1209940539
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_127: -385190159
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_128: 88213971
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_129: -2102317269
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_13: -1842970181
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_130: 2095117028
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_131: 948263962
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_132: 388924774
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_133: -1267607828
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_134: 694434370
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_135: -1061000856
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_136: 456788516
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_137: 1347904375
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_138: 1378802387
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_139: -1695928684
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_14: 560210925
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_140: 211865667
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_141: -1371023665
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_142: 46246938
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_143: 940056903
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_144: 1065925395
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_145: 1394181923
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_146: 2055949064
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_147: -999476582
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_148: 1651212162
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_149: -187325286
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_15: 2028974577
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_150: 700989363
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_151: -1544829742
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_152: 106277954
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_153: -1148688224
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_16: 235423726
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_17: 964203773
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_18: -1187888270
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_19: 293825027
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_2: 754345252
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_20: -732434044
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_21: 1294298999
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_22: -1200699827
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_23: -486427799
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_24: 1924474988
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_25: -1403581010
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_26: -1075172903
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_27: -1712385083
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_28: -309732931
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_29: 1979632572
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_3: 742137082
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_30: 2071528039
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_31: -680393137
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_32: 242101983
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_33: 404647889
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_34: 1329947087
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_35: -468123194
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_36: -747206598
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_37: 17413991
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_38: -571943839
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_39: 1039642544
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_4: 1842054666
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_40: -1349103928
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_41: -1390082376
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_42: 1176237835
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_43: 797928624
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_44: -659562928
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_45: 1803963190
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_46: 1827471920
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_47: 652316736
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_48: 1046181083
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_49: -1487276877
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_5: 1640501370
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_50: -1718447957
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_51: -455893138
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_52: 1916977329
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_53: -1188600174
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_54: -644835570
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_55: 2121946569
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_56: -160256586
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_57: -1797566506
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_58: -1330228775
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_59: 494003120
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_6: 1823801819
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_60: 1447009433
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_61: 1921861284
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_62: -1518441281
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_63: -1823529386
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_64: -357406722
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_65: -1009461694
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_66: -231552049
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_67: -1265104145
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_68: -1127985361
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_69: -1317519341
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_7: -1961292820
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_70: 1318642568
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_71: -1690579067
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_72: -1860738196
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_73: -667567929
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_74: -201372491
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_75: -84426375
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_76: 1081178088
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_77: 2099268210
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_78: 1200774254
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_79: -1143745753
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_8: 532702125
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_80: 1337221668
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_81: -1520705695
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_82: -1922676109
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_83: -454575706
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_84: 1738544515
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_85: -74171824
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_86: -1525047556
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_87: -252487377
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_88: 273042410
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_89: -1955150594
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_9: -258817007
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_90: -1626863970
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_91: 1450616284
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_92: -212045933
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_93: -1119169427
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_94: 1523423548
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_95: 1789536520
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_96: 748988962
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_97: -1518999403
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_98: -118957847
+      Game Boy Advance - Pokemon Mystery Dungeon Red Rescue Team - Water Maze_99: 765485555
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

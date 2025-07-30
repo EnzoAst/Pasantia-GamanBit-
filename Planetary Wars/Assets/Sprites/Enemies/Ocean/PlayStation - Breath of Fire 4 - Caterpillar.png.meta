@@ -1,0 +1,1193 @@
+fileFormatVersion: 2
+guid: 87b344a1270e9d94fa2881f5fb0ca75f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 470
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d023661bba6054896fcd87338b8993
+      internalID: -254623120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 470
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a356e2bb056f243a56ba2d8e1bdf12
+      internalID: 331727510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 470
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682e0bb242950034aa4422b3be9dabd2
+      internalID: 642518083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 470
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2d595a6de13b648a79d7abbb9829c5
+      internalID: -620227704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 470
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58bac3c69ce811498192559d83e4e64
+      internalID: -1733550783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_5
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 470
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333982056854bc64eb0b422807ac3ce7
+      internalID: -1838534921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_6
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 470
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b48e47b63df8141b5f8b0ab355b61f
+      internalID: -355400429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_7
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 470
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0e3a56970c5674b8b3e7dc4ed33c89
+      internalID: -999153342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_8
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 470
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8575a906065da9b4c9556a67e66638f5
+      internalID: 237595194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_9
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 470
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8cb4271e21b7944bcfa2d747ae30bf
+      internalID: -1631585928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_10
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 470
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963c1fda509eec8449d6a37235f5b0d8
+      internalID: -25799065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_11
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 470
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b66a7c22aaa524ea75e8b7c532de7f
+      internalID: -67285293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_12
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 470
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb74cbb3ab52aa7409f55a45d1f8890b
+      internalID: 1939335633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_13
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 289
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac86f979be69f114b99b69202d195dbf
+      internalID: 2135479780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_14
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 289
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a951a80c1d46754ca5b8ec81495977d
+      internalID: 992961353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 289
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0557e685f964b84dabb6e94f6e7caba
+      internalID: 419460194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_16
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 289
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c3c0a96523ce443a9de27d0fcb8296
+      internalID: -954314632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 289
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b999f006c1928044b3bebe965480dea
+      internalID: -958217878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_18
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 289
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c20570813c6abf418ddf50397c8339d
+      internalID: 1540456874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_19
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 289
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d8de1260ba6a1458014aa251f99715
+      internalID: 572720970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_20
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 289
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fb6131b6e34da4fba24fd804fb0a50
+      internalID: 1146854991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_21
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 145
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7432c6f5260644fad3c896baf4bd2c
+      internalID: 597413515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_22
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 145
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21be8d7c5c552ed46945e6a2d51a67bd
+      internalID: 629119276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_23
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 145
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2cad910ffeb214ba6dc031f42a7fcd
+      internalID: -1598858311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_24
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 145
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bf2e2f5c6050d418272a5439881003
+      internalID: 1578883916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_25
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 145
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c23df1c7688fd64688ee98dd128aa53
+      internalID: 146541129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_26
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 145
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc71c2bdb7bad24c946047a7e59f416
+      internalID: 301876115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_27
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 145
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285e7ecf4a96e3e42b3695a9cc957c14
+      internalID: 631971912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_28
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 145
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e54e6d090cfe040b721253e22b8f7c
+      internalID: 1556179190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_29
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 145
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfe191a248bacc4a87eb4b514f71fe3
+      internalID: 1504355729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_30
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 145
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db5328eab104064087f8f62dd1f9252
+      internalID: -157630774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_31
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 145
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca7ef76f325af145bccb2f089926df1
+      internalID: -662070754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_32
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 145
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a8915bf51cff64a82bcce75d1f156e
+      internalID: 1409953862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_33
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 145
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22dd7d1a4a86ea8488abb8a2c50a1165
+      internalID: -982661398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_34
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 145
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c721262f52c4e5a4a833a7f144be167f
+      internalID: -1874530025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_35
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 145
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f40fc4beecb294bbb67b85cbd91617
+      internalID: 143815965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_36
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 145
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2cdb1d3f246f4419b19cb7a118cd14
+      internalID: 658965021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_37
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 145
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94df8155bb3c66e419e693767e500152
+      internalID: 1547317276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_38
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 145
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cc1a057b2a67d4e874ff8bc477e2ab
+      internalID: -1570901541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_39
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 145
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a20b43ad804b349ac7433f38e328aa
+      internalID: -1212695190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_40
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 145
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b10c0a08cffb544c8b9b360f25a3b54
+      internalID: 1998126961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_41
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 145
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29f2298b6d338848b905596d88d559d
+      internalID: -901041251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_42
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 145
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ccab7c4c2f3d34d9760be57d26108b
+      internalID: 1096134258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_43
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 18
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17c871cd5effbb4cb5b8bb5a4e70c67
+      internalID: 508001415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 18
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140453a3af43fe24781b3f40ce5f4bec
+      internalID: 1352512944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_45
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 18
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1902fa0588e11d149b81e9ec82a648c6
+      internalID: 157815904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_46
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 18
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347a4e925db0e9a448305a3d38bda190
+      internalID: -875128523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_47
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 18
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1b6aff6b0cd9345800e75c8dce5db1
+      internalID: 1539094996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Breath of Fire 4 - Caterpillar_48
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 18
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455ce8fb6b6cb624cb0cafbb255f54d5
+      internalID: -405102548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PlayStation - Breath of Fire 4 - Caterpillar_0: -254623120
+      PlayStation - Breath of Fire 4 - Caterpillar_1: 331727510
+      PlayStation - Breath of Fire 4 - Caterpillar_10: -25799065
+      PlayStation - Breath of Fire 4 - Caterpillar_11: -67285293
+      PlayStation - Breath of Fire 4 - Caterpillar_12: 1939335633
+      PlayStation - Breath of Fire 4 - Caterpillar_13: 2135479780
+      PlayStation - Breath of Fire 4 - Caterpillar_14: 992961353
+      PlayStation - Breath of Fire 4 - Caterpillar_15: 419460194
+      PlayStation - Breath of Fire 4 - Caterpillar_16: -954314632
+      PlayStation - Breath of Fire 4 - Caterpillar_17: -958217878
+      PlayStation - Breath of Fire 4 - Caterpillar_18: 1540456874
+      PlayStation - Breath of Fire 4 - Caterpillar_19: 572720970
+      PlayStation - Breath of Fire 4 - Caterpillar_2: 642518083
+      PlayStation - Breath of Fire 4 - Caterpillar_20: 1146854991
+      PlayStation - Breath of Fire 4 - Caterpillar_21: 597413515
+      PlayStation - Breath of Fire 4 - Caterpillar_22: 629119276
+      PlayStation - Breath of Fire 4 - Caterpillar_23: -1598858311
+      PlayStation - Breath of Fire 4 - Caterpillar_24: 1578883916
+      PlayStation - Breath of Fire 4 - Caterpillar_25: 146541129
+      PlayStation - Breath of Fire 4 - Caterpillar_26: 301876115
+      PlayStation - Breath of Fire 4 - Caterpillar_27: 631971912
+      PlayStation - Breath of Fire 4 - Caterpillar_28: 1556179190
+      PlayStation - Breath of Fire 4 - Caterpillar_29: 1504355729
+      PlayStation - Breath of Fire 4 - Caterpillar_3: -620227704
+      PlayStation - Breath of Fire 4 - Caterpillar_30: -157630774
+      PlayStation - Breath of Fire 4 - Caterpillar_31: -662070754
+      PlayStation - Breath of Fire 4 - Caterpillar_32: 1409953862
+      PlayStation - Breath of Fire 4 - Caterpillar_33: -982661398
+      PlayStation - Breath of Fire 4 - Caterpillar_34: -1874530025
+      PlayStation - Breath of Fire 4 - Caterpillar_35: 143815965
+      PlayStation - Breath of Fire 4 - Caterpillar_36: 658965021
+      PlayStation - Breath of Fire 4 - Caterpillar_37: 1547317276
+      PlayStation - Breath of Fire 4 - Caterpillar_38: -1570901541
+      PlayStation - Breath of Fire 4 - Caterpillar_39: -1212695190
+      PlayStation - Breath of Fire 4 - Caterpillar_4: -1733550783
+      PlayStation - Breath of Fire 4 - Caterpillar_40: 1998126961
+      PlayStation - Breath of Fire 4 - Caterpillar_41: -901041251
+      PlayStation - Breath of Fire 4 - Caterpillar_42: 1096134258
+      PlayStation - Breath of Fire 4 - Caterpillar_43: 508001415
+      PlayStation - Breath of Fire 4 - Caterpillar_44: 1352512944
+      PlayStation - Breath of Fire 4 - Caterpillar_45: 157815904
+      PlayStation - Breath of Fire 4 - Caterpillar_46: -875128523
+      PlayStation - Breath of Fire 4 - Caterpillar_47: 1539094996
+      PlayStation - Breath of Fire 4 - Caterpillar_48: -405102548
+      PlayStation - Breath of Fire 4 - Caterpillar_49: 596668805
+      PlayStation - Breath of Fire 4 - Caterpillar_5: -1838534921
+      PlayStation - Breath of Fire 4 - Caterpillar_6: -355400429
+      PlayStation - Breath of Fire 4 - Caterpillar_7: -999153342
+      PlayStation - Breath of Fire 4 - Caterpillar_8: 237595194
+      PlayStation - Breath of Fire 4 - Caterpillar_9: -1631585928
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
