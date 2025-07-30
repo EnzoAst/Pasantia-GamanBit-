@@ -1,0 +1,1227 @@
+fileFormatVersion: 2
+guid: a5ce13a4ecb0b5c44848755c26fef726
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GreyMinotaur_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 212
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797c703da15499547b68e9822fc5290f
+      internalID: -503691472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 212
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea8cb43ec717c743930058a4e1f1040
+      internalID: -358967286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 212
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323118340b594cb4a8e5e6c5a29852f7
+      internalID: 2049651751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 212
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852bdcc83b2dc0647a11d837e4a92dbe
+      internalID: 61868550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 212
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624c677545d3b734da5f414983ff95e1
+      internalID: 243379435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 212
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923f801932cf4f742bd0c23407afd277
+      internalID: -1372885908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 212
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7636744464548284e9e442fb2f35f9b6
+      internalID: -1270263191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 212
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a12333c58f33a4497bf0e5d9fc2cd9
+      internalID: 310863013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 212
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd62536cf3c9f544b479e2992557f48
+      internalID: 92000026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_9
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 212
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ae2725f07b6994aa780f169be07c00
+      internalID: 1643316271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 164
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57f2b71da72c0e4595016610f1c74d6
+      internalID: 374582210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_11
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 164
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ddc1175b651414e8b721ca7b9cb5c8
+      internalID: 908073727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 164
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe0975d92623fd4b81ba794144a49a4
+      internalID: 1118714300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_13
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 164
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfb7f43818e80b48a49d4afed81dc86
+      internalID: 1477796401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 164
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b90a239f852a344abc36483e77017a5
+      internalID: -2138762362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_15
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 164
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6db24786e9ddc04aa03db9737782ffe
+      internalID: -1402401572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_16
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 164
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b30c69f0e7917e4ba7f97a0a8da28c9
+      internalID: -986584011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_17
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 164
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f187b5e04a75046a1997528abd70ab
+      internalID: -1539958943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_18
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 164
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14566ec772bc4744d9e39d83f672d371
+      internalID: 642133404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_19
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 164
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cd722ad80e84a4489652d5699d595a
+      internalID: -1195489101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 116
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e332ff941b3f10440bd5b9f4632c4494
+      internalID: 390563177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_21
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 116
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fb471e811ff364b93775f0ca2b1ae5
+      internalID: 151675563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_22
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 116
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a2c884c3e009e439b1d94baacf7595
+      internalID: -1461607116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_23
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 116
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e8f8ed50cc4ee4f938207b818a5e7c
+      internalID: 189544733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_24
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 116
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af578b9ec9472734f9abfd844dee140f
+      internalID: 334364257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_25
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 116
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3ce72edd6133644820e8abd46da231
+      internalID: -1775368319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_26
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 116
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94a3c76f36dca84599370dfabc8f2c8
+      internalID: 565073253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_27
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 116
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7874a5988a283d459788485c4e2d5f2
+      internalID: -1887252885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_28
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 116
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502f4ac73ec11134399d3479505da258
+      internalID: -2021562736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_29
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 116
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ddf2d55b8719f4ba5a57ff0545288f
+      internalID: -1051407783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 68
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a318f4c3c063723418db68d84a51d9b9
+      internalID: 2025219615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_31
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 68
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f3353d5748b8e4dbe43ba6730699fa
+      internalID: -690284342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_32
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 68
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bbfe6a428501847b1632306aa15812
+      internalID: 641048229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_33
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 68
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fc40afeac721b408871b4a85ce0393
+      internalID: 843742481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_34
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 68
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5dfee95de12cc44b9c482463ae9aff
+      internalID: 63815147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_35
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 68
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416c22ac0b0715042b82a00f18d8a3bd
+      internalID: 1818004767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_36
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 68
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ec87e7af85cc34b8451d6b7d77535b
+      internalID: 1677302871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_37
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 68
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec2efc13ea0b2f4e9cf153a7ced22e5
+      internalID: -176265147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_38
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 68
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1b5cc87da98014fb58aeb2994fccaf
+      internalID: 1119334942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_39
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 68
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be027af35be3f254a8920ccf57b6cced
+      internalID: 563591117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b34e19ba7cb814ebb0b6ea1008d66d
+      internalID: 2077128771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_41
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 20
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf0e0abd721daf488381c9dc152cfd6
+      internalID: 202427465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_42
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 20
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57359cd005891444a8870ab7342a483
+      internalID: 117232533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_43
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 20
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d059bc177ff1554d9e7b2a0d50b1a1a
+      internalID: 355591392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_44
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 20
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1b4348ec03a53479cc78b634baf544
+      internalID: -587285790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_45
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 20
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af85ec773e76c04093625a5ec56ae99
+      internalID: 113415089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_46
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 20
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5d8daa04f97354797a49ef4e889fe4
+      internalID: -1023024968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 20
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26ffad991274d044a08fa8df3a55c00
+      internalID: 1775769837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_48
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 20
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db61fbb7f97260468610f7525e9be0e
+      internalID: -1104737905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreyMinotaur_49
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 20
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13015d1c225b4240bd10db75215fad5
+      internalID: -23310392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GreyMinotaur_0: -503691472
+      GreyMinotaur_1: -358967286
+      GreyMinotaur_10: 374582210
+      GreyMinotaur_11: 908073727
+      GreyMinotaur_12: 1118714300
+      GreyMinotaur_13: 1477796401
+      GreyMinotaur_14: -2138762362
+      GreyMinotaur_15: -1402401572
+      GreyMinotaur_16: -986584011
+      GreyMinotaur_17: -1539958943
+      GreyMinotaur_18: 642133404
+      GreyMinotaur_19: -1195489101
+      GreyMinotaur_2: 2049651751
+      GreyMinotaur_20: 390563177
+      GreyMinotaur_21: 151675563
+      GreyMinotaur_22: -1461607116
+      GreyMinotaur_23: 189544733
+      GreyMinotaur_24: 334364257
+      GreyMinotaur_25: -1775368319
+      GreyMinotaur_26: 565073253
+      GreyMinotaur_27: -1887252885
+      GreyMinotaur_28: -2021562736
+      GreyMinotaur_29: -1051407783
+      GreyMinotaur_3: 61868550
+      GreyMinotaur_30: 2025219615
+      GreyMinotaur_31: -690284342
+      GreyMinotaur_32: 641048229
+      GreyMinotaur_33: 843742481
+      GreyMinotaur_34: 63815147
+      GreyMinotaur_35: 1818004767
+      GreyMinotaur_36: 1677302871
+      GreyMinotaur_37: -176265147
+      GreyMinotaur_38: 1119334942
+      GreyMinotaur_39: 563591117
+      GreyMinotaur_4: 243379435
+      GreyMinotaur_40: 2077128771
+      GreyMinotaur_41: 202427465
+      GreyMinotaur_42: 117232533
+      GreyMinotaur_43: 355591392
+      GreyMinotaur_44: -587285790
+      GreyMinotaur_45: 113415089
+      GreyMinotaur_46: -1023024968
+      GreyMinotaur_47: 1775769837
+      GreyMinotaur_48: -1104737905
+      GreyMinotaur_49: -23310392
+      GreyMinotaur_5: -1372885908
+      GreyMinotaur_6: -1270263191
+      GreyMinotaur_7: 310863013
+      GreyMinotaur_8: 92000026
+      GreyMinotaur_9: 1643316271
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

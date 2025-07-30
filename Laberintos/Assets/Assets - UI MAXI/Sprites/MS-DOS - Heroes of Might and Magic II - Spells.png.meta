@@ -1,0 +1,2204 @@
+fileFormatVersion: 2
+guid: fffb6d7dbe32f2c40b1eef9546231e60
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 425
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970163b511f44e14fb775f8dee5af6ed
+      internalID: -2034918991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 425
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29fc6f1b1c14a614e884ead7cc345f95
+      internalID: 334678369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 425
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc721d4e9984d8842b399f47b4c76387
+      internalID: 1699775825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 429
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c657243d83c2c2641899bde2ec840c2c
+      internalID: 1299494719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 430
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3904885f905e03498feabb3530cbda9
+      internalID: 206451076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_5
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 430
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665b99600431d1141b7dd91f3d846da2
+      internalID: 2011234728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_6
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 425
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9cb21994b7ae345997287b713cd779
+      internalID: 2109993010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_7
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 425
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce332cb5bc20174fb2e977a16714595
+      internalID: 1705525356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_8
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 426
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f02437c911d594398ec12cc8c26cbc
+      internalID: 404833623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 372
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d63f21684b931a4dae5bf0124c306a2
+      internalID: -1946655085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 373
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7f163c2176db84f8fbdfcc42f57eab
+      internalID: -1580760896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_11
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 375
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf121eb6880bedb4d880d8ef771a7175
+      internalID: 1795597561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_12
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 374
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be1c2fab2c05f34b8d47daed28d99d7
+      internalID: -1450917115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_13
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 374
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306ce1281170f0646863cec6debc70c4
+      internalID: -544449099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_14
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 372
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d9e5ba43cdffc4793213f9f524aa86
+      internalID: -1996623528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_15
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 372
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e315383ae0f49438b23f350fd2953b
+      internalID: 2006914469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_16
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 373
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd8bdd78f3b0b343a656e26b84c59c1
+      internalID: 1396636401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_17
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 328
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1064263bc08c26e45b4534a79920d102
+      internalID: 1930750657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_18
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 345
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42a67b24a364cd4b8af35bf8a4504f8
+      internalID: 1341098847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_19
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 332
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0997bbef40eea8f4fb03b509bc6b2951
+      internalID: -1704001548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_20
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 327
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d550eb8c01652d648bd74dc804260fb8
+      internalID: -1808309623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_21
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 327
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89caf8af8d73954ea884c2068da7e13
+      internalID: -1209291444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 327
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84a8dc74a4ea194ba3fd844e071459d
+      internalID: -1730691692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_23
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 327
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e79fb7a9c8ded438855ba20529063b
+      internalID: 818998641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_24
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 330
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1d6a9932b6c3f429059119aee18839
+      internalID: -1592821948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_25
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 350
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198fd72f3b90af041ab31dd423f46e11
+      internalID: 2050870905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_26
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 353
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91595fa9a546f9e43868c2a7038e817f
+      internalID: -500551712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_27
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 328
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a762f4b4327fc5246b2908a0ad24f7c8
+      internalID: -350948683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_28
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 331
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414b29a9a09ccc04987e0a6b143ae47b
+      internalID: 2085171954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_29
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 342
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1766e5b7faf6c174a889eabb119d3365
+      internalID: -1837308303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_30
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 331
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6dbad8974e8584eb83e7c190ec4efb
+      internalID: 1067713233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_31
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 278
+        width: 66
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee7ede0a38ccb7499c22085bff8e846
+      internalID: 169352019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_32
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 280
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ab7a96c2338c44db787efc109c091f
+      internalID: -60124854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_33
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 278
+        width: 59
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ecc838e51df274d84150e7d9f945f8
+      internalID: 398207917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_34
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 278
+        width: 54
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bc447337eba0f49b02e62b6212cd1c
+      internalID: 817887113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_35
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 279
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5467c0b930fa294f93cf8ebd4215293
+      internalID: 1696220126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_36
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 279
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d29190cd53faea4993dd4e0e54e6770
+      internalID: -725103368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_37
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 278
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bf90c8ee9b6d7419feebfb65330f90
+      internalID: 1140486228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_38
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 241
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fcfe3be57e53c4f997df76959f47f2
+      internalID: -20080187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_39
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 254
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a8d3b3ce3140846a30e1f03e5ab22c
+      internalID: 2147132634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 230
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52579c0211b70b241a80740eff2f32d6
+      internalID: -240515422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_41
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 258
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd6638267b41bb4d80da291e642ff04
+      internalID: 2139648289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_42
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 249
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6d6be81839f434e8d3dda5d9e9a0ea
+      internalID: -1383419868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_43
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 227
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbfb6cfa6d40ea4c9203eac29f78ee5
+      internalID: 832970809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_44
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 230
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4731bc413246e3c4398329a12a2c96d3
+      internalID: 2014000330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_45
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 228
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d7b6781f333334181497901c98ce30
+      internalID: 715989409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_46
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 229
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6f21d96c81d0542a9333119322ae67
+      internalID: -1939339047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_47
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 227
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d45c3eac9275a46ae3c4e73a68c8b3
+      internalID: 1833399436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_48
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 229
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc05886425b643b4c82406aebb8dd487
+      internalID: 591215590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 235
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae58648a0356c94cabe335ed50ecab4
+      internalID: -672937892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_50
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 238
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5498b512d39f4ae4487b9b66769d9aef
+      internalID: 1304377999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_51
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 242
+        width: 44
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f6a74049365124db623af6e5f765e7
+      internalID: -895323244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_52
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 235
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7670525baa6dbf846a67d34bbc3620dd
+      internalID: 929285876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_53
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 185
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c945e69b06dd9524abcfcff701d86c4a
+      internalID: 454276990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_54
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 184
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29aa4eb4fb595954b9128beb61d5a2ed
+      internalID: -1082959276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_55
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 182
+        width: 67
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84cefc907c52ef4b8f6374fe7a7ea2a
+      internalID: -671991617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_56
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 183
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beaca20c99d500c4a8d15637b3d165f5
+      internalID: 101691999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_57
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 182
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d372f2ef75b3947993eb337238317f
+      internalID: 1626372068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_58
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 183
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167116ca87e85fd4aa1893403403c608
+      internalID: 1461429564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_59
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 184
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365b18a3ce6be5b4eb9a1ffeb153cc10
+      internalID: -567721850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_60
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 183
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f49eb1c4c5d8494696bbddbf0c2d48f
+      internalID: -527390821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_61
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 132
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3958ac3b6f6bb2249b92d5f07c886fd6
+      internalID: -148037021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_62
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 128
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257836c154dcdf64ba6452160c65157e
+      internalID: -1175815896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_63
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 126
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a7cdd059cdfa444a859c36e2710c0b
+      internalID: -1796173786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_64
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 132
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03309dbe2763cbb439349ec93df6cbc2
+      internalID: -1513102682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_65
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 126
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9b20a1bbed93f449fd1cb07f1c0908
+      internalID: 2030867639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_66
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 132
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae21a982185b04c4ead6bacaf08fcdac
+      internalID: 931616410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_67
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 126
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367cdf99b34a4744da20bf6fab36e1f3
+      internalID: 1822036887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_68
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 132
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9329de1224e79249b4cc58784a9a2a1
+      internalID: 1631534667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_69
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 126
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fce1a0ae55fa7046a6ab7d27e85f549
+      internalID: -1889522586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_70
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 132
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fe58fbec0adde43836584df28347f4
+      internalID: -73276064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_71
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 126
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc96b3784f70be4aa85a45f21f460a5
+      internalID: -541034300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_72
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 139
+        width: 5
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d2178949ccf304e8143dd5f844b6b1
+      internalID: -1264077405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_73
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 138
+        width: 6
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd813a84576059345a557dfda96ef46e
+      internalID: 953104725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_74
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 126
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6227d5d71dd3341aee7796796eb72d
+      internalID: -1245702420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_75
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 138
+        width: 6
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a0c545c6a0557499692c5f04a2c3e1
+      internalID: 1964768740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_76
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 135
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c737d668a1e04b489d200a9ad2eb8c6
+      internalID: -640665782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_77
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 87
+        width: 5
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561a7317d9d514a489061637a7ad1093
+      internalID: -594695938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_78
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 86
+        width: 6
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec29e11abbfa1c44aa0d6ad3799fb7a
+      internalID: -2069793250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_79
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 74
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c053b4ef3909e9f40883bc7e4ded8d05
+      internalID: 7205555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_80
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 86
+        width: 6
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee03d530f111b05449a81bad7596d104
+      internalID: 1744242746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_81
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 83
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0e60960fdf2be4ebd8a61b2398dcf1
+      internalID: -1558331355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_82
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 87
+        width: 5
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae4803b344c2d142bbb5f4ccc6f6367
+      internalID: -2041241042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_83
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 86
+        width: 6
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad0041cb762e8a4183f3ea26076e3b5
+      internalID: 869993649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_84
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 74
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2377656f8091725449356e7c5cfd5192
+      internalID: -746862221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_85
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 86
+        width: 6
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353afa5b448ecd24a8784d7b151df3d1
+      internalID: 554233192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_86
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 83
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02df97ae44833f148b13d38ab1bb89f4
+      internalID: -1507758809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_87
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 87
+        width: 5
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a432b66fc3c2c4cb32babc8b989e11
+      internalID: -1499095837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_88
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 86
+        width: 6
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7558356df0d45934e8cd5a95a973d26c
+      internalID: -160469816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_89
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 74
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c94b5d96748b824b907b1a0866c11ea
+      internalID: -766917246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_90
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 86
+        width: 6
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ae5876577a83e48bfbf7e7745fdd27
+      internalID: 946019164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_91
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 83
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb0f1a7703a96e4c897e96fed173eb2
+      internalID: 693103934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_92
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 19
+        width: 61
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab22519519d77d947a003f98f4d38bf1
+      internalID: 2000693871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_93
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 9
+        width: 106
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2808e9be8be050c488c760a1640725de
+      internalID: 1590498508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Spells_94
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 13
+        width: 90
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf43e3ff90cbb24786929157fbb675e
+      internalID: 91098151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MS-DOS - Heroes of Might and Magic II - Spells_0: -2034918991
+      MS-DOS - Heroes of Might and Magic II - Spells_1: 334678369
+      MS-DOS - Heroes of Might and Magic II - Spells_10: -1580760896
+      MS-DOS - Heroes of Might and Magic II - Spells_11: 1795597561
+      MS-DOS - Heroes of Might and Magic II - Spells_12: -1450917115
+      MS-DOS - Heroes of Might and Magic II - Spells_13: -544449099
+      MS-DOS - Heroes of Might and Magic II - Spells_14: -1996623528
+      MS-DOS - Heroes of Might and Magic II - Spells_15: 2006914469
+      MS-DOS - Heroes of Might and Magic II - Spells_16: 1396636401
+      MS-DOS - Heroes of Might and Magic II - Spells_17: 1930750657
+      MS-DOS - Heroes of Might and Magic II - Spells_18: 1341098847
+      MS-DOS - Heroes of Might and Magic II - Spells_19: -1704001548
+      MS-DOS - Heroes of Might and Magic II - Spells_2: 1699775825
+      MS-DOS - Heroes of Might and Magic II - Spells_20: -1808309623
+      MS-DOS - Heroes of Might and Magic II - Spells_21: -1209291444
+      MS-DOS - Heroes of Might and Magic II - Spells_22: -1730691692
+      MS-DOS - Heroes of Might and Magic II - Spells_23: 818998641
+      MS-DOS - Heroes of Might and Magic II - Spells_24: -1592821948
+      MS-DOS - Heroes of Might and Magic II - Spells_25: 2050870905
+      MS-DOS - Heroes of Might and Magic II - Spells_26: -500551712
+      MS-DOS - Heroes of Might and Magic II - Spells_27: -350948683
+      MS-DOS - Heroes of Might and Magic II - Spells_28: 2085171954
+      MS-DOS - Heroes of Might and Magic II - Spells_29: -1837308303
+      MS-DOS - Heroes of Might and Magic II - Spells_3: 1299494719
+      MS-DOS - Heroes of Might and Magic II - Spells_30: 1067713233
+      MS-DOS - Heroes of Might and Magic II - Spells_31: 169352019
+      MS-DOS - Heroes of Might and Magic II - Spells_32: -60124854
+      MS-DOS - Heroes of Might and Magic II - Spells_33: 398207917
+      MS-DOS - Heroes of Might and Magic II - Spells_34: 817887113
+      MS-DOS - Heroes of Might and Magic II - Spells_35: 1696220126
+      MS-DOS - Heroes of Might and Magic II - Spells_36: -725103368
+      MS-DOS - Heroes of Might and Magic II - Spells_37: 1140486228
+      MS-DOS - Heroes of Might and Magic II - Spells_38: -20080187
+      MS-DOS - Heroes of Might and Magic II - Spells_39: 2147132634
+      MS-DOS - Heroes of Might and Magic II - Spells_4: 206451076
+      MS-DOS - Heroes of Might and Magic II - Spells_40: -240515422
+      MS-DOS - Heroes of Might and Magic II - Spells_41: 2139648289
+      MS-DOS - Heroes of Might and Magic II - Spells_42: -1383419868
+      MS-DOS - Heroes of Might and Magic II - Spells_43: 832970809
+      MS-DOS - Heroes of Might and Magic II - Spells_44: 2014000330
+      MS-DOS - Heroes of Might and Magic II - Spells_45: 715989409
+      MS-DOS - Heroes of Might and Magic II - Spells_46: -1939339047
+      MS-DOS - Heroes of Might and Magic II - Spells_47: 1833399436
+      MS-DOS - Heroes of Might and Magic II - Spells_48: 591215590
+      MS-DOS - Heroes of Might and Magic II - Spells_49: -672937892
+      MS-DOS - Heroes of Might and Magic II - Spells_5: 2011234728
+      MS-DOS - Heroes of Might and Magic II - Spells_50: 1304377999
+      MS-DOS - Heroes of Might and Magic II - Spells_51: -895323244
+      MS-DOS - Heroes of Might and Magic II - Spells_52: 929285876
+      MS-DOS - Heroes of Might and Magic II - Spells_53: 454276990
+      MS-DOS - Heroes of Might and Magic II - Spells_54: -1082959276
+      MS-DOS - Heroes of Might and Magic II - Spells_55: -671991617
+      MS-DOS - Heroes of Might and Magic II - Spells_56: 101691999
+      MS-DOS - Heroes of Might and Magic II - Spells_57: 1626372068
+      MS-DOS - Heroes of Might and Magic II - Spells_58: 1461429564
+      MS-DOS - Heroes of Might and Magic II - Spells_59: -567721850
+      MS-DOS - Heroes of Might and Magic II - Spells_6: 2109993010
+      MS-DOS - Heroes of Might and Magic II - Spells_60: -527390821
+      MS-DOS - Heroes of Might and Magic II - Spells_61: -148037021
+      MS-DOS - Heroes of Might and Magic II - Spells_62: -1175815896
+      MS-DOS - Heroes of Might and Magic II - Spells_63: -1796173786
+      MS-DOS - Heroes of Might and Magic II - Spells_64: -1513102682
+      MS-DOS - Heroes of Might and Magic II - Spells_65: 2030867639
+      MS-DOS - Heroes of Might and Magic II - Spells_66: 931616410
+      MS-DOS - Heroes of Might and Magic II - Spells_67: 1822036887
+      MS-DOS - Heroes of Might and Magic II - Spells_68: 1631534667
+      MS-DOS - Heroes of Might and Magic II - Spells_69: -1889522586
+      MS-DOS - Heroes of Might and Magic II - Spells_7: 1705525356
+      MS-DOS - Heroes of Might and Magic II - Spells_70: -73276064
+      MS-DOS - Heroes of Might and Magic II - Spells_71: -541034300
+      MS-DOS - Heroes of Might and Magic II - Spells_72: -1264077405
+      MS-DOS - Heroes of Might and Magic II - Spells_73: 953104725
+      MS-DOS - Heroes of Might and Magic II - Spells_74: -1245702420
+      MS-DOS - Heroes of Might and Magic II - Spells_75: 1964768740
+      MS-DOS - Heroes of Might and Magic II - Spells_76: -640665782
+      MS-DOS - Heroes of Might and Magic II - Spells_77: -594695938
+      MS-DOS - Heroes of Might and Magic II - Spells_78: -2069793250
+      MS-DOS - Heroes of Might and Magic II - Spells_79: 7205555
+      MS-DOS - Heroes of Might and Magic II - Spells_8: 404833623
+      MS-DOS - Heroes of Might and Magic II - Spells_80: 1744242746
+      MS-DOS - Heroes of Might and Magic II - Spells_81: -1558331355
+      MS-DOS - Heroes of Might and Magic II - Spells_82: -2041241042
+      MS-DOS - Heroes of Might and Magic II - Spells_83: 869993649
+      MS-DOS - Heroes of Might and Magic II - Spells_84: -746862221
+      MS-DOS - Heroes of Might and Magic II - Spells_85: 554233192
+      MS-DOS - Heroes of Might and Magic II - Spells_86: -1507758809
+      MS-DOS - Heroes of Might and Magic II - Spells_87: -1499095837
+      MS-DOS - Heroes of Might and Magic II - Spells_88: -160469816
+      MS-DOS - Heroes of Might and Magic II - Spells_89: -766917246
+      MS-DOS - Heroes of Might and Magic II - Spells_9: -1946655085
+      MS-DOS - Heroes of Might and Magic II - Spells_90: 946019164
+      MS-DOS - Heroes of Might and Magic II - Spells_91: 693103934
+      MS-DOS - Heroes of Might and Magic II - Spells_92: 2000693871
+      MS-DOS - Heroes of Might and Magic II - Spells_93: 1590498508
+      MS-DOS - Heroes of Might and Magic II - Spells_94: 91098151
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

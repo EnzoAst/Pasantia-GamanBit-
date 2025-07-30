@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: fbee54dfd9021da418968cab1037894b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5885643262986891786
+    second: PC Computer - MapleStory - Desert Giant_0
+  - first:
+      213: -3914460438757963621
+    second: PC Computer - MapleStory - Desert Giant_1
+  - first:
+      213: -7528796617143095399
+    second: PC Computer - MapleStory - Desert Giant_2
+  - first:
+      213: 3685890609918221526
+    second: PC Computer - MapleStory - Desert Giant_3
+  - first:
+      213: 7304832178407667972
+    second: PC Computer - MapleStory - Desert Giant_4
+  - first:
+      213: -3592690602037365914
+    second: PC Computer - MapleStory - Desert Giant_5
+  - first:
+      213: -9098239817569628114
+    second: PC Computer - MapleStory - Desert Giant_6
+  - first:
+      213: 2651769126920411712
+    second: PC Computer - MapleStory - Desert Giant_7
+  - first:
+      213: -1695603885971069408
+    second: PC Computer - MapleStory - Desert Giant_8
+  - first:
+      213: -4074697653201094786
+    second: PC Computer - MapleStory - Desert Giant_9
+  - first:
+      213: -7957500976948899437
+    second: PC Computer - MapleStory - Desert Giant_10
+  - first:
+      213: 5857285549186132971
+    second: PC Computer - MapleStory - Desert Giant_11
+  - first:
+      213: 4066003730180511101
+    second: PC Computer - MapleStory - Desert Giant_12
+  - first:
+      213: 8370571811914116920
+    second: PC Computer - MapleStory - Desert Giant_13
+  - first:
+      213: 4483497820642538861
+    second: PC Computer - MapleStory - Desert Giant_14
+  - first:
+      213: -3170023222254550943
+    second: PC Computer - MapleStory - Desert Giant_15
+  - first:
+      213: 2409290302468313267
+    second: PC Computer - MapleStory - Desert Giant_16
+  - first:
+      213: -4416848783530262172
+    second: PC Computer - MapleStory - Desert Giant_17
+  - first:
+      213: -8693808238661167683
+    second: PC Computer - MapleStory - Desert Giant_18
+  - first:
+      213: -5985559230509662156
+    second: PC Computer - MapleStory - Desert Giant_19
+  - first:
+      213: 8063553839843358829
+    second: PC Computer - MapleStory - Desert Giant_20
+  - first:
+      213: -8591009857290170346
+    second: PC Computer - MapleStory - Desert Giant_21
+  - first:
+      213: 2760729458484989483
+    second: PC Computer - MapleStory - Desert Giant_22
+  - first:
+      213: -5880111631656483048
+    second: PC Computer - MapleStory - Desert Giant_23
+  - first:
+      213: -241956455177992955
+    second: PC Computer - MapleStory - Desert Giant_24
+  - first:
+      213: -4726922866335196901
+    second: PC Computer - MapleStory - Desert Giant_25
+  - first:
+      213: -3284952360954204852
+    second: PC Computer - MapleStory - Desert Giant_26
+  - first:
+      213: 5853533720681476864
+    second: PC Computer - MapleStory - Desert Giant_27
+  - first:
+      213: 824286491676208864
+    second: PC Computer - MapleStory - Desert Giant_28
+  - first:
+      213: 6063737314726912464
+    second: PC Computer - MapleStory - Desert Giant_29
+  - first:
+      213: 5454879427560651785
+    second: PC Computer - MapleStory - Desert Giant_30
+  - first:
+      213: 1114256087393522800
+    second: PC Computer - MapleStory - Desert Giant_31
+  - first:
+      213: 130242177782421004
+    second: PC Computer - MapleStory - Desert Giant_32
+  - first:
+      213: -2145018207419470769
+    second: PC Computer - MapleStory - Desert Giant_33
+  - first:
+      213: 2177839516140917634
+    second: PC Computer - MapleStory - Desert Giant_34
+  - first:
+      213: -6170265220477729925
+    second: PC Computer - MapleStory - Desert Giant_35
+  - first:
+      213: -4489226743479991652
+    second: PC Computer - MapleStory - Desert Giant_36
+  - first:
+      213: 4878929495259303873
+    second: PC Computer - MapleStory - Desert Giant_37
+  - first:
+      213: 3646130532559957631
+    second: PC Computer - MapleStory - Desert Giant_38
+  - first:
+      213: -4948243611301033185
+    second: PC Computer - MapleStory - Desert Giant_39
+  - first:
+      213: 758848631451643799
+    second: PC Computer - MapleStory - Desert Giant_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Desert Giant_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 441
+        width: 108
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdcef2c2aef15ea0800000000000000
+      internalID: -5885643262986891786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Desert Giant_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 441
+        width: 108
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98038c78fa0da9c0800000000000000
+      internalID: -3914460438757963621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Desert Giant_2
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 441
+        width: 108
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99fe501bd57548790800000000000000
+      internalID: -7528796617143095399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Desert Giant_3
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 441
+        width: 108
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc9f152bf9e62330800000000000000
+      internalID: 3685890609918221526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Desert Giant_4
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 441
+        width: 108
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409f4d1e92aff5560800000000000000
+      internalID: 7304832178407667972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Desert Giant_5
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 441
+        width: 108
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663bdadaee2342ec0800000000000000
+      internalID: -3592690602037365914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Desert Giant_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 308
+        width: 106
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e209278271f8cb180800000000000000
+      internalID: -9098239817569628114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Desert Giant_7
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 308
+        width: 108
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a5074a8f9fcc420800000000000000
+      internalID: 2651769126920411712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Desert Giant_8
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 308
+        width: 110
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0262ce8df310878e0800000000000000
+      internalID: -1695603885971069408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Desert Giant_9
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 308
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77b4d5b214c377c0800000000000000
+      internalID: -4074697653201094786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Desert Giant_10
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 308
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3911329a507419190800000000000000
+      internalID: -7957500976948899437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Desert Giant_11
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 308
+        width: 108
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beba44b7c22494150800000000000000
+      internalID: 5857285549186132971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Desert Giant_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 164
+        width: 139
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7592d899d85d6830800000000000000
+      internalID: 4066003730180511101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Desert Giant_13
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 217
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fe908b6be3a2470800000000000000
+      internalID: 8370571811914116920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Desert Giant_14
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 217
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65f2a66385983e30800000000000000
+      internalID: 4483497820642538861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Desert Giant_15
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 220
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16047c3cca0d104d0800000000000000
+      internalID: -3170023222254550943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Desert Giant_16
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 217
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0da6fd3c48f6120800000000000000
+      internalID: 2409290302468313267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Desert Giant_17
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 220
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461001fce6334b2c0800000000000000
+      internalID: -4416848783530262172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Desert Giant_18
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db59c3df773695780800000000000000
+      internalID: -8693808238661167683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Desert Giant_19
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 201
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430496bb7950feca0800000000000000
+      internalID: -5985559230509662156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Desert Giant_20
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 201
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68b91bae7f77ef60800000000000000
+      internalID: 8063553839843358829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Desert Giant_21
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 201
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610175a4d0a96c880800000000000000
+      internalID: -8591009857290170346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Desert Giant_22
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 201
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e44f5c0d4105620800000000000000
+      internalID: 2760729458484989483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Desert Giant_23
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 201
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817097b00a5a56ea0800000000000000
+      internalID: -5880111631656483048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Desert Giant_24
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 201
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505c00ec2e564acf0800000000000000
+      internalID: -241956455177992955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Desert Giant_25
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 180
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b195b6782b8966eb0800000000000000
+      internalID: -4726922866335196901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Desert Giant_26
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 12
+        width: 139
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d6e3d6b318962d0800000000000000
+      internalID: -3284952360954204852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Desert Giant_27
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 12
+        width: 134
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0037df5d7edeb3150800000000000000
+      internalID: 5853533720681476864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Desert Giant_28
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 12
+        width: 136
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee63896234707b00800000000000000
+      internalID: 824286491676208864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Desert Giant_29
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 12
+        width: 138
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1249fe5f8b62450800000000000000
+      internalID: 6063737314726912464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Desert Giant_30
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 12
+        width: 140
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cb65c20ff93bb40800000000000000
+      internalID: 5454879427560651785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Desert Giant_31
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 12
+        width: 146
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07458e50202a67f00800000000000000
+      internalID: 1114256087393522800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Desert Giant_32
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 12
+        width: 166
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c069e751296bec100800000000000000
+      internalID: 130242177782421004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Desert Giant_33
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 12
+        width: 174
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c640e1e4d5b32e0800000000000000
+      internalID: -2145018207419470769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Desert Giant_34
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 16
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2835361508d393e10800000000000000
+      internalID: 2177839516140917634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Desert Giant_35
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 35
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b734a733970de5aa0800000000000000
+      internalID: -6170265220477729925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Desert Giant_36
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 27
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9201becf0013b1c0800000000000000
+      internalID: -4489226743479991652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Desert Giant_37
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 12
+        width: 127
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf4b19b68075b340800000000000000
+      internalID: 4878929495259303873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Desert Giant_38
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 35
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e21fdb668a99230800000000000000
+      internalID: 3646130532559957631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Desert Giant_39
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 12
+        width: 225
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b4e4607ae445bb0800000000000000
+      internalID: -4948243611301033185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Desert Giant_40
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 12
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f67fb4fc8f78a00800000000000000
+      internalID: 758848631451643799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0e1d05d7400381a449d83cf3da68655e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC Computer - MapleStory - Desert Giant_0: -5885643262986891786
+      PC Computer - MapleStory - Desert Giant_1: -3914460438757963621
+      PC Computer - MapleStory - Desert Giant_10: -7957500976948899437
+      PC Computer - MapleStory - Desert Giant_11: 5857285549186132971
+      PC Computer - MapleStory - Desert Giant_12: 4066003730180511101
+      PC Computer - MapleStory - Desert Giant_13: 8370571811914116920
+      PC Computer - MapleStory - Desert Giant_14: 4483497820642538861
+      PC Computer - MapleStory - Desert Giant_15: -3170023222254550943
+      PC Computer - MapleStory - Desert Giant_16: 2409290302468313267
+      PC Computer - MapleStory - Desert Giant_17: -4416848783530262172
+      PC Computer - MapleStory - Desert Giant_18: -8693808238661167683
+      PC Computer - MapleStory - Desert Giant_19: -5985559230509662156
+      PC Computer - MapleStory - Desert Giant_2: -7528796617143095399
+      PC Computer - MapleStory - Desert Giant_20: 8063553839843358829
+      PC Computer - MapleStory - Desert Giant_21: -8591009857290170346
+      PC Computer - MapleStory - Desert Giant_22: 2760729458484989483
+      PC Computer - MapleStory - Desert Giant_23: -5880111631656483048
+      PC Computer - MapleStory - Desert Giant_24: -241956455177992955
+      PC Computer - MapleStory - Desert Giant_25: -4726922866335196901
+      PC Computer - MapleStory - Desert Giant_26: -3284952360954204852
+      PC Computer - MapleStory - Desert Giant_27: 5853533720681476864
+      PC Computer - MapleStory - Desert Giant_28: 824286491676208864
+      PC Computer - MapleStory - Desert Giant_29: 6063737314726912464
+      PC Computer - MapleStory - Desert Giant_3: 3685890609918221526
+      PC Computer - MapleStory - Desert Giant_30: 5454879427560651785
+      PC Computer - MapleStory - Desert Giant_31: 1114256087393522800
+      PC Computer - MapleStory - Desert Giant_32: 130242177782421004
+      PC Computer - MapleStory - Desert Giant_33: -2145018207419470769
+      PC Computer - MapleStory - Desert Giant_34: 2177839516140917634
+      PC Computer - MapleStory - Desert Giant_35: -6170265220477729925
+      PC Computer - MapleStory - Desert Giant_36: -4489226743479991652
+      PC Computer - MapleStory - Desert Giant_37: 4878929495259303873
+      PC Computer - MapleStory - Desert Giant_38: 3646130532559957631
+      PC Computer - MapleStory - Desert Giant_39: -4948243611301033185
+      PC Computer - MapleStory - Desert Giant_4: 7304832178407667972
+      PC Computer - MapleStory - Desert Giant_40: 758848631451643799
+      PC Computer - MapleStory - Desert Giant_5: -3592690602037365914
+      PC Computer - MapleStory - Desert Giant_6: -9098239817569628114
+      PC Computer - MapleStory - Desert Giant_7: 2651769126920411712
+      PC Computer - MapleStory - Desert Giant_8: -1695603885971069408
+      PC Computer - MapleStory - Desert Giant_9: -4074697653201094786
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

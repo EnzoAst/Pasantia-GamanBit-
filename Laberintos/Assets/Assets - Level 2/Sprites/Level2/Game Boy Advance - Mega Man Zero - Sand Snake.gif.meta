@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 3d8cf299ea959364eb7d4f88c858433a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8088637465315479180
+    second: Game Boy Advance - Mega Man Zero - Sand Snake_0
+  - first:
+      213: -2219546176350376337
+    second: Game Boy Advance - Mega Man Zero - Sand Snake_1
+  - first:
+      213: -9176217147697854124
+    second: Game Boy Advance - Mega Man Zero - Sand Snake_2
+  - first:
+      213: 4375019614324647154
+    second: Game Boy Advance - Mega Man Zero - Sand Snake_3
+  - first:
+      213: 6750014506160439299
+    second: Game Boy Advance - Mega Man Zero - Sand Snake_4
+  - first:
+      213: -6778806674622127429
+    second: Game Boy Advance - Mega Man Zero - Sand Snake_5
+  - first:
+      213: -8969031757371548756
+    second: Game Boy Advance - Mega Man Zero - Sand Snake_6
+  - first:
+      213: 5500922011941175615
+    second: Game Boy Advance - Mega Man Zero - Sand Snake_7
+  - first:
+      213: 3589340182772433086
+    second: Game Boy Advance - Mega Man Zero - Sand Snake_8
+  - first:
+      213: -358773597410261228
+    second: Game Boy Advance - Mega Man Zero - Sand Snake_9
+  - first:
+      213: 3797850859795696920
+    second: Game Boy Advance - Mega Man Zero - Sand Snake_10
+  - first:
+      213: 2010489628721317248
+    second: Game Boy Advance - Mega Man Zero - Sand Snake_11
+  - first:
+      213: 5312381200053494161
+    second: Game Boy Advance - Mega Man Zero - Sand Snake_12
+  - first:
+      213: 2800294057643724230
+    second: Game Boy Advance - Mega Man Zero - Sand Snake_13
+  - first:
+      213: -1912515681926584168
+    second: Game Boy Advance - Mega Man Zero - Sand Snake_14
+  - first:
+      213: 8678127249069760678
+    second: Game Boy Advance - Mega Man Zero - Sand Snake_15
+  - first:
+      213: 1078281425822293353
+    second: Game Boy Advance - Mega Man Zero - Sand Snake_16
+  - first:
+      213: -4336539520485230859
+    second: Game Boy Advance - Mega Man Zero - Sand Snake_17
+  - first:
+      213: -7670349097980525997
+    second: Game Boy Advance - Mega Man Zero - Sand Snake_18
+  - first:
+      213: 5874349164440690089
+    second: Game Boy Advance - Mega Man Zero - Sand Snake_19
+  - first:
+      213: 344559657617625042
+    second: Game Boy Advance - Mega Man Zero - Sand Snake_20
+  - first:
+      213: -3432394638639662684
+    second: Game Boy Advance - Mega Man Zero - Sand Snake_21
+  - first:
+      213: 5616994700795607819
+    second: Game Boy Advance - Mega Man Zero - Sand Snake_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Zero - Sand Snake_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 98
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e8b055bec904070800000000000000
+      internalID: 8088637465315479180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Zero - Sand Snake_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 98
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e2f0423869231e0800000000000000
+      internalID: -2219546176350376337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Zero - Sand Snake_2
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 58
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4590f913f1787a080800000000000000
+      internalID: -9176217147697854124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Zero - Sand Snake_3
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 58
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4ef2dc82137bc30800000000000000
+      internalID: 4375019614324647154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Zero - Sand Snake_4
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 58
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3004d642e6edcad50800000000000000
+      internalID: 6750014506160439299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Zero - Sand Snake_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 58
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2e91ebe37dce1a0800000000000000
+      internalID: -6778806674622127429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Zero - Sand Snake_6
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 58
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabdbaaf229978380800000000000000
+      internalID: -8969031757371548756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Zero - Sand Snake_7
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 58
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3181eabc63375c40800000000000000
+      internalID: 5500922011941175615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Zero - Sand Snake_8
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 58
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0cf2c01e5efc130800000000000000
+      internalID: 3589340182772433086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Zero - Sand Snake_9
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 58
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41782936051650bf0800000000000000
+      internalID: -358773597410261228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Zero - Sand Snake_10
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 58
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81dc8003c3da4b430800000000000000
+      internalID: 3797850859795696920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Zero - Sand Snake_11
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 58
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0858a805aa1b6eb10800000000000000
+      internalID: 2010489628721317248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Zero - Sand Snake_12
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 58
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191e6a42e8e59b940800000000000000
+      internalID: 5312381200053494161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Zero - Sand Snake_13
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 30
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdcd7cdb94acd620800000000000000
+      internalID: 2800294057643724230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Zero - Sand Snake_14
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 30
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898e667ce116575e0800000000000000
+      internalID: -1912515681926584168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Zero - Sand Snake_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0e07c11c6ee6870800000000000000
+      internalID: 8678127249069760678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Zero - Sand Snake_16
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 9
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d1a0a6e33d6fe00800000000000000
+      internalID: 1078281425822293353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Zero - Sand Snake_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 9
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6f807384481d3c0800000000000000
+      internalID: -4336539520485230859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Zero - Sand Snake_18
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 9
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35202a772227d8590800000000000000
+      internalID: -7670349097980525997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Zero - Sand Snake_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 9
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad99110171e58150800000000000000
+      internalID: 5874349164440690089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Zero - Sand Snake_20
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 9
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df8a3cde2f18c400800000000000000
+      internalID: 344559657617625042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Zero - Sand Snake_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 9
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a97de2034fad50d0800000000000000
+      internalID: -3432394638639662684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mega Man Zero - Sand Snake_22
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 17
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b7c269be293fd40800000000000000
+      internalID: 5616994700795607819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: dd53c3a02bf4a2749921295373f1bc02
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Game Boy Advance - Mega Man Zero - Sand Snake_0: 8088637465315479180
+      Game Boy Advance - Mega Man Zero - Sand Snake_1: -2219546176350376337
+      Game Boy Advance - Mega Man Zero - Sand Snake_10: 3797850859795696920
+      Game Boy Advance - Mega Man Zero - Sand Snake_11: 2010489628721317248
+      Game Boy Advance - Mega Man Zero - Sand Snake_12: 5312381200053494161
+      Game Boy Advance - Mega Man Zero - Sand Snake_13: 2800294057643724230
+      Game Boy Advance - Mega Man Zero - Sand Snake_14: -1912515681926584168
+      Game Boy Advance - Mega Man Zero - Sand Snake_15: 8678127249069760678
+      Game Boy Advance - Mega Man Zero - Sand Snake_16: 1078281425822293353
+      Game Boy Advance - Mega Man Zero - Sand Snake_17: -4336539520485230859
+      Game Boy Advance - Mega Man Zero - Sand Snake_18: -7670349097980525997
+      Game Boy Advance - Mega Man Zero - Sand Snake_19: 5874349164440690089
+      Game Boy Advance - Mega Man Zero - Sand Snake_2: -9176217147697854124
+      Game Boy Advance - Mega Man Zero - Sand Snake_20: 344559657617625042
+      Game Boy Advance - Mega Man Zero - Sand Snake_21: -3432394638639662684
+      Game Boy Advance - Mega Man Zero - Sand Snake_22: 5616994700795607819
+      Game Boy Advance - Mega Man Zero - Sand Snake_3: 4375019614324647154
+      Game Boy Advance - Mega Man Zero - Sand Snake_4: 6750014506160439299
+      Game Boy Advance - Mega Man Zero - Sand Snake_5: -6778806674622127429
+      Game Boy Advance - Mega Man Zero - Sand Snake_6: -8969031757371548756
+      Game Boy Advance - Mega Man Zero - Sand Snake_7: 5500922011941175615
+      Game Boy Advance - Mega Man Zero - Sand Snake_8: 3589340182772433086
+      Game Boy Advance - Mega Man Zero - Sand Snake_9: -358773597410261228
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

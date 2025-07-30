@@ -1,0 +1,3126 @@
+fileFormatVersion: 2
+guid: 72dde60e75457644f89d717bb5bc958b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4783764278334152687
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_0
+  - first:
+      213: 5229662329300885546
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_1
+  - first:
+      213: -3952299097553873870
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_2
+  - first:
+      213: 2129745129517853680
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_3
+  - first:
+      213: -6071525824521223445
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_4
+  - first:
+      213: 7994644397704330769
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_5
+  - first:
+      213: 1761818338827907959
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_6
+  - first:
+      213: -6638424919482359001
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_7
+  - first:
+      213: -8732809502877797301
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_8
+  - first:
+      213: -7699340852024900251
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_9
+  - first:
+      213: 4629030083047811013
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_10
+  - first:
+      213: 1547199083197754740
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_11
+  - first:
+      213: -4083566023358333342
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_12
+  - first:
+      213: -8926556268433935777
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_13
+  - first:
+      213: 8621567826543090398
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_14
+  - first:
+      213: -3707592738127536622
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_15
+  - first:
+      213: 4202928049908323609
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_16
+  - first:
+      213: -479596041983561496
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_17
+  - first:
+      213: -4329189401553489029
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_18
+  - first:
+      213: -4127091248472048021
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_19
+  - first:
+      213: -7885123152483144509
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_20
+  - first:
+      213: -7460178350105706161
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_21
+  - first:
+      213: 660792560696995051
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_22
+  - first:
+      213: -957947815895322118
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_23
+  - first:
+      213: 7264255598381699763
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_24
+  - first:
+      213: 1140165486595946316
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_25
+  - first:
+      213: -101309564739439279
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_26
+  - first:
+      213: -5070191961995311633
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_27
+  - first:
+      213: -2844082382648597225
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_28
+  - first:
+      213: 3701684363229096593
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_29
+  - first:
+      213: 3322546159575725890
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_30
+  - first:
+      213: -7814770630847304461
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_31
+  - first:
+      213: -2039990668978036720
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_32
+  - first:
+      213: 2029060288863480534
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_33
+  - first:
+      213: -631669157011063754
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_34
+  - first:
+      213: -1772348113663014706
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_35
+  - first:
+      213: -5707159407688566252
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_36
+  - first:
+      213: 6595608516606076685
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_37
+  - first:
+      213: -4746519893873671591
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_38
+  - first:
+      213: 4284016317432947013
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_39
+  - first:
+      213: -6392860135461140144
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_40
+  - first:
+      213: -1910617223419398197
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_41
+  - first:
+      213: -4711638837632986787
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_42
+  - first:
+      213: -1035443747962806910
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_43
+  - first:
+      213: 3226305209997598622
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_44
+  - first:
+      213: -8370002195218099560
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_45
+  - first:
+      213: 5370029202009891720
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_46
+  - first:
+      213: -7774981387981027161
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_47
+  - first:
+      213: -3918453928095241077
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_48
+  - first:
+      213: 2939883847220567578
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_49
+  - first:
+      213: -6226050346782459453
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_50
+  - first:
+      213: 180412784977258480
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_51
+  - first:
+      213: 2337063775181873164
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_52
+  - first:
+      213: 5893826203000603373
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_53
+  - first:
+      213: 4710397113003688024
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_54
+  - first:
+      213: -3486248595012106048
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_55
+  - first:
+      213: -3425139472450276073
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_56
+  - first:
+      213: -8157899471841801919
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_57
+  - first:
+      213: 497785620238682326
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_58
+  - first:
+      213: -1782642840810722104
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_59
+  - first:
+      213: -7674564983812923406
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_60
+  - first:
+      213: 3951428336140847740
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_61
+  - first:
+      213: -3205724320382826613
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_62
+  - first:
+      213: 8263621236432814921
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_63
+  - first:
+      213: -1492839450692770985
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_64
+  - first:
+      213: -7672086379750422999
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_65
+  - first:
+      213: -6902485109592611050
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_66
+  - first:
+      213: -5520352408191403722
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_67
+  - first:
+      213: 8638456152972521685
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_68
+  - first:
+      213: -4282661323790152206
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_69
+  - first:
+      213: 4254598771753274590
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_70
+  - first:
+      213: 745559111952207796
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_71
+  - first:
+      213: -3491261973824444747
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_72
+  - first:
+      213: -345139318251460858
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_73
+  - first:
+      213: -6687051701544671030
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_74
+  - first:
+      213: -1417805004050318897
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_75
+  - first:
+      213: 603709650919212669
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_76
+  - first:
+      213: 4818450829796056123
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_77
+  - first:
+      213: -4761275398792589790
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_78
+  - first:
+      213: -227227370299183714
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_79
+  - first:
+      213: 4410049956828379316
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_80
+  - first:
+      213: -4090948306576943391
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_81
+  - first:
+      213: 3877776352184681822
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_82
+  - first:
+      213: 8650346584280998165
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_83
+  - first:
+      213: 6163533753942983635
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_84
+  - first:
+      213: -8737088866674849225
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_85
+  - first:
+      213: -4048856794163439439
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_86
+  - first:
+      213: 3272155931416393206
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_87
+  - first:
+      213: -87064343994469296
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_88
+  - first:
+      213: -3242126119073361160
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_89
+  - first:
+      213: -8094076214548136692
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_90
+  - first:
+      213: -2751155790754578007
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_91
+  - first:
+      213: -7432761211201679491
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_92
+  - first:
+      213: -1560522508410399087
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_93
+  - first:
+      213: 535375426341416483
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_94
+  - first:
+      213: 5268755570775582054
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_95
+  - first:
+      213: 3900488136714690456
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_96
+  - first:
+      213: -1564233396249996683
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_97
+  - first:
+      213: -2258428742778654186
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_98
+  - first:
+      213: 435497450037311085
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_99
+  - first:
+      213: 9125664435860358766
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_100
+  - first:
+      213: -7815420757096931274
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_101
+  - first:
+      213: 84988891461590402
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_102
+  - first:
+      213: -8186319423222358217
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_103
+  - first:
+      213: 1908946391969178730
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_104
+  - first:
+      213: -8338742863331017758
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_105
+  - first:
+      213: 8411925148414814209
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_106
+  - first:
+      213: -8456014112395186305
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_107
+  - first:
+      213: 7770010553718021300
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_108
+  - first:
+      213: 8971602840948813780
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_109
+  - first:
+      213: -8462738561290439991
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_110
+  - first:
+      213: -5215171687389573595
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_111
+  - first:
+      213: 8056965099766974000
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_112
+  - first:
+      213: 7743549762482065890
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_113
+  - first:
+      213: -8383304743674977031
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_114
+  - first:
+      213: 5656474580927240039
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_115
+  - first:
+      213: -4819736776551599186
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_116
+  - first:
+      213: -8256266486911350054
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_117
+  - first:
+      213: 7267738768146917186
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_118
+  - first:
+      213: 2547144225753629279
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_119
+  - first:
+      213: -4648934978536208719
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_120
+  - first:
+      213: -3225839230380110182
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_121
+  - first:
+      213: -8189338467821382595
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_122
+  - first:
+      213: -8657898734835165609
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_123
+  - first:
+      213: -8190672032738830950
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_124
+  - first:
+      213: 240625163524926462
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_125
+  - first:
+      213: -4963587092797812547
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_126
+  - first:
+      213: 1823983150560335756
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_127
+  - first:
+      213: -5848469328601146392
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_128
+  - first:
+      213: 8065391095142297137
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_129
+  - first:
+      213: 2629803737584206755
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_130
+  - first:
+      213: -8260901315766009377
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_131
+  - first:
+      213: 8012233880941008645
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_132
+  - first:
+      213: 4673102348154782071
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_133
+  - first:
+      213: 8305416213447953683
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_134
+  - first:
+      213: -8805227180650233429
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_135
+  - first:
+      213: 2809940208846240195
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_136
+  - first:
+      213: -8779071587627600374
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_137
+  - first:
+      213: 8951063338068100536
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_138
+  - first:
+      213: 4564612952167838508
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_139
+  - first:
+      213: -3884630828860229728
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_140
+  - first:
+      213: -298824762433789415
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_141
+  - first:
+      213: -6213424683765228176
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_142
+  - first:
+      213: 907513241783531996
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_143
+  - first:
+      213: -6833458600694131402
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_144
+  - first:
+      213: -2249738749986726983
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_145
+  - first:
+      213: 1370294259611571180
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_146
+  - first:
+      213: -5666267436648601437
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_147
+  - first:
+      213: 5372400960308078951
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_148
+  - first:
+      213: 2179076667343600815
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_149
+  - first:
+      213: 4488934477138569733
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_150
+  - first:
+      213: 9213736141563546052
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_151
+  - first:
+      213: 6352638435660830117
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_152
+  - first:
+      213: 6509666985883560669
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_153
+  - first:
+      213: 116337855834703966
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_154
+  - first:
+      213: 2385088512927477320
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_155
+  - first:
+      213: 4832080086803424728
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_156
+  - first:
+      213: -2268492568594888396
+    second: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_157
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1414
+        width: 48
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110a0bcfbb7ac9db0800000000000000
+      internalID: -4783764278334152687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1415
+        width: 50
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20a8393e2e739840800000000000000
+      internalID: 5229662329300885546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_2
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1413
+        width: 47
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234543439ec9629c0800000000000000
+      internalID: -3952299097553873870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_3
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1414
+        width: 51
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fba70359ef5e8d10800000000000000
+      internalID: 2129745129517853680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_4
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1414
+        width: 42
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be24dc05e6b9dbba0800000000000000
+      internalID: -6071525824521223445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_5
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1414
+        width: 40
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ebbb6e8bea2fe60800000000000000
+      internalID: 7994644397704330769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_6
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1415
+        width: 42
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7733b94d17c337810800000000000000
+      internalID: 1761818338827907959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1273
+        width: 41
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723272625b39fd3a0800000000000000
+      internalID: -6638424919482359001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_8
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1274
+        width: 43
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4430d98604dec680800000000000000
+      internalID: -8732809502877797301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_9
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1272
+        width: 43
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5650766b942762590800000000000000
+      internalID: -7699340852024900251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_60
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1126
+        width: 44
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffdd2e0fc77e7590800000000000000
+      internalID: -7674564983812923406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_61
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1126
+        width: 44
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a861bd22b46d630800000000000000
+      internalID: 3951428336140847740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_62
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1128
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8740cb17baf283d0800000000000000
+      internalID: -3205724320382826613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_63
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1162
+        width: 86
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943c3f36bb74ea270800000000000000
+      internalID: 8263621236432814921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_64
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1161
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753a4c2dd6e584be0800000000000000
+      internalID: -1492839450692770985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_65
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1163
+        width: 83
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9260dd80616478590800000000000000
+      internalID: -7672086379750422999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_66
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1169
+        width: 86
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6172f4f1d527530a0800000000000000
+      internalID: -6902485109592611050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_67
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 998
+        width: 87
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63977ca9bb4c363b0800000000000000
+      internalID: -5520352408191403722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_68
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 996
+        width: 90
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0f6b54a16f1e770800000000000000
+      internalID: 8638456152972521685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_69
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 993
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd0f2e673ee094c0800000000000000
+      internalID: -4282661323790152206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_70
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 978
+        width: 65
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcca248a0f5b0b30800000000000000
+      internalID: 4254598771753274590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_71
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 982
+        width: 61
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf87faef02c85a00800000000000000
+      internalID: 745559111952207796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_72
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 959
+        width: 52
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b66d587bbb8c8fc0800000000000000
+      internalID: -3491261973824444747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_73
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 958
+        width: 55
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607e9916e91d53bf0800000000000000
+      internalID: -345139318251460858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_74
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 888
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac822ce28e1d233a0800000000000000
+      internalID: -6687051701544671030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_75
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 759
+        width: 89
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc93fc45cd1f25ce0800000000000000
+      internalID: -1417805004050318897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_76
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 757
+        width: 42
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76c38a9abec06800800000000000000
+      internalID: 603709650919212669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_77
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 760
+        width: 44
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c1ead10839ed240800000000000000
+      internalID: 4818450829796056123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_78
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 758
+        width: 51
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e4929404d8cedb0800000000000000
+      internalID: -4761275398792589790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_79
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 759
+        width: 91
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d221e19e9b8dcf0800000000000000
+      internalID: -227227370299183714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_80
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 858
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b87b7ef115a33d30800000000000000
+      internalID: 4410049956828379316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_81
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 759
+        width: 75
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6deff90380a37c0800000000000000
+      internalID: -4090948306576943391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_82
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 718
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55c0660c01a0d530800000000000000
+      internalID: 3877776352184681822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_83
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 611
+        width: 110
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511251c03643c0870800000000000000
+      internalID: 8650346584280998165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_84
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 609
+        width: 46
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3c6ec1b45498550800000000000000
+      internalID: 6163533753942983635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_85
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 611
+        width: 46
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a43d287ff9fb680800000000000000
+      internalID: -8737088866674849225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_86
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 609
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8167d82329fc7c0800000000000000
+      internalID: -4048856794163439439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_87
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 611
+        width: 74
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5f2c5ab78096d20800000000000000
+      internalID: 3272155931416393206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_88
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 611
+        width: 111
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0547b9fb07faacef0800000000000000
+      internalID: -87064343994469296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_89
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 688
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2dd93e877a103d0800000000000000
+      internalID: -3242126119073361160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_90
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 465
+        width: 55
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d7bee21901caf80800000000000000
+      internalID: -8094076214548136692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_91
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 468
+        width: 52
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a18052726ee1d9d0800000000000000
+      internalID: -2751155790754578007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_92
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 466
+        width: 57
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f85021f0789d890800000000000000
+      internalID: -7432761211201679491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_93
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 466
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196523eeb09e75ae0800000000000000
+      internalID: -1560522508410399087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_94
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 462
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ead8c1d190e6700800000000000000
+      internalID: 535375426341416483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_95
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 493
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665607cc6416e1940800000000000000
+      internalID: 5268755570775582054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_96
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 462
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f118f6b41512630800000000000000
+      internalID: 3900488136714690456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_97
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 309
+        width: 55
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57257b6830aba4ae0800000000000000
+      internalID: -1564233396249996683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_98
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 315
+        width: 54
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612752c260378a0e0800000000000000
+      internalID: -2258428742778654186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_99
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 329
+        width: 59
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66ff0a9f923b0600800000000000000
+      internalID: 435497450037311085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_100
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 349
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e664fde547fd4ae70800000000000000
+      internalID: 9125664435860358766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_101
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 338
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630e503ba3c0a8390800000000000000
+      internalID: -7815420757096931274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_102
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 317
+        width: 63
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d1c6d42f0fd2100800000000000000
+      internalID: 84988891461590402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_103
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 373
+        width: 4
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f53f88bd9546e80800000000000000
+      internalID: -8186319423222358217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_104
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 318
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64269421a0fd7a10800000000000000
+      internalID: 1908946391969178730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_105
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 161
+        width: 53
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebb4dddb85d64c80800000000000000
+      internalID: -8338742863331017758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_106
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 163
+        width: 59
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108a07caa592db470800000000000000
+      internalID: 8411925148414814209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_107
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 161
+        width: 56
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7faef677f336aa80800000000000000
+      internalID: -8456014112395186305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_108
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 163
+        width: 68
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc166b6e6f94db60800000000000000
+      internalID: 7770010553718021300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_109
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 163
+        width: 68
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfa3a01049818c70800000000000000
+      internalID: 8971602840948813780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_110
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 236
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c27843bd105e8a80800000000000000
+      internalID: -8462738561290439991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_111
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 233
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e48724bfcff97b0800000000000000
+      internalID: -5215171687389573595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_112
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 233
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0368453121710df60800000000000000
+      internalID: 8056965099766974000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_113
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 236
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1dd4d5b7d967b60800000000000000
+      internalID: 7743549762482065890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_114
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 236
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4e76590c488ab80800000000000000
+      internalID: -8383304743674977031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_115
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 236
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767d13d79a5df7e40800000000000000
+      internalID: 5656474580927240039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_116
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 233
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea371c210fadc1db0800000000000000
+      internalID: -4819736776551599186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_117
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 180
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adacfacaf59db6d80800000000000000
+      internalID: -8256266486911350054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_118
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 215
+        width: 124
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2476bbb47e13cd460800000000000000
+      internalID: 7267738768146917186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_119
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 218
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f528bbf8d26495320800000000000000
+      internalID: 2547144225753629279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_120
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 218
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b60674a44aab7fb0800000000000000
+      internalID: -4648934978536208719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_121
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 218
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e8caaaf448b33d0800000000000000
+      internalID: -3225839230380110182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_122
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 218
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3490107d00a95e80800000000000000
+      internalID: -8189338467821382595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_123
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 202
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75698d0e8f6f8d780800000000000000
+      internalID: -8657898734835165609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_124
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 202
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9510e8ae23e45e80800000000000000
+      internalID: -8190672032738830950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_125
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 202
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb6ce3bf4fd65300800000000000000
+      internalID: 240625163524926462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_126
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 202
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0921a56dbcd1bb0800000000000000
+      internalID: -4963587092797812547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_127
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 199
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c875275f207105910800000000000000
+      internalID: 1823983150560335756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_128
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 202
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb16f4d12016dea0800000000000000
+      internalID: -5848469328601146392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_129
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 202
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e2e8008760eef60800000000000000
+      internalID: 8065391095142297137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_130
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 202
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a383b7e090fe7420800000000000000
+      internalID: 2629803737584206755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_131
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 200
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1c53d75026b5d80800000000000000
+      internalID: -8260901315766009377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_132
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 199
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50796da934c213f60800000000000000
+      internalID: 8012233880941008645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_133
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 202
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7714fc493d13ad040800000000000000
+      internalID: 4673102348154782071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_134
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 202
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31dc55aca04c24370800000000000000
+      internalID: 8305416213447953683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_135
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 202
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba18ab2088c8dc580800000000000000
+      internalID: -8805227180650233429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_136
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 202
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9fd547bb9eef620800000000000000
+      internalID: 2809940208846240195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_137
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 202
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a067bb197e87a2680800000000000000
+      internalID: -8779071587627600374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_138
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 183
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b542936ea0983c70800000000000000
+      internalID: 8951063338068100536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_139
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 186
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c237c1fab43c85f30800000000000000
+      internalID: 4564612952167838508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_140
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 186
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a73142c7d4071ac0800000000000000
+      internalID: -3884630828860229728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_141
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 186
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9122b09367c5adbf0800000000000000
+      internalID: -298824762433789415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_142
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 186
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d97859b2b75c9a0800000000000000
+      internalID: -6213424683765228176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_143
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 183
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd978753c72289c00800000000000000
+      internalID: 907513241783531996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_144
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 186
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635d94e9b9daa21a0800000000000000
+      internalID: -6833458600694131402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_145
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 186
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb1c99c68257c0e0800000000000000
+      internalID: -2249738749986726983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_146
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 186
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce397e57e53440310800000000000000
+      internalID: 1370294259611571180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_147
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 186
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8623c99cf5d51b0800000000000000
+      internalID: -5666267436648601437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_148
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 186
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769612e853a9e8a40800000000000000
+      internalID: 5372400960308078951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_149
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 186
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac7b570fa2ad3e10800000000000000
+      internalID: 2179076667343600815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_150
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 186
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a29d1af16eb4e30800000000000000
+      internalID: 4488934477138569733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_151
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 15
+        width: 75
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9c21c4434cddf70800000000000000
+      internalID: 9213736141563546052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_152
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 15
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a59e00effa192850800000000000000
+      internalID: 6352638435660830117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_153
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 13
+        width: 47
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda6dab42abf65a50800000000000000
+      internalID: 6509666985883560669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_154
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 14
+        width: 44
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5845fad9a05d9100800000000000000
+      internalID: 116337855834703966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_155
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 13
+        width: 41
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e28e2ad59891120800000000000000
+      internalID: 2385088512927477320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_156
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 16
+        width: 40
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5282ccc3ffe0340800000000000000
+      internalID: 4832080086803424728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Fire Elemental_157
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 16
+        width: 40
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439c9412702b480e0800000000000000
+      internalID: -2268492568594888396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e9318ebbce6f3674db69529fab7fe5e5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_0: -4783764278334152687
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_1: 5229662329300885546
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_10: 4629030083047811013
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_100: 9125664435860358766
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_101: -7815420757096931274
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_102: 84988891461590402
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_103: -8186319423222358217
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_104: 1908946391969178730
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_105: -8338742863331017758
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_106: 8411925148414814209
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_107: -8456014112395186305
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_108: 7770010553718021300
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_109: 8971602840948813780
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_11: 1547199083197754740
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_110: -8462738561290439991
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_111: -5215171687389573595
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_112: 8056965099766974000
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_113: 7743549762482065890
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_114: -8383304743674977031
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_115: 5656474580927240039
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_116: -4819736776551599186
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_117: -8256266486911350054
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_118: 7267738768146917186
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_119: 2547144225753629279
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_12: -4083566023358333342
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_120: -4648934978536208719
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_121: -3225839230380110182
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_122: -8189338467821382595
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_123: -8657898734835165609
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_124: -8190672032738830950
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_125: 240625163524926462
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_126: -4963587092797812547
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_127: 1823983150560335756
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_128: -5848469328601146392
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_129: 8065391095142297137
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_13: -8926556268433935777
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_130: 2629803737584206755
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_131: -8260901315766009377
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_132: 8012233880941008645
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_133: 4673102348154782071
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_134: 8305416213447953683
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_135: -8805227180650233429
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_136: 2809940208846240195
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_137: -8779071587627600374
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_138: 8951063338068100536
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_139: 4564612952167838508
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_14: 8621567826543090398
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_140: -3884630828860229728
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_141: -298824762433789415
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_142: -6213424683765228176
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_143: 907513241783531996
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_144: -6833458600694131402
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_145: -2249738749986726983
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_146: 1370294259611571180
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_147: -5666267436648601437
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_148: 5372400960308078951
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_149: 2179076667343600815
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_15: -3707592738127536622
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_150: 4488934477138569733
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_151: 9213736141563546052
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_152: 6352638435660830117
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_153: 6509666985883560669
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_154: 116337855834703966
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_155: 2385088512927477320
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_156: 4832080086803424728
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_157: -2268492568594888396
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_158: 1729535409
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_16: 4202928049908323609
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_17: -479596041983561496
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_18: -4329189401553489029
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_19: -4127091248472048021
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_2: -3952299097553873870
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_20: -7885123152483144509
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_21: -7460178350105706161
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_22: 660792560696995051
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_23: -957947815895322118
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_24: 7264255598381699763
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_25: 1140165486595946316
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_26: -101309564739439279
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_27: -5070191961995311633
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_28: -2844082382648597225
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_29: 3701684363229096593
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_3: 2129745129517853680
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_30: 3322546159575725890
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_31: -7814770630847304461
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_32: -2039990668978036720
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_33: 2029060288863480534
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_34: -631669157011063754
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_35: -1772348113663014706
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_36: -5707159407688566252
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_37: 6595608516606076685
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_38: -4746519893873671591
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_39: 4284016317432947013
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_4: -6071525824521223445
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_40: -6392860135461140144
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_41: -1910617223419398197
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_42: -4711638837632986787
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_43: -1035443747962806910
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_44: 3226305209997598622
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_45: -8370002195218099560
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_46: 5370029202009891720
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_47: -7774981387981027161
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_48: -3918453928095241077
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_49: 2939883847220567578
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_5: 7994644397704330769
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_50: -6226050346782459453
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_51: 180412784977258480
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_52: 2337063775181873164
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_53: 5893826203000603373
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_54: 4710397113003688024
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_55: -3486248595012106048
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_56: -3425139472450276073
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_57: -8157899471841801919
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_58: 497785620238682326
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_59: -1782642840810722104
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_6: 1761818338827907959
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_60: -7674564983812923406
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_61: 3951428336140847740
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_62: -3205724320382826613
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_63: 8263621236432814921
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_64: -1492839450692770985
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_65: -7672086379750422999
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_66: -6902485109592611050
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_67: -5520352408191403722
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_68: 8638456152972521685
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_69: -4282661323790152206
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_7: -6638424919482359001
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_70: 4254598771753274590
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_71: 745559111952207796
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_72: -3491261973824444747
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_73: -345139318251460858
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_74: -6687051701544671030
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_75: -1417805004050318897
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_76: 603709650919212669
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_77: 4818450829796056123
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_78: -4761275398792589790
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_79: -227227370299183714
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_8: -8732809502877797301
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_80: 4410049956828379316
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_81: -4090948306576943391
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_82: 3877776352184681822
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_83: 8650346584280998165
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_84: 6163533753942983635
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_85: -8737088866674849225
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_86: -4048856794163439439
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_87: 3272155931416393206
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_88: -87064343994469296
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_89: -3242126119073361160
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_9: -7699340852024900251
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_90: -8094076214548136692
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_91: -2751155790754578007
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_92: -7432761211201679491
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_93: -1560522508410399087
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_94: 535375426341416483
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_95: 5268755570775582054
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_96: 3900488136714690456
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_97: -1564233396249996683
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_98: -2258428742778654186
+      PC Computer - Heroes of Might and Magic 3 - Fire Elemental_99: 435497450037311085
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

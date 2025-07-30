@@ -1,0 +1,1285 @@
+fileFormatVersion: 2
+guid: 358409c27c23f3241b71eaa602cb2611
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: desert-ruins 1_30
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 992
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd3cfc3818658c4d83a50824eb16709
+      internalID: -1772501294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert-ruins 1_327
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ca17bb24c7f8e48908984920044094
+      internalID: 697529187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert-ruins 1_352
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 831
+        width: 94
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836aa1285d0cff24bb6cf55742de2fc7
+      internalID: -1834683058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert-ruins 1_381
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a3fd0fde0556d43952edd11ac50c00
+      internalID: 2050010414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert-ruins 1_403
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec917f521bd71c444b89d6c493d63e33
+      internalID: 364345562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert-ruins 1_0
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 924
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747ff369a6e032040973a2c442cf372a
+      internalID: 324192621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert-ruins 1_1
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 935
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4de940747e1b9a4aa9ddc93834fd3b1
+      internalID: -1504924740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert-ruins 1_2
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 935
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26df1a591200b7549a04e778c612e727
+      internalID: 1539414994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert-ruins 1_3
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 484
+        width: 32
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89c2433936320b48996a0251e610a76
+      internalID: -880719398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert-ruins 1_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 17
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e8429ab5354434980cd16b165a8fb2
+      internalID: -858755219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert-ruins 1_5
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 736
+        width: 17
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29e8baa1d32a784a82f1cfdb5337e31
+      internalID: 1026879814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert-ruins 1_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 736
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939bc810a175dc445954090e8548dfde
+      internalID: -1697865354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert-ruins 1_7
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 832
+        width: 25
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d6092143cd7c94b9aa42313c9fc019
+      internalID: 159279497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert-ruins 1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73174a8e0efe964eb8f46656d18db01
+      internalID: 334262961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert-ruins 1_9
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 577
+        width: 55
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a59aa66ddf88846975112b18568e78
+      internalID: -2059877201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert-ruins 1_10
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 483
+        width: 65
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039aaf805d6331e439c72acff6baac91
+      internalID: -125856859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert-ruins 1_11
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 579
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b577da7f5893fe34788dcb6adebb1ab8
+      internalID: -2128981700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert-ruins 1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 574
+        width: 13
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052ddffe4467bf54ca6d2b25cfef5dd3
+      internalID: -755948236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert-ruins 1_13
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 575
+        width: 10
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e1840efb96f3b49ba049d063b4a31f
+      internalID: 68357628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert-ruins 1_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 695
+        width: 64
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2caf16071e9e6c1439fe3a8babc65a59
+      internalID: 1908198982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert-ruins 1_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 695
+        width: 64
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062f9b29291e0db408cf8fe86ed05c9e
+      internalID: -1325397980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      desert-ruins 1_0: 324192621
+      desert-ruins 1_1: -1504924740
+      desert-ruins 1_10: -125856859
+      desert-ruins 1_100: -221740427
+      desert-ruins 1_101: 338465383
+      desert-ruins 1_102: 1192072645
+      desert-ruins 1_103: -1603880311
+      desert-ruins 1_104: 1627427652
+      desert-ruins 1_105: 2019587371
+      desert-ruins 1_106: -255598982
+      desert-ruins 1_107: -1398752191
+      desert-ruins 1_108: -734341871
+      desert-ruins 1_109: -411876598
+      desert-ruins 1_11: -2128981700
+      desert-ruins 1_110: -1824216033
+      desert-ruins 1_111: -394928213
+      desert-ruins 1_112: -800893959
+      desert-ruins 1_113: -1355658950
+      desert-ruins 1_114: -181283146
+      desert-ruins 1_115: 167339136
+      desert-ruins 1_116: 858588022
+      desert-ruins 1_117: 321682404
+      desert-ruins 1_118: 2037981641
+      desert-ruins 1_119: -920445521
+      desert-ruins 1_12: -755948236
+      desert-ruins 1_120: -671395002
+      desert-ruins 1_121: 93418487
+      desert-ruins 1_122: -622284809
+      desert-ruins 1_123: -1628568724
+      desert-ruins 1_124: -1507126592
+      desert-ruins 1_125: 576741943
+      desert-ruins 1_126: 536198983
+      desert-ruins 1_127: -1267669644
+      desert-ruins 1_128: -1227908884
+      desert-ruins 1_129: 1699384025
+      desert-ruins 1_13: 68357628
+      desert-ruins 1_130: 968197294
+      desert-ruins 1_131: 1029168728
+      desert-ruins 1_132: -1053305566
+      desert-ruins 1_133: -1394205430
+      desert-ruins 1_134: 877612426
+      desert-ruins 1_135: -1676305638
+      desert-ruins 1_136: 41843576
+      desert-ruins 1_137: -1568856812
+      desert-ruins 1_138: -1737551738
+      desert-ruins 1_139: -1326496945
+      desert-ruins 1_14: 1908198982
+      desert-ruins 1_140: -1233849222
+      desert-ruins 1_141: -1889752793
+      desert-ruins 1_142: -1531493431
+      desert-ruins 1_143: -393019169
+      desert-ruins 1_144: 1171125809
+      desert-ruins 1_145: 1269159118
+      desert-ruins 1_146: 586460118
+      desert-ruins 1_147: 978933600
+      desert-ruins 1_148: 1006417548
+      desert-ruins 1_149: 1739755803
+      desert-ruins 1_15: -1325397980
+      desert-ruins 1_150: -1605704295
+      desert-ruins 1_151: -1453534608
+      desert-ruins 1_152: -1216919824
+      desert-ruins 1_153: 185355229
+      desert-ruins 1_154: 1424849
+      desert-ruins 1_155: -1847162260
+      desert-ruins 1_156: -1962070431
+      desert-ruins 1_157: -51153865
+      desert-ruins 1_158: 1777350841
+      desert-ruins 1_159: -190774099
+      desert-ruins 1_16: 1575919044
+      desert-ruins 1_160: -2005459712
+      desert-ruins 1_161: 150486349
+      desert-ruins 1_162: -56429937
+      desert-ruins 1_163: -1946107036
+      desert-ruins 1_164: 1340555344
+      desert-ruins 1_165: -1529513717
+      desert-ruins 1_166: -657147379
+      desert-ruins 1_167: 1225931456
+      desert-ruins 1_168: -1222562579
+      desert-ruins 1_169: -866488293
+      desert-ruins 1_17: -1593440156
+      desert-ruins 1_170: -1914170708
+      desert-ruins 1_171: 1605088100
+      desert-ruins 1_172: -1845108755
+      desert-ruins 1_173: 1759332206
+      desert-ruins 1_174: -763663934
+      desert-ruins 1_175: -2048665681
+      desert-ruins 1_176: 379243654
+      desert-ruins 1_177: -1766574057
+      desert-ruins 1_178: 1494250997
+      desert-ruins 1_179: -1514778994
+      desert-ruins 1_18: 1264593136
+      desert-ruins 1_180: -1533978871
+      desert-ruins 1_181: 508773698
+      desert-ruins 1_182: 1873165026
+      desert-ruins 1_183: 648337695
+      desert-ruins 1_184: -1743566035
+      desert-ruins 1_185: 1872513738
+      desert-ruins 1_186: -1653306824
+      desert-ruins 1_187: -1998549646
+      desert-ruins 1_188: 1737955317
+      desert-ruins 1_189: 689252642
+      desert-ruins 1_19: -256197612
+      desert-ruins 1_190: 807035590
+      desert-ruins 1_191: -1420308568
+      desert-ruins 1_192: 1816591710
+      desert-ruins 1_193: 1919807172
+      desert-ruins 1_194: -1275293327
+      desert-ruins 1_195: 1439447200
+      desert-ruins 1_196: 1483481717
+      desert-ruins 1_197: 1097114303
+      desert-ruins 1_198: -681820279
+      desert-ruins 1_199: -610062865
+      desert-ruins 1_2: 1539414994
+      desert-ruins 1_20: -1271289882
+      desert-ruins 1_200: -1672446831
+      desert-ruins 1_201: 870449457
+      desert-ruins 1_202: 224297088
+      desert-ruins 1_203: 1952593047
+      desert-ruins 1_204: -246827642
+      desert-ruins 1_205: 1387522092
+      desert-ruins 1_206: 1603673195
+      desert-ruins 1_207: -970497100
+      desert-ruins 1_208: 1903480500
+      desert-ruins 1_209: 1397091529
+      desert-ruins 1_21: -1882851953
+      desert-ruins 1_210: 1242428971
+      desert-ruins 1_211: -1620607801
+      desert-ruins 1_212: -543943606
+      desert-ruins 1_213: -1260526228
+      desert-ruins 1_214: -1966663983
+      desert-ruins 1_215: -191993281
+      desert-ruins 1_216: -128420380
+      desert-ruins 1_217: -431319866
+      desert-ruins 1_218: 1682593404
+      desert-ruins 1_219: 528949668
+      desert-ruins 1_22: -764652708
+      desert-ruins 1_220: -137467287
+      desert-ruins 1_221: -732087830
+      desert-ruins 1_222: -1154784170
+      desert-ruins 1_223: 1995205976
+      desert-ruins 1_224: 1259736161
+      desert-ruins 1_225: 107225152
+      desert-ruins 1_226: 1090936156
+      desert-ruins 1_227: -258690459
+      desert-ruins 1_228: -1405899294
+      desert-ruins 1_229: 34544542
+      desert-ruins 1_23: 1618502338
+      desert-ruins 1_230: -241374634
+      desert-ruins 1_231: 1520766467
+      desert-ruins 1_232: 726684105
+      desert-ruins 1_233: -181150241
+      desert-ruins 1_234: 1153227335
+      desert-ruins 1_235: 1619792295
+      desert-ruins 1_236: -1014803738
+      desert-ruins 1_237: 104350168
+      desert-ruins 1_238: 1848360626
+      desert-ruins 1_239: 635633429
+      desert-ruins 1_24: -1626339395
+      desert-ruins 1_240: 1713879113
+      desert-ruins 1_241: -2026251435
+      desert-ruins 1_242: 620930239
+      desert-ruins 1_243: 351692361
+      desert-ruins 1_244: -348662198
+      desert-ruins 1_245: 838682803
+      desert-ruins 1_246: -138966166
+      desert-ruins 1_247: 333410255
+      desert-ruins 1_248: -1917823955
+      desert-ruins 1_249: -863655539
+      desert-ruins 1_25: -267602934
+      desert-ruins 1_250: 386317665
+      desert-ruins 1_251: 504140236
+      desert-ruins 1_252: 441851281
+      desert-ruins 1_253: -1721331575
+      desert-ruins 1_254: -382180616
+      desert-ruins 1_255: -410597952
+      desert-ruins 1_256: -1615042146
+      desert-ruins 1_257: 1109917299
+      desert-ruins 1_258: -1187975074
+      desert-ruins 1_259: 1267532211
+      desert-ruins 1_26: 430230836
+      desert-ruins 1_260: -806388441
+      desert-ruins 1_261: 435137214
+      desert-ruins 1_262: 675685440
+      desert-ruins 1_263: -707650377
+      desert-ruins 1_264: -1956887181
+      desert-ruins 1_265: 653413999
+      desert-ruins 1_266: 1009498324
+      desert-ruins 1_267: -770140844
+      desert-ruins 1_268: 2009662410
+      desert-ruins 1_269: 935975135
+      desert-ruins 1_27: -179681033
+      desert-ruins 1_270: -1125140550
+      desert-ruins 1_271: 568403035
+      desert-ruins 1_272: -893144780
+      desert-ruins 1_273: -1774655236
+      desert-ruins 1_274: 591345944
+      desert-ruins 1_275: 1837318706
+      desert-ruins 1_276: 1352687594
+      desert-ruins 1_277: 1021643455
+      desert-ruins 1_278: 415561283
+      desert-ruins 1_279: 99551181
+      desert-ruins 1_28: -809744640
+      desert-ruins 1_280: -1693112725
+      desert-ruins 1_281: 869161912
+      desert-ruins 1_282: -2104962409
+      desert-ruins 1_283: -1985818650
+      desert-ruins 1_284: 2081076098
+      desert-ruins 1_285: -1404681553
+      desert-ruins 1_286: 12948176
+      desert-ruins 1_287: 261569235
+      desert-ruins 1_288: 1391954812
+      desert-ruins 1_289: -1090482314
+      desert-ruins 1_29: -1461489114
+      desert-ruins 1_290: 423519020
+      desert-ruins 1_291: 971263484
+      desert-ruins 1_292: 1760837827
+      desert-ruins 1_293: 1915280558
+      desert-ruins 1_294: -477121738
+      desert-ruins 1_295: 1443782596
+      desert-ruins 1_296: -237689257
+      desert-ruins 1_297: 330213832
+      desert-ruins 1_298: 195838284
+      desert-ruins 1_299: -1024172186
+      desert-ruins 1_3: -880719398
+      desert-ruins 1_30: -1772501294
+      desert-ruins 1_300: 705997730
+      desert-ruins 1_301: 302559513
+      desert-ruins 1_302: -500119347
+      desert-ruins 1_303: -1642276691
+      desert-ruins 1_304: 295884056
+      desert-ruins 1_305: 664667521
+      desert-ruins 1_306: 328082110
+      desert-ruins 1_307: 1714495749
+      desert-ruins 1_308: -1716082124
+      desert-ruins 1_309: 3793700
+      desert-ruins 1_31: 966905398
+      desert-ruins 1_310: 1020000015
+      desert-ruins 1_311: 796401143
+      desert-ruins 1_312: 1103097593
+      desert-ruins 1_313: 598434408
+      desert-ruins 1_314: -1128609967
+      desert-ruins 1_315: 735501216
+      desert-ruins 1_316: -1050421113
+      desert-ruins 1_317: 299830106
+      desert-ruins 1_318: 653897108
+      desert-ruins 1_319: 146920614
+      desert-ruins 1_32: -940728470
+      desert-ruins 1_320: 411554939
+      desert-ruins 1_321: -864861574
+      desert-ruins 1_322: 765104348
+      desert-ruins 1_323: -2032467121
+      desert-ruins 1_324: -1438240694
+      desert-ruins 1_325: 872269396
+      desert-ruins 1_326: -950614629
+      desert-ruins 1_327: 697529187
+      desert-ruins 1_328: -1404631632
+      desert-ruins 1_329: 1346766723
+      desert-ruins 1_33: 1654398944
+      desert-ruins 1_330: -2075760954
+      desert-ruins 1_331: 860343367
+      desert-ruins 1_332: 2074882460
+      desert-ruins 1_333: -110875159
+      desert-ruins 1_334: -1727175316
+      desert-ruins 1_335: -387260716
+      desert-ruins 1_336: 1799083312
+      desert-ruins 1_337: 1118068489
+      desert-ruins 1_338: -1994212169
+      desert-ruins 1_339: 624459502
+      desert-ruins 1_34: 920963089
+      desert-ruins 1_340: 962198424
+      desert-ruins 1_341: -105025129
+      desert-ruins 1_342: -609615452
+      desert-ruins 1_343: -822280845
+      desert-ruins 1_344: 963481536
+      desert-ruins 1_345: -384213828
+      desert-ruins 1_346: -1541755064
+      desert-ruins 1_347: 1075281694
+      desert-ruins 1_348: 1455711385
+      desert-ruins 1_349: -259184469
+      desert-ruins 1_35: 382316819
+      desert-ruins 1_350: 97250134
+      desert-ruins 1_351: 496659577
+      desert-ruins 1_352: -1834683058
+      desert-ruins 1_353: -1177089388
+      desert-ruins 1_354: 1983754232
+      desert-ruins 1_355: -737865085
+      desert-ruins 1_356: -1597427940
+      desert-ruins 1_357: -104343745
+      desert-ruins 1_358: 1862774909
+      desert-ruins 1_359: 1154619341
+      desert-ruins 1_36: -91472956
+      desert-ruins 1_360: 1954375223
+      desert-ruins 1_361: 2069904088
+      desert-ruins 1_362: -616767074
+      desert-ruins 1_363: 1649075023
+      desert-ruins 1_364: 1998428804
+      desert-ruins 1_365: -335795173
+      desert-ruins 1_366: 500142305
+      desert-ruins 1_367: 583357074
+      desert-ruins 1_368: 890587210
+      desert-ruins 1_369: -1734375032
+      desert-ruins 1_37: 1857566288
+      desert-ruins 1_370: 1159791754
+      desert-ruins 1_371: -352409151
+      desert-ruins 1_372: -781176217
+      desert-ruins 1_373: 292915457
+      desert-ruins 1_374: 1807278892
+      desert-ruins 1_375: 1945402372
+      desert-ruins 1_376: 1940976690
+      desert-ruins 1_377: -429385453
+      desert-ruins 1_378: -1688067621
+      desert-ruins 1_379: -818657845
+      desert-ruins 1_38: -348007479
+      desert-ruins 1_380: -296533180
+      desert-ruins 1_381: 2050010414
+      desert-ruins 1_382: 502746079
+      desert-ruins 1_383: -241025815
+      desert-ruins 1_384: -193558448
+      desert-ruins 1_385: 1389409659
+      desert-ruins 1_386: 126425322
+      desert-ruins 1_387: -1696937617
+      desert-ruins 1_388: 920605644
+      desert-ruins 1_389: -1810018645
+      desert-ruins 1_39: -1255192596
+      desert-ruins 1_390: -1721534998
+      desert-ruins 1_391: 957261551
+      desert-ruins 1_392: 1166065500
+      desert-ruins 1_393: 1925567438
+      desert-ruins 1_394: 1509039099
+      desert-ruins 1_395: -1640967470
+      desert-ruins 1_396: -1347090771
+      desert-ruins 1_397: -1096188471
+      desert-ruins 1_398: 912034036
+      desert-ruins 1_399: 1357160203
+      desert-ruins 1_4: -858755219
+      desert-ruins 1_40: -1590873633
+      desert-ruins 1_400: 1916872436
+      desert-ruins 1_401: -1512420131
+      desert-ruins 1_402: 574018316
+      desert-ruins 1_403: 364345562
+      desert-ruins 1_404: -1700908506
+      desert-ruins 1_405: 1146901578
+      desert-ruins 1_406: 919285389
+      desert-ruins 1_407: -1038217030
+      desert-ruins 1_408: -613532530
+      desert-ruins 1_409: -564210418
+      desert-ruins 1_41: 1902048075
+      desert-ruins 1_410: 449181073
+      desert-ruins 1_411: 1222831709
+      desert-ruins 1_412: 693906385
+      desert-ruins 1_413: -948619878
+      desert-ruins 1_414: -1336466895
+      desert-ruins 1_415: -1193436522
+      desert-ruins 1_416: 237488183
+      desert-ruins 1_417: 1192551559
+      desert-ruins 1_418: 2145902529
+      desert-ruins 1_419: 1569933809
+      desert-ruins 1_42: -41392533
+      desert-ruins 1_420: 690460119
+      desert-ruins 1_421: -1364846212
+      desert-ruins 1_422: -1228097645
+      desert-ruins 1_423: -1396793567
+      desert-ruins 1_424: -964794599
+      desert-ruins 1_425: 991532454
+      desert-ruins 1_426: -941969575
+      desert-ruins 1_427: -977867402
+      desert-ruins 1_428: 1058272162
+      desert-ruins 1_429: -418087718
+      desert-ruins 1_43: -1529557210
+      desert-ruins 1_430: 1090251128
+      desert-ruins 1_431: -1016321730
+      desert-ruins 1_432: -1739659114
+      desert-ruins 1_433: 327281752
+      desert-ruins 1_434: 913267644
+      desert-ruins 1_435: 1389744701
+      desert-ruins 1_436: 501577673
+      desert-ruins 1_437: 899855604
+      desert-ruins 1_438: 1539847922
+      desert-ruins 1_439: 1056568369
+      desert-ruins 1_44: -109549430
+      desert-ruins 1_440: 1799989692
+      desert-ruins 1_441: -1597524139
+      desert-ruins 1_442: 1144243051
+      desert-ruins 1_443: 1218437118
+      desert-ruins 1_444: 58273597
+      desert-ruins 1_445: 767196611
+      desert-ruins 1_446: -11927855
+      desert-ruins 1_447: -228322589
+      desert-ruins 1_448: -1777993052
+      desert-ruins 1_449: 708051282
+      desert-ruins 1_45: 383965470
+      desert-ruins 1_450: 2026039062
+      desert-ruins 1_451: -1628593181
+      desert-ruins 1_452: 495741938
+      desert-ruins 1_453: -1783822491
+      desert-ruins 1_454: -2009612107
+      desert-ruins 1_455: 1798782889
+      desert-ruins 1_456: 218572770
+      desert-ruins 1_457: 981673048
+      desert-ruins 1_458: 464208489
+      desert-ruins 1_459: -1406256767
+      desert-ruins 1_46: 740919287
+      desert-ruins 1_460: 1756761835
+      desert-ruins 1_461: -1078848198
+      desert-ruins 1_462: -592353640
+      desert-ruins 1_463: 487414753
+      desert-ruins 1_464: -1429969651
+      desert-ruins 1_465: -1315924463
+      desert-ruins 1_466: -1216847978
+      desert-ruins 1_467: 669602197
+      desert-ruins 1_468: 843345181
+      desert-ruins 1_469: 1991264525
+      desert-ruins 1_47: -204476799
+      desert-ruins 1_470: 588076212
+      desert-ruins 1_471: -224980698
+      desert-ruins 1_472: -1345696511
+      desert-ruins 1_473: 1576893898
+      desert-ruins 1_474: -16894703
+      desert-ruins 1_475: 57718022
+      desert-ruins 1_476: -1623176081
+      desert-ruins 1_477: -1192163476
+      desert-ruins 1_478: -640363804
+      desert-ruins 1_479: 569715452
+      desert-ruins 1_48: -478458553
+      desert-ruins 1_480: -1122533331
+      desert-ruins 1_481: 1271265424
+      desert-ruins 1_482: 1322754796
+      desert-ruins 1_483: -841227658
+      desert-ruins 1_484: -1566518577
+      desert-ruins 1_485: -1891983501
+      desert-ruins 1_486: 1644512897
+      desert-ruins 1_487: -1749558175
+      desert-ruins 1_488: -261751187
+      desert-ruins 1_489: -1930117193
+      desert-ruins 1_49: 1643726024
+      desert-ruins 1_490: -1005778799
+      desert-ruins 1_491: -2109568835
+      desert-ruins 1_492: 41365777
+      desert-ruins 1_493: -791675940
+      desert-ruins 1_494: -1444458539
+      desert-ruins 1_495: 477980269
+      desert-ruins 1_496: 1735320326
+      desert-ruins 1_497: -210245161
+      desert-ruins 1_498: 724971186
+      desert-ruins 1_499: 1028861559
+      desert-ruins 1_5: 1026879814
+      desert-ruins 1_50: 1168184755
+      desert-ruins 1_500: 1606416350
+      desert-ruins 1_501: 1666121830
+      desert-ruins 1_502: 2105173012
+      desert-ruins 1_503: -1981341656
+      desert-ruins 1_504: 554305926
+      desert-ruins 1_505: -406126273
+      desert-ruins 1_506: 569313706
+      desert-ruins 1_507: -1904515675
+      desert-ruins 1_508: 866847586
+      desert-ruins 1_509: 690468307
+      desert-ruins 1_51: 1450875779
+      desert-ruins 1_510: 456961880
+      desert-ruins 1_511: -1712856764
+      desert-ruins 1_512: 1198164520
+      desert-ruins 1_513: -505008021
+      desert-ruins 1_514: 1840699906
+      desert-ruins 1_515: 689666519
+      desert-ruins 1_516: -1518021153
+      desert-ruins 1_517: 1449239370
+      desert-ruins 1_518: -1611172511
+      desert-ruins 1_519: -1716567357
+      desert-ruins 1_52: 612040507
+      desert-ruins 1_520: 2129551462
+      desert-ruins 1_521: -899686736
+      desert-ruins 1_522: 821258496
+      desert-ruins 1_523: 804128438
+      desert-ruins 1_524: -377098094
+      desert-ruins 1_525: -1343351646
+      desert-ruins 1_526: 1416794462
+      desert-ruins 1_527: -610171502
+      desert-ruins 1_528: 471236643
+      desert-ruins 1_529: 607823763
+      desert-ruins 1_53: -1643469017
+      desert-ruins 1_530: -842337570
+      desert-ruins 1_531: 2082285937
+      desert-ruins 1_532: -1827838817
+      desert-ruins 1_533: 184697919
+      desert-ruins 1_534: 64079279
+      desert-ruins 1_535: -1848747443
+      desert-ruins 1_536: -1518979667
+      desert-ruins 1_537: 669013641
+      desert-ruins 1_538: 426040764
+      desert-ruins 1_539: 1359449791
+      desert-ruins 1_54: -1767739792
+      desert-ruins 1_540: 1831929612
+      desert-ruins 1_541: 1823096242
+      desert-ruins 1_542: -1985820154
+      desert-ruins 1_543: 192413931
+      desert-ruins 1_544: -1459255978
+      desert-ruins 1_545: 733937668
+      desert-ruins 1_546: 1261403390
+      desert-ruins 1_547: -1355741654
+      desert-ruins 1_548: -1953527635
+      desert-ruins 1_549: -2112733557
+      desert-ruins 1_55: -957206989
+      desert-ruins 1_550: 1059545944
+      desert-ruins 1_551: 1073499779
+      desert-ruins 1_552: 1136047540
+      desert-ruins 1_553: -2036771138
+      desert-ruins 1_554: 824791764
+      desert-ruins 1_555: 650145682
+      desert-ruins 1_556: -322420432
+      desert-ruins 1_557: -898311355
+      desert-ruins 1_558: -1112734281
+      desert-ruins 1_559: -2118855333
+      desert-ruins 1_56: 518052655
+      desert-ruins 1_560: 1949810819
+      desert-ruins 1_561: -102569317
+      desert-ruins 1_562: -547491035
+      desert-ruins 1_563: -959434529
+      desert-ruins 1_564: 670167959
+      desert-ruins 1_565: -1202805053
+      desert-ruins 1_566: 573992377
+      desert-ruins 1_567: 1475850198
+      desert-ruins 1_568: 1298844849
+      desert-ruins 1_569: -1295402552
+      desert-ruins 1_57: 1677766274
+      desert-ruins 1_570: -1524766275
+      desert-ruins 1_571: -1883595694
+      desert-ruins 1_572: 1403454749
+      desert-ruins 1_573: 1452989495
+      desert-ruins 1_574: -1181651241
+      desert-ruins 1_575: -1499892514
+      desert-ruins 1_576: 1635232664
+      desert-ruins 1_577: 1126141885
+      desert-ruins 1_578: -39031975
+      desert-ruins 1_579: -123212417
+      desert-ruins 1_58: -1105577913
+      desert-ruins 1_580: -660750176
+      desert-ruins 1_581: 1232756261
+      desert-ruins 1_582: 477628959
+      desert-ruins 1_583: -1082291018
+      desert-ruins 1_584: -504707177
+      desert-ruins 1_585: 170819529
+      desert-ruins 1_586: 1609397091
+      desert-ruins 1_587: 1389694695
+      desert-ruins 1_588: -1385649856
+      desert-ruins 1_589: -1984760911
+      desert-ruins 1_59: 1771082237
+      desert-ruins 1_590: -1270128406
+      desert-ruins 1_591: -900379082
+      desert-ruins 1_592: -371444359
+      desert-ruins 1_593: -219488489
+      desert-ruins 1_594: 79482485
+      desert-ruins 1_595: 894871110
+      desert-ruins 1_596: 537054913
+      desert-ruins 1_597: 1352001342
+      desert-ruins 1_598: -1594627698
+      desert-ruins 1_599: -33742646
+      desert-ruins 1_6: -1697865354
+      desert-ruins 1_60: -780374106
+      desert-ruins 1_600: -668988361
+      desert-ruins 1_601: 1625474947
+      desert-ruins 1_602: -552224926
+      desert-ruins 1_603: 916609052
+      desert-ruins 1_604: -1349158261
+      desert-ruins 1_605: -925082003
+      desert-ruins 1_606: -523302673
+      desert-ruins 1_607: -679491618
+      desert-ruins 1_608: 392080828
+      desert-ruins 1_609: -1379666077
+      desert-ruins 1_61: 503283257
+      desert-ruins 1_610: -187401215
+      desert-ruins 1_611: -268741551
+      desert-ruins 1_612: -1888186759
+      desert-ruins 1_613: 556712963
+      desert-ruins 1_614: 241731143
+      desert-ruins 1_615: -1119057538
+      desert-ruins 1_616: -1233262712
+      desert-ruins 1_617: 10098375
+      desert-ruins 1_618: -1460992118
+      desert-ruins 1_619: -965836605
+      desert-ruins 1_62: 1855867896
+      desert-ruins 1_620: -211772260
+      desert-ruins 1_621: -831304881
+      desert-ruins 1_622: 1902294327
+      desert-ruins 1_623: -290192442
+      desert-ruins 1_624: -745788586
+      desert-ruins 1_625: 1779879222
+      desert-ruins 1_626: 1061580708
+      desert-ruins 1_627: 657136267
+      desert-ruins 1_628: -1384149153
+      desert-ruins 1_629: -2058932799
+      desert-ruins 1_63: 812603263
+      desert-ruins 1_630: -731162201
+      desert-ruins 1_631: -351982733
+      desert-ruins 1_632: 1131402934
+      desert-ruins 1_633: -2143757683
+      desert-ruins 1_634: 83319632
+      desert-ruins 1_635: -1005731718
+      desert-ruins 1_636: -955613263
+      desert-ruins 1_637: 63735053
+      desert-ruins 1_638: 1145730896
+      desert-ruins 1_639: 1251207680
+      desert-ruins 1_64: -689871750
+      desert-ruins 1_640: 352554836
+      desert-ruins 1_641: -578867413
+      desert-ruins 1_642: 2034168361
+      desert-ruins 1_643: 2017563940
+      desert-ruins 1_644: 581802991
+      desert-ruins 1_645: 880993917
+      desert-ruins 1_646: -1643160381
+      desert-ruins 1_647: 1805859146
+      desert-ruins 1_648: -1685378577
+      desert-ruins 1_649: -851528505
+      desert-ruins 1_65: -236410188
+      desert-ruins 1_650: -903868250
+      desert-ruins 1_651: -40759449
+      desert-ruins 1_652: 186045682
+      desert-ruins 1_653: 415601384
+      desert-ruins 1_654: 1622287087
+      desert-ruins 1_655: -508931735
+      desert-ruins 1_656: 798574106
+      desert-ruins 1_657: -1263255179
+      desert-ruins 1_658: 743610882
+      desert-ruins 1_659: 928218410
+      desert-ruins 1_66: -1951165425
+      desert-ruins 1_660: -1613927806
+      desert-ruins 1_661: -316413429
+      desert-ruins 1_662: 1110816947
+      desert-ruins 1_663: 1268358584
+      desert-ruins 1_664: 1530585445
+      desert-ruins 1_665: 822859373
+      desert-ruins 1_666: 49742352
+      desert-ruins 1_667: -341005029
+      desert-ruins 1_668: 1581133276
+      desert-ruins 1_669: -509583087
+      desert-ruins 1_67: 1173871877
+      desert-ruins 1_670: -61170281
+      desert-ruins 1_671: 919230043
+      desert-ruins 1_672: 515449478
+      desert-ruins 1_673: -367148150
+      desert-ruins 1_674: 740926350
+      desert-ruins 1_675: -144559855
+      desert-ruins 1_676: -572238600
+      desert-ruins 1_677: -2139706982
+      desert-ruins 1_678: 13306849
+      desert-ruins 1_679: -1810550278
+      desert-ruins 1_68: 149112986
+      desert-ruins 1_680: 1762367198
+      desert-ruins 1_681: 915963817
+      desert-ruins 1_682: -1127460753
+      desert-ruins 1_683: -2005465818
+      desert-ruins 1_684: -1170059588
+      desert-ruins 1_685: 841752341
+      desert-ruins 1_686: -1269009835
+      desert-ruins 1_687: -396274399
+      desert-ruins 1_688: 637412569
+      desert-ruins 1_689: 694810492
+      desert-ruins 1_69: -5392048
+      desert-ruins 1_690: -429638543
+      desert-ruins 1_691: 1464049678
+      desert-ruins 1_692: -728811854
+      desert-ruins 1_693: -1118813348
+      desert-ruins 1_694: -1049917314
+      desert-ruins 1_695: 1730496647
+      desert-ruins 1_696: 1516656802
+      desert-ruins 1_697: 1084904728
+      desert-ruins 1_698: 792103342
+      desert-ruins 1_699: -741333922
+      desert-ruins 1_7: 159279497
+      desert-ruins 1_70: -397727252
+      desert-ruins 1_700: 1931116322
+      desert-ruins 1_701: 2109844581
+      desert-ruins 1_702: 329633235
+      desert-ruins 1_703: -789424660
+      desert-ruins 1_704: 1288542515
+      desert-ruins 1_705: -1228025859
+      desert-ruins 1_706: 363340663
+      desert-ruins 1_707: 406411445
+      desert-ruins 1_708: -1899457936
+      desert-ruins 1_709: 638542078
+      desert-ruins 1_71: -2038003817
+      desert-ruins 1_710: 473491594
+      desert-ruins 1_711: 792814596
+      desert-ruins 1_712: 296092691
+      desert-ruins 1_713: -349275927
+      desert-ruins 1_714: -616436851
+      desert-ruins 1_715: -845797570
+      desert-ruins 1_716: -295597497
+      desert-ruins 1_72: 25107245
+      desert-ruins 1_73: -1307862948
+      desert-ruins 1_74: 406216665
+      desert-ruins 1_75: 2019002301
+      desert-ruins 1_76: -914606903
+      desert-ruins 1_77: -1819064038
+      desert-ruins 1_78: 344071995
+      desert-ruins 1_79: -1431817708
+      desert-ruins 1_8: 334262961
+      desert-ruins 1_80: -630939992
+      desert-ruins 1_81: -1056946443
+      desert-ruins 1_82: -1710133894
+      desert-ruins 1_83: -1132374406
+      desert-ruins 1_84: -893581095
+      desert-ruins 1_85: 1977426732
+      desert-ruins 1_86: -864740779
+      desert-ruins 1_87: -119074603
+      desert-ruins 1_88: 1582667677
+      desert-ruins 1_89: 1468774542
+      desert-ruins 1_9: -2059877201
+      desert-ruins 1_90: -1193356026
+      desert-ruins 1_91: 488552739
+      desert-ruins 1_92: 89224941
+      desert-ruins 1_93: 701223899
+      desert-ruins 1_94: -98176977
+      desert-ruins 1_95: -1876020034
+      desert-ruins 1_96: 992975959
+      desert-ruins 1_97: -895803758
+      desert-ruins 1_98: -18434760
+      desert-ruins 1_99: -1076834022
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

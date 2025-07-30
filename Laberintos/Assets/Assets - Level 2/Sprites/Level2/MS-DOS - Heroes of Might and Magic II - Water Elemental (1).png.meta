@@ -1,0 +1,4069 @@
+fileFormatVersion: 2
+guid: b9dced82f0240ee49b4730f0e8bc044b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3106301814371418155
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_0
+  - first:
+      213: -5304509348770848033
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_1
+  - first:
+      213: -3493535801087985377
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_2
+  - first:
+      213: -4427642778765962667
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_3
+  - first:
+      213: 2694442722692572414
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_4
+  - first:
+      213: 3439618069413464903
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_5
+  - first:
+      213: -5691211205016319263
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_6
+  - first:
+      213: 1122892984927405629
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_7
+  - first:
+      213: -8101000389599153863
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_8
+  - first:
+      213: -8923127285699282650
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_9
+  - first:
+      213: -1382783235333046614
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_10
+  - first:
+      213: 5830223464433511330
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_11
+  - first:
+      213: -4674534343582326717
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_12
+  - first:
+      213: 8700770980070955040
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_13
+  - first:
+      213: -6928958746976017253
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_14
+  - first:
+      213: -5031806627522182896
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_15
+  - first:
+      213: 2737994766538907944
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_16
+  - first:
+      213: 7306193149648498228
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_17
+  - first:
+      213: 2213403389322795709
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_18
+  - first:
+      213: 8993306741266580202
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_19
+  - first:
+      213: 376660533264588835
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_20
+  - first:
+      213: -7030497198602074039
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_21
+  - first:
+      213: 6440775923010627859
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_22
+  - first:
+      213: -8906695501978815380
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_23
+  - first:
+      213: -8553135061555270564
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_24
+  - first:
+      213: -3239533816118410944
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_25
+  - first:
+      213: 7898857067162515238
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_26
+  - first:
+      213: 6232084801040935290
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_27
+  - first:
+      213: 5617719892894937372
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_28
+  - first:
+      213: 6225094123252121258
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_29
+  - first:
+      213: -8777994693908526303
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_30
+  - first:
+      213: 8686682019728511765
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_31
+  - first:
+      213: -7149195406881734771
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_32
+  - first:
+      213: -8275983135046379922
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_33
+  - first:
+      213: -7881074484629803521
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_34
+  - first:
+      213: 1965122132555717734
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_35
+  - first:
+      213: 1843173481420299278
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_36
+  - first:
+      213: 8572112965313515783
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_37
+  - first:
+      213: 837092169943623093
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_38
+  - first:
+      213: -982455388439360316
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_39
+  - first:
+      213: 7823356279087827642
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_40
+  - first:
+      213: 4717979726110771328
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_41
+  - first:
+      213: -5926125198021903915
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_42
+  - first:
+      213: -7657396566128140615
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_43
+  - first:
+      213: -3035463829002434085
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_44
+  - first:
+      213: 8805652291960404911
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_45
+  - first:
+      213: 4342963786573449960
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_46
+  - first:
+      213: 8910804851760650196
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_47
+  - first:
+      213: 4838297757964874155
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_48
+  - first:
+      213: -6163274503489129184
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_49
+  - first:
+      213: -2897678717938395115
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_50
+  - first:
+      213: 9222279932964540450
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_51
+  - first:
+      213: 8981108528077647157
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_52
+  - first:
+      213: 6845334417939928851
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_53
+  - first:
+      213: 2877413139955068406
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_54
+  - first:
+      213: -3552228976151706480
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_55
+  - first:
+      213: 7669582217322726233
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_56
+  - first:
+      213: -1698869140972282845
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_57
+  - first:
+      213: -8529877261413286679
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_58
+  - first:
+      213: -3904952202406381904
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_59
+  - first:
+      213: -1933015118729892373
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_60
+  - first:
+      213: 483463174180447075
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_61
+  - first:
+      213: 2669881901697481883
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_62
+  - first:
+      213: -1891046117469722067
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_63
+  - first:
+      213: -7089912308358146870
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_64
+  - first:
+      213: 8947373306675026263
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_65
+  - first:
+      213: 241867995650591755
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_66
+  - first:
+      213: -6884995701477681897
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_67
+  - first:
+      213: -8177615700901580389
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_68
+  - first:
+      213: -1541748134341328016
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_69
+  - first:
+      213: 7058718090180085935
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_70
+  - first:
+      213: 508287994079843586
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_71
+  - first:
+      213: 4609127274711563572
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_72
+  - first:
+      213: 1991021914437869771
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_73
+  - first:
+      213: -3591633083359741741
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_74
+  - first:
+      213: 2671737962561576606
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_75
+  - first:
+      213: -2970069227574534925
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_76
+  - first:
+      213: 418140459438642481
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_77
+  - first:
+      213: 333628223092895238
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_78
+  - first:
+      213: 4663191899416166195
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_79
+  - first:
+      213: -73800345318950359
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_80
+  - first:
+      213: 6545372738702392996
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_81
+  - first:
+      213: -8034883714405100016
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_82
+  - first:
+      213: 7799082506448566967
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_83
+  - first:
+      213: 6930600089010482441
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_84
+  - first:
+      213: 2195002452857126382
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_85
+  - first:
+      213: -1151673890343416471
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_86
+  - first:
+      213: -7822786104283460402
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_87
+  - first:
+      213: 6993321595485313457
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_88
+  - first:
+      213: -8675460762094844750
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_89
+  - first:
+      213: 3799659639909739843
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_90
+  - first:
+      213: -1434217641658479107
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_91
+  - first:
+      213: -9047782743584234987
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_92
+  - first:
+      213: 696577687932341287
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_93
+  - first:
+      213: -1730720081042599110
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_94
+  - first:
+      213: 6158244893674737844
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_95
+  - first:
+      213: -8543949503943852272
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_96
+  - first:
+      213: 6277584257321846151
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_97
+  - first:
+      213: 3239243085339504555
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_98
+  - first:
+      213: 3196839756744223675
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_99
+  - first:
+      213: 4705283453740083505
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_100
+  - first:
+      213: 584263511181106904
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_101
+  - first:
+      213: -838089221974349196
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_102
+  - first:
+      213: -4342095726976193923
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_103
+  - first:
+      213: -5009999110038446818
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_104
+  - first:
+      213: -4898654937206344913
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_105
+  - first:
+      213: 4477089359551755361
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_106
+  - first:
+      213: -1062551082529320302
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_107
+  - first:
+      213: 4972341596992143340
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_108
+  - first:
+      213: -4095401401154307648
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_109
+  - first:
+      213: -6376593846863570233
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_110
+  - first:
+      213: -1220985630333593464
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_111
+  - first:
+      213: 309676731688333337
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_112
+  - first:
+      213: 7290175356015152174
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_113
+  - first:
+      213: -4842156783060092886
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_114
+  - first:
+      213: 2925123934363373520
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_115
+  - first:
+      213: 9043109430116576786
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_116
+  - first:
+      213: -5769022015763620951
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_117
+  - first:
+      213: 7431317946182384364
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_118
+  - first:
+      213: 5341052823536971823
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_119
+  - first:
+      213: 2878657931874886814
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_120
+  - first:
+      213: -6112325795179697692
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_121
+  - first:
+      213: 1702538075015939154
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_122
+  - first:
+      213: 144086048737083085
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_123
+  - first:
+      213: 3860699188433767887
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_124
+  - first:
+      213: -2241028265667031616
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_125
+  - first:
+      213: 8786619340604022968
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_126
+  - first:
+      213: 2570326215249637490
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_127
+  - first:
+      213: -4510667035262875016
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_128
+  - first:
+      213: 4487093435141741869
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_129
+  - first:
+      213: -3729023295640219192
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_130
+  - first:
+      213: -154697220177958699
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_131
+  - first:
+      213: 2079250991289722180
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_132
+  - first:
+      213: -8673633704936294282
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_133
+  - first:
+      213: 7279806668313141097
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_134
+  - first:
+      213: -7756479519306194488
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_135
+  - first:
+      213: 7102164208894636949
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_136
+  - first:
+      213: -623366756578512421
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_137
+  - first:
+      213: 1375633145508646778
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_138
+  - first:
+      213: 3641175403517604455
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_139
+  - first:
+      213: -7033425362884275874
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_140
+  - first:
+      213: 1043979865153659999
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_141
+  - first:
+      213: -2079544223414095445
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_142
+  - first:
+      213: 6098408135836587670
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_143
+  - first:
+      213: 6091363096237412756
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_144
+  - first:
+      213: -6707945147371772826
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_145
+  - first:
+      213: 3050571586887282145
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_146
+  - first:
+      213: -5135071608786648904
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_147
+  - first:
+      213: -5735645059894774985
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_148
+  - first:
+      213: 1409349699384965499
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_149
+  - first:
+      213: 958062005086732199
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_150
+  - first:
+      213: 6735894987193515755
+    second: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_151
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 490
+        width: 39
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2082c2da0dcb1b20800000000000000
+      internalID: 3106301814371418155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 490
+        width: 39
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd266ce0ad89266b0800000000000000
+      internalID: -5304509348770848033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 490
+        width: 41
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f197a0ec2b7748fc0800000000000000
+      internalID: -3493535801087985377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_3
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 490
+        width: 41
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552d453f95add82c0800000000000000
+      internalID: -4427642778765962667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_4
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 492
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef42ab96165946520800000000000000
+      internalID: 2694442722692572414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_5
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 492
+        width: 55
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b8766096afbbf20800000000000000
+      internalID: 3439618069413464903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_6
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 492
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea8747ff81c401b0800000000000000
+      internalID: -5691211205016319263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 399
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36406f6831559f00800000000000000
+      internalID: 1122892984927405629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 399
+        width: 45
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93134ac0117739f80800000000000000
+      internalID: -8101000389599153863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_9
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 399
+        width: 45
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6297c4aa20faa2480800000000000000
+      internalID: -8923127285699282650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_10
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 400
+        width: 39
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaebb9849fd5fcce0800000000000000
+      internalID: -1382783235333046614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_11
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 400
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abe4bed95d19e050800000000000000
+      internalID: 5830223464433511330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_12
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 400
+        width: 43
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340696008c7b02fb0800000000000000
+      internalID: -4674534343582326717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_13
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 399
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02818239b195fb870800000000000000
+      internalID: 8700770980070955040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_14
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 399
+        width: 45
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94a8271bb467df90800000000000000
+      internalID: -6928958746976017253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 304
+        width: 36
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011851c288e6b2ab0800000000000000
+      internalID: -5031806627522182896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_16
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 304
+        width: 43
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8212e60dbbf4ff520800000000000000
+      internalID: 2737994766538907944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_17
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 304
+        width: 43
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ee031b5ffc46560800000000000000
+      internalID: 7306193149648498228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_18
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 304
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba1b3dc7a697be10800000000000000
+      internalID: 2213403389322795709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_19
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 315
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2025525d4aecc70800000000000000
+      internalID: 8993306741266580202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_20
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 342
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320252662ca2a3500800000000000000
+      internalID: 376660533264588835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_21
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 342
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948c1fa0c08ae6e90800000000000000
+      internalID: -7030497198602074039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_22
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 342
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319efe8c39b326950800000000000000
+      internalID: 6440775923010627859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_23
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 342
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64bbf171af056480800000000000000
+      internalID: -8906695501978815380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_24
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 342
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c2f0c5af82d4980800000000000000
+      internalID: -8553135061555270564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_25
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 342
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0418564782dda03d0800000000000000
+      internalID: -3239533816118410944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_26
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 342
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6273ec317a06e9d60800000000000000
+      internalID: 7898857067162515238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_27
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 342
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79e7288b10dc7650800000000000000
+      internalID: 6232084801040935290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_28
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 342
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11f5a78a7626fd40800000000000000
+      internalID: 5617719892894937372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_29
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 342
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae70d58f1af36650800000000000000
+      internalID: 6225094123252121258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_30
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 342
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b815d655c4e2680800000000000000
+      internalID: -8777994693908526303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_31
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 342
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513d0bed54b4d8870800000000000000
+      internalID: 8686682019728511765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_32
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 322
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8fb5fec7a4f8cc90800000000000000
+      internalID: -7149195406881734771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_33
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 322
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66df6ccf2dc52d80800000000000000
+      internalID: -8275983135046379922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_34
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 322
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffdee3f038cc0a290800000000000000
+      internalID: -7881074484629803521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_35
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 322
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cdd3bfa24854b10800000000000000
+      internalID: 1965122132555717734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_36
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 322
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c1a7b0484449910800000000000000
+      internalID: 1843173481420299278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_37
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 322
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7015800335346f670800000000000000
+      internalID: 8572112965313515783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_38
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 322
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b520c9b4e2fd9b00800000000000000
+      internalID: 837092169943623093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_39
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 322
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc476c870e9d52f0800000000000000
+      internalID: -982455388439360316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_40
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 322
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba0a5ef515229c60800000000000000
+      internalID: 7823356279087827642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_41
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 319
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088c3506091a97140800000000000000
+      internalID: 4717979726110771328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_42
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 322
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9b965c78c22cda0800000000000000
+      internalID: -5926125198021903915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_43
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 322
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bed2abc4667bb590800000000000000
+      internalID: -7657396566128140615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_44
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 322
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd943c7eabddfd5d0800000000000000
+      internalID: -3035463829002434085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_45
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 322
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab77edea16f33a70800000000000000
+      internalID: 8805652291960404911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_46
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 322
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea881bcd8e454c30800000000000000
+      internalID: 4342963786573449960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_47
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 322
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7550c1dc989ab70800000000000000
+      internalID: 8910804851760650196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_48
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 322
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1b01d2d26152340800000000000000
+      internalID: 4838297757964874155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_49
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 319
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025fe465e76a77aa0800000000000000
+      internalID: -6163274503489129184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_50
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 322
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51892100f8069c7d0800000000000000
+      internalID: -2897678717938395115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_51
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 306
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220909fbcbe1cff70800000000000000
+      internalID: 9222279932964540450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_52
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 319
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53dac415f9e43ac70800000000000000
+      internalID: 8981108528077647157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_53
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 322
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317901e82638ffe50800000000000000
+      internalID: 6845334417939928851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_54
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 322
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd201f6100aee720800000000000000
+      internalID: 2877413139955068406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_55
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 322
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094c0a31192f3bec0800000000000000
+      internalID: -3552228976151706480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_56
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 319
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9538c273464df6a60800000000000000
+      internalID: 7669582217322726233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_57
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 306
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c597c64876c68e0800000000000000
+      internalID: -1698869140972282845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_58
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 306
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec77cfe2d9cf9980800000000000000
+      internalID: -8529877261413286679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_59
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 304
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b630b649a2dec9c0800000000000000
+      internalID: -3904952202406381904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_60
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 306
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed25a6bdfc8c25e0800000000000000
+      internalID: -1933015118729892373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_61
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 306
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3632207023b95b600800000000000000
+      internalID: 483463174180447075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_62
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 306
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c3ce6a1735d0520800000000000000
+      internalID: 2669881901697481883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_63
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 303
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ae55a4397a1c5e0800000000000000
+      internalID: -1891046117469722067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_64
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 306
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac494abc1529b9d90800000000000000
+      internalID: -7089912308358146870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_65
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 306
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7595d210e947b2c70800000000000000
+      internalID: 8947373306675026263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_66
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 306
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c0a4b19a94b5300800000000000000
+      internalID: 241867995650591755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_67
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 306
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715d45543e49370a0800000000000000
+      internalID: -6884995701477681897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_68
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 306
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91ba1ec8d5438e80800000000000000
+      internalID: -8177615700901580389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_69
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 306
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073c6778d3c9a9ae0800000000000000
+      internalID: -1541748134341328016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_70
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 306
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8cece44ba95f160800000000000000
+      internalID: 7058718090180085935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_71
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 306
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20599b2dc3dcd0700800000000000000
+      internalID: 508287994079843586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_72
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 304
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d3fbd06d8e6ff30800000000000000
+      internalID: 4609127274711563572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_73
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 306
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0661ed1e781ab10800000000000000
+      internalID: 1991021914437869771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_74
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 306
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d83dce6db4f72ec0800000000000000
+      internalID: -3591633083359741741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_75
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 306
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e986f758be31520800000000000000
+      internalID: 2671737962561576606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_76
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 210
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fcd91c06c138c6d0800000000000000
+      internalID: -2970069227574534925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_77
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 210
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1351f0f48888dc500800000000000000
+      internalID: 418140459438642481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_78
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 210
+        width: 46
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e2f7ce91941a400800000000000000
+      internalID: 333628223092895238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_79
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 210
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ffd2c635cf6b040800000000000000
+      internalID: 4663191899416166195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_80
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 210
+        width: 71
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a76f81afec9fef0800000000000000
+      internalID: -73800345318950359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_81
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 244
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aeb1e4b3d5d5da50800000000000000
+      internalID: 6545372738702392996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_82
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 244
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016105715db5e7090800000000000000
+      internalID: -8034883714405100016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_83
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 244
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba74d2e738eb3c60800000000000000
+      internalID: 7799082506448566967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_84
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 105
+        width: 38
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90da2c1af007e2060800000000000000
+      internalID: 6930600089010482441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_85
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 105
+        width: 52
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedf8abe917367e10800000000000000
+      internalID: 2195002452857126382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_86
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 105
+        width: 43
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d0df4d2be6400f0800000000000000
+      internalID: -1151673890343416471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_87
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 105
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc825c2c71ef6390800000000000000
+      internalID: -7822786104283460402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_88
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 105
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b958fa50f44d0160800000000000000
+      internalID: 6993321595485313457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_89
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 104
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b44f74c6629a9780800000000000000
+      internalID: -8675460762094844750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_90
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 172
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d6530af4a1bb430800000000000000
+      internalID: 3799659639909739843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_91
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 169
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd095a57a2a81ce0800000000000000
+      internalID: -1434217641658479107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_92
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 169
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512a0cb2881df6280800000000000000
+      internalID: -9047782743584234987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_93
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 172
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c8baf67bdbaa900800000000000000
+      internalID: 696577687932341287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_94
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 172
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3312db814f3bf7e0800000000000000
+      internalID: -1730720081042599110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_95
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 172
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0985f5a1b767550800000000000000
+      internalID: 6158244893674737844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_96
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 169
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f3d86a13bcd6980800000000000000
+      internalID: -8543949503943852272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_97
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 116
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785c0493f957e1750800000000000000
+      internalID: 6277584257321846151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_98
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 151
+        width: 124
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf2dc28c6a14fc20800000000000000
+      internalID: 3239243085339504555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_99
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 154
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbe59832d47d5c20800000000000000
+      internalID: 3196839756744223675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_100
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 154
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13963bb1f568c4140800000000000000
+      internalID: 4705283453740083505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_101
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 154
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de1c2f5198bb1800800000000000000
+      internalID: 584263511181106904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_102
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 154
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47aa2220b428e54f0800000000000000
+      internalID: -838089221974349196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_103
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 138
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7aa7d411f6cdb3c0800000000000000
+      internalID: -4342095726976193923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_104
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 138
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d92218a58e87ab0800000000000000
+      internalID: -5009999110038446818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_105
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 138
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f233a9ee94b740cb0800000000000000
+      internalID: -4898654937206344913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_106
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 138
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16473c74d01d12e30800000000000000
+      internalID: 4477089359551755361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_107
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 135
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292122a8b6f0141f0800000000000000
+      internalID: -1062551082529320302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_108
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 138
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef7d9e765e410540800000000000000
+      internalID: 4972341596992143340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_109
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 138
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c97f8fbf163a27c0800000000000000
+      internalID: -4095401401154307648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_110
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 138
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca51c05ea9c187a0800000000000000
+      internalID: -6376593846863570233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_111
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 136
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8881c1cc9003e0fe0800000000000000
+      internalID: -1220985630333593464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_112
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 135
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910bc73c8513c4400800000000000000
+      internalID: 309676731688333337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_113
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 138
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c079d7cd7eb2560800000000000000
+      internalID: 7290175356015152174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_114
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 138
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2874f68f043dccb0800000000000000
+      internalID: -4842156783060092886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_115
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 138
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfc8b768b0289820800000000000000
+      internalID: 2925123934363373520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_116
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 138
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e651f3d149f7d70800000000000000
+      internalID: 9043109430116576786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_117
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 138
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab5001da0150ffa0800000000000000
+      internalID: -5769022015763620951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_118
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 119
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceabf2b9c48512760800000000000000
+      internalID: 7431317946182384364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_119
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 122
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20b481be3b3f1a40800000000000000
+      internalID: 5341052823536971823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_120
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 122
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e946343232c03f720800000000000000
+      internalID: 2878657931874886814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_121
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 122
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e96bd2e218ac2ba0800000000000000
+      internalID: -6112325795179697692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_122
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 122
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25407e9db51a0a710800000000000000
+      internalID: 1702538075015939154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_123
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 119
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce30187f75eff100800000000000000
+      internalID: 144086048737083085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_124
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 122
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdcb3ff475f39530800000000000000
+      internalID: 3860699188433767887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_125
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 122
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd8e457aa446e0e0800000000000000
+      internalID: -2241028265667031616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_126
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 122
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0a74d9cb750f970800000000000000
+      internalID: 8786619340604022968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_127
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 122
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27034d81312aba320800000000000000
+      internalID: 2570326215249637490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_128
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 122
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a871fda34e661c0800000000000000
+      internalID: -4510667035262875016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_129
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 122
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d5c93a4bb554e30800000000000000
+      internalID: 4487093435141741869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_130
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 122
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c15530e119df3cc0800000000000000
+      internalID: -3729023295640219192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_131
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 5
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d86d87a2b76addf0800000000000000
+      internalID: -154697220177958699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_132
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 5
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445e3be92cbfadc10800000000000000
+      internalID: 2079250991289722180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_133
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 5
+        width: 48
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678ba69a91011a780800000000000000
+      internalID: -8673633704936294282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_134
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 5
+        width: 45
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f13524891170560800000000000000
+      internalID: 7279806668313141097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_135
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 5
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1692809f27b5490800000000000000
+      internalID: -7756479519306194488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_136
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 5
+        width: 44
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59378a718b4ff8260800000000000000
+      internalID: 7102164208894636949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_137
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 5
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1b955dc3b5957f0800000000000000
+      internalID: -623366756578512421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_138
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 50
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fcb43be0b371310800000000000000
+      internalID: 1375633145508646778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_139
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 47
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7627e8bdcbd088230800000000000000
+      internalID: 3641175403517604455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_140
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e515f0ba5e0446e90800000000000000
+      internalID: -7033425362884275874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_141
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 21
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54e427f726fc7e00800000000000000
+      internalID: 1043979865153659999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_142
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 5
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1ffa4fb89f323e0800000000000000
+      internalID: -2079544223414095445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_143
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 5
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69654e783e5e1a450800000000000000
+      internalID: 6098408135836587670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_144
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 45
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491972d667ed88450800000000000000
+      internalID: 6091363096237412756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_145
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 45
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664a91ebd6798e2a0800000000000000
+      internalID: -6707945147371772826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_146
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 40
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ede05612bec55a20800000000000000
+      internalID: 3050571586887282145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_147
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 32
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0041e149f8cb8b0800000000000000
+      internalID: -5135071608786648904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_148
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 35
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7337f3fe435e660b0800000000000000
+      internalID: -5735645059894774985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_149
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 5
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79f424a5140f8310800000000000000
+      internalID: 1409349699384965499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_150
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 15
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af3efd4158bb4d00800000000000000
+      internalID: 958062005086732199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_151
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 5
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beef0047dc4ba7d50800000000000000
+      internalID: 6735894987193515755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b1b4f22524a03264a88b785f8ff1cf20
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_0: 3106301814371418155
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_1: -5304509348770848033
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_10: -1382783235333046614
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_100: 4705283453740083505
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_101: 584263511181106904
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_102: -838089221974349196
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_103: -4342095726976193923
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_104: -5009999110038446818
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_105: -4898654937206344913
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_106: 4477089359551755361
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_107: -1062551082529320302
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_108: 4972341596992143340
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_109: -4095401401154307648
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_11: 5830223464433511330
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_110: -6376593846863570233
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_111: -1220985630333593464
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_112: 309676731688333337
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_113: 7290175356015152174
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_114: -4842156783060092886
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_115: 2925123934363373520
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_116: 9043109430116576786
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_117: -5769022015763620951
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_118: 7431317946182384364
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_119: 5341052823536971823
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_12: -4674534343582326717
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_120: 2878657931874886814
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_121: -6112325795179697692
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_122: 1702538075015939154
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_123: 144086048737083085
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_124: 3860699188433767887
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_125: -2241028265667031616
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_126: 8786619340604022968
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_127: 2570326215249637490
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_128: -4510667035262875016
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_129: 4487093435141741869
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_13: 8700770980070955040
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_130: -3729023295640219192
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_131: -154697220177958699
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_132: 2079250991289722180
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_133: -8673633704936294282
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_134: 7279806668313141097
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_135: -7756479519306194488
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_136: 7102164208894636949
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_137: -623366756578512421
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_138: 1375633145508646778
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_139: 3641175403517604455
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_14: -6928958746976017253
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_140: -7033425362884275874
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_141: 1043979865153659999
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_142: -2079544223414095445
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_143: 6098408135836587670
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_144: 6091363096237412756
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_145: -6707945147371772826
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_146: 3050571586887282145
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_147: -5135071608786648904
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_148: -5735645059894774985
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_149: 1409349699384965499
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_15: -5031806627522182896
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_150: 958062005086732199
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_151: 6735894987193515755
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_16: 2737994766538907944
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_17: 7306193149648498228
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_18: 2213403389322795709
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_19: 8993306741266580202
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_2: -3493535801087985377
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_20: 376660533264588835
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_21: -7030497198602074039
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_22: 6440775923010627859
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_23: -8906695501978815380
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_24: -8553135061555270564
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_25: -3239533816118410944
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_26: 7898857067162515238
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_27: 6232084801040935290
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_28: 5617719892894937372
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_29: 6225094123252121258
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_3: -4427642778765962667
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_30: -8777994693908526303
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_31: 8686682019728511765
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_32: -7149195406881734771
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_33: -8275983135046379922
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_34: -7881074484629803521
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_35: 1965122132555717734
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_36: 1843173481420299278
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_37: 8572112965313515783
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_38: 837092169943623093
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_39: -982455388439360316
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_4: 2694442722692572414
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_40: 7823356279087827642
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_41: 4717979726110771328
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_42: -5926125198021903915
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_43: -7657396566128140615
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_44: -3035463829002434085
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_45: 8805652291960404911
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_46: 4342963786573449960
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_47: 8910804851760650196
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_48: 4838297757964874155
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_49: -6163274503489129184
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_5: 3439618069413464903
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_50: -2897678717938395115
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_51: 9222279932964540450
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_52: 8981108528077647157
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_53: 6845334417939928851
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_54: 2877413139955068406
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_55: -3552228976151706480
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_56: 7669582217322726233
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_57: -1698869140972282845
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_58: -8529877261413286679
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_59: -3904952202406381904
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_6: -5691211205016319263
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_60: -1933015118729892373
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_61: 483463174180447075
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_62: 2669881901697481883
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_63: -1891046117469722067
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_64: -7089912308358146870
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_65: 8947373306675026263
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_66: 241867995650591755
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_67: -6884995701477681897
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_68: -8177615700901580389
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_69: -1541748134341328016
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_7: 1122892984927405629
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_70: 7058718090180085935
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_71: 508287994079843586
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_72: 4609127274711563572
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_73: 1991021914437869771
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_74: -3591633083359741741
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_75: 2671737962561576606
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_76: -2970069227574534925
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_77: 418140459438642481
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_78: 333628223092895238
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_79: 4663191899416166195
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_8: -8101000389599153863
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_80: -73800345318950359
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_81: 6545372738702392996
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_82: -8034883714405100016
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_83: 7799082506448566967
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_84: 6930600089010482441
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_85: 2195002452857126382
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_86: -1151673890343416471
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_87: -7822786104283460402
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_88: 6993321595485313457
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_89: -8675460762094844750
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_9: -8923127285699282650
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_90: 3799659639909739843
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_91: -1434217641658479107
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_92: -9047782743584234987
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_93: 696577687932341287
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_94: -1730720081042599110
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_95: 6158244893674737844
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_96: -8543949503943852272
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_97: 6277584257321846151
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_98: 3239243085339504555
+      MS-DOS - Heroes of Might and Magic II - Water Elemental (1)_99: 3196839756744223675
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
