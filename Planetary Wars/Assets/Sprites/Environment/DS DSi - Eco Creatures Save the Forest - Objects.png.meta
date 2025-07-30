@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: ac9f45b1b8d6ab348a65ff8e3c59fb16
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Eco Creatures Save the Forest - Objects_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 233
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca932d36f26b8b04090ccba6cf5d838f
+      internalID: 624554567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Eco Creatures Save the Forest - Objects_3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 210
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bb7221fa9521041ba2df8334f4b204
+      internalID: 223620484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Eco Creatures Save the Forest - Objects_4
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 196
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918462d114862204aa69c9cd2515f80f
+      internalID: -464471084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Eco Creatures Save the Forest - Objects_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 205
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a64365a608c1214abde0e4e13cea16c
+      internalID: -470481610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Eco Creatures Save the Forest - Objects_6
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 195
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6731eeb7460a9d45870e9f0decdca9b
+      internalID: 607816132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DS DSi - Eco Creatures Save the Forest - Objects_0: 512733487
+      DS DSi - Eco Creatures Save the Forest - Objects_1: 624554567
+      DS DSi - Eco Creatures Save the Forest - Objects_10: 404058862
+      DS DSi - Eco Creatures Save the Forest - Objects_11: -1113155470
+      DS DSi - Eco Creatures Save the Forest - Objects_12: 794762954
+      DS DSi - Eco Creatures Save the Forest - Objects_13: 639076791
+      DS DSi - Eco Creatures Save the Forest - Objects_14: -1738528454
+      DS DSi - Eco Creatures Save the Forest - Objects_15: -218063393
+      DS DSi - Eco Creatures Save the Forest - Objects_16: -287250452
+      DS DSi - Eco Creatures Save the Forest - Objects_17: 1104321254
+      DS DSi - Eco Creatures Save the Forest - Objects_18: 996541190
+      DS DSi - Eco Creatures Save the Forest - Objects_19: -1698218751
+      DS DSi - Eco Creatures Save the Forest - Objects_2: 534578220
+      DS DSi - Eco Creatures Save the Forest - Objects_20: -1717469949
+      DS DSi - Eco Creatures Save the Forest - Objects_21: 2109502997
+      DS DSi - Eco Creatures Save the Forest - Objects_22: -936672726
+      DS DSi - Eco Creatures Save the Forest - Objects_23: 390207242
+      DS DSi - Eco Creatures Save the Forest - Objects_24: -1831541092
+      DS DSi - Eco Creatures Save the Forest - Objects_25: -1933051140
+      DS DSi - Eco Creatures Save the Forest - Objects_26: 1481558282
+      DS DSi - Eco Creatures Save the Forest - Objects_27: 644897523
+      DS DSi - Eco Creatures Save the Forest - Objects_28: -1044366735
+      DS DSi - Eco Creatures Save the Forest - Objects_29: 579761184
+      DS DSi - Eco Creatures Save the Forest - Objects_3: 223620484
+      DS DSi - Eco Creatures Save the Forest - Objects_30: -940338542
+      DS DSi - Eco Creatures Save the Forest - Objects_31: -104862502
+      DS DSi - Eco Creatures Save the Forest - Objects_32: -1963493402
+      DS DSi - Eco Creatures Save the Forest - Objects_33: 1711873479
+      DS DSi - Eco Creatures Save the Forest - Objects_4: -464471084
+      DS DSi - Eco Creatures Save the Forest - Objects_5: -470481610
+      DS DSi - Eco Creatures Save the Forest - Objects_6: 607816132
+      DS DSi - Eco Creatures Save the Forest - Objects_7: -1077329545
+      DS DSi - Eco Creatures Save the Forest - Objects_8: -1342700670
+      DS DSi - Eco Creatures Save the Forest - Objects_9: 45392609
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

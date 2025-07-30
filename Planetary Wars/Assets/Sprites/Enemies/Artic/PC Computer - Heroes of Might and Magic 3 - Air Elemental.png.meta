@@ -1,0 +1,708 @@
+fileFormatVersion: 2
+guid: 299ad223d6670b84aa930b4cffcef790
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Air Elemental_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1118
+        width: 54
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2f723eb478db343953fa79bade056c
+      internalID: 1496359712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Air Elemental_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1118
+        width: 54
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ea24234b8407d4f8b31c3c776aa4bb
+      internalID: -568292621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Air Elemental_2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1118
+        width: 54
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d9c7d00c5325943a39964f7c1b6daa
+      internalID: -1794062670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Air Elemental_3
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1118
+        width: 54
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3d30c656fec5241af64ed35a0c2013
+      internalID: 1135203822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Air Elemental_4
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1118
+        width: 54
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68feaabad7dbfe6418af434694d6ab72
+      internalID: 1185214807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Air Elemental_5
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1118
+        width: 54
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0256a2405e83e84fb88c9668a7df520
+      internalID: -32851718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Air Elemental_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 978
+        width: 59
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da83cc72dc16e53438480fed01ffa9fa
+      internalID: 684078427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Air Elemental_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 978
+        width: 95
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ff904a488bb674ab9b927066147b80
+      internalID: 1183362673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Air Elemental_8
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 978
+        width: 95
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d8cbd145a9e234db764d49515de502
+      internalID: 1611742078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Air Elemental_9
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 978
+        width: 95
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40d1d0b0ac17c7429dc900e4d116569
+      internalID: 1891082632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Air Elemental_10
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 978
+        width: 95
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c675b043e0e168544ba852c1c07cbd41
+      internalID: -1101883798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Air Elemental_11
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 978
+        width: 95
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6b4f5d9b75e5c49b29fc8b4a33c804
+      internalID: -614752515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Air Elemental_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 499
+        width: 95
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c53a5a1927153428e3310d8f6f7ecb
+      internalID: 1140035618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Air Elemental_13
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 499
+        width: 95
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12a9e4a38a09da4cab20866bad1a898
+      internalID: -1230129749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Air Elemental_14
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 499
+        width: 112
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce42d37760962ac4da6e9152db72bc4a
+      internalID: 166469294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Air Elemental_15
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 499
+        width: 116
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46380ec793bec1f4b9108567c753d835
+      internalID: -1485624490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Air Elemental_16
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 499
+        width: 116
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a948590e2bd4a46aff474d05fb39fa
+      internalID: 240740220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Air Elemental_17
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 499
+        width: 116
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19172b6970629904aad502b79b00434d
+      internalID: -550159903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Air Elemental_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 17
+        width: 95
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e107bdf8b86d6754ebe5abace439101e
+      internalID: 2141730661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Air Elemental_19
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 17
+        width: 95
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a428ed22a9a8244a51882cc407e62b
+      internalID: 76062681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Air Elemental_20
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 17
+        width: 95
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fcf4cab8ac2404391168ef52e2f4e5
+      internalID: 1749236426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Air Elemental_21
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 17
+        width: 95
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f440ad8f4800224086e032250246fd6
+      internalID: -1004855844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Air Elemental_22
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 17
+        width: 95
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0563651090fcd346afe37e9208ddd06
+      internalID: 367874021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Air Elemental_23
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 17
+        width: 95
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4c6709a008f51498a020d7a68fad54
+      internalID: -2002425950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Air Elemental_24
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 17
+        width: 95
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228667ef09832494babe2490c08a7849
+      internalID: -336252295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Air Elemental_25
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 17
+        width: 95
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8802e66d085d343bb64ff5f0414a94
+      internalID: 181267350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Air Elemental_26
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 17
+        width: 63
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e536c1f73db4c844d9d760b0575079c5
+      internalID: -282283543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Heroes of Might and Magic 3 - Air Elemental_0: 1496359712
+      PC Computer - Heroes of Might and Magic 3 - Air Elemental_1: -568292621
+      PC Computer - Heroes of Might and Magic 3 - Air Elemental_10: -1101883798
+      PC Computer - Heroes of Might and Magic 3 - Air Elemental_11: -614752515
+      PC Computer - Heroes of Might and Magic 3 - Air Elemental_12: 1140035618
+      PC Computer - Heroes of Might and Magic 3 - Air Elemental_13: -1230129749
+      PC Computer - Heroes of Might and Magic 3 - Air Elemental_14: 166469294
+      PC Computer - Heroes of Might and Magic 3 - Air Elemental_15: -1485624490
+      PC Computer - Heroes of Might and Magic 3 - Air Elemental_16: 240740220
+      PC Computer - Heroes of Might and Magic 3 - Air Elemental_17: -550159903
+      PC Computer - Heroes of Might and Magic 3 - Air Elemental_18: 2141730661
+      PC Computer - Heroes of Might and Magic 3 - Air Elemental_19: 76062681
+      PC Computer - Heroes of Might and Magic 3 - Air Elemental_2: -1794062670
+      PC Computer - Heroes of Might and Magic 3 - Air Elemental_20: 1749236426
+      PC Computer - Heroes of Might and Magic 3 - Air Elemental_21: -1004855844
+      PC Computer - Heroes of Might and Magic 3 - Air Elemental_22: 367874021
+      PC Computer - Heroes of Might and Magic 3 - Air Elemental_23: -2002425950
+      PC Computer - Heroes of Might and Magic 3 - Air Elemental_24: -336252295
+      PC Computer - Heroes of Might and Magic 3 - Air Elemental_25: 181267350
+      PC Computer - Heroes of Might and Magic 3 - Air Elemental_26: -282283543
+      PC Computer - Heroes of Might and Magic 3 - Air Elemental_3: 1135203822
+      PC Computer - Heroes of Might and Magic 3 - Air Elemental_4: 1185214807
+      PC Computer - Heroes of Might and Magic 3 - Air Elemental_5: -32851718
+      PC Computer - Heroes of Might and Magic 3 - Air Elemental_6: 684078427
+      PC Computer - Heroes of Might and Magic 3 - Air Elemental_7: 1183362673
+      PC Computer - Heroes of Might and Magic 3 - Air Elemental_8: 1611742078
+      PC Computer - Heroes of Might and Magic 3 - Air Elemental_9: 1891082632
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

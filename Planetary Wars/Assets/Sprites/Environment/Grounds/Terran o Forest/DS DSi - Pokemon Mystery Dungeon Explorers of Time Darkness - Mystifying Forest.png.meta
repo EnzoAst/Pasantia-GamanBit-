@@ -1,0 +1,2069 @@
+fileFormatVersion: 2
+guid: 68571da906f818c418fbec28faf4a2b6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_0
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbfa8a78e3ad1041b9cac704070331a
+      internalID: -1030768610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_1
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80690d1075f3b61479f772109dbb1090
+      internalID: 1689836301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_2
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e978befc542004eb6bf63b240e70cd
+      internalID: 161322405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_3
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff29454c68492874e8d5183ef4e69712
+      internalID: 1531386812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_4
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65136e820d8c1ed43a3fcd1d9231482d
+      internalID: 2019287864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_5
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456f96d54cdc33e4089469ade9451d57
+      internalID: -895616354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_6
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4464787650317ed469c9442d422742a4
+      internalID: -573788661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_7
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df8eb5a008e97e4bb6ac1fa778a0b7c
+      internalID: -352387026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_8
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485b159a1255cd64692579eff8021121
+      internalID: 2002897620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_9
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9741b49f10d8e3c4cb45e779fd866341
+      internalID: -792659177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_10
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9647382e4c715479da2c909caac509
+      internalID: -219916326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_11
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a2026ef4e243c47835f98f16e4c228
+      internalID: 1506698400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_12
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa15b7de09a6f8a4397fbb83c3779a87
+      internalID: 22663496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_13
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 483
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485c4fd7f31e4884e8c987f1f10bf513
+      internalID: 882898066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_14
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 483
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e32009b2e278c143be7cd5bba9ff5a5
+      internalID: 1539520879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_15
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 458
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f788f326824cfe049b5e027d8ea7d343
+      internalID: 1267980806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_16
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 458
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8229f562b904a524aa0878c100ef0b1f
+      internalID: -1099972295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_17
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 433
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68aa76bd841459141b5961927b93f577
+      internalID: 1952735044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_18
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9884e1d841b2754ba96999152b82560
+      internalID: -2115964800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_19
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522481df511ee144fac33bc887595dad
+      internalID: 539677751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_20
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c609fb9bb134a6143bd6659b188f1a00
+      internalID: 387128041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_21
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 383
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e6cd5d161cdf74f9da67f0542e5388
+      internalID: 866100068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_22
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 258
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2917e58c9dfa18843a281d8d5edbf71a
+      internalID: -2041440703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_23
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 258
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83dff2aeb34a5e3479d9e0baf18009af
+      internalID: 1217798479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_24
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 233
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc132f3c4a91d0a4da5d02729f1e1090
+      internalID: -1951465715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_25
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 258
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d345fb54a57aac4eb2b1e4220fd7d54
+      internalID: 1095754782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_26
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 208
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c06d4d308912f744b201badd6f768b2
+      internalID: -876442028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_27
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 208
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676e967a2bfc99b4ca377fa24466f167
+      internalID: -623477004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_28
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 183
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a04a851803e7e4e8fda246d1ac21bc
+      internalID: -1701945344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_29
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 183
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36615767776e5554598cbc249d27586a
+      internalID: -497355208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_30
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 83
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d28e987da6795f41be1f5bcc9a61747
+      internalID: -1621579655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_31
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 83
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9eb73e3876ad84ab7c3593668a37de
+      internalID: 1980643456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_32
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 58
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5a1b36da0e065488f4eb431ac6f696
+      internalID: -1901609418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_33
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 58
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f374ee402e50b4481a8a62d08c77a8
+      internalID: -1316391615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_34
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 33
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ab4c9fc6cce1844b4ef1cff2ac49fa
+      internalID: -1687278280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_35
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 33
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c679ca05c4112443bce3b6b6e5296ee
+      internalID: 1568866576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_36
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98bcfc346aa71d428240fbbb5245b05
+      internalID: 110313785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_37
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc3fa3b1ad3a794ca9f9b1282c1ffd5
+      internalID: -1066621364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_38
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 308
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b929433ff52293540bdcd8cafcb1e696
+      internalID: 901413439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_39
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 333
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e91bac6e0393a448f6276e06f4d9ba
+      internalID: -714173251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_40
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 333
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36e70056d6e20945beef69f09a71acb
+      internalID: -442301743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_41
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 358
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a151ed72ec0f4b64db7c0f0091c0b07e
+      internalID: -1118673276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_42
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 383
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb5283d875d7e84a890c8941ff9142d
+      internalID: -587173530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_43
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddd0054904c14646bce0293d88e7e42
+      internalID: 185058009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_44
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4ad1ac25664f249a5daf27eb959e02
+      internalID: 663239955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_45
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2879062e7de799a4eb6f127afc12e599
+      internalID: -171626076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_46
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 433
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c1a0492cb177545ba63618ddf1f8ef
+      internalID: -1206088486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_47
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 458
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03617458e20cbaa40b156d30f8966177
+      internalID: -571000975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_48
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 458
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aea48e930a67c34287c3bb946c8c112
+      internalID: 676814984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_49
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 483
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb48de6e219968349b2525edd76aae60
+      internalID: -513886727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_50
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6556c18826951a349a0fcd164b47d7f3
+      internalID: -2119472299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_51
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea908a1080fdd1e47bc05ebded784b8d
+      internalID: -1110054557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_52
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f9e9c95910bd5479562adb2a88f18e
+      internalID: 822216769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_53
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b094cb419174974fb55f0e55882de43
+      internalID: 695518520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_54
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bc1ba0e5b8bbc47ac7387778849738
+      internalID: -1489832051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_55
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6be41f4129cad43bbb5085fa9ccbe6
+      internalID: -1944683958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_56
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909bc31135ca654468b943f9b303c472
+      internalID: 4072435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_57
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01c109f32c10f743a354023d1b6ba65
+      internalID: 1369906347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_58
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2179386434f46064eabfdf28e4cdac5b
+      internalID: 666893745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_59
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3302b174df522c840b4a890e15a72e5a
+      internalID: 649764219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_60
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122146d76e6cca34fbce892aa1eef632
+      internalID: 405090474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_61
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6ffe48c15147845a420471ffc676b3
+      internalID: 1537303787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_62
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c45b50799267e4db3cb96e919a14db
+      internalID: -1439984900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_63
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d9c9814aeb2064983d6c6d4e952700
+      internalID: 522700166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_64
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a0270eabbfd9e4683028406718f9ec
+      internalID: -18091876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_65
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c746901466fe543a3e29b3a8c3e3cd
+      internalID: -409114673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_66
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da0dc74bb53f2c4896bb31d6e1dc808
+      internalID: -1590338643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_67
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a11fa1b0a804540b4e2192c3b72269
+      internalID: -667131880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_68
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67665f871401b14892fd7177f5a5283
+      internalID: 498961399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_69
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd37d9e0e4bbbb7479589a5ea2623873
+      internalID: 878731811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_70
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 637
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f5139894101bb4dadb178f92298053
+      internalID: 184306577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_71
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 637
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47998d0192d95f45af8d72fa76cdae3
+      internalID: -1871219674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_72
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 637
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1e67a562c97a547b5acc236242603b
+      internalID: -1008730374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_73
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 661
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07898e2648c893b498ab86b057ae69ff
+      internalID: 284471996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_74
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 661
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d011e110f46d43b43bf65fdfeb81fe7d
+      internalID: -156800569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_75
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 661
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60abc0ea64baa2c4281ea92c50c7a4a4
+      internalID: 1874804711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_76
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 685
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba01e071f5ef77a4e99d0b6ebc457398
+      internalID: -689942371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_77
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 685
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca424ba79d9f3e42b92706169092c32
+      internalID: -484655832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_78
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 685
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512b3f83a125edd4b8fe5b8c61ef73ae
+      internalID: 1710356514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_79
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 709
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78b76e184db1da41b70bf6ffee5353a
+      internalID: 1965829844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_80
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 709
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388f142da5e48c344bb68f5bbd271f47
+      internalID: -1918311214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_81
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 709
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4232eec2ea8e1d4bafc87e1495387bb
+      internalID: -163044114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_82
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 733
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fe76915825d534a8b553d673e9e758
+      internalID: 856061173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_83
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 733
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b36b0d5d3bc5dd4d9cb1461ae67a984
+      internalID: 912041524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying
+        Forest_84
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 733
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a380ef74caa237c48ba9f119cabd3ff9
+      internalID: 40062666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_0: -1030768610
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_1: 1689836301
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_10: -219916326
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_11: 1506698400
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_12: 22663496
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_13: 882898066
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_14: 1539520879
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_15: 1267980806
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_16: -1099972295
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_17: 1952735044
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_18: -2115964800
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_19: 539677751
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_2: 161322405
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_20: 387128041
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_21: 866100068
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_22: -2041440703
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_23: 1217798479
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_24: -1951465715
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_25: 1095754782
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_26: -876442028
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_27: -623477004
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_28: -1701945344
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_29: -497355208
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_3: 1531386812
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_30: -1621579655
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_31: 1980643456
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_32: -1901609418
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_33: -1316391615
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_34: -1687278280
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_35: 1568866576
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_36: 110313785
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_37: -1066621364
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_38: 901413439
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_39: -714173251
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_4: 2019287864
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_40: -442301743
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_41: -1118673276
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_42: -587173530
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_43: 185058009
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_44: 663239955
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_45: -171626076
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_46: -1206088486
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_47: -571000975
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_48: 676814984
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_49: -513886727
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_5: -895616354
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_50: -2119472299
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_51: -1110054557
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_52: 822216769
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_53: 695518520
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_54: -1489832051
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_55: -1944683958
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_56: 4072435
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_57: 1369906347
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_58: 666893745
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_59: 649764219
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_6: -573788661
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_60: 405090474
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_61: 1537303787
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_62: -1439984900
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_63: 522700166
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_64: -18091876
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_65: -409114673
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_66: -1590338643
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_67: -667131880
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_68: 498961399
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_69: 878731811
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_7: -352387026
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_70: 184306577
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_71: -1871219674
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_72: -1008730374
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_73: 284471996
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_74: -156800569
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_75: 1874804711
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_76: -689942371
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_77: -484655832
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_78: 1710356514
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_79: 1965829844
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_8: 2002897620
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_80: -1918311214
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_81: -163044114
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_82: 856061173
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_83: 912041524
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_84: 40062666
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Mystifying Forest_9: -792659177
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

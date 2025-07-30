@@ -1,0 +1,739 @@
+fileFormatVersion: 2
+guid: f75b15d436d8ccd40a8dfb7689188fd9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Trash Monster-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 335
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69725984d3dbb9e45927a33967628960
+      internalID: -402470564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash Monster-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 336
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051aa4f7785c01b44a1f034abca2ce0e
+      internalID: -2053463544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash Monster-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 338
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83f1b558d0425940820e01439d92307
+      internalID: 1511616887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash Monster-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 340
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27333d847dee22f42a2aa1d556ae16aa
+      internalID: 376372858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash Monster-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 335
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38024c7aed1f9d458de206217baf975
+      internalID: 503452894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash Monster-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 335
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239788dd46d9fe04b9f85d8d037874db
+      internalID: -1382990183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash Monster-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 208
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf9bbf665dad52418628241b32132eb
+      internalID: 1510035312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash Monster-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 208
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9beaf8f25af2643a63d275553a4213
+      internalID: -1735843645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash Monster-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 208
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3217d8f1c49e341a25325220278ed8
+      internalID: 1347791391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash Monster-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 208
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c144a016a175954eba6f989492a4c05
+      internalID: -59580395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash Monster-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 208
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cb3345db913cc4ca59c2e00b011511
+      internalID: -39364654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash Monster-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 209
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd0563153e65484bb9185dc8e0a8aed
+      internalID: -1838540729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash Monster-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 144
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706bd5e104bc40e4fb4e4d32e088730e
+      internalID: 506903150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash Monster-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 143
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4439d0dbb38d24fbe66c9279414930
+      internalID: 1224221289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash Monster-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 143
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2f7d4f4a95c9246a684710065337f6
+      internalID: -1251964233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash Monster-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 143
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918c4c8e5aa89c143bbe3da07ee05d29
+      internalID: 1811614032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash Monster-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 143
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e90456c891dce4690e7574b9a53115
+      internalID: 1508480450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash Monster-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 143
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6045f3656c0039545936b2274d973cf0
+      internalID: -1582219251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash Monster-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 81
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9fe09214f2a20458a9898bc8b070ec
+      internalID: -307675548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash Monster-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 81
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d902fd80d79aaaa45bb971dbebf55ae2
+      internalID: -445902669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash Monster-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 81
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c760c3dad140047869e080e2565180
+      internalID: -1494025284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash Monster-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 81
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb89425f65a65094cbe7fe7f8eaa6f19
+      internalID: 1217736180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash Monster-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 79
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10de716e92919e94d95b7e1589885a0f
+      internalID: 297140013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash Monster-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 73
+        width: 58
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e5015bb2d89c545b4fe298d3a4deb3
+      internalID: 2067980102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash Monster-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 15
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e928e759530f41349bb34a2e95ea9b35
+      internalID: 1357651087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash Monster-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 15
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2b1065cb50e2f449f55ca645b2ff19
+      internalID: -2041448726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trash Monster-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 15
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef674b0f21a21c41bcb61909bb0c2af
+      internalID: 964952371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Trash Monster-Sheet_0: -402470564
+      Trash Monster-Sheet_1: -2053463544
+      Trash Monster-Sheet_10: 1371087713
+      Trash Monster-Sheet_11: -924399527
+      Trash Monster-Sheet_12: 133800211
+      Trash Monster-Sheet_13: -1984532096
+      Trash Monster-Sheet_14: 1270338947
+      Trash Monster-Sheet_15: 1510035312
+      Trash Monster-Sheet_16: -291790607
+      Trash Monster-Sheet_17: -1735843645
+      Trash Monster-Sheet_18: -10367029
+      Trash Monster-Sheet_19: 1347791391
+      Trash Monster-Sheet_2: 1380144975
+      Trash Monster-Sheet_20: -2144201365
+      Trash Monster-Sheet_21: -59580395
+      Trash Monster-Sheet_22: -1604111136
+      Trash Monster-Sheet_23: -39364654
+      Trash Monster-Sheet_24: -834184254
+      Trash Monster-Sheet_25: -1838540729
+      Trash Monster-Sheet_26: 506903150
+      Trash Monster-Sheet_27: 1224221289
+      Trash Monster-Sheet_28: 2768358
+      Trash Monster-Sheet_29: -1251964233
+      Trash Monster-Sheet_3: 1511616887
+      Trash Monster-Sheet_30: -1339073011
+      Trash Monster-Sheet_31: -1738909442
+      Trash Monster-Sheet_32: 1811614032
+      Trash Monster-Sheet_33: 1266212240
+      Trash Monster-Sheet_34: -2024428903
+      Trash Monster-Sheet_35: -2065707698
+      Trash Monster-Sheet_36: 2071311782
+      Trash Monster-Sheet_37: 1416539180
+      Trash Monster-Sheet_38: 1508480450
+      Trash Monster-Sheet_39: 1000813190
+      Trash Monster-Sheet_4: -1117795537
+      Trash Monster-Sheet_40: -1148110012
+      Trash Monster-Sheet_41: -2146583207
+      Trash Monster-Sheet_42: -1582219251
+      Trash Monster-Sheet_43: 105665400
+      Trash Monster-Sheet_44: -307675548
+      Trash Monster-Sheet_45: -445902669
+      Trash Monster-Sheet_46: -394712629
+      Trash Monster-Sheet_47: -1494025284
+      Trash Monster-Sheet_48: 1814412000
+      Trash Monster-Sheet_49: -1741611158
+      Trash Monster-Sheet_5: 1274399930
+      Trash Monster-Sheet_50: 1217736180
+      Trash Monster-Sheet_51: -821304794
+      Trash Monster-Sheet_52: 297140013
+      Trash Monster-Sheet_53: 1722267046
+      Trash Monster-Sheet_54: 2067980102
+      Trash Monster-Sheet_55: 1357651087
+      Trash Monster-Sheet_56: -2041448726
+      Trash Monster-Sheet_57: 964952371
+      Trash Monster-Sheet_6: 376372858
+      Trash Monster-Sheet_7: 503452894
+      Trash Monster-Sheet_8: -1382990183
+      Trash Monster-Sheet_9: 1042297450
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

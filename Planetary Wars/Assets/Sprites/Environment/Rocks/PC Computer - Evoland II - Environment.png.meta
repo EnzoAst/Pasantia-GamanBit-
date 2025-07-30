@@ -1,0 +1,1276 @@
+fileFormatVersion: 2
+guid: bf6cefcd51cab2341a6da5def874c484
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 273
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38d7d8d7aef50a4fb44894444d1d92f
+      internalID: -1835992622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_2
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 279
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa1ae2c1ad626f4e9e3c158da9321c5
+      internalID: -845577736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 225
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f37c88ca6ea5bc48abe80088df05f39
+      internalID: 1764112990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 225
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91f674ae8252e549a045ce4515f6383
+      internalID: 1606489391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_19
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 225
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8df29b35784914681fc5e010d78947
+      internalID: -1397333964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_20
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 225
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48de4ad9c29375d459c628a77c81ddde
+      internalID: -1109963762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_23
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 247
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558f34978320e794ba121507938bab09
+      internalID: 477721823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_25
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 225
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c915eb0a752a11045a50539b56a747f8
+      internalID: 1661237751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_27
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 240
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1235b755d30f6479cf260dbcecb958
+      internalID: -1658311119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_28
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 223
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c9b7e28bb4d2347aaa9c389e52dd69
+      internalID: -1590994114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_29
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 227
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c0c70717062ff44b86f94096cdc710
+      internalID: 1719770246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_30
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 225
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8169b5bf71c66b740800a681e6518cfd
+      internalID: 1367334377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_32
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 206
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb594ede61348974f9f09dee180e0087
+      internalID: 1551937219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_33
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 206
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc30f84a1bb13b94c9c40dcb62d5a30d
+      internalID: -740986446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_34
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 207
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deaf7480620e60a4cae08074106a2588
+      internalID: 1723387138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_35
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 208
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e12ebfdaa6ddba4a945b22863c30ec0
+      internalID: 1159726593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_36
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 207
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ff70ce0bb2bd848a3b79babf4aeb90
+      internalID: 1445255828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_37
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 206
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6907ecc229564204b9145ac05a79369b
+      internalID: 1785314174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_39
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 190
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fb834941c95b340b62350a1fbba591
+      internalID: -1835779319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_40
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 190
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda807114a6967d40a20d115eb2fa6bf
+      internalID: -1262228627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_41
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 190
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e444d5b3c2bcd5b4f94548ef6c0e5026
+      internalID: -1130889361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_42
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 190
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64815be4480e3164c97ef47fdecb3653
+      internalID: 1663041131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_43
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 190
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e435e249f190a2c4096b32b39194b24c
+      internalID: -675850344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_44
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 190
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7a43a97b1891f4287898affc860d8f
+      internalID: -67936349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_53
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 139
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea359118b4f9458478c358aba9c95de4
+      internalID: 2087994236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_54
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 139
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9373d3695f5d54aa18e39dada83862
+      internalID: 1746458616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_55
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 139
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332111f61bf6ed44aaa3d3bee832eac8
+      internalID: -2021133446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_56
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 139
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cdd91e0e6df9943bcceb6d6da11431
+      internalID: 1298628838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_58
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 120
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3229bfe3950f78640866754ccf8335bc
+      internalID: 1811069362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_61
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 127
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094a4e07f9f027b499087810b80477f2
+      internalID: -336750759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_62
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 130
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825831cbc8c74c24fb62602d10770e35
+      internalID: 711431438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_63
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 86
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4e3c0bf7920db4fa33e202504dcc3f
+      internalID: -927927332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_64
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 107
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7924a6cb98c674e40adfe8a7bf31af94
+      internalID: 389269289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_65
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 113
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6242f73463dc3c6449c4813a2c775341
+      internalID: -586105922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_71
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 114
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9d274dcca48be468464a70ea678d79
+      internalID: -1083314716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_73
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 87
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ecc89cfc977f94cb0bf1957a97f6ae
+      internalID: 1221590236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_79
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 128
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e7619a4e43b214d90507ec5c4b5a50
+      internalID: 630326677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_80
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 128
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c847d46aa10ce4eaae7b1665fb366c
+      internalID: 1781001732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 80
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0742a98362cbf642aa24b8b120b26d3
+      internalID: 2036059228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_3
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 82
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc345b3e6ddd19848abb06d26019e127
+      internalID: 1203898810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_4
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 84
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe14c3e82f1e934b948601692dd8a5c
+      internalID: 433507630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_5
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 80
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a8526f0aae1244ab283d5a7dff5c66
+      internalID: 672981580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84f3870a9adf994fb40057e276cbcad
+      internalID: -479243388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_7
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 3
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36695bf56bd1c64da2b49b4e6526175
+      internalID: 25337845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_8
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 3
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941c7fef6fc75644681324e3a97cc9a9
+      internalID: -1230602959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_9
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 3
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87dfb6cc6958f1b4f9ce4fbc9480bd29
+      internalID: -1648015123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_10
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 3
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3225454c3124d964cb892cbb861ca081
+      internalID: 1409776927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_13
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 3
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc623153fd4670f4c9db1a190254754d
+      internalID: -1150087835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_14
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 3
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558a5c6e39ecca048a7da6c5c6f6c540
+      internalID: 1743539649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Evoland II - Environment_15
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 3
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3bb947d08f31447b44abfa7ebeb9e6
+      internalID: -1269477977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Evoland II - Environment_0: -1835992622
+      PC Computer - Evoland II - Environment_1: 2036059228
+      PC Computer - Evoland II - Environment_10: 1409776927
+      PC Computer - Evoland II - Environment_100: -47884536
+      PC Computer - Evoland II - Environment_101: 662355021
+      PC Computer - Evoland II - Environment_102: 667759936
+      PC Computer - Evoland II - Environment_103: 425649872
+      PC Computer - Evoland II - Environment_104: -2113803668
+      PC Computer - Evoland II - Environment_105: 381193238
+      PC Computer - Evoland II - Environment_106: -928793202
+      PC Computer - Evoland II - Environment_107: -1189877777
+      PC Computer - Evoland II - Environment_108: 664205155
+      PC Computer - Evoland II - Environment_109: -1476173386
+      PC Computer - Evoland II - Environment_11: 1764112990
+      PC Computer - Evoland II - Environment_110: -1905624499
+      PC Computer - Evoland II - Environment_111: 495077840
+      PC Computer - Evoland II - Environment_12: 1606489391
+      PC Computer - Evoland II - Environment_13: -1150087835
+      PC Computer - Evoland II - Environment_14: 1743539649
+      PC Computer - Evoland II - Environment_15: -1269477977
+      PC Computer - Evoland II - Environment_16: -707647241
+      PC Computer - Evoland II - Environment_17: -23654687
+      PC Computer - Evoland II - Environment_18: 557587106
+      PC Computer - Evoland II - Environment_19: -1397333964
+      PC Computer - Evoland II - Environment_2: -845577736
+      PC Computer - Evoland II - Environment_20: -1109963762
+      PC Computer - Evoland II - Environment_21: -1332814499
+      PC Computer - Evoland II - Environment_22: -358559119
+      PC Computer - Evoland II - Environment_23: 477721823
+      PC Computer - Evoland II - Environment_24: -2041679712
+      PC Computer - Evoland II - Environment_25: 1661237751
+      PC Computer - Evoland II - Environment_26: -1845217678
+      PC Computer - Evoland II - Environment_27: -1658311119
+      PC Computer - Evoland II - Environment_28: -1590994114
+      PC Computer - Evoland II - Environment_29: 1719770246
+      PC Computer - Evoland II - Environment_3: 1203898810
+      PC Computer - Evoland II - Environment_30: 1367334377
+      PC Computer - Evoland II - Environment_31: 1228179641
+      PC Computer - Evoland II - Environment_32: 1551937219
+      PC Computer - Evoland II - Environment_33: -740986446
+      PC Computer - Evoland II - Environment_34: 1723387138
+      PC Computer - Evoland II - Environment_35: 1159726593
+      PC Computer - Evoland II - Environment_36: 1445255828
+      PC Computer - Evoland II - Environment_37: 1785314174
+      PC Computer - Evoland II - Environment_38: 98333251
+      PC Computer - Evoland II - Environment_39: -1835779319
+      PC Computer - Evoland II - Environment_4: 433507630
+      PC Computer - Evoland II - Environment_40: -1262228627
+      PC Computer - Evoland II - Environment_41: -1130889361
+      PC Computer - Evoland II - Environment_42: 1663041131
+      PC Computer - Evoland II - Environment_43: -675850344
+      PC Computer - Evoland II - Environment_44: -67936349
+      PC Computer - Evoland II - Environment_45: 1758597891
+      PC Computer - Evoland II - Environment_46: -949058839
+      PC Computer - Evoland II - Environment_47: 46906560
+      PC Computer - Evoland II - Environment_48: 1329785680
+      PC Computer - Evoland II - Environment_49: 672110765
+      PC Computer - Evoland II - Environment_5: 672981580
+      PC Computer - Evoland II - Environment_50: 2025816669
+      PC Computer - Evoland II - Environment_51: 969995655
+      PC Computer - Evoland II - Environment_52: 1040364478
+      PC Computer - Evoland II - Environment_53: 2087994236
+      PC Computer - Evoland II - Environment_54: 1746458616
+      PC Computer - Evoland II - Environment_55: -2021133446
+      PC Computer - Evoland II - Environment_56: 1298628838
+      PC Computer - Evoland II - Environment_57: 547186735
+      PC Computer - Evoland II - Environment_58: 1811069362
+      PC Computer - Evoland II - Environment_59: 389079469
+      PC Computer - Evoland II - Environment_6: -479243388
+      PC Computer - Evoland II - Environment_60: -671346775
+      PC Computer - Evoland II - Environment_61: -336750759
+      PC Computer - Evoland II - Environment_62: 711431438
+      PC Computer - Evoland II - Environment_63: -927927332
+      PC Computer - Evoland II - Environment_64: 389269289
+      PC Computer - Evoland II - Environment_65: -586105922
+      PC Computer - Evoland II - Environment_66: -381812779
+      PC Computer - Evoland II - Environment_67: -1508233282
+      PC Computer - Evoland II - Environment_68: -2030240815
+      PC Computer - Evoland II - Environment_69: -118246019
+      PC Computer - Evoland II - Environment_7: 25337845
+      PC Computer - Evoland II - Environment_70: -1534318363
+      PC Computer - Evoland II - Environment_71: -1083314716
+      PC Computer - Evoland II - Environment_72: -1095521946
+      PC Computer - Evoland II - Environment_73: 1221590236
+      PC Computer - Evoland II - Environment_74: -2055452434
+      PC Computer - Evoland II - Environment_75: 248880865
+      PC Computer - Evoland II - Environment_76: 556654496
+      PC Computer - Evoland II - Environment_77: -919772987
+      PC Computer - Evoland II - Environment_78: -671007751
+      PC Computer - Evoland II - Environment_79: 630326677
+      PC Computer - Evoland II - Environment_8: -1230602959
+      PC Computer - Evoland II - Environment_80: 1781001732
+      PC Computer - Evoland II - Environment_81: 440503652
+      PC Computer - Evoland II - Environment_82: -1090308439
+      PC Computer - Evoland II - Environment_83: 680318402
+      PC Computer - Evoland II - Environment_84: -1049361079
+      PC Computer - Evoland II - Environment_85: -1952867339
+      PC Computer - Evoland II - Environment_86: -834343995
+      PC Computer - Evoland II - Environment_87: 1581521688
+      PC Computer - Evoland II - Environment_88: 2116851238
+      PC Computer - Evoland II - Environment_89: -1624928846
+      PC Computer - Evoland II - Environment_9: -1648015123
+      PC Computer - Evoland II - Environment_90: -1431588565
+      PC Computer - Evoland II - Environment_91: 1114340618
+      PC Computer - Evoland II - Environment_92: 1624538858
+      PC Computer - Evoland II - Environment_93: 1300565152
+      PC Computer - Evoland II - Environment_94: -1151932363
+      PC Computer - Evoland II - Environment_95: 1019219577
+      PC Computer - Evoland II - Environment_96: 613991362
+      PC Computer - Evoland II - Environment_97: -861663771
+      PC Computer - Evoland II - Environment_98: 2114426304
+      PC Computer - Evoland II - Environment_99: 910314455
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

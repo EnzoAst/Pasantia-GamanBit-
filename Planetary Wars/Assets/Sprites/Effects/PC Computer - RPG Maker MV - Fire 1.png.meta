@@ -1,0 +1,620 @@
+fileFormatVersion: 2
+guid: c829ec5cc8007094d885b5bcc492175b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Fire 1_0
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 985
+        width: 133
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecfd1393046e1944985b086054849d2
+      internalID: 563231465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Fire 1_1
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 985
+        width: 133
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86c0f9ed4b25df4d8431abefdee0434
+      internalID: 1626842217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Fire 1_2
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 985
+        width: 133
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbc3c27067fb3b4aaf945d739820e86
+      internalID: -2051003466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Fire 1_3
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 984
+        width: 133
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b7faa30c903f84a97985c4969449d0
+      internalID: 1639504733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Fire 1_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 796
+        width: 133
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81eb847a7d80e148a2b073f53b101f7
+      internalID: 1444081318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Fire 1_5
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 797
+        width: 133
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9af1536885f3a49a706ccda1796c9e
+      internalID: -1602601888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Fire 1_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 796
+        width: 133
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90abce16d6cce864db5c30be844596c1
+      internalID: -1912834423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Fire 1_7
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 798
+        width: 133
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7490bdb984091614ba0c16029e472e08
+      internalID: 1022108293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Fire 1_8
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 798
+        width: 133
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c28e7574c298f54597c85fd952dda64
+      internalID: -1420238860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Fire 1_9
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 683
+        width: 133
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4547254d2fd9a974c9e5475dee7a0830
+      internalID: 683766228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Fire 1_10
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 682
+        width: 142
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e679d786f2c3719408224f4723c9976c
+      internalID: -1779849837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Fire 1_11
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 658
+        width: 164
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7501609de64507542bc00c9fc0b689f1
+      internalID: -1520343077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Fire 1_12
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 609
+        width: 192
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9795a0d46edb063498ae2d80ef7b290a
+      internalID: 2039937896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Fire 1_13
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 609
+        width: 192
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bd6f3422d870548acc85434ebc6261
+      internalID: 1724146188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Fire 1_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 412
+        width: 192
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401c06100d4e76b4abab1cd61a45dcd1
+      internalID: 531476983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Fire 1_15
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 407
+        width: 192
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5132868026c64498fcf7aea72b5417
+      internalID: -1552418892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Fire 1_16
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 401
+        width: 192
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f892489aaad3b24db2fdbb37de01957
+      internalID: 31012547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Fire 1_17
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 395
+        width: 192
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc7f6e478f33cb40ac21a27f990d449
+      internalID: 1612127844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Fire 1_18
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 392
+        width: 192
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257ff55b4959f3f4781cfe891f9a038f
+      internalID: -1570676004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Fire 1_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f7b331337fedc42a5b608f006f4113
+      internalID: 1602512354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Fire 1_20
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 192
+        width: 192
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762c1c7ca4ef6ca4cb13b189c124da3c
+      internalID: -17781615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Fire 1_21
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 192
+        width: 192
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b8e05030d6eda4097f499491e9529e
+      internalID: 560655706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Fire 1_22
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 31
+        width: 191
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e52b362ed51ba7409030750eef7f2bc
+      internalID: -130998960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - RPG Maker MV - Fire 1_0: 563231465
+      PC Computer - RPG Maker MV - Fire 1_1: 1626842217
+      PC Computer - RPG Maker MV - Fire 1_10: -1779849837
+      PC Computer - RPG Maker MV - Fire 1_11: -1520343077
+      PC Computer - RPG Maker MV - Fire 1_12: 2039937896
+      PC Computer - RPG Maker MV - Fire 1_13: 1724146188
+      PC Computer - RPG Maker MV - Fire 1_14: 531476983
+      PC Computer - RPG Maker MV - Fire 1_15: -1552418892
+      PC Computer - RPG Maker MV - Fire 1_16: 31012547
+      PC Computer - RPG Maker MV - Fire 1_17: 1612127844
+      PC Computer - RPG Maker MV - Fire 1_18: -1570676004
+      PC Computer - RPG Maker MV - Fire 1_19: 1602512354
+      PC Computer - RPG Maker MV - Fire 1_2: -2051003466
+      PC Computer - RPG Maker MV - Fire 1_20: -17781615
+      PC Computer - RPG Maker MV - Fire 1_21: 560655706
+      PC Computer - RPG Maker MV - Fire 1_22: -130998960
+      PC Computer - RPG Maker MV - Fire 1_3: 1639504733
+      PC Computer - RPG Maker MV - Fire 1_4: 1444081318
+      PC Computer - RPG Maker MV - Fire 1_5: -1602601888
+      PC Computer - RPG Maker MV - Fire 1_6: -1912834423
+      PC Computer - RPG Maker MV - Fire 1_7: 1022108293
+      PC Computer - RPG Maker MV - Fire 1_8: -1420238860
+      PC Computer - RPG Maker MV - Fire 1_9: 683766228
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

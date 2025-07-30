@@ -1,0 +1,682 @@
+fileFormatVersion: 2
+guid: 1aa2bed39f1b362469796cbbb754a201
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dark Yeti_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 992
+        width: 100
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef043e1f946d2e74eb4a1b31a10c72be
+      internalID: 2119951523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dark Yeti_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 992
+        width: 100
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4b904a2dae4524fa6ebffed29be929
+      internalID: 2046537984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dark Yeti_2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 992
+        width: 100
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101ddc33296963a45b0793ea081cb856
+      internalID: -709195538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dark Yeti_3
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 848
+        width: 104
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb832735371bfa54aad5fcef53670403
+      internalID: -754539766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dark Yeti_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 848
+        width: 112
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec67fef9bd9dcb43ad7e6e2fa52d958
+      internalID: -891217459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dark Yeti_5
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 848
+        width: 100
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4543530b05eb8140998b253673b7fdc
+      internalID: 1196448276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dark Yeti_6
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 848
+        width: 121
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2816420aa7d98de409cf93981dcef300
+      internalID: 89104097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dark Yeti_28
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 360
+        width: 116
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0c14f497d698944a88dc6e3679f5cb
+      internalID: 515619841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dark Yeti_29
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 360
+        width: 129
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4b44a666de69741bca9f0fb42f52fe
+      internalID: -226229534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dark Yeti_30
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 360
+        width: 132
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a309507969b9db84a80a6aaa58cf4ba3
+      internalID: -787953021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dark Yeti_31
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 360
+        width: 105
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b5b942e26bfd9489fe961a5b6039a3
+      internalID: 1515573814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dark Yeti_32
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 360
+        width: 211
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29256408e89f8e14281930cfcf11c3b1
+      internalID: -1643472670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dark Yeti_36
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 360
+        width: 217
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464f36bf019ec114cbd78ea033086ea2
+      internalID: 1837586395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dark Yeti_38
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 360
+        width: 220
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963253a259d261a4c9d487609796cc39
+      internalID: 594988629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dark Yeti_39
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 360
+        width: 213
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62dc717f77d1b764fb08655babc97bda
+      internalID: -1544952312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dark Yeti_40
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 360
+        width: 175
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdf5e23e657b2e4ebff25354d54c381
+      internalID: -1596161965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dark Yeti_78
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 16
+        width: 100
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8335a4c5ab0852439d5097867718549
+      internalID: -1890501314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dark Yeti_79
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 16
+        width: 113
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa87a025288cf5841ad00c3b7a617c96
+      internalID: -200824453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dark Yeti_80
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 16
+        width: 115
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2bad2db0a93ca4f9c736b904609d2e
+      internalID: -1978878179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dark Yeti_81
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 16
+        width: 174
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babc7fda21bdd8548aa5422dde3584dd
+      internalID: -175387376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dark Yeti_82
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 16
+        width: 172
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8151ca11d31e4324d96406a71b93b1a8
+      internalID: 1433832221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dark Yeti_83
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 16
+        width: 170
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aafb78daa24fd94486ac63417f0beca
+      internalID: -1967451211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Dark Yeti_84
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 16
+        width: 170
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43513e3249353c4e920cf6e21cc9ae9
+      internalID: -609490907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - MapleStory - Dark Yeti_0: 2119951523
+      PC Computer - MapleStory - Dark Yeti_1: 2046537984
+      PC Computer - MapleStory - Dark Yeti_10: 310760030
+      PC Computer - MapleStory - Dark Yeti_11: 1755225414
+      PC Computer - MapleStory - Dark Yeti_12: 441567513
+      PC Computer - MapleStory - Dark Yeti_13: -550680257
+      PC Computer - MapleStory - Dark Yeti_14: -50681081
+      PC Computer - MapleStory - Dark Yeti_15: -1731719042
+      PC Computer - MapleStory - Dark Yeti_16: 983746612
+      PC Computer - MapleStory - Dark Yeti_17: -287238200
+      PC Computer - MapleStory - Dark Yeti_18: 935390043
+      PC Computer - MapleStory - Dark Yeti_19: 1940215651
+      PC Computer - MapleStory - Dark Yeti_2: -709195538
+      PC Computer - MapleStory - Dark Yeti_20: -514632128
+      PC Computer - MapleStory - Dark Yeti_21: 17710528
+      PC Computer - MapleStory - Dark Yeti_22: -158789187
+      PC Computer - MapleStory - Dark Yeti_23: 1582642258
+      PC Computer - MapleStory - Dark Yeti_24: -1159110699
+      PC Computer - MapleStory - Dark Yeti_25: 10290608
+      PC Computer - MapleStory - Dark Yeti_26: 1929805337
+      PC Computer - MapleStory - Dark Yeti_27: 1800201408
+      PC Computer - MapleStory - Dark Yeti_28: 515619841
+      PC Computer - MapleStory - Dark Yeti_29: -226229534
+      PC Computer - MapleStory - Dark Yeti_3: -754539766
+      PC Computer - MapleStory - Dark Yeti_30: -787953021
+      PC Computer - MapleStory - Dark Yeti_31: 1515573814
+      PC Computer - MapleStory - Dark Yeti_32: -1643472670
+      PC Computer - MapleStory - Dark Yeti_33: -1969344534
+      PC Computer - MapleStory - Dark Yeti_34: -1231569683
+      PC Computer - MapleStory - Dark Yeti_35: 751547253
+      PC Computer - MapleStory - Dark Yeti_36: 1837586395
+      PC Computer - MapleStory - Dark Yeti_37: 1610577194
+      PC Computer - MapleStory - Dark Yeti_38: 594988629
+      PC Computer - MapleStory - Dark Yeti_39: -1544952312
+      PC Computer - MapleStory - Dark Yeti_4: -891217459
+      PC Computer - MapleStory - Dark Yeti_40: -1596161965
+      PC Computer - MapleStory - Dark Yeti_41: -482967700
+      PC Computer - MapleStory - Dark Yeti_42: -711555195
+      PC Computer - MapleStory - Dark Yeti_43: 1312178264
+      PC Computer - MapleStory - Dark Yeti_44: 357310206
+      PC Computer - MapleStory - Dark Yeti_45: -1281655287
+      PC Computer - MapleStory - Dark Yeti_46: 1645833335
+      PC Computer - MapleStory - Dark Yeti_47: -1155244414
+      PC Computer - MapleStory - Dark Yeti_48: -566690226
+      PC Computer - MapleStory - Dark Yeti_49: 2093254717
+      PC Computer - MapleStory - Dark Yeti_5: 1196448276
+      PC Computer - MapleStory - Dark Yeti_50: -119489729
+      PC Computer - MapleStory - Dark Yeti_51: 1558553603
+      PC Computer - MapleStory - Dark Yeti_52: -1094615002
+      PC Computer - MapleStory - Dark Yeti_53: -1311422618
+      PC Computer - MapleStory - Dark Yeti_54: -603699380
+      PC Computer - MapleStory - Dark Yeti_55: 284979200
+      PC Computer - MapleStory - Dark Yeti_56: 1305893298
+      PC Computer - MapleStory - Dark Yeti_57: -218998293
+      PC Computer - MapleStory - Dark Yeti_58: -1815824762
+      PC Computer - MapleStory - Dark Yeti_59: 362559933
+      PC Computer - MapleStory - Dark Yeti_6: 89104097
+      PC Computer - MapleStory - Dark Yeti_60: 2078389391
+      PC Computer - MapleStory - Dark Yeti_61: 83159940
+      PC Computer - MapleStory - Dark Yeti_62: 746402040
+      PC Computer - MapleStory - Dark Yeti_63: -1095248531
+      PC Computer - MapleStory - Dark Yeti_64: -870649191
+      PC Computer - MapleStory - Dark Yeti_65: 614255682
+      PC Computer - MapleStory - Dark Yeti_66: -1781289342
+      PC Computer - MapleStory - Dark Yeti_67: 319248263
+      PC Computer - MapleStory - Dark Yeti_68: -726237892
+      PC Computer - MapleStory - Dark Yeti_69: 1060918151
+      PC Computer - MapleStory - Dark Yeti_7: -157959428
+      PC Computer - MapleStory - Dark Yeti_70: -749841640
+      PC Computer - MapleStory - Dark Yeti_71: -128218368
+      PC Computer - MapleStory - Dark Yeti_72: -1128137323
+      PC Computer - MapleStory - Dark Yeti_73: 1924613428
+      PC Computer - MapleStory - Dark Yeti_74: 67353054
+      PC Computer - MapleStory - Dark Yeti_75: 1379831580
+      PC Computer - MapleStory - Dark Yeti_76: -1622999417
+      PC Computer - MapleStory - Dark Yeti_77: -271334713
+      PC Computer - MapleStory - Dark Yeti_78: -1890501314
+      PC Computer - MapleStory - Dark Yeti_79: -200824453
+      PC Computer - MapleStory - Dark Yeti_8: -1728932511
+      PC Computer - MapleStory - Dark Yeti_80: -1978878179
+      PC Computer - MapleStory - Dark Yeti_81: -175387376
+      PC Computer - MapleStory - Dark Yeti_82: 1433832221
+      PC Computer - MapleStory - Dark Yeti_83: -1967451211
+      PC Computer - MapleStory - Dark Yeti_84: -609490907
+      PC Computer - MapleStory - Dark Yeti_9: 1986957684
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

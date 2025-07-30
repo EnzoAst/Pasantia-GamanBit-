@@ -1,0 +1,1024 @@
+fileFormatVersion: 2
+guid: 3bf30dff58624b24c864c5d1daae6124
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Earth Elemental_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1094
+        width: 54
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a97899d647fd3141a606a3c30721a59
+      internalID: 1095130700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Earth Elemental_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1094
+        width: 58
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e315b1e32ae9d42aaf04765e2ea2e6
+      internalID: 1196178930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Earth Elemental_2
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1094
+        width: 59
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0850e21b08c656a478daca6274f7b028
+      internalID: 289657884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Earth Elemental_3
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1094
+        width: 44
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c32c5cfa691d9418720633684d6aa3
+      internalID: 1984655701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Earth Elemental_4
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1094
+        width: 46
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9574f8f6b9e4a5e47ad3daa9aa5dde7c
+      internalID: -1582683385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Earth Elemental_5
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1094
+        width: 45
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5afb430818e5644a21d45080efc1e7
+      internalID: -1193928950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Earth Elemental_6
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1094
+        width: 45
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1d05f8aa0b1a142935a8174d5161d9
+      internalID: -2016371791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Earth Elemental_7
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1094
+        width: 45
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f96f6fb85dd49941a2ec24925a53be8
+      internalID: 499595071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Earth Elemental_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 973
+        width: 45
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f17b0bc21073bf46a82d9c48169d124
+      internalID: 471117215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Earth Elemental_9
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 973
+        width: 45
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b8f238bb145dd419d78c3ced769f52
+      internalID: -2134745696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Earth Elemental_10
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 981
+        width: 48
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2f4ce317b8b13499fd314291fc69a9
+      internalID: 1188437000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Earth Elemental_11
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 981
+        width: 59
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afa6d753baa0f0478473b40eaaa8b69
+      internalID: -1021683166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Earth Elemental_12
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 982
+        width: 56
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8299abb4fcf15b342a8956c21adf564e
+      internalID: 208162244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Earth Elemental_13
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 981
+        width: 47
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc750193b8995b449f9579fab1f9b28
+      internalID: -1148829661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Earth Elemental_14
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 985
+        width: 39
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202edd316357f024fb7e6949ac23539f
+      internalID: 556411117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Earth Elemental_15
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 982
+        width: 53
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0488b922c75b0214389ef6deaa792837
+      internalID: 1734731881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Earth Elemental_19
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 865
+        width: 54
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9228321f9c2b0fc489f3ee4d44f4a8b3
+      internalID: 1940186592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Earth Elemental_20
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 867
+        width: 58
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8df392b10845542b65e7cf59ea60fc
+      internalID: -1447035398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Earth Elemental_21
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 868
+        width: 48
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c71dd4c62c3e724dba5779f50c328be
+      internalID: -133452108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Earth Elemental_22
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 870
+        width: 58
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77203081248b234da477f60a501b495
+      internalID: -1255265419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Earth Elemental_23
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 869
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70283cf92b2e8494bacbfdaefb118de0
+      internalID: 1572064985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Earth Elemental_24
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 870
+        width: 53
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178e141b63eb75943b5c11df53b9265d
+      internalID: -356036167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Earth Elemental_33
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 581
+        width: 69
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca23d2d8db64a7148bc39124666b6164
+      internalID: 667142999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Earth Elemental_34
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 581
+        width: 73
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee2da5d4e0de2947a386afa137581dc
+      internalID: 42260550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Earth Elemental_35
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 581
+        width: 47
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf064763d9321249b754c35dc804c99
+      internalID: -2120054511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Earth Elemental_36
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 581
+        width: 78
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960aecdf8d23f1e4c98003eef5846f20
+      internalID: -1149911826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Earth Elemental_37
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 581
+        width: 60
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ec2dd2abb3d0748970a6145f9acf32
+      internalID: 1163661025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Earth Elemental_38
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 581
+        width: 56
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3776164993a0e4e9e52c99b0d6d1c6
+      internalID: -1360293057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Earth Elemental_39
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 581
+        width: 50
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af3c2a6981ff5f48814512a08615e2c
+      internalID: 893939449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Earth Elemental_58
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 296
+        width: 54
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74d8ab3007af2247bbdcbda2f136910
+      internalID: 737303416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Earth Elemental_76
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 297
+        width: 67
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3770cbc8df5f41d488a86f6e12591168
+      internalID: -252000509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Earth Elemental_77
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 296
+        width: 60
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbc3d1894f7e6247a729df61bee02b0
+      internalID: 783565404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Earth Elemental_92
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 296
+        width: 57
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770648c7f92035f4d83594da56acebad
+      internalID: -363871216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Earth Elemental_93
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 296
+        width: 59
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d077f522121498428bdf349c25e65d2
+      internalID: 374297697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Earth Elemental_94
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 296
+        width: 44
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bedeef485df5be4292613b2bcde96a7
+      internalID: -2108422038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Heroes of Might and Magic 3 - Earth Elemental_16
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 296
+        width: 44
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c943f331339bd445bdfa10c3f3df870
+      internalID: 1442318556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_0: 1095130700
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_1: 1196178930
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_10: 1188437000
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_100: 551128496
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_101: -1548689686
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_102: -279405447
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_103: -1046446735
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_104: 1706244988
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_105: 451186171
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_106: 1623307367
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_107: -556412415
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_108: 2017585131
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_109: -227245528
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_11: -1021683166
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_110: 1299450364
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_111: 1603565615
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_112: -1424077714
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_113: 604909617
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_114: 674046850
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_115: 946179611
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_116: 978584078
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_117: 1372303505
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_118: -2059675620
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_119: 1483876732
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_12: 208162244
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_120: -631810829
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_121: -1763222897
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_122: 1271765589
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_123: 657177565
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_124: 30884832
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_125: -914931740
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_126: -2034273997
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_127: -2021656083
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_128: -2129395174
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_129: 1770863076
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_13: -1148829661
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_130: -1438851358
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_131: -1367409498
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_132: 837590000
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_133: 1957319037
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_134: -2077232011
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_135: 1604074645
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_136: -619909305
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_137: 1004122104
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_138: 1041064424
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_139: 1436880900
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_14: 556411117
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_140: 1890574639
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_141: -1241807202
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_142: -120889609
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_143: 1251450028
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_144: -630207706
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_145: -1069065343
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_146: 37223117
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_147: -1958189734
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_148: -453759415
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_149: 652539777
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_15: 1734731881
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_150: -1979734948
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_151: -986839786
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_152: -884471775
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_153: 352248043
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_16: 1442318556
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_17: 1690467426
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_18: 965967937
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_19: 1940186592
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_2: 289657884
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_20: -1447035398
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_21: -133452108
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_22: -1255265419
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_23: 1572064985
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_24: -356036167
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_25: -226459512
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_26: 799306209
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_27: -1085960072
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_28: -1745823380
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_29: -609526506
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_3: 1984655701
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_30: 882126536
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_31: 240048821
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_32: 866454757
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_33: 667142999
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_34: 42260550
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_35: -2120054511
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_36: -1149911826
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_37: 1163661025
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_38: -1360293057
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_39: 893939449
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_4: -1582683385
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_40: 982448408
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_41: -250256342
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_42: 1519467393
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_43: -1500780390
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_44: 49530280
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_45: 1085458172
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_46: 796835816
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_47: -1284130853
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_48: -1720761165
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_49: 1186020994
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_5: -1193928950
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_50: -640349464
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_51: -899744737
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_52: -387405782
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_53: 634069065
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_54: -1329664168
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_55: -1029472170
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_56: 989112403
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_57: 2137010481
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_58: 737303416
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_59: 988900872
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_6: -2016371791
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_60: 105722053
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_61: 1109868466
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_62: 1408285400
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_63: 403761558
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_64: 862563265
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_65: 659747524
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_66: 649027831
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_67: -893088838
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_68: -971586000
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_69: -1634655040
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_7: 499595071
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_70: 407971707
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_71: 1327116271
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_72: 1220996942
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_73: 1982943960
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_74: 955948364
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_75: -19228140
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_76: -252000509
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_77: 783565404
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_78: -645359505
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_79: 582895863
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_8: 471117215
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_80: -503804120
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_81: -1643188872
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_82: -756915937
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_83: -841411772
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_84: 1617601367
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_85: -954436883
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_86: 1327778711
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_87: 1004634915
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_88: 899443909
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_89: -1193100969
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_9: -2134745696
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_90: -710163928
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_91: -2119955941
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_92: -363871216
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_93: 374297697
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_94: -2108422038
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_95: -1166498929
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_96: -322322182
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_97: 276753023
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_98: 1121611249
+      PC Computer - Heroes of Might and Magic 3 - Earth Elemental_99: -2048130628
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

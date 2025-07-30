@@ -1,0 +1,2952 @@
+fileFormatVersion: 2
+guid: 2e1df6b7ae00fc74e9f27ac4bdf1639f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_0
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4250b7827a0c3d94d90105b7a2ead43a
+      internalID: 1963304296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_1
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92a72b067a597b4889af8ca3852b9e5
+      internalID: -3872849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_2
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a164647c62d38b44d9f046cf6ea212b5
+      internalID: -722006461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_3
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79da665fd25cdc845a067b572995001b
+      internalID: -1354498307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_4
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a293af3b44b6a7f4792ff4c4e200a182
+      internalID: -2005299253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_5
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7b08dc6e4a86c499a8b4aeb529000e
+      internalID: 357517070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_6
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8df22babc24d549968edde7197784f
+      internalID: -1620305470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_7
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9eb9fa7202d284e986860da4ad324c
+      internalID: 1404147742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_8
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83266b2c1a298d741b3b9f275323bff1
+      internalID: -462012623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_9
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8140acded0ca731419342782b4e7afd9
+      internalID: 805537387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_10
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a2cdbc177fa884092f815623d3a7be
+      internalID: -1505740923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_11
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70ea71081369d74dace56989c5c37c1
+      internalID: -1053300470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_12
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcee3f1a96aef64398dfb2058b62ac2
+      internalID: 1443398113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_13
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 483
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb157c7ed5cef2a4d9b1829700b4fdd2
+      internalID: 1976217103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_14
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 483
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b330eede7b45c48afa4125a6f9c69c
+      internalID: -1092939796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_15
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 458
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05328d9ca84a964a9ee24ba0aa783a2
+      internalID: -1778359745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_16
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 458
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8d80a87277665478bfe20f838bc3e7
+      internalID: -1409172820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_17
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 433
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777271b38bdceff46ad1e65f3b83f1e8
+      internalID: -1236131122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_18
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a083ef95f4304f24cb51fef711b5bda9
+      internalID: 1779051712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_19
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c056ae2d251927347b028970c662eb03
+      internalID: -851929567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_20
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08e0a14d529d39469adc94a02cd61a5
+      internalID: -2073848641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_21
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 383
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e102d34c17603f4c9ca045b0d4869e1
+      internalID: 647890117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_22
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 358
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d146ae4f6d76e542a7ac95ed94bbcbd
+      internalID: -384715800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_23
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 333
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9866509fd29435e448ac44472f8b55d0
+      internalID: 1986316094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_24
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 333
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afcb0e7d082d9043952b3b7561e29fb
+      internalID: -1421758879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_25
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 308
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191394ba5ca2bd9498894f102eab6f77
+      internalID: 483401887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_26
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 283
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea8c508062b4bc4199e3b663c0c93ef
+      internalID: -790771429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_27
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 258
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c54e6d2a8d56c4a8a519b57418ceeb
+      internalID: 1629981978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_28
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 258
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b624f92b61fb14baf63072201c519a
+      internalID: -948943295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_29
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 233
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bc85582a169db4a914c3c5e778f6cd
+      internalID: 755577580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_30
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 208
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5ef94e4bad01b4eb622dea5f637b6a
+      internalID: 1083683549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_31
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 208
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799d6c904489123469e925b8f9b8f4a6
+      internalID: 256124462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_32
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 183
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ff630031a02824b949bbf980408cee
+      internalID: 1914933938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_33
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 183
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3de94e75a397b34b85e218d9eba9b16
+      internalID: 2007527084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_34
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 158
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab154514efb3e542b5e49b9fa78369e
+      internalID: 1445391199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_35
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 158
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251687e9b3f9439468d49bbd55348dda
+      internalID: 1009720522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_36
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 133
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1fd0a027835514283dd5355f06800c
+      internalID: 1652636023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_37
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 133
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf506095fa532447818ff876a4f6af8
+      internalID: -1575513192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_38
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 108
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f27f673b1e93845bc083f392f81592
+      internalID: 177766517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_39
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 108
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c34b4dba59742468eb680cd5e88ae5
+      internalID: 1636331597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_40
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 83
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423a72e964c200c4eb3149ea66afdeb5
+      internalID: -837475934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_41
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 83
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ac73e2286d47d4d9d1e874ae1a21b7
+      internalID: 1085982475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_42
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 58
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a0907bd9db5284bb12a87fd82655c3
+      internalID: 793814685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_43
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 58
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1955c8347e7c6d54aa6611a6c7539cfd
+      internalID: -1217810428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_44
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 33
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18852be788a743b4eb64b7f77c592a95
+      internalID: 1652935860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_45
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 33
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce937b710e85f4e4d929928003044287
+      internalID: -1644042099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_46
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea81a1fd9d626f46bbe4571b0f38111
+      internalID: -860805363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_47
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb306a39da108748be214a09054bb3e
+      internalID: 1817743771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_48
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b8d091e90f6944f8cfe7bff6b0081e
+      internalID: -854362904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_49
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd85d99e49d18e4fb2a9a49beb37549
+      internalID: 1728930186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_50
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023523f5d06e6c74ba008e32f2fc7ec6
+      internalID: -907544747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_51
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85ac1294cb939b4985f2d1fb96d5ead
+      internalID: -1346481231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_52
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2034f934885480499d75c84ce5f234a
+      internalID: 1291890002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_53
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570ca232ff0aadf41a15e730e134b1d1
+      internalID: 1408726325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_54
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66685a204a353ef4f916fff9aff72c7b
+      internalID: 25019523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_55
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fbff9deba7bb44c81b3f99fb5a753b
+      internalID: 330425583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_56
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4112f9c5e294c1242956be64f626c21a
+      internalID: 2071046559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_57
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d209708484e7b9f428db5078d1bd1131
+      internalID: 1098384606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_58
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2325e181ec5fae44b36d0dec6ee467b
+      internalID: -1743871931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_59
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c32f2e27edc9a147ab2f6e8e6b7a589
+      internalID: 1164782394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_60
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 483
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653881a553cca0145801765a4862e28d
+      internalID: -698444826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_61
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 483
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ba5cec126099c4fa01e07cb26b0fb2
+      internalID: -1554438838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_62
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 458
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb4ef92177f01e4c8189b958833f75d
+      internalID: -1138227063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_63
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 458
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f8f9b4814e3aa429e705ad178e4909
+      internalID: -1253365587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_64
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 433
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01e5022922d4bf4c929b85185195766
+      internalID: -26644529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_65
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027fe93e76cc2444e8d62a3d953e7a81
+      internalID: 616560328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_66
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57b09859c34f5d49a64084b58014321
+      internalID: 1672881166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_67
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7feffa9d26763d044800f57d1a4710b8
+      internalID: -863339204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_68
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 383
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5308f68ba6eed49acc38d3665fdef6
+      internalID: -1523662779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_69
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8b4df072fe45842acb7abec48993d6
+      internalID: -818181479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_70
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828481c01dcb8c445b13c55b8685d04d
+      internalID: 638834968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_71
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075bd836bc1a4d344b2a94af70b55a54
+      internalID: 1196315400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_72
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b580881c907a0549888544db96d90f2
+      internalID: 594326695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_73
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e544adc333ed2ec4386f6f8a7e072d11
+      internalID: -1536828371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_74
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 483
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5b78c0ecedf4f47900c67ed7934f39
+      internalID: -4850415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_75
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6f2fd89c6a1a34096db5cee7b67994
+      internalID: -320125196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_76
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97b815d52575044c92ea82e0eb70dd8
+      internalID: -2038298992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_77
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415b7c9c34bc068449209d04fceb4b5a
+      internalID: -815276532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_78
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b58da5f5f11e74393066e501338ecb
+      internalID: -1154394881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_79
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bf449575ed3014893dd4b484e7f0b2
+      internalID: 98828715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_80
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9615c1d6cd1e41b40a0864a3f70b8802
+      internalID: 265751214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_81
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241893355e2911e469d90b121156d1ab
+      internalID: -1443331344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_82
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89bcb24675fd8e4f987a2285eed4daa
+      internalID: -1349180871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_83
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e76e4bb1c22b04390ea292b1b4cc90
+      internalID: 108496916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_84
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd1473d5575ca845af9ebba59fdf6e6
+      internalID: 79931835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_85
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d0a98f086bc7a489b42dacd2cd4d34
+      internalID: -1670365824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_86
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654c9e996e87f66488af220dd566ae64
+      internalID: 274805965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_87
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ef5e00f78a3434c83bc06f28987f94
+      internalID: 1281875531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_88
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfc9d82ad41c7e44aaeb93f98ee19d6
+      internalID: 1487909481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_89
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ded456b98c1c2e449a80b489e4dde30
+      internalID: -1859817190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_90
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc67736b969c38246a08a460b1c7c33b
+      internalID: 1856078640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_91
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05fc95b44c0f8445b1459c13aa18021
+      internalID: 1351837713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_92
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671c45c2307d7214e8895c5ce14e68a1
+      internalID: -1090718347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_93
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 483
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc0b5422b3c9dc4a895dcf47c065a98
+      internalID: -792637146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_94
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 483
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3ca04caa6addd459774579d5ab4a97
+      internalID: 1344542620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_95
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 458
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd03dd72e34075a43af07a66df85638d
+      internalID: 1721201864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_96
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 458
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0466346a10749bf429916863bd1891a5
+      internalID: 868889480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_97
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 433
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60e3410f2c1ec24f8c0b8188b7a90b8
+      internalID: -361778214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_98
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb7e8b337bbcb24bbf80b5f555b7b0c
+      internalID: -2072307835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_99
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c690ed6224c404ba2cfecf14e2a71f
+      internalID: 1534872619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_100
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1534060739a684143ba7d8927994e39a
+      internalID: 1291111766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_101
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 383
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375f3efd397b86147be3c0cb644546cf
+      internalID: -1000356703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_102
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 358
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65aacc745de4612489ae2834c26c97e8
+      internalID: 1031174023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_103
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 333
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f864a794c40d89641b4fffb670d463e0
+      internalID: 2037315021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_104
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 333
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a069adaed5e1aa459a68b8b75a1c380
+      internalID: 2015488246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_105
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 308
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43475e643b2e9604c916d6750929224e
+      internalID: 1935976411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_106
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 283
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9350b062a6c144698925657bdc8f3f
+      internalID: 1533530928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_107
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 258
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35aa35bf9c1347a4899298bd55e2bd89
+      internalID: 1323839155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_108
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 258
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4364aa879a05c41b9d0a831ced6c2f
+      internalID: -850753276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_109
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 233
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f64b69dbf06336499703b619fb874c5
+      internalID: -338618582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_110
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 208
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9995b716152380489512f434b9516db
+      internalID: -1419753397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_111
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 208
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb803050e0e2174eb5c0bc2d697b270
+      internalID: 488043439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_112
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 183
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3346aa389c5eeb54c875dfb093433fc3
+      internalID: -897432965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_113
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 183
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c89ca7b9078dc48824be0e3b1da56f
+      internalID: -2123650359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_114
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 158
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e39224efbedf1a4291c95398a84f4b0
+      internalID: -202808020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_115
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 158
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0486729750e50d4bb8b5e7b04481e3f
+      internalID: 1883127326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_116
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 133
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2abdecbde5f474c82d983e3cb6eedc
+      internalID: -836956353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_117
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 133
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3848bea7353dfd743bcfed7c70342c67
+      internalID: 897728236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_118
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 108
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d14405c836e514fb622ad1aa8d496f
+      internalID: 1461148997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_119
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 108
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bc755bf9ce5c345b15a27dd81535f8
+      internalID: -1617164383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_120
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 83
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9343b0f80fe0b42bd6fc086e0a7009
+      internalID: 1447764579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_121
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 83
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731b5b7066668de48a40f8fa3cb7e16a
+      internalID: 1968235694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_122
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 58
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffe80a2e2992424baac61c9804b5fdb
+      internalID: 1855963417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_123
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 58
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f71ef23d31570428d892ea875f08bc
+      internalID: -625845122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_124
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 33
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c415bc0b6197144680b4ebdee09ece2
+      internalID: -2015825968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_125
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 33
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfced2065fa9a34585e6911c5844c7a
+      internalID: 81408281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_126
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90579ff0cb915a443b9ade942c2e27a1
+      internalID: 961016332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_127
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf34ee3af83b97d47b3710686b5cbcf6
+      internalID: 848824230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_128
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12252db1432f8b7469833ef229e0a690
+      internalID: 1967125285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_0: 1963304296
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_1: -3872849
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_10: -1505740923
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_100: 1291111766
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_101: -1000356703
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_102: 1031174023
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_103: 2037315021
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_104: 2015488246
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_105: 1935976411
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_106: 1533530928
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_107: 1323839155
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_108: -850753276
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_109: -338618582
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_11: -1053300470
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_110: -1419753397
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_111: 488043439
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_112: -897432965
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_113: -2123650359
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_114: -202808020
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_115: 1883127326
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_116: -836956353
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_117: 897728236
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_118: 1461148997
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_119: -1617164383
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_12: 1443398113
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_120: 1447764579
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_121: 1968235694
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_122: 1855963417
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_123: -625845122
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_124: -2015825968
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_125: 81408281
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_126: 961016332
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_127: 848824230
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_128: 1967125285
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_13: 1976217103
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_14: -1092939796
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_15: -1778359745
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_16: -1409172820
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_17: -1236131122
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_18: 1779051712
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_19: -851929567
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_2: -722006461
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_20: -2073848641
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_21: 647890117
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_22: -384715800
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_23: 1986316094
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_24: -1421758879
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_25: 483401887
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_26: -790771429
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_27: 1629981978
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_28: -948943295
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_29: 755577580
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_3: -1354498307
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_30: 1083683549
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_31: 256124462
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_32: 1914933938
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_33: 2007527084
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_34: 1445391199
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_35: 1009720522
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_36: 1652636023
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_37: -1575513192
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_38: 177766517
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_39: 1636331597
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_4: -2005299253
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_40: -837475934
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_41: 1085982475
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_42: 793814685
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_43: -1217810428
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_44: 1652935860
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_45: -1644042099
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_46: -860805363
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_47: 1817743771
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_48: -854362904
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_49: 1728930186
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_5: 357517070
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_50: -907544747
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_51: -1346481231
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_52: 1291890002
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_53: 1408726325
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_54: 25019523
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_55: 330425583
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_56: 2071046559
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_57: 1098384606
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_58: -1743871931
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_59: 1164782394
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_6: -1620305470
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_60: -698444826
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_61: -1554438838
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_62: -1138227063
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_63: -1253365587
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_64: -26644529
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_65: 616560328
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_66: 1672881166
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_67: -863339204
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_68: -1523662779
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_69: -818181479
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_7: 1404147742
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_70: 638834968
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_71: 1196315400
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_72: 594326695
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_73: -1536828371
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_74: -4850415
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_75: -320125196
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_76: -2038298992
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_77: -815276532
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_78: -1154394881
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_79: 98828715
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_8: -462012623
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_80: 265751214
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_81: -1443331344
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_82: -1349180871
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_83: 108496916
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_84: 79931835
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_85: -1670365824
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_86: 274805965
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_87: 1281875531
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_88: 1487909481
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_89: -1859817190
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_9: 805537387
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_90: 1856078640
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_91: 1351837713
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_92: -1090718347
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_93: -792637146
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_94: 1344542620
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_95: 1721201864
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_96: 868889480
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_97: -361778214
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_98: -2072307835
+      DS DSi - Pokemon Mystery Dungeon Explorers of Sky - 7th Station Pass_99: 1534872619
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

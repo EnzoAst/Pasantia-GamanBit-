@@ -1,0 +1,1984 @@
+fileFormatVersion: 2
+guid: 90d840b689b46ec4eb7a20c51f6932ac
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_0
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17f529a68a45024b92cf42c61133171
+      internalID: 367963827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_1
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fbae5943cba1340acc354a8f4aa38e
+      internalID: -1869489158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_2
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdfa9c7437383e4fab430caf0159c51
+      internalID: 2042840581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_3
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4437bc20775a40e468615f94d66d114f
+      internalID: 655105088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_4
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23b400518110a24282732da040c52cb
+      internalID: 320119650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_5
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83c55d2c105c594098177bce4e8a9fc
+      internalID: -1812928855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_6
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599a436b29147b442be189952dec8fbe
+      internalID: -827697213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_7
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa03473d3e44e9244bbb695f3202b689
+      internalID: -1100605817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_8
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a9449b4a9ad3a4282164cdf24f503a
+      internalID: -1379840000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_9
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1745658a764c7e145b5da15e24732d85
+      internalID: 66376761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_10
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fb1fe27eb615944a1a8f44336ddacd
+      internalID: 1732756235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_11
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bcd7bb736e2ca4fa8b452ce0853ff2
+      internalID: -512668719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_12
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa08ee551438424db6c78fe20971016
+      internalID: 686325221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_13
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a993ccd64e481241b55d5170e6661cb
+      internalID: 462803323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_14
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321f08488a1adfc48bbf06a2c36b8b4b
+      internalID: 406803171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_15
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4baa45cfb2ca145b330ff8ac5a1b11
+      internalID: 929051516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_16
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 483
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bd77aec05b2464a9daefc6bccc93f7
+      internalID: 1789668048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_17
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 483
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f2f3aa86a8c9748b298cbb2fab2f27
+      internalID: 1060203122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_18
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 458
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df53334a9bbf474083b62c108a63bef
+      internalID: -106990108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_19
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 458
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a1c97f54840944b92924c0f82cf598
+      internalID: -543871836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_20
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 433
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0fbf7cc8a6d0a429a6a98b01c747d9
+      internalID: -1829591541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_21
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23b119d4327e9d4b8f683016cecbfea
+      internalID: -1180726164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_22
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb72280f36be2c4cb3279549ef8eac4
+      internalID: -1323942414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_23
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a6e2d103ce058408df9a6bd1660c5f
+      internalID: 1730268702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_24
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 383
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40f0cc645d060a4688a6cff070870e6
+      internalID: 278300668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_25
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 358
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df9d1218cef1b249ba29d5c8ce7bddf
+      internalID: -214410619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_26
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 333
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61f675a71a5b834c978735888307910
+      internalID: -1684173345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_27
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 333
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a792918d4a4db4d95aaa16682258e6
+      internalID: 1485817788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_28
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 308
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880098de9d466f441a1ebf0804cad1b9
+      internalID: -452035860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_29
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 283
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8e4a6c804275a4db3b01ce071edc3f
+      internalID: 1777916030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_30
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 258
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ad940b570deb64581ba46bfae2c5a1
+      internalID: 251361670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_31
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 258
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e13dac5fba804a45b6653c1a69ff543
+      internalID: 2036928844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_32
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 233
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2dff6f4440e284a9e2c4366390e2b3
+      internalID: -838559675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_33
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 208
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e75e1980eb061489abf8723c4864b9
+      internalID: -568496183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_34
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 208
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d174172c32bd24b9891fc7b70b3af5
+      internalID: 1594810244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_35
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 183
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acaab04ec77b3c4c8be26e3930f426e
+      internalID: -2115514080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_36
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 183
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58a4d4a1e2f5374fa1dbe9b20c4682b
+      internalID: -959300966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_37
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 158
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a132960e5a56f40b475eb6c3ac99cb
+      internalID: 1429946772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_38
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 158
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6bb27aa64be524083d7e3e9e63165c
+      internalID: 985453068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_39
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 133
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8e1cf3cc4205d41b48e97a36f852d7
+      internalID: -427659876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_40
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 133
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74dce6185ad7a1d40a9884042f58ce85
+      internalID: 2109199292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_41
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 108
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726f9371e4e3f3b4198e975c0e703995
+      internalID: -965342784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_42
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 108
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f91501d58de106428fa6a197d8f5e02
+      internalID: -1171212082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_43
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 83
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10f4e814aebfc04d9660f44a8345410
+      internalID: 1383107213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_44
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 83
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93ce129df76f884d8b1cb67189304de
+      internalID: -1191447990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_45
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 58
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0b65d33ac8ad9438f4645b9b2f390f
+      internalID: 260152503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_46
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 58
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef446ead9e1ba7d4192a504a87f383f8
+      internalID: 1977146834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_47
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 33
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552e4f4c48c450e44936e60276b70426
+      internalID: -434534042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_48
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 33
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55b9e54c752acb49851597b75347f08
+      internalID: 2122022596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_49
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b3500dba89dee4a87d85c78e3e0bdc
+      internalID: -1651245955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_50
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 8
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56deb7074e3fe64b812854495ccef09
+      internalID: -514090421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_51
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c7b5d34264ef94eba19d81f3215a59
+      internalID: 820653064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_52
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd11acf86cbed44eb3d6b7e09d4f0ad
+      internalID: 1457210200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_53
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85950225c08a0a4cbdbefd3b96cf252
+      internalID: 1269299153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_54
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551cd89729c24b54cbda5eab67a576c3
+      internalID: 803785065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_55
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9954b511efa194990dc16f6d721e45
+      internalID: -1364986024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_56
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 558
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1146d96908470504faf653757978263d
+      internalID: -379520375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_57
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfaa8f89cb4d4740bb5d927b4903004
+      internalID: 953370292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_58
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cf5e962a9fd044aa0deb190e40c91e
+      internalID: 707774235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_59
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 533
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0306dcaa333da56449bec7590548ace1
+      internalID: -720836345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_60
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c25449faa4ad714489f58d18ad7b3b8
+      internalID: -907767283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_61
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2508f9ea00b36d04ab4f2c855330a419
+      internalID: -1318896755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_62
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 508
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0122ae5e45ec33a48951d5fe4a1d771d
+      internalID: 463592600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_63
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 483
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad6067ad19ae344c98d0b0276a3aaf3
+      internalID: -1895965746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_64
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 483
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9efad527d1649547a93a312873b2f80
+      internalID: -1731717034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_65
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 458
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4bf2fd2d50353459c0deb5093c9c59
+      internalID: 871022652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_66
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 458
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffb83be0987e9448bb41e547e22c19e
+      internalID: 1197876600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_67
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 433
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b99f95638907734dba73fc5caaf040d
+      internalID: -74693453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_68
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea60ca6560647242a81b8e5f957a3e0
+      internalID: 1435291618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_69
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 408
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95db2a73580a94f46ac8d4bf922ae53b
+      internalID: 1538098631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_70
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 383
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fe104f98b2a584d9b30a17fafd5b46
+      internalID: 937488543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_71
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 358
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37d6bde29115804f91154203bd6b55a
+      internalID: -648302090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_72
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 333
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327733b67dbc2a749b983260eb30e2aa
+      internalID: -1451937045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_73
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 333
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751a2c7a61ccfaf41a6ea319d96a8ec1
+      internalID: -1920737531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_74
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 308
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59842c315bb32a4db1f3942a6e93eba
+      internalID: 1236889489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_75
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 308
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e68c59a9e2bdc4ca99ebb1a37ba08e
+      internalID: -1050932826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_76
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 158
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7541acfb95a3e6b46958ba786dceef4e
+      internalID: 1783632442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_77
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 158
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1e771d6a058664283c56321fc24222
+      internalID: 1670378639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_78
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 133
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cfb3edf3ff77c45b0dbded59497646
+      internalID: 636406576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_79
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 133
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24af5b8232f1a2945aedfc5452b640c8
+      internalID: 1518912293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_80
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 108
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fd234905cdbb142af37999a160fe50
+      internalID: 1422455577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_81
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 108
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498b3267a73c7c340b9162dbc2d46932
+      internalID: 1479069298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_82
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 83
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925468248541ea445a8ac19c77936bac
+      internalID: -2080623701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_83
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 83
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e996a71507cba4e959c4114b8c9d80
+      internalID: 1266866856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_84
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 583
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb11b653ede85304cbf94024c0ef815c
+      internalID: 1739768125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_0: 367963827
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_1: -1869489158
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_10: 1732756235
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_11: -512668719
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_12: 686325221
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_13: 462803323
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_14: 406803171
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_15: 929051516
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_16: 1789668048
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_17: 1060203122
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_18: -106990108
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_19: -543871836
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_2: 2042840581
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_20: -1829591541
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_21: -1180726164
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_22: -1323942414
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_23: 1730268702
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_24: 278300668
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_25: -214410619
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_26: -1684173345
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_27: 1485817788
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_28: -452035860
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_29: 1777916030
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_3: 655105088
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_30: 251361670
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_31: 2036928844
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_32: -838559675
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_33: -568496183
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_34: 1594810244
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_35: -2115514080
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_36: -959300966
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_37: 1429946772
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_38: 985453068
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_39: -427659876
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_4: 320119650
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_40: 2109199292
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_41: -965342784
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_42: -1171212082
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_43: 1383107213
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_44: -1191447990
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_45: 260152503
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_46: 1977146834
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_47: -434534042
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_48: 2122022596
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_49: -1651245955
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_5: -1812928855
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_50: -514090421
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_51: 820653064
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_52: 1457210200
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_53: 1269299153
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_54: 803785065
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_55: -1364986024
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_56: -379520375
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_57: 953370292
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_58: 707774235
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_59: -720836345
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_6: -827697213
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_60: -907767283
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_61: -1318896755
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_62: 463592600
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_63: -1895965746
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_64: -1731717034
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_65: 871022652
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_66: 1197876600
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_67: -74693453
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_68: 1435291618
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_69: 1538098631
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_7: -1100605817
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_70: 937488543
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_71: -648302090
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_72: -1451937045
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_73: -1920737531
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_74: 1236889489
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_75: -1050932826
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_76: 1783632442
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_77: 1670378639
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_78: 636406576
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_79: 1518912293
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_8: -1379840000
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_80: 1422455577
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_81: 1479069298
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_82: -2080623701
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_83: 1266866856
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_84: 1739768125
+      DS DSi - Pokemon Mystery Dungeon Explorers of Time Darkness - Beach Cave_9: 66376761
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

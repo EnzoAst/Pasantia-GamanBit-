@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: 847e90d5d9a71274b984b6a4bac46413
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Forager - Trees_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 279
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0720a94943bd48c479ed2067d316ac7a
+      internalID: 720995706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Forager - Trees_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 207
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbc99c863063054d9904ef1297df07a
+      internalID: 821149951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Forager - Trees_22
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 140
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84826e6c90a7db54ea6faca7d218bd8c
+      internalID: 230377866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Forager - Trees_27
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 72
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be84466b591adf2488a90fe3cf572cf6
+      internalID: 1848269326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Forager - Trees_33
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 13
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa5154565cb2884782a0a8a2191826b
+      internalID: 1954181585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Forager - Trees_0: -1452733615
+      PC Computer - Forager - Trees_1: -1567640907
+      PC Computer - Forager - Trees_10: 367318164
+      PC Computer - Forager - Trees_11: -767135756
+      PC Computer - Forager - Trees_12: -426061100
+      PC Computer - Forager - Trees_13: 821149951
+      PC Computer - Forager - Trees_14: -832993321
+      PC Computer - Forager - Trees_15: -1350780120
+      PC Computer - Forager - Trees_16: 2004319855
+      PC Computer - Forager - Trees_17: 1756845189
+      PC Computer - Forager - Trees_18: -1952810255
+      PC Computer - Forager - Trees_19: 1221189480
+      PC Computer - Forager - Trees_2: 1534934944
+      PC Computer - Forager - Trees_20: 1043198983
+      PC Computer - Forager - Trees_21: 1445513965
+      PC Computer - Forager - Trees_22: 230377866
+      PC Computer - Forager - Trees_23: -594395841
+      PC Computer - Forager - Trees_24: -1172163942
+      PC Computer - Forager - Trees_25: -603470720
+      PC Computer - Forager - Trees_26: -1960250671
+      PC Computer - Forager - Trees_27: 1848269326
+      PC Computer - Forager - Trees_28: 703934817
+      PC Computer - Forager - Trees_29: -1095913818
+      PC Computer - Forager - Trees_3: -1604218813
+      PC Computer - Forager - Trees_30: -883181520
+      PC Computer - Forager - Trees_31: -14333986
+      PC Computer - Forager - Trees_32: -665947140
+      PC Computer - Forager - Trees_33: 1954181585
+      PC Computer - Forager - Trees_4: 1081449170
+      PC Computer - Forager - Trees_5: -667882212
+      PC Computer - Forager - Trees_6: 720995706
+      PC Computer - Forager - Trees_7: 832522974
+      PC Computer - Forager - Trees_8: -1706039801
+      PC Computer - Forager - Trees_9: -1313094250
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
