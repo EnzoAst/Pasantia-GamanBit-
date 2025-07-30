@@ -1,4 +1,4 @@
-# Pasantia-GamanBit ![GamanBit](https://github.com/user-attachments/assets/245f16ba-c5b6-4d86-bf1d-05f22f4cd17e)
+# Pasantia-GamanBit ![carrito](Planetas/GamanBit.png)
 
 
 Somos un grupo de estudiantes de la Tecnicatura Universitaria en Programación de la UTN FRSR en San Rafael, Mendoza.
